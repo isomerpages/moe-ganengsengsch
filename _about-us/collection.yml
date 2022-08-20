@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - The Gessian Portrait.md
       - Vision, Mission & Values.md
       - Principal’s Message.md
