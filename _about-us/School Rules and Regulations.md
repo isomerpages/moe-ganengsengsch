@@ -110,3 +110,20 @@ description: ""
 * * *
 
 ![Attire Girls](/images/Attire-Girl-4-Jan-2021.jpeg)
+
+*   **Hairstyle:**
+    *   Hair length that touches the collar must be tied up.
+    *   Fringe to be pinned up neatly.
+    *   Fringe not touching the eyebrow.
+*   **Attire:**
+    *   School Badge must be worn on the stitch above the pocket.
+    *   Name tag must be worn below the school badge.
+    *   Blouse must be tucked in.
+    *   No modifications should be made to the uniform.
+*   **Shoes**
+    *   Only white shoes with white shoe laces.
+    *   Wear white ankle socks without logo. No-show socks (invisible socks) are not allowed.
+
+***
+
+![Attire PE](/images/Attire-PE.jpeg)
