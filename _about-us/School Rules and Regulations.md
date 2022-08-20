@@ -185,3 +185,29 @@ Students’ access to IT devices and the wireless network in GESS is a privilege
 
 ***
 
+<p style="text-align:center;"> <strong>Handphone Policy</strong></p>
+
+In GESS, we believe that a positive, educative and restorative approach to discipline is more effective than one that is punitive. And we recognize that in order to learn well, there must be order and discipline. It is also important that each student has a safe environment where he/she  
+is free to learn. In order to sustain that safe environment, it is imperative for schools to nurture students to be responsible and discerning users of technology.
+
+The school handphone policy has been established, based on MOE guidelines and Wireless Network Policy – Wireless@GESS (Pg 41-42 in the student handbook). This policy is meant to ensure that students are focused during lesson time and not be distracted texting or playing with phone functions. Henceforth, we are informing the students and their families about the policy and procedures that will promote a positive educational experience in GESS.
+
+**Guiding Principles**  
+The hand phone rules apply to all students who choose to bring their hand phones to school.  
+• All hand phones must be switched off or put on silent mode and put in the school bags  
+during lesson time.  
+• All handphones must be handed over to the teacher during PE lessons for safe keeping.  
+• Students are not to display their hand phones during school activities inside or outside  
+school.  
+• If students need to contact their parents while in school, they are to call within  
+the designated area in the foyer or canteen during recess and after school hours.  
+• If students need to contact their parents during a school activity out of school, they must have the teacher’s permission.  
+If the students choose to bring their hand phones to school, they must be responsible and should not :  
+• leave their hand phones unattended.  
+• leave the hand phones in open view, for instance, in the toilet, classroom and canteen.  
+• bring expensive hand phones to school. This may create temptation for theft, and it is a costly lesson if the hand phone is lost or damaged.  
+Students who are found to have breached the guidelines will have their handphones confiscated by the teachers and parents/guardians will be informed. Parents/Guardians may be required to personally collect the handphones from the school’s Operation Manager (OM).  
+As for student offences involving the use of the mobile devices, e.g. inappropriate content such as making derogatory or hurtful remarks, taking upskirt photographs or possession of pornography, the students will have to surrender the handphones to the school for investigation.
+
+Important Note :  
+The school has installed a handphone cabinet in every classroom in Term 3 2022. The handphones will be collected from the students during the first period and returned to the students on the last curriculum period of the day.
