@@ -127,3 +127,37 @@ description: ""
 ***
 
 ![Attire PE](/images/Attire-PE.jpeg)
+
+***
+
+**Conduct Grades Indicators**
+
+**GESS Conduct Grade** <br>
+1.  Conduct grade will be awarded to students based on 2 components:  
+i) Basic Components  
+ii) Determining Components
+
+2\. Basic Components are made up of 2 parts.  
+The first part is aligned to school values and the second part is aligned to the socioemotional competencies.  
+Students will be assessed by their teachers based on their demonstration of the attributes in these 2 areas.
+
+3\. Determining Components are veto components and are determined by the following:  
+• School Attendance  
+• Serious Discipline Case  
+Students who do not meet the minimum expectations will be awarded a “Fair” or “Poor” conduct grade.”
+
+4\. Students with poor late-coming records will have their conduct grade downgraded by 1 grade.
+
+5\. Students who obtain a Fair grade for Conduct will not be eligible for:  
+• MOE Edusave Awards eg Scholarship, Bursary, Good Progress  
+• Edusave Character Award (ECHA)  
+• External Scholarship/Bursary
+
+***
+
+**Weightage of Basic Components**
+
+<table border="2" cellpadding="2" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 138px; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">Component</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">Raw Score</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px; height: 23px;">Weighting (%)</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">School Values<br style="box-sizing: inherit;">(Form Teacher)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">25</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px; height: 23px;">25%</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">School Values<br style="box-sizing: inherit;">(Subject Teacher)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">25</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px; height: 23px;">25%</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px;">Socio – Emotional Competencies (Form Teacher)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px;">25</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px;">25%</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">Socio – Emotional Competencies<br style="box-sizing: inherit;">(CCA Teacher)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">25</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px; height: 23px;">25%</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">Total</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">100</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px; height: 23px;">100%</td></tr></tbody></table>
+
+***
+
