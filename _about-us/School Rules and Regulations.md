@@ -160,3 +160,28 @@ Students who do not meet the minimum expectations will be awarded a “Fair” o
 <table border="2" cellpadding="2" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 138px; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;"><strong>Component</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;"><strong>Raw Score</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px; height: 23px;"><strong>Weighting (%)</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">School Values<br style="box-sizing: inherit;">(Form Teacher)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">25</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px; height: 23px;">25%</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">School Values<br style="box-sizing: inherit;">(Subject Teacher)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">25</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px; height: 23px;">25%</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px;">Socio – Emotional Competencies (Form Teacher)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px;">25</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px;">25%</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">Socio – Emotional Competencies<br style="box-sizing: inherit;">(CCA Teacher)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">25</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px; height: 23px;">25%</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">Total</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.883px; height: 23px;">100</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.898px; height: 23px;">100%</td></tr></tbody></table>
 
 ***
+
+**Wireless Network Policy – WIRELESS@GESS**
+
+The Wireless Network Policy (SWN@SSOE) applies to all wireless network users (staff and students) operating within the school. Uses of the SWN@SSOE wireless network are required to adhere to the acceptable and prohibited use guidelines listed below.
+
+To limit the potential security risks that may be associated with wireless network technologies, access to the Authenticated Wireless Network must take place in a controlled and secure manner.
+
+**ACCEPTABLE USE**
+
+Students’ use of the following for solely educational purposes:
+
+*   School-owned IT equipment (e.g. classroom IT equipment, iPads and SSOE2 laptops in the Computer Labs);
+*   School-owned IT software, data, and wireless accounts.
+*   Student-owned IT devices (e.g. those procured as part of MOE’s Personal Digital Learning Programme (PDLP) with effect from 2021).
+
+**PROHIBITED USE**
+
+Students’ access to IT devices and the wireless network in GESS is a privilege and not a right. Examples of unacceptable uses include, but are not limited to, the following:
+
+*   **Unauthorized use of computers/mobile devices** – Accessing computers/mobile devices during curriculum hours without specific authorisation from the supervising teacher. Accessing these devices after curriculum hours is only permissible for educational purposes.
+*   **Unsupervised usage of computers in computer laboratories** – The use of computers in the computer laboratories is purely for curricular purposes under the supervision of the Subject Teacher. Computers located in the Aroozoo Library are available for use during non-curricular hours.
+*   **Accessing Inappropriate Materials** – Accessing, submitting, posting, publishing, forwarding, downloading, scanning, or displaying materials that are defamatory, abusive, obscene, vulgar, sexually explicit, sexually suggestive, threatening, discriminatory, harassing and/or illegal.
+
+***
+
