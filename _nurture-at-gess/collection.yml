@@ -2,8 +2,8 @@ collections:
   nurture-at-gess:
     output: true
     order:
+      - GESS Distinctive Programmes/.keep
+      - GESS Distinctive Programmes/GESS Learning for Life Programme (LLP).md
       - GESS Distinctive Programmes/GESS Probes Applied Learning Programme
         (ALP).md
-      - GESS Distinctive Programmes/GESS Learning for Life Programme (LLP).md
-      - GESS Distinctive Programmes/.keep
       - NURTURE@GESS Framework.md
