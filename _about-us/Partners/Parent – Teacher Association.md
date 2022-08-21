@@ -144,15 +144,15 @@ The PTA is committed towards promoting close co-operation and understanding betw
 *   [Reflection on counter terrorism learning journey – 2F\_ Lee M J](/files/Reflection-on-counter-terrorism-learning-journey-2F_-Lee-M-J.pdf)
 *   [Learning Journey to RRC on 19 Nov 2019](/files/Learning-Journey-to-RRC-on-19-Nov-2019.pdf)
 *   [Learning Journey\_URA\_Reflection\_1Jun2019\_JoriusChuwa\_1G](/files/Learning-Journey_URA_Reflection_1Jun2019_JoriusChuwa_1G.pdf)
-*   [Reflection on Pulau Semakau -11th May -James 1G](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Reflection-on-Pulau-Semakau-11th-May-James-1G.pdf)
-*   [Reflection – Learning Journey to Marina Barrage](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Reflection-Learning-Journey-to-Marina-Barrage.pdf)
+*   [Reflection on Pulau Semakau -11th May -James 1G](/files/Reflection-on-Pulau-Semakau-11th-May-James-1G.pdf)
+*   [Reflection – Learning Journey to Marina Barrage](/files/Reflection-Learning-Journey-to-Marina-Barrage.pdf)
 
           **Parent Child Bonding Session**
 
           **Parenting Workshops** 
 
-*   [Igniting Potential, Building a Future](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Igniting-Potential-Building-a-Future.pdf)
-*   [Be Cyber Smart – Learn best practices for parenting in the digital age](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Be-Cyber-Smart-Learn-best-practices-for-parenting-in-the-digital-age.pdf)
+*   [Igniting Potential, Building a Future](/files/Igniting-Potential-Building-a-Future.pdf)
+*   [Be Cyber Smart – Learn best practices for parenting in the digital age](/files/Be-Cyber-Smart-Learn-best-practices-for-parenting-in-the-digital-age.pdf)
 
 **Annual** **General Meetings**
 
