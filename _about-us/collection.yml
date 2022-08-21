@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Partners/Parent – Teacher Association.md
       - Partners/GESSOSA.md
       - Partners/School Advisory Committee.md
       - Partners/.keep
