@@ -28,14 +28,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Kenneth-Tang-new.jpeg" alt="Mr-Johnny-Heng" style="width:50%;">  
+<body><img src="/images/Mr-Kenneth-Tang-new.jpeg" alt="Mr-Kenneth-Tang" style="width:50%;">  
   
 </body>
 
 <h4 style="color:black" align="center">Mr Kenneth Tang<br>Class of 1985</h4>
 
-![](/images/Mr-Lim-Hock-Guan.jpeg)
-<h4 style="color:black" align="center">Chairman</h4>
+Mr Kenneth Tang is a lawyer in private practice. He is married with 1 child, has a Master’s degree and his hobby includes reading. Mr Tang’s most memorable teachers are Mr Lim Choon Beng and Mr Abraham Joseph. He finds Mr Lim strict but fair and remembers Mr Abraham Joseph as a teacher who could identify well with the students. Mr Tang wishes for GESS to be a premier school and to give a chance to students from all backgrounds, to be something more. Additionally, he hopes the school will instill a sense of giving back to society in her students.
+
+<h4 style="color:black" align="center">Member</h4>
 <style>  
 img {  
   display: block;  
@@ -43,14 +44,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Johnny-Heng-new.jpeg" alt="Mr-Johnny-Heng-new" style="width:50%;">  
+<body><img src="/images/Mr-Lim-Hock-Guan.jpeg" alt="Mr-Lim-Hock-Guan" style="width:50%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Mr Johnny Heng, PBM<br>Class of 1987</h4>
+<h4 style="color:black" align="center">Mr Lim Hock Guan<br>Class of 1985</h4>
 
-![](/images/Mr-Chiu-Wu-Hong-2.jpeg)
-<h4 style="color:black" align="center">Chairman</h4>
+Mr Lim Hock Guan works at United Overseas Bank.  He is married with 2 sons, enjoys food and keeps active with regular exercising.  Mr Lim graduated from National University of Singapore with a Bachelor of Business Administration.   Two of his most memorable teachers were Mr Lim Choon Beng, who was in charge of NCC, and Ms Chan, who taught him Additional Mathematics in Secondary 4.
+
+<h4 style="color:black" align="center">Member</h4>
 <style>  
 img {  
   display: block;  
@@ -58,11 +60,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Johnny-Heng-new.jpeg" alt="Mr-Johnny-Heng-new" style="width:50%;">  
+<body><img src="/images/Mr-Chiu-Wu-Hong-2.jpeg" alt="Mr-Chiu-Wu-Hong" style="width:50%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Mr Johnny Heng, PBM<br>Class of 1987</h4>
+<h4 style="color:black" align="center">Mr Chiu Wu Hong<br>Class of  1984</h4>
+
+Mr Chiu Wu Hong is a tax partner in KPMG Singapore.  He has a Bachelor of Business Degree (major in Accounting) from the University of Tasmania.  He is a fellow member of CPA Australia and member of Singapore Chartered Tax Professionals.  He is married with 2 daughters and his hobbies include reading, listening to music and travelling.  His most memorable teacher is Mr Lim Choon Beng who was very passionate in his work and always willing to go the extra mile to help the weaker students.  Mr Chiu hopes GESS will be a top school and produce students who do not only excel in their studies but also have a heart to give back to the society.
 
 ![](/images/Mr-Lawrence-Lim-1.jpeg)
 <h4 style="color:black" align="center">Chairman</h4>
