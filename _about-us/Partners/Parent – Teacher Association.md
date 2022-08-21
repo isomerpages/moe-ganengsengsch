@@ -184,3 +184,5 @@ The PTA is committed towards promoting close co-operation and understanding betw
 
 *   **WHEN ARE GESS PTA MEETINGS?**
     *   General Meetings are held bi-monthly throughout the year for all members. Details are announced well ahead of time. The Annual General Meeting is usually held in March. The PTA EXCO Committee meets monthly to ensure the smooth management of GESS PTA.
+
+***
