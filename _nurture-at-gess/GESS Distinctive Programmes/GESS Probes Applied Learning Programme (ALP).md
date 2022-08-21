@@ -16,20 +16,16 @@ Between 2016 to 2020, Gessians were given the opportunities to deepen their lear
 Here are some photographs to illustrate the ALP lessons in action and some of our students’ achievements at national platforms.
 
 ![Broad-based Applied Learning Programme (STEM) for all students](/images/alp%201.jpeg)
-Broad-based Applied Learning Programme (STEM) for all students
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">Broad-based Applied Learning Programme (STEM) for all students</p>
 
 ![Gessians recognised at the 2019 National Robotics Programming Competition](/images/alp%202.jpeg)
-Gessians recognised at the 2019 National Robotics Programming Competition
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">Gessians recognised at the 2019 National Robotics Programming Competition</p>
 
 ![All smiles at the end of a STEM workshop cum competition organised by Central CDC in 2019](/images/alp%203.jpeg)
-All smiles at the end of a STEM workshop cum competition organised by Central CDC in 2019
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">All smiles at the end of a STEM workshop cum competition organised by Central CDC in 2019</p>
 
 ![“There are no secrets to success. It is the result of preparation, hard work and learning from failure.” – Colin Powell](/images/alp%204.jpeg)
-“There are no secrets to success. It is the result of preparation, hard work and learning from failure.” – Colin Powell
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">“There are no secrets to success. It is the result of preparation, hard work and learning from failure.” – Colin Powell</p>
 
 From 2021, Gessians will experience more platforms for authentic applications of learning across subjects as more departments come on board this exciting endeavor. The ALP also includes Learning Journeys and interactions with practitioners and experts in various fields of knowledge. Centred on the theme of sustainability, the ALP aims to engage all Gessians in their learning and development towards becoming future-ready global citizens.
 
