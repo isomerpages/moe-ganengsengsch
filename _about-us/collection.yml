@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Partners/Parent – Teacher Association.md
-      - Partners/GESSOSA.md
-      - Partners/School Advisory Committee.md
       - Partners/.keep
+      - Partners/School Advisory Committee.md
+      - Partners/GESSOSA.md
+      - Partners/Parent – Teacher Association.md
       - GESS Heritage/.keep
       - GESS Heritage/GESS History.md
       - GESS Heritage/Principals.md
