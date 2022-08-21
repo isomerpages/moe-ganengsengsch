@@ -126,8 +126,8 @@ img {
 
 ***
 
-![](/images/tang-chun-tuck-1.jpeg)
-<h5 style="color:black" align="center">President</h5>
+<h5 style="color:black" align="center">Committee Member
+</h5>
 <style>  
 img {  
   display: block;  
@@ -135,12 +135,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Wong-Peng-Meng-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:50%;">  
+<body><img src="/images/tang-chun-tuck-1.jpeg" alt="tang-chun-tuck" style="width:50%;">  
   
 </body>
 
 
-<p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<br><strong>Year of Graduation: 1974</strong></p>
+<p style="text-align:center;"> <strong>Tang Chun Tuck</strong><br><em>Senior Managing Director
+</em><br>ERA Realty Network Pte Ltd<br><strong>Year of Graduation: 1969 & 1971</strong></p>
 
 ***
 
