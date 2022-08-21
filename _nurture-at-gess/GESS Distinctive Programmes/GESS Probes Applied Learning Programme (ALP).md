@@ -7,8 +7,7 @@ third_nav_title: GESS Distinctive Programmes
 The school’s Applied Learning Programme has been implemented since 2015. Our ALP serves to prepare our students for their future workplace by infusing Design Thinking (Fig. 1) into the curriculum. Students are given opportunities to apply their learning onto real world STEM (Science, Technology, Engineering and Mathematics) challenges.
 
 ![The 5 steps of the Design Thinking Model.](/images/Figure-2.png)
-Fig. 1 The 5 steps of the Design Thinking Model. (source: [dschool.stanford.edu](https://dschool.stanford.edu/))
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">Fig. 1 The 5 steps of the Design Thinking Model. (source: <a href="https://dschool.stanford.edu/">dschool.stanford.edu</a>)</p>
 
 The programme is titled Probes\* to emphasise the school’s desire to develop all Gessians as innovative and reflective thinkers through the ALP. This programme consists of two tiers: Tier 1 is a broad-based programme for all students while Tier 2 caters to students with the interest in and aptitude for STEM, and they are developed as part of the school’s talent development programme.
 
