@@ -40,9 +40,7 @@ From 2021, Gessians will experience more platforms for authentic applications of
 <p style="text-align:center;">Gessians tinkering with face-recognition technology</p>
 
 ![Creating a prototype that executes different commands based on the colours it captures](/images/alp%208.jpeg)
-Creating a prototype that executes different commands based on the colours it captures
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">Creating a prototype that executes different commands based on the colours it captures</p>
 
 ![A thumbs-up for the ALP (STEM) workshop organized by our partner at Central CDC](/images/alp%209.jpeg)
-A thumbs-up for the ALP (STEM) workshop organized by our partner at Central CDC
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">A thumbs-up for the ALP (STEM) workshop organized by our partner at Central CDC</p>
