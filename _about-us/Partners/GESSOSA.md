@@ -9,7 +9,11 @@ EXECUTIVE COUNCIL 2020 – 2022
 
 ### President
 
-![](/images/Mr-Wong-Peng-Meng-1.jpeg)
+<img src="/images/Mr-Wong-Peng-Meng-1.jpeg" style="width:183px;height:240px;margin-left:15px;" align = "left">
+
+<br>
+
+***
 
 ![](/images/teo-kim-ching-1.jpeg)
 
