@@ -88,8 +88,8 @@ img {
 
 ***
 
-![](/images/yong-teck-ming-1.jpeg)
-<h5 style="color:black" align="center">President</h5>
+<h5 style="color:black" align="center">Committee Member
+</h5>
 <style>  
 img {  
   display: block;  
@@ -97,12 +97,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Wong-Peng-Meng-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:50%;">  
+<body><img src="/images/yong-teck-ming-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:50%;">  
   
 </body>
 
 
-<p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<br><strong>Year of Graduation: 1974</strong></p>
+<p style="text-align:center;"> <strong>Yong Teck Ming
+</strong><br><em>Chartered Financial Consultant
+</em><br>representing Prudential, AIG, AXA & Liberty<br><strong>Year of Graduation: 19785<strong></p>
 
 ***
 
