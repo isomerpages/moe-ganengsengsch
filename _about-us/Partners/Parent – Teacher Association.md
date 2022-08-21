@@ -129,3 +129,58 @@ The PTA is committed towards promoting close co-operation and understanding betw
 [Click here](https://www.facebook.com/PTA.GESS) to visit our Facebook page.
 
 [Click here](/files/Constitution-of-Gan-Eng-Seng-School-Parents-Teacher-Association-Singapore.pdf) to access PTA Constitution
+
+***
+
+**Programmes**
+
+          **Triple P programme** 
+
+*   [Family Matters ( Triple P )](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Family-Matters-Triple-P-.pdf) ***FILE TOO BIG!***
+
+          **Learning Journey** 
+
+*   [GESS EDUCATION TRIP TO THE RELIGIOUS REHABILITATION GROUP (RRG)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/GESS-EDUCATION-TRIP-TO-THE-RELIGIOUS-REHABILITATION-GROUP-RRG.pdf)
+*   [Reflection on counter terrorism learning journey – 2F\_ Lee M J](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Reflection-on-counter-terrorism-learning-journey-2F_-Lee-M-J.pdf)
+*   [Learning Journey to RRC on 19 Nov 2019](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Learning-Journey-to-RRC-on-19-Nov-2019.pdf)
+*   [Learning Journey\_URA\_Reflection\_1Jun2019\_JoriusChuwa\_1G](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Learning-Journey_URA_Reflection_1Jun2019_JoriusChuwa_1G.pdf)
+*   [Reflection on Pulau Semakau -11th May -James 1G](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Reflection-on-Pulau-Semakau-11th-May-James-1G.pdf)
+*   [Reflection – Learning Journey to Marina Barrage](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Reflection-Learning-Journey-to-Marina-Barrage.pdf)
+
+          **Parent Child Bonding Session**
+
+          **Parenting Workshops** 
+
+*   [Igniting Potential, Building a Future](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Igniting-Potential-Building-a-Future.pdf)
+*   [Be Cyber Smart – Learn best practices for parenting in the digital age](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Be-Cyber-Smart-Learn-best-practices-for-parenting-in-the-digital-age.pdf)
+
+**Annual** **General Meetings**
+
+          **Notices**
+
+*   [AGM-Notice-2021\_1](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/AGM-Notice-2021_1.pdf)
+*   [AGM Notice 2020](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/AGM-Notice-2020.pdf)
+*   [AGM Notice 2019](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/AGM-Notice-2019.pdf)
+
+          **Meetings**
+
+*   [GESS-PTA AGM 2021 Minutes – 20 Mar 2021 vetted](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/GESS-PTA-AGM-2021-Minutes-20-Mar-2021-vetted.pdf)
+*   [GESS-Miniutes of PTA Meeting held on 14 Oct 2020](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/GESS-Miniutes-of-PTA-Meeting-held-on-14-Oct-2020-.pdf)
+*   [Minutes of GESS-PTA AGM 2018](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Minutes-of-GESS-PTA-AGM-2018.pdf)
+
+**FAQs**
+
+*   **HOW DO I JOIN THE PTA?**
+    *   You will be automatically be enrolled as a member of PTA as long as your child is pursing education in Gan Eng Seng School.
+
+*   **HOW DO I JOIN THE PTA Whatsapp chat group?**
+    *   Upon completion of google form given at the beginning of the Sec 1 registration, you will be admitted into the respective year and class group. If you need further assistance, please send an email to Mr. Subra, [subramanian\_annamalai@moe.edu.sg](mailto:subramanian_annamalai@moe.edu.sg).
+
+*   **IS IT COMPULSORY TO JOIN THE PTA Whatsapp chat group?**
+    *   While it’s not compulsory to join, parents are strongly encouraged as it serves as a supplementary communication channel to Parents Gateway Portal.
+
+*   **HOW CAN I HELP WITH THE PTA?**
+    *   You can volunteer your time /talents/ expertise with the PTA EXCO committee in coordinating and organising school based events.
+
+*   **WHEN ARE GESS PTA MEETINGS?**
+    *   General Meetings are held bi-monthly throughout the year for all members. Details are announced well ahead of time. The Annual General Meeting is usually held in March. The PTA EXCO Committee meets monthly to ensure the smooth management of GESS PTA.
