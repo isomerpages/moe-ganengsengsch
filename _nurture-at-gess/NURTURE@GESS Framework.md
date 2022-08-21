@@ -3,6 +3,7 @@ title: NURTURE@GESS Framework
 permalink: /nurturegess/holistic-education-at-gess/
 description: ""
 ---
+
 <style>  
 img {  
   display: block;  
@@ -49,3 +50,6 @@ The Character and Citizenship Development (CCE) component encompasses the inform
 
 In 2011, the school is chosen as one of the project study school to infuse 21st Century Competencies into the total curriculum. As part of her continuing effort to teach students to ‘Know the Good’, ‘Desire the Good’ and ‘Do the Good’, the four aspects of the _Parallel Curriculum Model_ serve as the guiding principles to deliver a quality curriculum in GESS. The tagline ‘Our Quality, Their Future’ serves as an anchoring belief for all staff at GESS in providing the best for the GESS family through the PLC.
 
+![](/images/holistic-pic.jpeg)
+
+![](/images/nuture.jpeg)
