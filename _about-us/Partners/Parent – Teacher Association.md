@@ -158,9 +158,9 @@ The PTA is committed towards promoting close co-operation and understanding betw
 
           **Notices**
 
-*   [AGM-Notice-2021\_1](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/AGM-Notice-2021_1.pdf)
-*   [AGM Notice 2020](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/AGM-Notice-2020.pdf)
-*   [AGM Notice 2019](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/AGM-Notice-2019.pdf)
+*   [AGM-Notice-2021\_1](/files/AGM-Notice-2021_1.pdf)
+*   [AGM Notice 2020](/files/AGM-Notice-2020.pdf)
+*   [AGM Notice 2019](/files/AGM-Notice-2019.pdf)
 
           **Meetings**
 
