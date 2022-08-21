@@ -2,6 +2,7 @@ collections:
   nurture-at-gess:
     output: true
     order:
+      - CCE Curriculum/Cyberwellness.md
       - CCE Curriculum/.keep
       - GESS Distinctive Programmes/.keep
       - GESS Distinctive Programmes/GESS Learning for Life Programme (LLP).md
