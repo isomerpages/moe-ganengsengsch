@@ -113,7 +113,9 @@ img {
   
 </body>
 
-<h4 style="color:black" align="center"></h4>
+<h4 style="color:black" align="center">Mr Samuel Ang<br>Class of 1982</h4>
+
+Mr Samuel Ang is the Chairman of the National Research Foundation (NRF) funded Incubator & Accelerator, Pollinate. He is also involved in many major social development initiatives with the Asian Development Bank (ADB) throughout Asia and a regular speaker at ADB international conferences.  He has a Bachelor of Electrical Engineering (NUS) and Masters in Business Administration (HU).  He is married with 3 children and his hobbies are sailing, walking and reading. His most memorable teachers include Mr Lim Choon Beng (NCC – instilled discipline and leadership) and Mdm Foo (Geography – sparked my interest in the world we live in when reviewing history and geography). He hopes all GESSIANs will always be resilient and continue sailing “Onward” in the Chinese junk as featured in our GESS crest.
 
 ![](/images/Ms-Lee-717x1024.jpeg)
 <h4 style="color:black" align="center">Chairman</h4>
