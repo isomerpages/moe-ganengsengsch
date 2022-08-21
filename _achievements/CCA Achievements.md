@@ -59,3 +59,56 @@ description: ""
 </tbody>
 </table>
 
+2020
+----
+
+**Physical Sports**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bi1j{background-color:#FCB100;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-hkw9{background-color:#FCB100;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#E6E6E6;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bi1j"><span style="font-weight:bold">CCA</span></th>
+    <th class="tg-hkw9"><span style="font-weight:bold">Event</span></th>
+    <th class="tg-bi1j"><span style="font-weight:bold">Category</span></th>
+    <th class="tg-bi1j"><span style="font-weight:bold">Results</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Table Tennis</td>
+    <td class="tg-f4yw">South Zone Inter-Schools Table Tennis Championship (Girls)</td>
+    <td class="tg-zr06" rowspan="5">B &amp; C  Division</td>
+    <td class="tg-zr06" rowspan="5">Disrupted due to Covid-19</td>
+  </tr>
+  <tr>
+    <td class="tg-bsu7">Canoeing</td>
+    <td class="tg-vgmr">National Inter-School Canoeing Championship</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Football</td>
+    <td class="tg-f4yw">National Inter-School Football Championship (Boys)</td>
+  </tr>
+  <tr>
+    <td class="tg-bsu7">Basketball</td>
+    <td class="tg-vgmr">South Zone Inter-Schools Basketball  Championship (Boys)</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Cross Country</td>
+    <td class="tg-f4yw">National Inter-school Cross Country Championship</td>
+  </tr>
+</tbody>
+</table>
+
