@@ -31,16 +31,13 @@ From 2021, Gessians will experience more platforms for authentic applications of
 
 
 ![Is Artificial Intelligence (A.I.) the next big thing?](/images/alp%205.jpeg)
-Is Artificial Intelligence (A.I.) the next big thing?
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">Is Artificial Intelligence (A.I.) the next big thing?</p>
 
 ![A Secondary 1 student sharing with our Principal Ms Tan what he had learnt](/images/alp%206.jpeg)
-A Secondary 1 student sharing with our Principal Ms Tan what he had learnt
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">A Secondary 1 student sharing with our Principal Ms Tan what he had learnt</p>
 
 ![Gessians tinkering with face-recognition technology](/images/alp%207.jpeg)
-Gessians tinkering with face-recognition technology
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">Gessians tinkering with face-recognition technology</p>
 
 ![Creating a prototype that executes different commands based on the colours it captures](/images/alp%208.jpeg)
 Creating a prototype that executes different commands based on the colours it captures
