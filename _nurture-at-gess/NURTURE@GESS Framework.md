@@ -3,7 +3,6 @@ title: NURTURE@GESS Framework
 permalink: /nurturegess/holistic-education-at-gess/
 description: ""
 ---
-
 <style>  
 img {  
   display: block;  
@@ -15,7 +14,7 @@ img {
   
 </body>
 
-<h5 style="color:black" align="center"> GESS Holistic Education Framework</h5>
+<h5 style="color:black" align="center">GESS Holistic Education Framework</h5>
 
 ### Rationale
 
@@ -50,6 +49,17 @@ The Character and Citizenship Development (CCE) component encompasses the inform
 
 In 2011, the school is chosen as one of the project study school to infuse 21st Century Competencies into the total curriculum. As part of her continuing effort to teach students to ‘Know the Good’, ‘Desire the Good’ and ‘Do the Good’, the four aspects of the _Parallel Curriculum Model_ serve as the guiding principles to deliver a quality curriculum in GESS. The tagline ‘Our Quality, Their Future’ serves as an anchoring belief for all staff at GESS in providing the best for the GESS family through the PLC.
 
-![](/images/holistic-pic.jpeg)
+<h5 style="color:black" align="center">GAN ENG SENG SCHOOL 21ST CENTURY COMPETENCY FRAMEWORK
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/holistic-pic.jpeg" alt="NURTURE@GESS Framework 2" style="width:100%;">  
+  
+</body>
+
 
 ![](/images/nuture.jpeg)
