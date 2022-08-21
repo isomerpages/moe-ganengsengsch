@@ -64,8 +64,8 @@ img {
 
 ***
 
-<h5 style="color:black" align="center">President</h5>
-<p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<br><strong>Year of Graduation: 1974</strong></p>
+<h5 style="color:black" align="center">Honorary Assistant Secretary</h5>
+<p style="text-align:center;"> <strong>Mohamed Hamja Maricar</strong><br><em>Managing Director</em><br>Pixaknights Pte Ltd<br><strong>Year of Graduation: 2003</strong></p>
 
 ***
 
