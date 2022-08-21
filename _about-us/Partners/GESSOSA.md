@@ -186,4 +186,5 @@ img {
 ***
 
 <h5 style="color:black" align="center">Committee Member</h5>
-<p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<br><strong>Year of Graduation: 1974</strong></p>
+
+<p style="text-align:center;"> <strong>Benjamin Lau Chang Xun</strong><br><em>Research Assistant (Credit Research)</em><br>GIC<br><strong>Year of Graduation: 2009</strong></p>
