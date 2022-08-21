@@ -101,7 +101,6 @@ img {
 
 Mr Muhamad Imaduddien is a Deputy Public Prosecutor with the Attorney-General’s Chambers. He is married with 1 child and his hobbies include playing badminton and volunteering. His most memorable teachers are Ms Catherine Ng and Ms Mah Lai Heng. He recalls fondly of how Ms Ng ignited his interest in playing a number of sports at the inter-class and eventually, at the zone and national level. He will also be forever grateful to Ms Mah as he would not have passed his ‘E’ Maths and Chemistry exams without her patience and guidance. Mr Imaduddien wishes for the students of GESS to remember that learning is not something that happens only in school but is something that can and should happen all the time. He also hopes that they continue to ask “why?”
 
-![](/images/Mr-Samuel-Ang-new.jpeg)
 <h4 style="color:black" align="center">Member</h4>
 <style>  
 img {  
@@ -110,7 +109,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Johnny-Heng-new.jpeg" alt="Mr-Johnny-Heng-new" style="width:50%;">  
+<body><img src="/images/Mr-Samuel-Ang-new.jpeg" alt="Mr-Samuel-Ang" style="width:50%;">  
   
 </body>
 
