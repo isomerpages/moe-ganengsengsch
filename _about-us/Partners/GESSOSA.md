@@ -104,7 +104,7 @@ img {
 
 <p style="text-align:center;"> <strong>Yong Teck Ming
 </strong><br><em>Chartered Financial Consultant
-</em><br>representing Prudential, AIG, AXA & Liberty<br><strong>Year of Graduation: 19785<strong></p>
+</em><br>representing Prudential, AIG, AXA & Liberty<br><strong>Year of Graduation: 1985<strong></p>
 
 ***
 
