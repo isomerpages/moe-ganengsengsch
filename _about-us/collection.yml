@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - GESS Heritage/Principals.md
-      - GESS Heritage/GESS History.md
       - GESS Heritage/.keep
+      - GESS Heritage/GESS History.md
+      - GESS Heritage/Principals.md
       - School Rules and Regulations.md
       - School Anthem & Creed & Crest.md
       - The Gessian Portrait.md
