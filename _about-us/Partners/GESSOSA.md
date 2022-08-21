@@ -30,6 +30,7 @@ img {
 
 ![](/images/teo-kim-ching-1.jpeg)
 
+<h5 style="color:black" align="center">President</h5>
 <style>  
 img {  
   display: block;  
@@ -47,7 +48,7 @@ img {
 ***
 
 ![](/images/Mr-Ang-Joon-Ping-Joshua-1.jpeg)
-
+<h5 style="color:black" align="center">President</h5>
 <style>  
 img {  
   display: block;  
@@ -64,13 +65,13 @@ img {
 
 ***
 
-
+<h5 style="color:black" align="center">President</h5>
 <p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<strong>Year of Graduation: 1974</strong></p>
 
 ***
 
 ![](/images/Mr-Lee-Hay-Keong-1.jpeg)
-
+<h5 style="color:black" align="center">President</h5>
 <style>  
 img {  
   display: block;  
@@ -82,13 +83,13 @@ img {
   
 </body>
 
-
+<h5 style="color:black" align="center">President</h5>
 <p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<strong>Year of Graduation: 1974</strong></p>
 
 ***
 
 ![](/images/yong-teck-ming-1.jpeg)
-
+<h5 style="color:black" align="center">President</h5>
 <style>  
 img {  
   display: block;  
@@ -106,7 +107,7 @@ img {
 ***
 
 ![](/images/Mr-Wee-Ren-Chai-Ronald-1.jpeg)
-
+<h5 style="color:black" align="center">President</h5>
 <style>  
 img {  
   display: block;  
@@ -124,7 +125,7 @@ img {
 ***
 
 ![](/images/tang-chun-tuck-1.jpeg)
-
+<h5 style="color:black" align="center">President</h5>
 <style>  
 img {  
   display: block;  
@@ -142,7 +143,7 @@ img {
 ***
 
 ![](/images/tang-wai-loong-kenneth-1.jpeg)
-
+<h5 style="color:black" align="center">President</h5>
 <style>  
 img {  
   display: block;  
@@ -160,7 +161,7 @@ img {
 ***
 
 ![](/images/Mr-Steven-Lee-Kiang-Sing-1.jpeg)
-
+<h5 style="color:black" align="center">President</h5>
 <style>  
 img {  
   display: block;  
@@ -177,10 +178,10 @@ img {
 
 ***
 
-
+<h5 style="color:black" align="center">President</h5>
 <p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<strong>Year of Graduation: 1974</strong></p>
 
 ***
 
-
+<h5 style="color:black" align="center">President</h5>
 <p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<strong>Year of Graduation: 1974</strong></p>
