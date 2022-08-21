@@ -2,4 +2,5 @@ collections:
   nurture-at-gess:
     output: true
     order:
+      - GESS Distinctive Programmes/.keep
       - NURTURE@GESS Framework.md
