@@ -68,7 +68,23 @@ img {
 
 Mr Chiu Wu Hong is a tax partner in KPMG Singapore.  He has a Bachelor of Business Degree (major in Accounting) from the University of Tasmania.  He is a fellow member of CPA Australia and member of Singapore Chartered Tax Professionals.  He is married with 2 daughters and his hobbies include reading, listening to music and travelling.  His most memorable teacher is Mr Lim Choon Beng who was very passionate in his work and always willing to go the extra mile to help the weaker students.  Mr Chiu hopes GESS will be a top school and produce students who do not only excel in their studies but also have a heart to give back to the society.
 
-![](/images/Mr-Lawrence-Lim-1.jpeg)
+
+<h4 style="color:black" align="center">Member</h4>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Mr-Lawrence-Lim-1.jpeg" alt="Mr-Lawrence-Lim" style="width:50%;">  
+  
+</body>
+
+<h4 style="color:black" align="center">Mr Lawrence Lim<br>Class of 1989</h4>
+
+Mr Lawrence Lim is the General Manager of EIOS 99 Pte Ltd, a subsidiary of Israel Aerospace Industries (IAI). He joined the private sector after retiring from the Singapore Armed Forces (SAF) as the Chief of Artillery in May 2016.  Lawrence holds five Masters degrees from the Imperial College of London, Naval Postgraduate School (USA), Royal Military College of Canada, and the Massachusetts Institute of Technology (MIT). Besides winning the Leading CEO Award from the Singapore Human Resources Institute in September 2014, he also received the Singapore SOKA Association Goodwill Award (Leadership) in 2015, and won the Singapore Defence Technology Prize (Research & Development Category) in 2006. He hopes Gan Eng Seng School will continue to groom students to become leaders for Singapore and inspire them to always give off their best.  He fondly remembers Mrs Cheong Peck Yoke and Mdm Foo Lee Lian who took time to mentor and guide him to become a better person.
+
 <h4 style="color:black" align="center">Chairman</h4>
 <style>  
 img {  
@@ -77,29 +93,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Johnny-Heng-new.jpeg" alt="Mr-Johnny-Heng-new" style="width:50%;">  
+<body><img src="/images/Mr-Muhamad-Imaduddien-Bin-Abd-Karim-1.jpeg" alt="/Mr-Muhamad-Imaduddien-Bin-Abd-Karim" style="width:50%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Mr Johnny Heng, PBM<br>Class of 1987</h4>
-
-![](/images/Mr-Muhamad-Imaduddien-Bin-Abd-Karim-1.jpeg)
-<h4 style="color:black" align="center">Chairman</h4>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Mr-Johnny-Heng-new.jpeg" alt="Mr-Johnny-Heng-new" style="width:50%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Mr Johnny Heng, PBM<br>Class of 1987</h4>
+<h4 style="color:black" align="center">Mr Muhamad Imaduddien Bin Abd Karim<br>Class of 1993</h4>
 
 ![](/images/Mr-Samuel-Ang-new.jpeg)
-<h4 style="color:black" align="center">Chairman</h4>
+<h4 style="color:black" align="center">Member</h4>
 <style>  
 img {  
   display: block;  
@@ -111,7 +112,7 @@ img {
   
 </body>
 
-<h4 style="color:black" align="center">Mr Johnny Heng, PBM<br>Class of 1987</h4>
+<h4 style="color:black" align="center"></h4>
 
 ![](/images/Ms-Lee-717x1024.jpeg)
 <h4 style="color:black" align="center">Chairman</h4>
