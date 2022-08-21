@@ -981,3 +981,224 @@ description: ""
 
 **Physical Sports**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ex7v{background-color:#FCB100;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5lr7{background-color:#FCB100;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ex7v"><span style="font-weight:bold">CCA</span></th>
+    <th class="tg-5lr7"><span style="font-weight:bold">Event</span></th>
+    <th class="tg-ex7v"><span style="font-weight:bold">Category</span></th>
+    <th class="tg-ex7v"><span style="font-weight:bold">Results</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo" rowspan="2">Table Tennis</td>
+    <td class="tg-a3j2">South Zone Inter-schools Table Tennis Championship (Girls)</td>
+    <td class="tg-1ppo">B Division</td>
+    <td class="tg-1ppo">2nd</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">South Zone Inter-schools Table Tennis Championship (Girls)</td>
+    <td class="tg-h5mn">C Division</td>
+    <td class="tg-h5mn">2nd</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Cross Country</td>
+    <td class="tg-a3j2">National Inter-school Track and Field Championship  (Boys)<br>4 x 100m relay</td>
+    <td class="tg-1ppo">B Division</td>
+    <td class="tg-1ppo">9th</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Canoeing</td>
+    <td class="tg-gj5f">National Inter-school Canoeing Championship (Girls)</td>
+    <td class="tg-h5mn">B Division</td>
+    <td class="tg-h5mn">4th</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Football</td>
+    <td class="tg-a3j2">National Inter-school Football Championship  (Boys)</td>
+    <td class="tg-1ppo">B &amp; C Division</td>
+    <td class="tg-1ppo">Participated</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Basketball</td>
+    <td class="tg-gj5f">South Zone Inter-schools Basketball Championships (Boys)</td>
+    <td class="tg-h5mn">B &amp; C Division</td>
+    <td class="tg-h5mn">Participated</td>
+  </tr>
+</tbody>
+</table>
+
+**Uniformed Groups**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ex7v{background-color:#FCB100;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5lr7{background-color:#FCB100;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ex7v"><span style="font-weight:bold">CCA</span></th>
+    <th class="tg-5lr7"><span style="font-weight:bold">Event</span></th>
+    <th class="tg-ex7v"><span style="font-weight:bold">Category</span></th>
+    <th class="tg-ex7v"><span style="font-weight:bold">Results</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo">Boys’ Brigade</td>
+    <td class="tg-a3j2">J M Fraser Award<br>Excellence Honour Roll Award</td>
+    <td class="tg-1ppo">Unit</td>
+    <td class="tg-1ppo">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Dragon Scouts</td>
+    <td class="tg-gj5f">Frank Cooper Sands Award</td>
+    <td class="tg-h5mn">Unit</td>
+    <td class="tg-h5mn">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Girls’ Brigade</td>
+    <td class="tg-a3j2">The Girls’ Brigade Company Award</td>
+    <td class="tg-1ppo">Unit</td>
+    <td class="tg-1ppo">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">NCC (Land)</td>
+    <td class="tg-gj5f">Unit Recognition</td>
+    <td class="tg-h5mn">Unit</td>
+    <td class="tg-h5mn">Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">NPCC</td>
+    <td class="tg-a3j2">Unit Overall Proficiency Award</td>
+    <td class="tg-1ppo">Unit</td>
+    <td class="tg-1ppo">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">SJB</td>
+    <td class="tg-gj5f">Corps Achievement Award</td>
+    <td class="tg-h5mn">Unit</td>
+    <td class="tg-h5mn">Gold</td>
+  </tr>
+</tbody>
+</table>
+
+**Individual Achievements**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ex7v{background-color:#FCB100;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5lr7{background-color:#FCB100;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ex7v"><span style="font-weight:bold">CCA</span></th>
+    <th class="tg-ex7v"><span style="font-weight:bold">Class</span></th>
+    <th class="tg-5lr7"><span style="font-weight:bold">Event</span></th>
+    <th class="tg-ex7v"><span style="font-weight:bold">Results</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo">Zechariah Low</td>
+    <td class="tg-1ppo">4F</td>
+    <td class="tg-a3j2">National Inter-school Cross Country Championship<br>B Division Boys</td>
+    <td class="tg-1ppo">7th</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Zechariah Low</td>
+    <td class="tg-h5mn">4F</td>
+    <td class="tg-gj5f">National Inter-school Track and Field Championship 2018<br>B Division Boys 1500m</td>
+    <td class="tg-h5mn">5th</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Vivi Yeo</td>
+    <td class="tg-1ppo">3D</td>
+    <td class="tg-a3j2">National Inter-school Cross Country Championship 2018<br>B Division Girls</td>
+    <td class="tg-1ppo">17th</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Georgia Ng</td>
+    <td class="tg-h5mn">4E</td>
+    <td class="tg-gj5f" rowspan="2">Olympic Hopes Regatta in Poznan Poland         &amp;<br>Inaugural Asia-Pacific Sprint Regatta (Adelaide, Australia)</td>
+    <td class="tg-h5mn" rowspan="2">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Carmen Lai</td>
+    <td class="tg-1ppo">3B</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Zavier Ong</td>
+    <td class="tg-h5mn">1E</td>
+    <td class="tg-gj5f" rowspan="2">National Inter-school Swimming Championship<br>C Division Boys</td>
+    <td class="tg-h5mn">Participation in 50m Free style &amp; 100m Breast-stroke</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Josef Lam</td>
+    <td class="tg-1ppo">1F</td>
+    <td class="tg-1ppo">7th for 50m Butterfly &amp; 7th for 100m Butterfly</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Joshua Wong</td>
+    <td class="tg-h5mn">3E</td>
+    <td class="tg-gj5f">NPCC OEV Hong Kong</td>
+    <td class="tg-h5mn">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Hui Yu Chao</td>
+    <td class="tg-1ppo">4D</td>
+    <td class="tg-a3j2">NCC Outstanding Cadet Award</td>
+    <td class="tg-1ppo">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Yeo Chi Xuan</td>
+    <td class="tg-h5mn">4F</td>
+    <td class="tg-gj5f">NCC Outstanding Cadet Award</td>
+    <td class="tg-h5mn">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Mohamad Mirza</td>
+    <td class="tg-1ppo">4E</td>
+    <td class="tg-a3j2">SPF – NPCC Badge</td>
+    <td class="tg-1ppo">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Ayisath Farhana</td>
+    <td class="tg-h5mn">4C</td>
+    <td class="tg-gj5f">Chief Commissioner Badge</td>
+    <td class="tg-h5mn">Participation</td>
+  </tr>
+</tbody>
+</table>
