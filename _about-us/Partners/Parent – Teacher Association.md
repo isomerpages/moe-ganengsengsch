@@ -164,9 +164,9 @@ The PTA is committed towards promoting close co-operation and understanding betw
 
           **Meetings**
 
-*   [GESS-PTA AGM 2021 Minutes – 20 Mar 2021 vetted](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/GESS-PTA-AGM-2021-Minutes-20-Mar-2021-vetted.pdf)
-*   [GESS-Miniutes of PTA Meeting held on 14 Oct 2020](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/GESS-Miniutes-of-PTA-Meeting-held-on-14-Oct-2020-.pdf)
-*   [Minutes of GESS-PTA AGM 2018](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Minutes-of-GESS-PTA-AGM-2018.pdf)
+*   [GESS-PTA AGM 2021 Minutes – 20 Mar 2021 vetted](/files/GESS-PTA-AGM-2021-Minutes-20-Mar-2021-vetted.pdf)
+*   [GESS-Miniutes of PTA Meeting held on 14 Oct 2020](/files/GESS-Miniutes-of-PTA-Meeting-held-on-14-Oct-2020-.pdf)
+*   [Minutes of GESS-PTA AGM 2018](/files/Minutes-of-GESS-PTA-AGM-2018.pdf)
 
 **FAQs**
 
