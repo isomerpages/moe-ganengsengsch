@@ -7,7 +7,7 @@ third_nav_title: Partners
 EXECUTIVE COUNCIL 2020 – 2022
 -----------------------------
 
-### President
+<h5 style="color:black" align="center">President</h5>
 
 <style>  
 img {  
