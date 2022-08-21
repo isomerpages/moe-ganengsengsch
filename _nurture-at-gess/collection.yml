@@ -1,4 +1,5 @@
 collections:
   nurture-at-gess:
     output: true
-    order: []
+    order:
+      - NURTURE@GESS Framework.md
