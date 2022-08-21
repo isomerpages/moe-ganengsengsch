@@ -90,10 +90,47 @@ description: ""
 </tbody>
 </table>
 
-
-
 2017
 ----
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-4ies{background-color:#E6E6E6;color:#222;font-size:100%;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">Problems in Real World Context Mathematics Competition</span></th>
+    <th class="tg-tsok"><span style="font-weight:bold">2nd Prize</span><br><br>Ngiam Pei Lin (3D)<br>Adelle Low Song Leng (3D)<br>Goh Li Xuan (3D)<br>Lim Jia Ying, Tiffany (3D)<br>Tan Zhi Ni (3D)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rs0e"><span style="font-weight:bold">Singapore Mathematics Olympiad (SMO)</span></td>
+    <td class="tg-4ies"><span style="font-weight:bold">School Commendation Award for 2017</span><br><br><span style="font-weight:bold">Junior Section :</span><br>1 Silver, 4 Honourable Mention<br><br><span style="font-weight:bold;text-decoration:underline">Silver</span><br>Hor Jen Ren Roystan (2F)<br><br><span style="font-weight:bold;text-decoration:underline">Honourable Mention</span><br>Ng Hong Kai (2D)<br>Tan Min Teck William (2D)<br>Patwardhan Dhruva Ramon Jitendra (2G)<br>Wong Zheng Wei (2F)<br><br><span style="font-weight:bold">Senior Section:</span><br><span style="font-weight:bold">5 Bronze, 3 Honourable Mention</span><br><br><span style="font-weight:bold;text-decoration:underline">Bronze</span><br>Alfred Tan Kok Loong (4D)<br>Chai Ler Ying (4D)<br>Lee Si Yuan (4D)<br>Tan Yi Lin (4E)<br>Tan Xiang Lun Ernest (4F)<br><br><span style="font-weight:bold;text-decoration:underline">Honourable Mention</span><br>Lee Zheng Jing (4D)<br>Lim Wei Xuan Marcus (4F)<br>Low Jun (4F)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">Maths Challenge</span></td>
+    <td class="tg-tsok"><span style="font-weight:bold;text-decoration:underline">Team award</span><br><br><span style="text-decoration:underline">Champion</span> <br><br>1. Alfred Tan (4D)<br>2. Axel Yeoh (4D)<br>3. Chai Ler Ying<br>4. Hasannah d/o Haja Mydin (4D)<br>5. Jesslyn Sim (4D)<br>6. Josh Matthew (4D)<br>7. Lee Si Yuan (4D)<br>8. Syahmin Chukan (4D)<br>9. Lee Zheng Jing (4D)<br>10. Clemen Kok (4D)<br> <br><span style="text-decoration:underline">1st Runner-up</span><br><br>11. Owng Kai Leng Sally (4E)<br>12. Lim Wei Xuan, Marcus (4F)<br>13. Bian Siyuan (4F)<br>14. Zhao Yingshi (4E)<br>15. Jovan Yo (4E)<br>16. Lin Kyin-hui (4E)<br>17. Shahnaz Farveen (4E)<br>18. Celest Low (4F)<br>19. Low Jun (4F)<br>20. Tan Xiang Lun Ernest (4F)</td>
+  </tr>
+  <tr>
+    <td class="tg-rs0e"><span style="font-weight:bold">ICAS UNSW Science Quiz 2017</span></td>
+    <td class="tg-xyrl"><span style="font-weight:bold;text-decoration:underline">Higher Distinction</span><br>Ashwin Kumar Vetriselvan (3D)<br>Distinction<br>Lauren Dana Ho Min (2D)<br>Tan Xiang Lin, Alistair (2D)<br>De Souza Leslie Ethan (2F)<br>Hareesh S (2F)<br>Wong Zheng Wei (2F)<br>Adelle Low Song Leng (3D)<br><br><span style="font-weight:bold;text-decoration:underline">Merit</span><br>Lina Lee Xian Yu (2D)<br><br><span style="font-weight:bold;text-decoration:underline">Credit</span><br>Guai Ying Sin (2D)<br>Vivi Yeo (2E)<br>Damien Wee Xi Jun (2G)<br>Chua Jia Jun (3D)<br>Lee Jia Ying (3D)<br>Leong Hoong Wai Jordon (3D)<br>Ngiam Pei Lin (3D)<br><br><span style="font-weight:bold;text-decoration:underline">Participation</span><br>Alicia Teo Wei Lin (2D)<br>Lizabeth Annabel Tukiman (2D)<br>Ian Wei-En Fernando (3D)<br>Lu Qianying, Tracie (3D)<br>Reon Tay Yu (3D)<br>Sean Wong Sheng Hui (3D)</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">Singapore Junior Physics Olympiad 2017</span></td>
+    <td class="tg-tsok"><span style="font-weight:bold;text-decoration:underline">Bronze Award</span><br>Doan Phi Colby (4D)<br>Lee Zheng Jing (4D)<br><br><span style="font-weight:bold">Honourable Mention</span><br>Chai Ler Ying (4D)<br>Josh Matthew Maligon Querimit (4D)<br>Lee Si Yuan (4D)<br><br><span style="font-weight:bold;text-decoration:underline">Participation</span><br>Calvin Loke Zi Wun (4D)<br>Clemen Kok Yu Shan (4D)<br>Hasannah D/O Haja Mydin (4D)<br>Marcus Tan Shao Zhe (4D)<br></td>
+  </tr>
+</tbody>
+</table>
 
 2016
 ----
