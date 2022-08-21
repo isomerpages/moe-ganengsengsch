@@ -161,7 +161,6 @@ img {
 
 ***
 
-![]()
 <h5 style="color:black" align="center">Committee Member</h5>
 <style>  
 img {  
@@ -170,17 +169,19 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Steven-Lee-Kiang-Sing-1.jpeg" alt="Mr-Steven-Lee-Kiang-Sing" style="width:50%;">  
+<body><img src="/images/Mr-Steven-Lee-Kiang-Sing-1.jpeg" alt="Mr-Steven-Lee-Kiang-Sing" style="width:40%;">  
   
 </body>
 
 
-<p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<br><strong>Year of Graduation: 1974</strong></p>
+<p style="text-align:center;"> <strong>Steven Lee Kiang Sing</strong><br><em>Tour Manager</em><br>Chan Brothers Travel<br><strong>Year of Graduation: 1985</strong></p>
 
 ***
 
 <h5 style="color:black" align="center">Committee Member</h5>
-<p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<br><strong>Year of Graduation: 1974</strong></p>
+
+<p style="text-align:center;"> <strong>Edwin Chong
+</strong><br><em>Senior Vice President (Equities & Capital Markets)</em><br>UOB Kay Hian<br><strong>Year of Graduation: 1991</strong></p>
 
 ***
 
