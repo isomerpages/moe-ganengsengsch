@@ -85,7 +85,7 @@ img {
 
 Mr Lawrence Lim is the General Manager of EIOS 99 Pte Ltd, a subsidiary of Israel Aerospace Industries (IAI). He joined the private sector after retiring from the Singapore Armed Forces (SAF) as the Chief of Artillery in May 2016.  Lawrence holds five Masters degrees from the Imperial College of London, Naval Postgraduate School (USA), Royal Military College of Canada, and the Massachusetts Institute of Technology (MIT). Besides winning the Leading CEO Award from the Singapore Human Resources Institute in September 2014, he also received the Singapore SOKA Association Goodwill Award (Leadership) in 2015, and won the Singapore Defence Technology Prize (Research & Development Category) in 2006. He hopes Gan Eng Seng School will continue to groom students to become leaders for Singapore and inspire them to always give off their best.  He fondly remembers Mrs Cheong Peck Yoke and Mdm Foo Lee Lian who took time to mentor and guide him to become a better person.
 
-<h4 style="color:black" align="center">Chairman</h4>
+<h4 style="color:black" align="center">Member</h4>
 <style>  
 img {  
   display: block;  
