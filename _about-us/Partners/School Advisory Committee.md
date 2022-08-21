@@ -117,8 +117,8 @@ img {
 
 Mr Samuel Ang is the Chairman of the National Research Foundation (NRF) funded Incubator & Accelerator, Pollinate. He is also involved in many major social development initiatives with the Asian Development Bank (ADB) throughout Asia and a regular speaker at ADB international conferences.  He has a Bachelor of Electrical Engineering (NUS) and Masters in Business Administration (HU).  He is married with 3 children and his hobbies are sailing, walking and reading. His most memorable teachers include Mr Lim Choon Beng (NCC – instilled discipline and leadership) and Mdm Foo (Geography – sparked my interest in the world we live in when reviewing history and geography). He hopes all GESSIANs will always be resilient and continue sailing “Onward” in the Chinese junk as featured in our GESS crest.
 
-![](/images/Ms-Lee-717x1024.jpeg)
-<h4 style="color:black" align="center">Chairman</h4>
+
+<h4 style="color:black" align="center">Member</h4>
 <style>  
 img {  
   display: block;  
@@ -126,14 +126,16 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Johnny-Heng-new.jpeg" alt="Mr-Johnny-Heng-new" style="width:50%;">  
+<body><img src="/images/Ms-Lee-717x1024.jpeg" alt="Ms-Lee" style="width:50%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Mr Johnny Heng, PBM<br>Class of 1987</h4>
+<h4 style="color:black" align="center">Ms Lee Siow Hwee<br>Class of 1995</h4>
 
-![](/images/Mr-Sam-Liew.jpeg)
-<h4 style="color:black" align="center">Chairman</h4>
+Ms Lee Siow Hwee is the Executive Director of Consumers Association of Singapore (CASE).  Prior to joining CASE, she served in the People’s Association (PA) for 18 years in various appointments.  She holds a Bachelor of Science (Psychology) degree from the University of Southern Queensland.  She is married with two children.  Her most memorable teacher and friend is Mr Kho Cher Chong, whom besides Chinese language, taught her important values in life.  For the past decades, she and her friends continue the tradition of annual Chinese New Year gathering at his place.  She hopes for GESS to be a leading school that helps students reach their full potential, and be prepared and adapt to this VUCA world.
+
+
+<h4 style="color:black" align="center">Member</h4>
 <style>  
 img {  
   display: block;  
@@ -141,8 +143,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Johnny-Heng-new.jpeg" alt="Mr-Johnny-Heng-new" style="width:50%;">  
+<body><img src="/images/Mr-Sam-Liew.jpeg" alt="Mr-Sam-Liew" style="width:50%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Mr Johnny Heng, PBM<br>Class of 1987</h4>
+<h4 style="color:black" align="center">Mr Sam Liew<br>Class of 1989</h4>
+
+Mr Sam Liew is a Managing Partner, Government Strategic Business Group at Singtel NCS Group.  Sam is also the Board Member at Gardens by the Bay and Vice President at the Singapore Computer Society.  He also serves on the Boards of SMU School of Computing and Information Systems and Singapore Polytechnic School of Computing.  Sam graduated from Nanyang Technological University with a Bachelor of Accountancy (Hons) degree.  He is married with a son and enjoys watching Netflix and Tiktok videos.  Sam has several memorable teachers, including Mr Andrew Monksman, who taught Sam the finer skills of Drama and Debating in the English Literary Drama and Debating Society (ELDDS).  Another teacher that Sam remembers fondly is Cikgu Yusof, who was his coach in the GESS Soccer Team.
