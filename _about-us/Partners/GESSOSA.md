@@ -16,7 +16,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Wong-Peng-Meng-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:50%;">  
+<body><img src="/images/Mr-Wong-Peng-Meng-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:40%;">  
   
 </body>
 
@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/teo-kim-ching-1.jpeg" alt="teo-kim-ching" style="width:50%;">  
+<body><img src="/images/teo-kim-ching-1.jpeg" alt="teo-kim-ching" style="width:40%;">  
   
 </body>
 
@@ -55,7 +55,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Ang-Joon-Ping-Joshua-1.jpeg" alt="Mr-Ang-Joon-Ping-Joshua" style="width:50%;">  
+<body><img src="/images/Mr-Ang-Joon-Ping-Joshua-1.jpeg" alt="Mr-Ang-Joon-Ping-Joshua" style="width:40%;">  
   
 </body>
 
@@ -78,7 +78,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Lee-Hay-Keong-1.jpeg" alt="Mr-Lee-Hay-Keong" style="width:50%;">  
+<body><img src="/images/Mr-Lee-Hay-Keong-1.jpeg" alt="Mr-Lee-Hay-Keong" style="width:40%;">  
   
 </body>
 
@@ -97,19 +97,18 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/yong-teck-ming-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:50%;">  
+<body><img src="/images/yong-teck-ming-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:40%;">  
   
 </body>
 
 
 <p style="text-align:center;"> <strong>Yong Teck Ming
 </strong><br><em>Chartered Financial Consultant
-</em><br>representing Prudential, AIG, AXA & Liberty<br><strong>Year of Graduation: 1985<strong></p>
+</em><br>representing Prudential, AIG, AXA & Liberty<br><strong>Year of Graduation: 1985</strong></p>
 
 ***
 
-<h5 style="color:black" align="center">Committee Member
-</h5>
+<h5 style="color:black" align="center">Committee Member</h5>
 <style>  
 img {  
   display: block;  
@@ -117,7 +116,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Wee-Ren-Chai-Ronald-1.jpeg" alt="Mr-Wee-Ren-Chai-Ronald" style="width:50%;">  
+<body><img src="/images/Mr-Wee-Ren-Chai-Ronald-1.jpeg" alt="Mr-Wee-Ren-Chai-Ronald" style="width:40%;">  
   
 </body>
 
@@ -126,8 +125,7 @@ img {
 
 ***
 
-<h5 style="color:black" align="center">Committee Member
-</h5>
+<h5 style="color:black" align="center">Committee Member</h5>
 <style>  
 img {  
   display: block;  
@@ -135,7 +133,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/tang-chun-tuck-1.jpeg" alt="tang-chun-tuck" style="width:50%;">  
+<body><img src="/images/tang-chun-tuck-1.jpeg" alt="tang-chun-tuck" style="width:40%;">  
   
 </body>
 
