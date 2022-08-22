@@ -43,3 +43,44 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
  **Secondary 1**
 
 **CCE 2022 Theme: Making Choices**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-com3{background-color:#FFF;color:#222;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-pcr6{background-color:#E6E6E6;color:#222;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">REMARKS</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-1ppo">1<br><br>(60 mins)</td>
+    <td class="tg-1ppo">·         Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>·         Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>·         Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><br>·         Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br></td>
+    <td class="tg-com3">Lessons will be conducted during CCE lessons.</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">2<br><br>(60 mins)</td>
+    <td class="tg-h5mn">·         Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td class="tg-pcr6">Lessons will be conducted during CCE lessons.</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">3<br><br>(60 mins)</td>
+    <td class="tg-1ppo">·         Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>·         Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+    <td class="tg-com3">Lessons will be conducted during CCE lessons.</td>
+  </tr>
+</tbody>
+</table>
