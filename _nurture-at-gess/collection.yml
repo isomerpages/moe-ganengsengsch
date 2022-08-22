@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Counselling@GESS/.keep
-      - Counselling@GESS.md
       - Student Leadership.md
       - CCE Curriculum/.keep
       - CCE Curriculum/Cyberwellness.md
