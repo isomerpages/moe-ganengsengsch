@@ -129,3 +129,99 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
   </tr>
 </tbody>
 </table>
+
+**Secondary 3**
+
+**CCE 2022 Theme: Making Choices**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
+.tg .tg-1547{background-color:#FFF;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-0isw{background-color:#E6E6E6;font-style:italic;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-dgl5"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-dgl5"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-dgl5"><span style="font-weight:bold">TIME PERIOD</span><br><br><span style="font-weight:bold">(e.g. Term 1 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-zr06">1<br><br>(60 mins)</td>
+    <td class="tg-zr06">·         Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>·         Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>·         Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
+    <td class="tg-1547">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+  </tr>
+  <tr>
+    <td class="tg-bsu7">2<br><br>(60 mins)</td>
+    <td class="tg-bsu7">·         Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br><br>·         Know that a decision to end a relationship will have consequences on oneself and others.<br><br>·         Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br><br>·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br></td>
+    <td class="tg-0isw">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">3<br><br>(60 mins)</td>
+    <td class="tg-zr06">·         Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br><br>·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-1547">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+  </tr>
+</tbody>
+</table>
+
+**Secondary 4/5**
+
+**CCE 2022 Theme: Making Choices**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-com3{background-color:#FFF;color:#222;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-pcr6{background-color:#E6E6E6;color:#222;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">TIME PERIOD</span><br><br><span style="font-weight:bold">(e.g. Term 1 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo" rowspan="4">Respectful Relationships &amp; Safety</td>
+    <td class="tg-1ppo">1<br><br>(60 mins)</td>
+    <td class="tg-1ppo">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
+    <td class="tg-com3">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">2<br><br>(60 mins)</td>
+    <td class="tg-h5mn">·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br>·         Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><br>·         Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><br>·         Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.<br></td>
+    <td class="tg-pcr6">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">3<br><br>(30 mins)</td>
+    <td class="tg-1ppo">·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.<br><br>·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br>·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.<br></td>
+    <td class="tg-com3">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">4<br><br>(60 mins)</td>
+    <td class="tg-h5mn">·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-pcr6">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+  </tr>
+</tbody>
+</table>
+
