@@ -20,11 +20,11 @@ third_nav_title: Counselling@GESS
 
 [08 SPACE Card](/files/08-SPACE-Card.pdf)
 
-[09 Parent Kit (Are you-a PSLE parent)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/09-Parent-Kit-Are-you-a-PSLE-parent.pdf)
+[09 Parent Kit (Are you-a PSLE parent)](/files/09-Parent-Kit-Are-you-a-PSLE-parent.pdf)
 
-[09 Parent Kit (Cyber-wellness for your child)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/09-Parent-Kit-Cyber-wellness-for-your-child.pdf)
+[09 Parent Kit (Cyber-wellness for your child)](/files/09-Parent-Kit-Cyber-wellness-for-your-child.pdf)
 
-[09 Parent Kit (Manage examination stress)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/09-Parent-Kit-Manage-examination-stress.pdf)
+[09 Parent Kit (Manage examination stress)](/files/09-Parent-Kit-Manage-examination-stress.pdf)
 
 [09 Parent Kit (My independent learner)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/09-Parent-Kit-My-independent-learner.pdf)
 
