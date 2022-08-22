@@ -4,15 +4,15 @@ permalink: /moe-resources-for-parents/
 description: ""
 third_nav_title: Counselling@GESS
 ---
-[01 Transition Supports](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/01-Transition-Supports.pdf)
+[01 Transition Supports](/files/01-Transition-Supports.pdf)
 
-[02 Post Secondary-Transition](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/02-Post-Secondary-Transition.pdf)
+[02 Post Secondary-Transition](/files/02-Post-Secondary-Transition.pdf)
 
-[03 Gratitude](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/03-Gratitude.pdf)
+[03 Gratitude](/files/03-Gratitude.pdf)
 
-[04 Praise Your Child](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/04-Praise-Your-Child.pdf)
+[04 Praise Your Child](/files/04-Praise-Your-Child.pdf)
 
-[05 Raising Confident Children](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/05-Raising-Confident-Children.pdf)
+[05 Raising Confident Children](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/05-Raising-Confident-Children.pdf) ***(FILE TOO BIG!)***
 
 [06 Resilience Booster](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/06-Resilience-Booster.pdf)
 
