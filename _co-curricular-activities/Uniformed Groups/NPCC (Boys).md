@@ -38,7 +38,7 @@ Our vision is to become the best youth organisation in Singapore, one that activ
 
 Unit Overall Proficiency Awards (UOPA) GOLD: 1989, 1991, 2002, 2003, 2005, 2008, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021.
 
-**2021**
+**<u>2021</u>**
 
 **SPF NPCC Badge Award**<br>
 SI Sam Jun En  
@@ -56,14 +56,14 @@ Miss Tay Yian Ling (Teacher Officer)
 Mr Kwok Tzih-Yeung Kelvin (Teacher Officer)  
 Mr Wee Ren Chai Ronald (Hononary Officer)
 
-**2020**
+**<u>2020</u>**
 
 **SPF NPCC Badge Award**<br>
 SI Au Yong Cheng Jun  
 SI Tan Jun Ming  
 SSgt Lim Wei Zhi Edwyn
 
-**2019**
+**<u>2019</u>**
 
 **National Youth Achievement Award (GOLD):** <br>
 CI Clemen Kok Yu Shan
