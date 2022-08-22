@@ -61,9 +61,7 @@ In the Organisation Chart for Student Leaders, our Head Prefect oversees the dev
 
 ![Organisation Chart](/images/SL-2.png)
 
-<p style="text-align:center;"> <strong>Organisation Chart for Student Leaders
-
-</strong></p>
+<p style="text-align:center;"> <strong>Organisation Chart for Student Leaders</strong></p>
 
 ![](/images/SL-3.jpeg)
 
