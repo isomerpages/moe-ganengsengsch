@@ -43,7 +43,7 @@ Our approach to student leadership development is guided by the following princi
 
 ### **Our Student Leadership Logo**
 
-![](/images/SL-1.png)
+![Our Student Leadership Logo](/images/SL-1.png)
 
 ### **Our Pedagogical Approach**
 
@@ -59,9 +59,9 @@ In addition to the basic leadership development for all students, an advanced le
 
 In the Organisation Chart for Student Leaders, our Head Prefect oversees the development and progress of all Student Leaders in GESS.  He or she helps to ensure school activities are well planned and organised and leads the leaders in maintaining the discipline and order among Gessians.
 
-<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
+![Organisation Chart](/images/SL-2.png)
 
-![](/images/SL-2.png)
+<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
 
 ![](/images/SL-3.jpeg)
 
