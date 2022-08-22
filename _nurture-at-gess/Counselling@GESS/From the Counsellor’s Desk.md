@@ -6,7 +6,7 @@ third_nav_title: Counselling@GESS
 ---
 Learning is a reflective process through which we discover new insight that resonates with our intrinsic self. Nature has taught us many invaluable lessons as we progress toward technological, economic and social advancement. The following messages uncover our coping strategies and untapped potential by seeing nature through a different graphic lens.
 
-[01 Anxiety-Calming Technique](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/01-Anxiety-Calming-Technique.pdf)
+[01 Anxiety-Calming Technique](/files/01-Anxiety-Calming-Technique.pdf)
 
 [02 Anxiety-Cabin Fever](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/02-Anxiety-Cabin-Fever.pdf)
 
