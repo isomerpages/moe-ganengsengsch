@@ -16,7 +16,7 @@ Learning is a reflective process through which we discover new insight that reso
 
 [05 Most Dangerous Road to School](/files/05-Most-Dangerous-Road-to-School.pdf)
 
-[06 The Gray Dog](/files/06-The-Gray-Dog.pdf))
+[06 The Gray Dog](/files/06-The-Gray-Dog.pdf)
 
 [07 Giant Redwood Trees](/files/07-Giant-Redwood-Trees.pdf)
 
@@ -26,7 +26,7 @@ Learning is a reflective process through which we discover new insight that reso
 
 [10 ANTs-Challenge Negative Beliefs](/files/10-ANTs-Challenge-Negative-Beliefs.pdf)
 
-[11 Mindful Concentration](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/11-Mindful-Concentration.pdf)
+[11 Mindful Concentration](/files/11-Mindful-Concentration.pdf)
 
 [12 Bo Trees](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/12-Bo-Trees.pdf)
 
