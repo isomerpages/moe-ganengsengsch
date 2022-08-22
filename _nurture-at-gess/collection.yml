@@ -2,6 +2,7 @@ collections:
   nurture-at-gess:
     output: true
     order:
+      - Counselling@GESS.md
       - Student Leadership.md
       - CCE Curriculum/.keep
       - CCE Curriculum/Cyberwellness.md
