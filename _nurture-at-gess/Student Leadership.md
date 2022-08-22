@@ -85,9 +85,9 @@ In the Organisation Chart for Student Leaders, our Head Prefect oversees the dev
 
 **Main Event 3: Teachers’ and Support Staff Day**
 
-![](/images/SL-8.jpeg)
+![Main Event 3: Teachers’ and Support Staff Day](/images/SL-8.jpeg)
 
-![](/images/SL-9.jpeg)
+![Main Event 3: Teachers’ and Support Staff Day](/images/SL-9.jpeg)
 
 ![](/images/SL-10.jpeg)
 
