@@ -28,7 +28,7 @@ Learning is a reflective process through which we discover new insight that reso
 
 [11 Mindful Concentration](/files/11-Mindful-Concentration.pdf)
 
-[12 Bo Trees](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/12-Bo-Trees.pdf)
+[12 Bo Trees](/files/12-Bo-Trees.pdf)
 
 [13 Progressive Relaxation Technique](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/13-Progressive-Relaxation-Technique.pdf)
 
