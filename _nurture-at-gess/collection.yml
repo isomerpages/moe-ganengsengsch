@@ -2,7 +2,7 @@ collections:
   nurture-at-gess:
     output: true
     order:
-      - Counselling@GESS/Counselling@GESS.md
+      - Counselling@GESS/Counselling Support.md
       - Counselling@GESS/.keep
       - Student Leadership.md
       - CCE Curriculum/.keep
