@@ -84,3 +84,48 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
   </tr>
 </tbody>
 </table>
+
+**Secondary 2**
+
+**CCE 2022 Theme: Making Choices**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-com3{background-color:#FFF;color:#222;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-pcr6{background-color:#E6E6E6;color:#222;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">LESSONS / DURATION</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">REMARKS</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-1ppo">1<br><br>(60 mins)</td>
+    <td class="tg-1ppo">·        Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>·        Understand what sexual orientation entails<br></td>
+    <td class="tg-com3">Lessons will be conducted during CCE lessons.</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">2A<br><br>(60 mins)</td>
+    <td class="tg-h5mn">·       Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-pcr6">Lessons will be conducted during CCE lessons.</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">2B<br><br>(60 mins)</td>
+    <td class="tg-1ppo">·      Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td class="tg-com3">Lessons will be conducted during CCE lessons.</td>
+  </tr>
+</tbody>
+</table>
