@@ -14,11 +14,11 @@ third_nav_title: Counselling@GESS
 
 [05 Raising Confident Children](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/05-Raising-Confident-Children.pdf) ***(FILE TOO BIG!)***
 
-[06 Resilience Booster](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/06-Resilience-Booster.pdf)
+[06 Resilience Booster](/files/06-Resilience-Booster.pdf)
 
-[07 Guidelines School-Home Partnership](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/07-Guidelines-School-Home-Partnership.pdf)
+[07 Guidelines School-Home Partnership](/files/07-Guidelines-School-Home-Partnership.pdf)
 
-[08 SPACE Card](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/08-SPACE-Card.pdf)
+[08 SPACE Card](/files/08-SPACE-Card.pdf)
 
 [09 Parent Kit (Are you-a PSLE parent)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/09-Parent-Kit-Are-you-a-PSLE-parent.pdf)
 
