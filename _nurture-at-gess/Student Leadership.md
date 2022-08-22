@@ -45,6 +45,22 @@ Our approach to student leadership development is guided by the following princi
 
 ![](/images/SL-1.png)
 
+### **Our Pedagogical Approach**
+
+The Student Leadership Committee seeks to mould Gessians into principled leaders through a progressive leadership development plan, incorporating the 5 Practices of The Leadership Challenge.
+
+Each level has a progressive leadership focus starting from Self-Leadership in Sec 1, Peer-Leadership in Sec 2, School-Leadership in Sec 3, and culminating in Mentor-Leadership in Sec 4/5. We strive to help Gessians to discover their leadership abilities through our cohort training programme. Platforms have been put in place for students to learn and demonstrate leadership skills by integrating leadership teaching and learning at various school activities and programmes.
+
+Gan Eng Seng School has a series of developmental leadership training and opportunities to actualize every student’s potential to serve the school and community. The student leadership committee aims to develop and implement segmented student leadership training programme for identified student leaders to be effective in their roles to serve the school. Student Leaders Camp takes place to help the leaders in developing stronger working relationship and sharpening their leadership skills.
+
+In addition to the basic leadership development for all students, an advanced leadership development is designed to stretch our core Student Leaders (Prefects, CCA Leaders, Class Chairpersons, Peer Support Leaders and Sports Leaders). Student Leaders are empowered to lead their classes, CCAs and peers in various school activities such as Secondary 1 GESS Camp, Election of Head Prefect, Teachers’ and Support Staff Day, Student Leaders Camp, Student Leaders Appointment Ceremony etc, as well as conducting outreach programmes to cluster Primary Schools and community.
+
+### **Organisation Chart**
+
+In the Organisation Chart for Student Leaders, our Head Prefect oversees the development and progress of all Student Leaders in GESS.  He or she helps to ensure school activities are well planned and organised and leads the leaders in maintaining the discipline and order among Gessians.
+
+<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
+
 ![](/images/SL-2.png)
 
 ![](/images/SL-3.jpeg)
