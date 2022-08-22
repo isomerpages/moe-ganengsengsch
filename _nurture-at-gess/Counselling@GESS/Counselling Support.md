@@ -17,4 +17,3 @@ At GESS, we endeavour to strengthen a tripartite collaborative partnership encom
 <font size="-1">\[1\] Adapted from Yeo, A. (1993). Counselling: A Problem-Solving Approach, Armour Publishing (p5).</font>
 
 ![](/images/Counselling-Request-Form.jpeg)
-
