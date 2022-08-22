@@ -103,14 +103,16 @@ In the Organisation Chart for Student Leaders, our Head Prefect oversees the dev
 
 **Main Event 4: GESS do it right Campaign, Head Prefect election and  initiated by GESS Prefectorial Board**
 
-![Main Event 4: GESS do it right Campaign, Head Prefect election and  initiated by GESS Prefectorial Board](/images/SL-12.jpeg)
+![70th GESS Prefectorial Board](/images/SL-12.jpeg)
 
 <p style="text-align:center;"> <strong>70th GESS Prefectorial Board</strong></p>
 
-![70th GESS Prefectorial Board](/images/SL-13.png)
+![Head Prefect Election](/images/SL-13.png)
 
 <p style="text-align:center;"> <strong>Head Prefect Election</strong></p>
 
-![Head Prefect Election](/images/SL-15.png)
+![Campaign initiated by Prefectorial Board](/images/SL-15.png)
 
 <p style="text-align:center;"> <strong>Campaign initiated by Prefectorial Board</strong></p>
+
+***
