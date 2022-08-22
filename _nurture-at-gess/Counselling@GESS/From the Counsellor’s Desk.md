@@ -24,7 +24,7 @@ Learning is a reflective process through which we discover new insight that reso
 
 [09 A ferous lion and a crippled fox](/files/09-A-ferous-lion-and-a-crippled-fox.pdf)
 
-[10 ANTs-Challenge Negative Beliefs](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/10-ANTs-Challenge-Negative-Beliefs.pdf)
+[10 ANTs-Challenge Negative Beliefs](/files/10-ANTs-Challenge-Negative-Beliefs.pdf)
 
 [11 Mindful Concentration](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/11-Mindful-Concentration.pdf)
 
