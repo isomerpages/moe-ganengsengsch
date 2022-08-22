@@ -26,22 +26,22 @@ third_nav_title: Counselling@GESS
 
 [09 Parent Kit (Manage examination stress)](/files/09-Parent-Kit-Manage-examination-stress.pdf)
 
-[09 Parent Kit (My independent learner)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/09-Parent-Kit-My-independent-learner.pdf)
+[09 Parent Kit (My independent learner)](/files/09-Parent-Kit-My-independent-learner.pdf)
 
-[09 Parent Kit (Preschool to Primary school transition)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/09-Parent-Kit-Preschool-to-Primary-school-transition.pdf)
+[09 Parent Kit (Preschool to Primary school transition)](/files/09-Parent-Kit-Preschool-to-Primary-school-transition.pdf)
 
-[09 Parent Kit (School Holiday Edition)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/09-Parent-Kit-School-Holiday-Edition.pdf)
+[09 Parent Kit (School Holiday Edition)](/files/09-Parent-Kit-School-Holiday-Edition.pdf)
 
-[10 HBL (part-1)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/10-HBL-part-1.pdf)
+[10 HBL (part-1)](/files/10-HBL-part-1.pdf)
 
-[10 HBL (part-2)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/10-HBL-part-2.pdf)
+[10 HBL (part-2)](/files/10-HBL-part-2.pdf)
 
-[10 HBL (part-3)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/10-HBL-part-3.pdf)
+[10 HBL (part-3)](/files/10-HBL-part-3.pdf)
 
-[10 HBL (part-4)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/10-HBL-part-4.pdf)
+[10 HBL (part-4)](/files/10-HBL-part-4.pdf)
 
-[10 HBL (part-5)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/10-HBL-part-5.pdf)
+[10 HBL (part-5)](/files/10-HBL-part-5.pdf)
 
-[11 Infosheet for Parents – Supporting your teen upon results release](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/12/Infosheet-for-Parents.pdf)
+[11 Infosheet for Parents – Supporting your teen upon results release](/files/Infosheet-for-Parents.pdf)
 
 [12 Parenting Programmes to Equip Parents](https://familiesforlife.sg/discover-an-article/Pages/Parenting-Programmes.aspx)
