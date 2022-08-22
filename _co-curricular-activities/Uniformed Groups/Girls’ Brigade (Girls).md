@@ -35,3 +35,31 @@ The 71st Company started at Gan Eng Seng School in 2004. The Company is committe
 ### Other Links
 
 *   The Girls’ Brigade Singapore: [http://www.gb.org.sg/](http://www.gb.org.sg/)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-5l0h{background-color:#e6e6e6;text-align:left;vertical-align:top}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">CCA Achievements for 2020 to 2021</span></th>
+    <th class="tg-4ufn"><span style="font-weight:bold">2020</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">2021</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn"></td>
+    <td class="tg-h5mn">The Girls’ Brigade Singapore Company Award – Gold for 2020</td>
+    <td class="tg-5l0h"></td>
+  </tr>
+</tbody>
+</table>
