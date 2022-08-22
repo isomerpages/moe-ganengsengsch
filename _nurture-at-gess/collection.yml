@@ -2,6 +2,7 @@ collections:
   nurture-at-gess:
     output: true
     order:
+      - CCE Curriculum/Values in Action (VIA).md
       - CCE Curriculum/Education and Career Guidance (ECG).md
       - CCE Curriculum/Sexuality Education.md
       - CCE Curriculum/Cyberwellness.md
