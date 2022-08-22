@@ -261,3 +261,10 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 </tbody>
 </table>
 
+**Information for Parents**
+
+1.  10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+    11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be available on Parents Gateway.
+    12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be available on Parents Gateway.
+    13.  Parents can contact the school at 64745594 for discussion or to seek clarification about the school’s sexuality education programme.
+    14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
