@@ -63,15 +63,23 @@ In the Organisation Chart for Student Leaders, our Head Prefect oversees the dev
 
 <p style="text-align:center;"> <strong>Organisation Chart for Student Leaders</strong></p>
 
-![](/images/SL-3.jpeg)
+***
 
-![](/images/SL-4.jpeg)
+**Main Event 1: Secondary 1 GESS CAMP / Secondary 1 Orientation Camp**
 
-![](/images/SL-5.jpeg)
+![Main Event 1: Secondary 1 GESS CAMP / Secondary 1 Orientation Camp](/images/SL-3.jpeg)
 
-![](/images/SL-6.jpeg)
+![Main Event 1: Secondary 1 GESS CAMP / Secondary 1 Orientation Camp](/images/SL-4.jpeg)
 
-![](/images/SL-7.jpeg)
+![Main Event 1: Secondary 1 GESS CAMP / Secondary 1 Orientation Camp](/images/SL-5.jpeg)
+
+***
+
+**Main Event 2: Student Leaders Appointment Ceremony**
+
+![Main Event 2: Student Leaders Appointment Ceremony](/images/SL-6.jpeg)
+
+![Main Event 2: Student Leaders Appointment Ceremony](/images/SL-7.jpeg)
 
 ![](/images/SL-8.jpeg)
 
