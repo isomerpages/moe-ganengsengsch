@@ -12,7 +12,7 @@ Learning is a reflective process through which we discover new insight that reso
 
 [03 Manage Exam Stress](/files/03-Manage-Exam-Stress.pdf)
 
-[04 The Giant Bamboo Tree](/files/04-The-Giant-Bamboo-Tree.pdf))
+[04 The Giant Bamboo Tree](/files/04-The-Giant-Bamboo-Tree.pdf)
 
 [05 Most Dangerous Road to School](/files/05-Most-Dangerous-Road-to-School.pdf)
 
@@ -20,9 +20,9 @@ Learning is a reflective process through which we discover new insight that reso
 
 [07 Giant Redwood Trees](/files/07-Giant-Redwood-Trees.pdf)
 
-[08 The Traffic lights](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/08-The-Traffic-lights.pdf)
+[08 The Traffic lights](/files/08-The-Traffic-lights.pdf)
 
-[09 A ferous lion and a crippled fox](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/09-A-ferous-lion-and-a-crippled-fox.pdf)
+[09 A ferous lion and a crippled fox](/files/09-A-ferous-lion-and-a-crippled-fox.pdf)
 
 [10 ANTs-Challenge Negative Beliefs](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/10-ANTs-Challenge-Negative-Beliefs.pdf)
 
