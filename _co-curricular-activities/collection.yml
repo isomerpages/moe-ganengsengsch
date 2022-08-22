@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Groups/Scouts (Boys & Girls).md
       - Uniformed Groups/NPCC (Boys).md
       - Uniformed Groups/NCC (Land) (Boys).md
       - Uniformed Groups/Girls’ Brigade (Girls).md
