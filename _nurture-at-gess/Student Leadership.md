@@ -42,3 +42,23 @@ Our approach to student leadership development is guided by the following princi
 *   To provide platforms for Gessians to apply their leadership skills.
 
 ### **Our Student Leadership Logo**
+
+![](/images/SL-1.png)
+
+![](/images/SL-2.png)
+
+![](/images/SL-3.jpeg)
+
+![](/images/SL-4.jpeg)
+
+![](/images/SL-5.jpeg)
+
+![](/images/SL-6.jpeg)
+
+![](/images/SL-7.jpeg)
+
+![](/images/SL-8.jpeg)
+
+![](/images/SL-9.jpeg)
+
+![](/images/SL-10.jpeg)
