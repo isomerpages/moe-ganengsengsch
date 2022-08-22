@@ -14,11 +14,11 @@ Learning is a reflective process through which we discover new insight that reso
 
 [04 The Giant Bamboo Tree](/files/04-The-Giant-Bamboo-Tree.pdf))
 
-[05 Most Dangerous Road to School](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/05-Most-Dangerous-Road-to-School.pdf)
+[05 Most Dangerous Road to School](/files/05-Most-Dangerous-Road-to-School.pdf)
 
-[06 The Gray Dog](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/06-The-Gray-Dog.pdf)
+[06 The Gray Dog](/files/06-The-Gray-Dog.pdf))
 
-[07 Giant Redwood Trees](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/07-Giant-Redwood-Trees.pdf)
+[07 Giant Redwood Trees](/files/07-Giant-Redwood-Trees.pdf)
 
 [08 The Traffic lights](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/08-The-Traffic-lights.pdf)
 
