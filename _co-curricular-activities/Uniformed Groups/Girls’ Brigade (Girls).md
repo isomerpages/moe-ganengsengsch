@@ -6,3 +6,4 @@ third_nav_title: Uniformed Groups
 ---
 ### The Girls’ Brigade 71st Company
 
+![](/images/GB1-scaled.jpeg)
