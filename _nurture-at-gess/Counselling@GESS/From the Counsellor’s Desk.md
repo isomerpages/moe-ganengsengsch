@@ -8,11 +8,11 @@ Learning is a reflective process through which we discover new insight that reso
 
 [01 Anxiety-Calming Technique](/files/01-Anxiety-Calming-Technique.pdf)
 
-[02 Anxiety-Cabin Fever](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/02-Anxiety-Cabin-Fever.pdf)
+[02 Anxiety-Cabin Fever](/files/02-Anxiety-Cabin-Fever.pdf)
 
-[03 Manage Exam Stress](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/03-Manage-Exam-Stress.pdf)
+[03 Manage Exam Stress](/files/03-Manage-Exam-Stress.pdf)
 
-[04 The Giant Bamboo Tree](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/04-The-Giant-Bamboo-Tree.pdf)
+[04 The Giant Bamboo Tree](/files/04-The-Giant-Bamboo-Tree.pdf))
 
 [05 Most Dangerous Road to School](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/05-Most-Dangerous-Road-to-School.pdf)
 
