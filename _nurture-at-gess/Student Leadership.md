@@ -113,4 +113,4 @@ In the Organisation Chart for Student Leaders, our Head Prefect oversees the dev
 
 ![Head Prefect Election](/images/SL-15.png)
 
-<p style="text-align:center;"> <strong>70th GESS Prefectorial Board</strong></p>
+<p style="text-align:center;"> <strong>Campaign initiated by Prefectorial Board</strong></p>
