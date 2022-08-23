@@ -2,7 +2,7 @@ collections:
   school-staff:
     output: true
     order:
-      - Executive and Administration Staff.md
+      - Key Personnel and Form Teachers.md
       - Departments/.keep
       - Departments/Aesthetics.md
       - Departments/Character and Citizenship Education (CCE).md
@@ -14,4 +14,4 @@ collections:
       - Departments/Science.md
       - Departments/Student Management.md
       - Departments/Technology.md
-      - Key Personnel and Form Teachers.md
+      - Executive and Administration Staff.md
