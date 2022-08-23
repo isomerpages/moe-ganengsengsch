@@ -4,7 +4,7 @@ permalink: /nurturegess/academic/student-management/
 description: ""
 third_nav_title: Departments
 ---
-![](/images/SMC-4-scaled.jpeg)
+![Student Management](/images/SMC-4-scaled.jpeg)
 
 ### Vision
 
@@ -31,4 +31,3 @@ We firmly believe in upholding the school’s philosophy that every person shall
 The Student Management Committee believes that all Gessians have the ability to make an impact in society and desires to help nurture the best in each one of them.
 
 We believe in broadening their horizons, raising their level of awareness to live empowered lives, through an environment of love, care and encouragement.
-
