@@ -1,4 +1,5 @@
 collections:
   school-information:
     output: true
-    order: []
+    order:
+      - Full Subject Based Banding (FSBB) in GESS.md
