@@ -21,6 +21,8 @@ Six years on, MOE is piloting Full Subject Based Banding (FSBB) in 2020, and it 
 
 When FSBB is fully implemented, students from the Express, Normal (Academic), and Normal (Technical) streams will be merged into a single course of study. The video below explains in greater detail what FSBB is all about:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMc_GispPmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p style="text-align:right;"><a href="#up">Up</a></p>
 
 ***
