@@ -76,12 +76,12 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 
 <p style="text-align:center;"><strong><a name="Link4"></a>FSBB FAQs</strong></p>
 
-**A. Curriculum Demands of Reorganised Form Classes**
+<h4 style="color:black" align="left">A. Curriculum Demands of Reorganised Form Classes</h4>
 
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
-    <label for="accordion1">Department Members:</label>  
+    <label for="accordion1"><h4 style="color:black">Can I cope with the common curriculum?</h4></label>  
     <div>  
       <p>This is a simple one line item</p>  
     </div>  
