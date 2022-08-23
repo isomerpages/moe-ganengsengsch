@@ -59,3 +59,7 @@ So how does this all work? To illustrate, let us take an example of three studen
 ![table](/images/table.jpeg)
 
 In this case, we can see that while all three students attend the same Common Curriculum lessons, they will go to different classes for the other subjects’ lessons. This may involve them ‘merging’ with students from another form class.
+
+<p style="text-align:right;"><a href="#up">Up</a></p>
+
+***
