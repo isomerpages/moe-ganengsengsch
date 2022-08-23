@@ -2,12 +2,12 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Sports & Games/Football (Boys).md
-      - Sports & Games/Cross Country (Boys & Girls).md
-      - Sports & Games/Canoeing (Boys & Girls).md
-      - Sports & Games/Table Tennis (Girls).md
-      - Sports & Games/Basketball (Boys).md
       - Sports & Games/.keep
+      - Sports & Games/Basketball (Boys).md
+      - Sports & Games/Table Tennis (Girls).md
+      - Sports & Games/Canoeing (Boys & Girls).md
+      - Sports & Games/Cross Country (Boys & Girls).md
+      - Sports & Games/Football (Boys).md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys’ Brigade (Boys).md
       - Uniformed Groups/Girls’ Brigade (Girls).md
