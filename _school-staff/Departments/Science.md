@@ -41,3 +41,16 @@ Singapore Junior Physics Olympiad: 1 Bronze award
 International Competition and Assessment for Schools pending result  
 Participation in Green Wave Competition
 
+1)       Be electrified during Science Camp
+
+![](/images/Science-1-150x150.png)
+
+![](/images/Science-2-150x150.png)
+
+![](/images/Science-3-150x150.png)
+
+![](/images/Science-4-150x150.png)
+
+![](/images/Science-5-150x150.png)
+
+![](/images/Science-6-150x150.png)
