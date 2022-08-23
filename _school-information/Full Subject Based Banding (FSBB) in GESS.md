@@ -31,4 +31,13 @@ When FSBB is fully implemented, students from the Express, Normal (Academic), an
 
 <p style="text-align:center;"><strong><a name="Link2"></a>How does FSBB work?</strong></p>
 
-<img src="/images/group-potrait-3.jpeg" style="width:120px;height:220px;margin-left:15px;" align = "left">
+<img src="/images/group-potrait-3.jpeg" style="width:120px;height:220px;margin-left:15px;" align = "left"> Under FSBB, all the subjects students offer are categorised into two groups – those in the Common Curriculum, and those offered as SBB subjects at different levels.
+
+The Common Curriculum comprises the following subjects, which are taught to the entire form class:
+
+*   Art;
+*   Character and Citizenship Education (CCE);
+*   Design & Technology (D&T);
+*   Food and Consumer Education (FCE);
+*   Music; and
+*   Physical Education (PE)
