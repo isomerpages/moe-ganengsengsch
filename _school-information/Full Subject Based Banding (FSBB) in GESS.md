@@ -41,3 +41,21 @@ The Common Curriculum comprises the following subjects, which are taught to the 
 *   Food and Consumer Education (FCE);
 *   Music; and
 *   Physical Education (PE)
+
+The following are the SBB subjects offered in GESS :
+
+*   English Language;
+*   Mother Tongue Languages;
+*   Mathematics;
+*   Science;
+*   Geography;
+*   History;
+*   Literature in English
+
+During SBB lessons, students are offered in ability-banded classes — Express, N(A), and N(T).
+
+So how does this all work? To illustrate, let us take an example of three students from the same form class, who offer the SBB subjects at different levels:
+
+![table](/images/table.jpeg)
+
+In this case, we can see that while all three students attend the same Common Curriculum lessons, they will go to different classes for the other subjects’ lessons. This may involve them ‘merging’ with students from another form class.
