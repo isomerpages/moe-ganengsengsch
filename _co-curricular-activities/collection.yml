@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Modern Dance (Boys & Girls).md
       - Performing Arts/Drama (Boys & Girls).md
       - Performing Arts/.keep
       - Sports & Games/.keep
