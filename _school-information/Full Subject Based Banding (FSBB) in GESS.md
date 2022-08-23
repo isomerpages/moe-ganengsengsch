@@ -30,3 +30,5 @@ When FSBB is fully implemented, students from the Express, Normal (Academic), an
 ***
 
 <p style="text-align:center;"><strong><a name="Link2"></a>How does FSBB work?</strong></p>
+
+<img src="/images/group-potrait-3.jpeg" style="width:120px;height:220px;margin-left:15px;" align = "left">
