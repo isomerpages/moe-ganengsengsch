@@ -43,14 +43,18 @@ Participation in Green Wave Competition
 
 1)       Be electrified during Science Camp
 
-![](/images/Science-1-150x150.png)
+![Be electrified during Science Camp](/images/Science-1-150x150.png)
 
-![](/images/Science-2-150x150.png)
+![Be electrified during Science Camp](/images/Science-2-150x150.png)
 
-![](/images/Science-3-150x150.png)
+2)       Outstanding Award for Scientific Research on fire extinguishing abilities
 
-![](/images/Science-4-150x150.png)
+![Outstanding Award for Scientific Research on fire extinguishing abilities](/images/Science-3-150x150.png)
 
-![](/images/Science-5-150x150.png)
+3) Making our own indicator, marbling art work and demonstration during Science Busking
 
-![](/images/Science-6-150x150.png)
+![Making our own indicator, marbling art work and demonstration during Science Busking](/images/Science-4-150x150.png)
+
+![Making our own indicator, marbling art work and demonstration during Science Busking](/images/Science-5-150x150.png)
+
+![Making our own indicator, marbling art work and demonstration during Science Busking](/images/Science-6-150x150.png)
