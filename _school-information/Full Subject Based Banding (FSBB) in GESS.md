@@ -13,9 +13,13 @@ description: ""
   
 <p style="text-align:center;"><strong><a name="Link1"></a>Introduction</strong></p>
 
-![](/images/group-potrait-1.jpeg)
+<img src="/images/group-potrait-1.jpeg" align="left" style="width:20%;">
+<img src="/images/group-potrait-4.jpeg" align="right" style="width:30%;">
+Subject-Based Banding (SBB) was piloted in twelve secondary schools in 2014, to provide greater flexibility in lower secondary subject combinations. Under SBB, students who perform well in certain subjects would be given the opportunity to offer them at a higher level.
 
-![](/images/group-potrait-4.jpeg)
+Six years on, MOE is piloting Full Subject Based Banding (FSBB) in 2020, and it will be introduced progressively to all secondary schools by 2024.
+
+When FSBB is fully implemented, students from the Express, Normal (Academic), and Normal (Technical) streams will be merged into a single course of study. The video below explains in greater detail what FSBB is all about:
 
 <p style="text-align:right;"><a href="#up">Up</a></p>
 
