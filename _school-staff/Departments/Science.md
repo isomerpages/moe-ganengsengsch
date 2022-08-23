@@ -51,7 +51,7 @@ Participation in Green Wave Competition
 
 ![Outstanding Award for Scientific Research on fire extinguishing abilities](/images/Science-3-150x150.png)
 
-3) Making our own indicator, marbling art work and demonstration during Science Busking
+3)       Making our own indicator, marbling art work and demonstration during Science Busking
 
 ![Making our own indicator, marbling art work and demonstration during Science Busking](/images/Science-4-150x150.png)
 
