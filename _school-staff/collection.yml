@@ -2,15 +2,15 @@ collections:
   school-staff:
     output: true
     order:
-      - Departments/Technology.md
-      - Departments/Student Management.md
-      - Departments/Science.md
-      - Departments/Physical Education & CCA.md
-      - Departments/Mother Tongue Languages.md
-      - Departments/Mathematics.md
-      - Departments/Humanities.md
-      - Departments/English & Literature.md
-      - Departments/Character and Citizenship Education (CCE).md
-      - Departments/Aesthetics.md
       - Departments/.keep
+      - Departments/Aesthetics.md
+      - Departments/Character and Citizenship Education (CCE).md
+      - Departments/English & Literature.md
+      - Departments/Humanities.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue Languages.md
+      - Departments/Physical Education & CCA.md
+      - Departments/Science.md
+      - Departments/Student Management.md
+      - Departments/Technology.md
       - Key Personnel and Form Teachers.md
