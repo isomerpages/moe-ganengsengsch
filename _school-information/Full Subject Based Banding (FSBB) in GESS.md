@@ -78,7 +78,57 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 
 **A. Curriculum Demands of Reorganised Form Classes**
 
-
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+    <label for="accordion1">Department Members:</label>  
+    <div>  
+      <p>This is a simple one line item</p>  
+    </div>  
+</li>  
+<li>  
+    <input type="checkbox" id="accordion2">  
+    <label for="accordion2">Mathematics Framework</label>  
+    <div>  
+      <p>This is a simple one line item</p>  
+    </div>  
+</li>  
+<li>  
+    <input type="checkbox" id="accordion3">  
+    <label for="accordion3">Learning Support</label>  
+    <div>  
+      <p>This is a simple one line item</p>  
+    </div>  
+</li>  
+<li>  
+    <input type="checkbox" id="accordion4">  
+    <label for="accordion4">Math Enrichment</label>  
+    <div>  
+      <p>This is a simple one line item</p>  
+    </div>  
+</li>  
+<li>  
+    <input type="checkbox" id="accordion5">  
+    <label for="accordion5">Math Practical (P1 - P6)</label>  
+    <div>  
+      <p>This is a simple one line item</p>  
+    </div>  
+</li>  
+<li>  
+    <input type="checkbox" id="accordion6">  
+    <label for="accordion6">P4 Culinary Mathematics</label>  
+    <div>  
+      <p>This is a simple one line item</p>  
+    </div>  
+</li>  
+<li>  
+    <input type="checkbox" id="accordion7">  
+    <label for="accordion7">Maths Carnival</label>  
+    <div>  
+      <p>This is a simple one line item</p>  
+    </div>  
+</li>  
+</ul>
 
 **B. Social mixing in reorganised Form Classes**
 
