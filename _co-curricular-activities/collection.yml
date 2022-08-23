@@ -2,20 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs & Societies/.keep
-      - Clubs & Societies/Infocom Club (Boys & Girls).md
-      - Clubs & Societies/Entrepreneur Club (Boys & Girls).md
-      - Performing Arts/.keep
-      - Performing Arts/Drama (Boys & Girls).md
-      - Performing Arts/Modern Dance (Boys & Girls).md
-      - Performing Arts/Marching Band (Boys & Girls).md
-      - Performing Arts/School Choir (Boys & Girls).md
-      - Sports & Games/.keep
-      - Sports & Games/Basketball (Boys).md
-      - Sports & Games/Table Tennis (Girls).md
-      - Sports & Games/Canoeing (Boys & Girls).md
-      - Sports & Games/Cross Country (Boys & Girls).md
-      - Sports & Games/Football (Boys).md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys’ Brigade (Boys).md
       - Uniformed Groups/Girls’ Brigade (Girls).md
@@ -23,3 +9,17 @@ collections:
       - Uniformed Groups/NPCC (Boys).md
       - Uniformed Groups/Scouts (Boys & Girls).md
       - Uniformed Groups/St John Brigade (Boys & Girls).md
+      - Sports & Games/.keep
+      - Sports & Games/Basketball (Boys).md
+      - Sports & Games/Table Tennis (Girls).md
+      - Sports & Games/Canoeing (Boys & Girls).md
+      - Sports & Games/Cross Country (Boys & Girls).md
+      - Sports & Games/Football (Boys).md
+      - Performing Arts/.keep
+      - Performing Arts/Drama (Boys & Girls).md
+      - Performing Arts/Modern Dance (Boys & Girls).md
+      - Performing Arts/Marching Band (Boys & Girls).md
+      - Performing Arts/School Choir (Boys & Girls).md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Infocom Club (Boys & Girls).md
+      - Clubs & Societies/Entrepreneur Club (Boys & Girls).md
