@@ -77,3 +77,11 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 <p style="text-align:center;"><strong><a name="Link4"></a>How does FSBB work?</strong></p>
 
 **A. Curriculum Demands of Reorganised Form Classes**
+
+**B. Social mixing in reorganised Form Classes**
+
+**C. Timetabling matters concerning reorganised Form Classes**
+
+**D. Curriculum demands of higher-level Humanities subjects**
+
+**E. Timetabling matters concerning higher-level Humanities subjects**
