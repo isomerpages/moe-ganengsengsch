@@ -28,3 +28,5 @@ When FSBB is fully implemented, students from the Express, Normal (Academic), an
 <p style="text-align:right;"><a href="#up">Up</a></p>
 
 ***
+
+<p style="text-align:center;"><strong><a name="Link2"></a>How does FSBB work?</strong></p>
