@@ -23,6 +23,8 @@ When FSBB is fully implemented, students from the Express, Normal (Academic), an
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JMc_GispPmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**We are delighted to announce that GESS has been chosen to be one of the pilot schools for FSBB in 2020.**
+
 <p style="text-align:right;"><a href="#up">Up</a></p>
 
 ***
