@@ -63,3 +63,9 @@ In this case, we can see that while all three students attend the same Common Cu
 <p style="text-align:right;"><a href="#up">Up</a></p>
 
 ***
+
+<p style="text-align:center;"><strong><a name="Link3"></a>How does FSBB work?</strong></p>
+
+Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school has been preparing for the pilot:
+
+<img src="/images/group-potrait-2.jpeg" style="width:120px;height:220px;margin-left:15px;" align = "right">
