@@ -70,3 +70,6 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 
 <img src="/images/group-potrait-2.jpeg" style="width:120px;height:250px;margin-left:15px;" align = "right"> ***VIDEO TO BE UPLOADED TO YOUTUBE AND EMBEDDED HERE!*** <br>
 
+<p style="text-align:right;"><a href="#up">Up</a></p>
+
+***
