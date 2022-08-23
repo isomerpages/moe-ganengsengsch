@@ -74,7 +74,7 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 
 ***
 
-<p style="text-align:center;"><strong><a name="Link4"></a>How does FSBB work?</strong></p>
+<p style="text-align:center;"><strong><a name="Link4"></a>FSBB FAQs</strong></p>
 
 **A. Curriculum Demands of Reorganised Form Classes**
 
