@@ -83,51 +83,11 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
     <input type="checkbox" id="accordion1">  
     <label for="accordion1"><h4 style="color:black">Can I cope with the common curriculum?</h4></label>  
     <div>  
-      <p>This is a simple one line item</p>  
+      <ul>
+				<li>The common curriculum comprises <strong>Music, Art, D&T, PE, FCE</strong> and <strong>CCE</strong>. It is designed to ensure accessibility to all students. There would be common curriculum coverage and assessment tasks and rubrics that will allow all students to meet each subject’s requirements.</li>
+			</ul>  
     </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion2">  
-    <label for="accordion2">Mathematics Framework</label>  
-    <div>  
-      <p>This is a simple one line item</p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion3">  
-    <label for="accordion3">Learning Support</label>  
-    <div>  
-      <p>This is a simple one line item</p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion4">  
-    <label for="accordion4">Math Enrichment</label>  
-    <div>  
-      <p>This is a simple one line item</p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion5">  
-    <label for="accordion5">Math Practical (P1 - P6)</label>  
-    <div>  
-      <p>This is a simple one line item</p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion6">  
-    <label for="accordion6">P4 Culinary Mathematics</label>  
-    <div>  
-      <p>This is a simple one line item</p>  
-    </div>  
-</li>  
-<li>  
-    <input type="checkbox" id="accordion7">  
-    <label for="accordion7">Maths Carnival</label>  
-    <div>  
-      <p>This is a simple one line item</p>  
-    </div>  
-</li>  
+</li>   
 </ul>
 
 <h4 style="color:black" align="left">B. Social mixing in reorganised Form Classes</h4>
