@@ -130,10 +130,10 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 </li>  
 </ul>
 
-**B. Social mixing in reorganised Form Classes**
+<h4 style="color:black" align="left">B. Social mixing in reorganised Form Classes</h4>
 
-**C. Timetabling matters concerning reorganised Form Classes**
+<h4 style="color:black" align="left">C. Timetabling matters concerning reorganised Form Classes</h4>
 
-**D. Curriculum demands of higher-level Humanities subjects**
+<h4 style="color:black" align="left">D. Curriculum demands of higher-level Humanities subjects</h4>
 
-**E. Timetabling matters concerning higher-level Humanities subjects**
+<h4 style="color:black" align="left">E. Timetabling matters concerning higher-level Humanities subjects</h4>
