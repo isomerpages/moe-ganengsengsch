@@ -87,7 +87,44 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 				<li>The common curriculum comprises <strong>Music, Art, D&T, PE, FCE</strong> and <strong>CCE</strong>. It is designed to ensure accessibility to all students. There would be common curriculum coverage and assessment tasks and rubrics that will allow all students to meet each subject’s requirements.</li>
 			</ul>  
     </div>  
-</li>   
+</li>
+	<li>  
+    <input type="checkbox" id="accordion2">  
+    <label for="accordion1"><h4 style="color:black">Can I change a SBB subject I am doing to a lower level at any time if I cannot cope?</h4></label>  
+    <div>  
+      <ul>
+				<li>It takes time to adjust to the demands of a higher-level subject, so students should allow themselves a full two years before deciding if they wish to continue offering the subject at a higher level in the upper secondary years. Interest in the subject is more important than the marks obtained, so students should not use marks as an indicator of their ability to cope with the subject.</li>
+				<li>The school would involve the student’s parents and teachers when such a request is made. The student and his/her parents can make the final decision to continue or drop the subject, as long as they are aware of the impact on the student’s post-secondary progression.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion3">  
+    <label for="accordion1"><h4 style="color:black">Can I cope with the common curriculum?</h4></label>  
+    <div>  
+      <ul>
+				<li>The common curriculum comprises <strong>Music, Art, D&T, PE, FCE</strong> and <strong>CCE</strong>. It is designed to ensure accessibility to all students. There would be common curriculum coverage and assessment tasks and rubrics that will allow all students to meet each subject’s requirements.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion4">  
+    <label for="accordion1"><h4 style="color:black">Can I cope with the common curriculum?</h4></label>  
+    <div>  
+      <ul>
+				<li>The common curriculum comprises <strong>Music, Art, D&T, PE, FCE</strong> and <strong>CCE</strong>. It is designed to ensure accessibility to all students. There would be common curriculum coverage and assessment tasks and rubrics that will allow all students to meet each subject’s requirements.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion5">  
+    <label for="accordion1"><h4 style="color:black">Can I cope with the common curriculum?</h4></label>  
+    <div>  
+      <ul>
+				<li>The common curriculum comprises <strong>Music, Art, D&T, PE, FCE</strong> and <strong>CCE</strong>. It is designed to ensure accessibility to all students. There would be common curriculum coverage and assessment tasks and rubrics that will allow all students to meet each subject’s requirements.</li>
+			</ul>  
+    </div>  
+</li>
 </ul>
 
 <h4 style="color:black" align="left">B. Social mixing in reorganised Form Classes</h4>
