@@ -2,5 +2,6 @@ collections:
   school-staff:
     output: true
     order:
+      - Departments/Aesthetics.md
       - Departments/.keep
       - Key Personnel and Form Teachers.md
