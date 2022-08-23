@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/School Choir (Boys & Girls).md
       - Performing Arts/Marching Band (Boys & Girls).md
       - Performing Arts/Modern Dance (Boys & Girls).md
       - Performing Arts/Drama (Boys & Girls).md
