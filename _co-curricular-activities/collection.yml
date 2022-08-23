@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports & Games/Football (Boys).md
       - Sports & Games/Cross Country (Boys & Girls).md
       - Sports & Games/Canoeing (Boys & Girls).md
       - Sports & Games/Table Tennis (Girls).md
