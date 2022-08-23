@@ -14,4 +14,5 @@ description: ""
   
 <p style="text-align:center;"><strong><a name="Link1"></a>Introduction</strong></p>
 
-[Up](#up)
+
+<p style="text-align:right;"><a href="#up">Up</a></p>
