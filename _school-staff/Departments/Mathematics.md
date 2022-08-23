@@ -134,10 +134,14 @@ Dylan Yap (4G)
 Lou Jia Jun (4D)  
 Tay Shao Yang (4D)
 
-![](/images/Peer-Tutoring-768x576.jpeg)
+![Peer Tutoring](/images/Peer-Tutoring-768x576.jpeg)
+Peer Tutoring
 
-![](/images/Peers-Learning.jpeg)
+![Peers Learning](/images/Peers-Learning.jpeg)
+Peers Learning
 
-![](/images/Competition-768x573.jpeg)
+![Competition](/images/Competition-768x573.jpeg)
+Competition
 
-![](/images/Competition2-768x575.jpeg)
+![Competition2](/images/Competition2-768x575.jpeg)
+Competition2
