@@ -28,7 +28,7 @@ Our Talent Development Program provides opportunities for high-performing studen
 
 ### Achievements
 
-**2021**
+**<u>2021</u>**
 
 GESS withdraw from SMO due to Covid
 
@@ -36,11 +36,11 @@ GESS withdraw from SMO due to Covid
 
 Lim Xiao Xuan Alexis (2-8) emerged in the 15th position in Lower Secondary Normal Technical Category
 
-**2020**
+**<u>2020</u>**
 
 SMO competition was cancelled
 
-**2019**
+**<u>2019</u>**
 
 **“Problems In Real World Context Mathematics” Competition For Express Students 2019**
 
@@ -53,9 +53,9 @@ Tan Tong Yang Aloysius (3D)
 
 **Maths Challenge**
 
-**Overall (School-based) : 1st runner-up**
+**<u>Overall (School-based) : 1st runner-up</u>**
 
-**Team 1**
+**<u>Team 1</u>**
 
 Champion for Session 2B Alpha Blast and 1st runner-up for Session 2 Omega Escape
 
@@ -68,7 +68,7 @@ Champion for Session 2B Alpha Blast and 1st runner-up for Session 2 Omega Escap
 9.  Damien Wee Xi Jun (4D)
 10.  Su Jia Ying, Joanne (4D)
 
-**Team 2**
+**<u>Team 2</u>**
 
 9.  Ng Ee-Jo (4E)
 10.  Tan Wei Yong (4E)
@@ -79,9 +79,9 @@ Champion for Session 2B Alpha Blast and 1st runner-up for Session 2 Omega Escap
 15.  Yashvan Alagirisamy (4G)
 16.  Justus Ong Chi Heung (4G)
 
-**Team 3**
+**<u>Team 3</u>**
 
-Winner for Session 2B Alpha Blast
+<u>Winner for Session 2B Alpha Blast</u>
 
 17.  Ho Ka Ting (4F)
 18.  Foong Yu Hao, Jordan (4F)
@@ -105,15 +105,15 @@ Ho Zong Da Delton (5A) emerged in the 9th position in Upper Secondary Normal A
 
 **1 Silver, 3 Bronze and 4 Honourable Mention**
 
-**Silver**  
+**<u>Silver</u>**  
 Kendrick Yeo Dae Juan (2F)
 
-**Bronze**  
+**<u>Bronze</u>**  
 Ganesh S (2F)  
 Lu Wuyi (2E)  
 Tan Jia Jie Colin (2F)
 
-**Honourable Mention**  
+**<u>Honourable Mention</u>**  
 Alven Tan Yi Hng (2F)  
 Jovan Tan (2D)  
 Lim Zhe Xian (2D)  
@@ -123,12 +123,12 @@ Zhong Shuwen (2G)
 
 **3 Bronze and 4 Honourable Mention**
 
-**Bronze**  
+**<u>Bronze</u>**  
 Alistair Tan Xiang Lin (4D)  
 Lucas Cheong Wai (4E)  
 Tan Wei Yong (4E)
 
-**Honourable Mention**  
+**<u>Honourable Mention</u>**  
 Cheng Yu Jie (4H)  
 Dylan Yap (4G)  
 Lou Jia Jun (4D)  
