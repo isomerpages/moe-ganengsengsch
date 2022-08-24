@@ -47,12 +47,12 @@ description: ""
 *   **[Secondary 4 Normal Technical](/files/4NT-MYE-2022-updated-6-Apr.pdf)**
 *   **[Sec 5 Normal Academic](/files/5NA-MYE-2022-updated-6-Apr.pdf)**
 
-### **Mid-Year Examination Format & Topics 2022**
+<h5 style="color:black">Mid-Year Examination Format & Topics 2022</h5>
 
-*   **[Sec 2 Express](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/04/S2E-MYE-Topic-and-Format.pdf)**
-*   **[Sec 2 Normal Academic](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/04/S2NA-MYE-Topic-and-Format.pdf)**
-*   **[Sec 2 Normal Technical](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/05/Sec-2-Normal-Technical-1.pdf)**
-*   **[Sec 4 Express](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/04/S4E-MYE-Topic-and-Format.xlsx.pdf)**
-*   **[Sec 4 Normal Academic](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/04/S4NA-MYE-Topic-and-Format.xlsx.pdf)**
-*   **[Sec 4 Normal Technical](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/04/S4NT-MYE-Topic-and-Format.pdf)**
-*   **[Sec 5 Normal Academic](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/04/S5NA-MYE-Topic-and-Format.pdf)**
+*   **[Sec 2 Express](/files/S2E-MYE-Topic-and-Format.pdf)**
+*   **[Sec 2 Normal Academic](/files/S2NA-MYE-Topic-and-Format.pdf)**
+*   **[Sec 2 Normal Technical](/files/Sec-2-Normal-Technical-1.pdf)**
+*   **[Sec 4 Express](/files/S4E-MYE-Topic-and-Format.pdf)**
+*   **[Sec 4 Normal Academic](/files/S4NA-MYE-Topic-and-Format.pdf)**
+*   **[Sec 4 Normal Technical](/files/S4NT-MYE-Topic-and-Format.pdf)**
+*   **[Sec 5 Normal Academic](/files/S5NA-MYE-Topic-and-Format.pdf)**
