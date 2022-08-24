@@ -9,7 +9,7 @@ description: ""
 
 <h5 style="color:black">Approved Calculator List</h5>
 
-#### [guidelines\_calculators](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/01/guidelines_calculators.pdf)
+[Guidelines for Calculators](/files/guidelines_calculators.pdf)
 
 ### Approved Dictionaries
 
