@@ -27,8 +27,8 @@ description: ""
 *   **[Sec 3 Normal Academic](/files/2022-GESS-WA_3NA.pdf)**
 *   **[Sec 3 Normal Technical](/files/2022-GESS-WA_3NT.pdf)**
 *   **[Sec 4 Express](/files/2022-GESS-WA_4Exp.pdf)**
-*   **[Sec 4 Normal Academic](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/01/2022-GESS-WA_4NA.pdf)**
-*   **[Sec 4 Normal Technical](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/01/2022-GESS-WA_4NT.pdf)**
+*   **[Sec 4 Normal Academic](/files/2022-GESS-WA_4NA.pdf)**
+*   **[Sec 4 Normal Technical](/files/2022-GESS-WA_4NT.pdf)**
 *   **[Sec 5 Normal Academic](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/01/2022-GESS-WA_5NA.pdf)**
 
 ### **Preliminary Examination Timetable 2022**
