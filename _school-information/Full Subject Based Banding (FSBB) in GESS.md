@@ -168,11 +168,10 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 </li>
 	<li>  
     <input type="checkbox" id="accordion9">  
-    <label for="accordion9"><h5 style="color:black">Will I have problems mixing with others from widely diverse backgrounds?</h5></label>  
+    <label for="accordion9"><h5 style="color:black">Will there be time allowance for us to move from one venue to another?</h5></label>  
     <div>  
       <ul>
-				<li>It is important for students to feel accepted, safe and empowered in the classroom. Through our emphasis on positive teacher-student relationships as well as peer support and relationships, students will be well supported emotionally and learn to adopt the right mindsets and skills when engaging with one another.</li>
-				<li>There are also CCAs and many school-wide activities such as cohort camps, Learning Journeys and sports-based events (Sports Fiesta, Cross-Country) that enable students to form strong friendships regardless of backgrounds.</li>
+				<li>Our current system already ensures that students are familiar with the need to move from one venue to another for different lessons. Lessons will end promptly on the bell, which will be the cue for students and teachers to move to their next venues.</li>
 			</ul>  
     </div>  
 </li>
