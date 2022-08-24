@@ -11,7 +11,7 @@ description: ""
 
 ***
   
-<p style="text-align:center;"><strong><a name="Link1"></a>Introduction</strong></p>
+<p style="text-align:center;"><strong><a name="Link_1"></a>Introduction</strong></p>
 
 <img src="/images/group-potrait-1.jpeg" align="left" style="width:15%;">
 <img src="/images/group-potrait-4.jpeg" align="right" style="width:21%;">
@@ -29,7 +29,7 @@ When FSBB is fully implemented, students from the Express, Normal (Academic), an
 
 ***
 
-<p style="text-align:center;"><strong><a name="Link2"></a>How does FSBB work?</strong></p>
+<p style="text-align:center;"><strong><a name="Link_2"></a>How does FSBB work?</strong></p>
 
 <img src="/images/group-potrait-3.jpeg" style="width:120px;height:220px;margin-left:15px;" align = "left"> Under FSBB, all the subjects students offer are categorised into two groups – those in the Common Curriculum, and those offered as SBB subjects at different levels.
 
@@ -64,7 +64,7 @@ In this case, we can see that while all three students attend the same Common Cu
 
 ***
 
-<p style="text-align:center;"><strong><a name="Link3"></a>How does FSBB work?</strong></p>
+<p style="text-align:center;"><strong><a name="Link_3"></a>How does FSBB work?</strong></p>
 
 Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school has been preparing for the pilot:
 
@@ -74,7 +74,7 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 
 ***
 
-<p style="text-align:center;"><strong><a name="Link4"></a>FSBB FAQs</strong></p>
+<p style="text-align:center;"><strong><a name="Link_4"></a>FSBB FAQs</strong></p>
 
 <h4 style="color:black" align="left">A. Curriculum Demands of Reorganised Form Classes</h4>
 
