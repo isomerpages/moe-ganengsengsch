@@ -2,4 +2,5 @@ collections:
   school-information:
     output: true
     order:
+      - Events/.keep
       - Full Subject Based Banding (FSBB) in GESS.md
