@@ -182,10 +182,12 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion10">  
-    <label for="accordion10"><h5 style="color:black">Can I cope with the common curriculum?</h5></label>  
+    <label for="accordion10"><h5 style="color:black">How does studying the Humanities benefit me?</h5></label>  
     <div>  
       <ul>
-				<li>The common curriculum comprises <strong>Music, Art, D&T, PE, FCE</strong> and <strong>CCE</strong>. It is designed to ensure accessibility to all students. There would be common curriculum coverage and assessment tasks and rubrics that will allow all students to meet each subject’s requirements.</li>
+				<li>Studying the Humanities at a higher level enables students to be more holistic in their cognitive development and appreciation of the world.</li>
+				<li>Geography enables students to gain insights into contemporary issues of environmental and human concerns, as well as an understanding of present and future resources and societal challenges.</li>
+				<li>Literature helps students become critical readers, convincing communicators and empathetic thinkers.</li>
 			</ul>  
     </div>  
 </li>
