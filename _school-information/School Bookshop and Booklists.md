@@ -5,7 +5,7 @@ description: ""
 ---
 Dear Parents / Guardians,
 
-**Sale and Collection of Textbooks / Stationeries for year 2022**
+**<u>Sale and Collection of Textbooks / Stationeries for year 2022</u>**
 
 Please be informed that there will be no physical sale of textbooks/stationeries in the school premises this year due to Covid-19 situation. You can purchase the school items online at [www.pacificbookstores.com](http://www.pacificbookstores.com/) with options for home delivery (Fixed delivery Charge of $13.80 applies) or self-collection in school premises. The online ordering system will be available from 5 Nov 2021 to 13 Dec 2021 (For Sec 2 – 5) and 20 Dec 2021 – 27 Dec 2021 (For Sec 1 Only) through the Pacific Bookstores Website.
 
