@@ -203,19 +203,20 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 </li>
 	<li>  
     <input type="checkbox" id="accordion12">  
-    <label for="accordion12"><h5 style="color:black">How will I be stretched in a class if I have obtained very good PSLE results?</h5></label>  
+    <label for="accordion12"><h5 style="color:black">Can I withdraw from Express Humanities and return to N(A) Humanities if I cannot cope with or do not like the subject?</h5></label>  
     <div>  
       <ul>
-				<li>The school has distinctive signature programmes that will stretch our able students in the form of national and international competitions such as the Math and Science Olympiads, the Queen’s Commonwealth Essay Competition, among others. The school also has an enrichment programme with Raffles Institution to nurture the passion of our top Science students.</li>
+				<li>Students are encouraged to give themselves time to adapt to the demands of a higher-level subject, and will be encouraged to persevere.</li>
+				<li>The school would involve the student’s parents and teachers when such a request is made. The student and his/her parents can make the final decision to continue or drop the subject, as long as they are aware of the impact on the student’s post-secondary progression.</li>
 			</ul>  
     </div>  
 </li>
 	<li>  
     <input type="checkbox" id="accordion13">  
-    <label for="accordion13"><h5 style="color:black">Is there streaming at the end of Sec 2?</h5></label>  
+    <label for="accordion13"><h5 style="color:black">Will offering Humanities at a higher level affect my promotion? What are the consequences if I fail Express Humanities?</h5></label>  
     <div>  
       <ul>
-				<li>Streaming for different subject combinations will take place based on students’ Sec 2 overall results. Students will be placed in courses that best fit their academic ability and aspirations for their upper secondary education.</li>
+				<li>The criteria for promotion and retention remain unchanged. The higher-level Humanities subject(s) offered will be considered among the student’s suite of subjects.</li>
 			</ul>  
     </div>  
 </li>
