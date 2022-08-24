@@ -41,11 +41,11 @@ description: ""
 
 <h5 style="color:black">Mid-Year Examination Timetable 2022</h5>
 
-*   **[Secondary 2](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/05/S2-MYE-TT-22-1.pdf)**
-*   **[Secondary 4 Express](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/04/4XP-MYE-2022-updated-6-Apr-1.pdf)**
-*   **[Secondary 4 Normal Academic](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/04/4NA-MYE-2022-updated-8-Apr.docx.pdf)**
-*   **[Secondary 4 Normal Technical](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/04/4NT-MYE-2022-updated-6-Apr.pdf)**
-*   **[Sec 5 Normal Academic](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/04/5NA-MYE-2022-updated-6-Apr.pdf)**
+*   **[Secondary 2](/files/S2-MYE-TT-22-1.pdf)**
+*   **[Secondary 4 Express](/files/4XP-MYE-2022-updated-6-Apr-1.pdf)**
+*   **[Secondary 4 Normal Academic](/files/4NA-MYE-2022-updated-8-Apr.pdf)**
+*   **[Secondary 4 Normal Technical](/files/4NT-MYE-2022-updated-6-Apr.pdf)**
+*   **[Sec 5 Normal Academic](/files/5NA-MYE-2022-updated-6-Apr.pdf)**
 
 ### **Mid-Year Examination Format & Topics 2022**
 
