@@ -24,7 +24,7 @@ To view the subject combinations offered to Secondary 3 students in 2020, please
 
 Gan Eng Seng School (GESS) is guided by the NURTURE@GESS Framework which anchors on the belief that education in the 21st century is about nurturing the whole person. This holistic focuses on four key areas: Quality Learning and Teaching, Quality Student Experience, Quality Relationship and Character-based Education. These are supported by the learning structures, social processes and affiliation which aim at the holistic development of all Gessians.
 
-For more details, please click [here](https://ganengsengsch.moe.edu.sg/nurturegess/holistic-education-at-gess/).
+For more details, please click [here](/nurturegess/holistic-education-at-gess/).
 
 **4\. What is the reporting time for students during normal school days?**
 
