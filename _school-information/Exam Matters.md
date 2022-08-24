@@ -19,7 +19,7 @@ description: ""
 
 *   **[Sec 1 Express](/files/2022-GESS-WA_1EXP-1.pdf)**
 *   **[Sec 1 Normal Academic](/files/2022-GESS-WA_1NA-1.pdf)**
-*   **[Sec 1 Normal Technical](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/01/2022-GESS-WA_1NT-1.pdf)** 
+*   **[Sec 1 Normal Technical](/files/2022-GESS-WA_1NT-1.pdf)** 
 *   **[Sec 2 Express](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/08/2022-GESS-WA_2EXP.xlsx.pdf)**
 *   **[Sec 2 Normal Academic](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/04/2022-GESS-WA_2NA.pdf)**
 *   **[Sec 2 Normal Technical](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/01/2022-GESS-WA_2NT-1.pdf)**
