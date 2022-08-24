@@ -20,7 +20,7 @@ The following categories are open for DSA application for the 2023 intake:
 *   English Drama
 *   Marching Band
 
-[Slides on DSA 2022 (GESS)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/05/DSA_GESS_2022-for-Sch-Portal-4th-May-2022.pdf)
+[Slides on DSA 2022 (GESS)](/files/DSA_GESS_2022-for-Sch-Portal-4th-May-2022.pdf)
 
 For more information and application, please refer to:
 
