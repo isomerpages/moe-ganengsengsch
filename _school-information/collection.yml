@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Quick Links.md
       - 2021 Sec 3 Subject Combinations.md
       - Achievers’ Programme (AP).md
       - Purchase of School Uniform.md
