@@ -130,6 +130,29 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 
 <h4 style="color:black" align="left">B. Social mixing in reorganised Form Classes</h4>
 
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion6">  
+    <label for="accordion6"><h5 style="color:black">With a mix of students from different streams in each form class, will I be with them for all our lessons?</h5></label>  
+    <div>  
+      <ul>
+				<li>Students from different streams are in the same Form Class for the Common Curriculum subjects. The outcomes of a FSBB classroom are (a) to foster a sense of belonging in all students, (b) to nurture students’ strengths and potential, and (c) to appreciate diversity. Over time, with established classroom routines and expectations put in place, students will form strong bonds that will enable them to help one another in the learning process.</li>
+				<li>For the other subjects, students will be with peers of the same stream and those who have done well to qualify for a SBB subject.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion7">  
+    <label for="accordion7"><h5 style="color:black">Will I have problems mixing with others from widely diverse backgrounds?</h5></label>  
+    <div>  
+      <ul>
+				<li>It is important for students to feel accepted, safe and empowered in the classroom. Through our emphasis on positive teacher-student relationships as well as peer support and relationships, students will be well supported emotionally and learn to adopt the right mindsets and skills when engaging with one another.</li>
+				<li>There are also CCAs and many school-wide activities such as cohort camps, Learning Journeys and sports-based events (Sports Fiesta, Cross-Country) that enable students to form strong friendships regardless of backgrounds.</li>
+			</ul>  
+    </div>  
+</li>
+</ul>
+
 <h4 style="color:black" align="left">C. Timetabling matters concerning reorganised Form Classes</h4>
 
 <h4 style="color:black" align="left">D. Curriculum demands of higher-level Humanities subjects</h4>
