@@ -43,8 +43,8 @@ December Operating Hours
    Dec 24 & 31:                    9 am to 1 pm  
    **Sun & Public Holiday:  CLOSE**
 
-**(c)    **BIBI & BABA Private Limited  
-         Address: Gan Eng Seng School 1 Henderson Road Singapore 159561****
+**(c)**    **BIBI & BABA Private Limited  
+         Address: Gan Eng Seng School 1 Henderson Road Singapore 159561**
 
 December Operating Hours  
 Dec 23:                                 12 pm to 3 pm  
