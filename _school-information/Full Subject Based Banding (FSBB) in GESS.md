@@ -241,19 +241,19 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 </li>
 	<li>  
     <input type="checkbox" id="accordion16">  
-    <label for="accordion16"><h5 style="color:black">Is there streaming at the end of Sec 2?</h5></label>  
+    <label for="accordion16"><h5 style="color:black">If I do not qualify for higher level Humanities at the end of Sec 1, is there another chance?</h5></label>  
     <div>  
       <ul>
-				<li>Streaming for different subject combinations will take place based on students’ Sec 2 overall results. Students will be placed in courses that best fit their academic ability and aspirations for their upper secondary education.</li>
+				<li>At the end of Sec 2, students who meet the criteria for out-of-stream (OSS) subjects at the upper secondary levels can offer higher-level Humanities.</li>
 			</ul>  
     </div>  
 </li>
 	<li>  
     <input type="checkbox" id="accordion17">  
-    <label for="accordion17"><h5 style="color:black">Are there changes at the National Exams for a FSBB student?</h5></label>  
+    <label for="accordion17"><h5 style="color:black">Does offering Humanities at a higher level increase my chance to be laterally transferred?</h5></label>  
     <div>  
       <ul>
-				<li>At the moment, there are no changes to the national exams for FSBB students. Students will register for their subjects according to the stream that they offer these subjects at, eg. Express Mathematics, N(A) Science etc.
+				<li>The criteria for lateral transfer are independent of whether a student offers higher-level Humanities, although offering subjects at a higher level is an indication of his/her ability to cope with higher academic demands.
 				</li>
 			</ul>  
     </div>  
