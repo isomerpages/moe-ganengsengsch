@@ -261,3 +261,25 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 </ul>
 
 <h4 style="color:black" align="left">E. Timetabling matters concerning higher-level Humanities subjects</h4>
+
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion18">  
+    <label for="accordion18"><h5 style="color:black">What will the timetable look like?</h5></label>  
+    <div>  
+      <ul>
+				<li>Students will stay in their Form Classes for all subjects in the Common Curriculum. For the other subjects, they will move to different venues, according to the level of each subject they are offering. These will be indicated clearly on the timetable.</li>
+				<li>Lessons will begin at 7:45am after flag-raising and students will end at different timings depending on their subject combinations. CCAs are on Tuesday and Friday afternoons.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion19">  
+    <label for="accordion19"><h5 style="color:black">Will there be time allowance for us to move from one venue to another?</h5></label>  
+    <div>  
+      <ul>
+				<li>Our current system already ensures that students are familiar with the need to move from one venue to another for different lessons. Lessons will end promptly on the bell, which will be the cue for students and teachers to move to their next venues.</li>
+			</ul>  
+    </div>  
+</li>
+</ul>
