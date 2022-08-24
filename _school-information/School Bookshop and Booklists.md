@@ -21,7 +21,7 @@ Mode of payment: Master/Visa/Pay now (Scan & Pay)
 
 #### Booklist
 
-*   [Gan Eng Seng School Booklist for 2022 (Secondary 1 Express)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/12/Gan-Eng-Seng-School-Booklist-for-2022-Secondary-1-Express.pdf)
+*   [Gan Eng Seng School Booklist for 2022 (Secondary 1 Express)](/files/Gan-Eng-Seng-School-Booklist-for-2022-Secondary-1-Express.pdf)
 *   [Gan Eng Seng School Booklist for 2022 (Secondary 1 Normal Academic)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/12/Gan-Eng-Seng-School-Booklist-for-2022-Secondary-1-Normal-Academic.pdf)
 *   [Gan Eng Seng School Booklist for 2022 (Secondary 1 Normal Technical)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/12/Gan-Eng-Seng-School-Booklist-for-2022-Secondary-1-Normal-Technical.pdf)
 *   [Gan Eng Seng School Booklist for 2022 (Secondary 2 Express)](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/10/Gan-Eng-Seng-School-Booklist-for-2022-Secondary-2-Express.pdf)
