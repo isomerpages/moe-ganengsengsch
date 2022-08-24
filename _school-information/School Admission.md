@@ -6,7 +6,7 @@ description: ""
 #### Application For Transfer to Gan Eng Seng School
 
 1.  **Transfer application for PSLE Student after Sec 1 Posting Results**  
-    Please submit the duly completed [Application Form](https://go.gov.sg/gesstransfer2022) and supporting documents via the Formsg. The application should only be submitted after the release of the Secondary School Posting Result before 11:59pm, 27 December 2021.
+    Please submit the duly completed [Application Form](https://go.gov.sg/gesstransfer2022) and supporting documents via the Formsg. The application should only be submitted <u>after</u> the release of the Secondary School Posting Result <u>before 11:59pm, 27 December 2021</u>.
 2.  **Transfer application for existing Secondary One To Three Students**  
     Please download and submit the duly completed [Application Form](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2019/10/GESS-transfer-application-form-for-transfers-to-Sec-2-or-3.pdf) and supporting documents at the school’s General Office
 3.  **Leave of Absence (LOA) Scheme**  
