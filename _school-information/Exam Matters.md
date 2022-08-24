@@ -3,7 +3,7 @@ title: Exam Matters
 permalink: /school-information/exam-matters/
 description: ""
 ---
-### Exam Rules and Regulations
+<h4 style="color:black">Exam Rules and Regulations</h4>
 
 #### [Examination Rules And Regulations](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/02/Examination-Rules-And-Regulations.pdf)
 
