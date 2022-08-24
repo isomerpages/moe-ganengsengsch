@@ -15,7 +15,7 @@ description: ""
 
 [List of Dictionaries for Examination](/files/list_of_dictionaries_for_examination.pdf)
 
-### Weighted Assessment (WA) Schedule 2022
+<h5 style="color:black">Weighted Assessment (WA) Schedule 2022</h5>
 
 *   **[Sec 1 Express](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/03/2022-GESS-WA_1EXP-1.pdf)**
 *   **[Sec 1 Normal Academic](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/03/2022-GESS-WA_1NA-1.pdf)**
