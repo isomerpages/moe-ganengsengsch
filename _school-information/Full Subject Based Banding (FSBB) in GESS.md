@@ -222,20 +222,20 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 </li>
 	<li>  
     <input type="checkbox" id="accordion14">  
-    <label for="accordion14"><h5 style="color:black">Are there changes at the National Exams for a FSBB student?</h5></label>  
+    <label for="accordion14"><h5 style="color:black">Will there be any bridging lessons to help me adjust to the higher level Humanities subject?</h5></label>  
     <div>  
       <ul>
-				<li>At the moment, there are no changes to the national exams for FSBB students. Students will register for their subjects according to the stream that they offer these subjects at, eg. Express Mathematics, N(A) Science etc.
+				<li>There will be support provided for students offering higher-level Humanities subjects. This can be in the form of bridging lessons, consultation sessions or briefings to guide students to adjust to the greater demands.
 				</li>
 			</ul>  
     </div>  
 </li>
 		<li>  
     <input type="checkbox" id="accordion15">  
-    <label for="accordion15"><h5 style="color:black">How will I be stretched in a class if I have obtained very good PSLE results?</h5></label>  
+    <label for="accordion15"><h5 style="color:black">Can I offer both Geography and Literature at a higher level?</h5></label>  
     <div>  
       <ul>
-				<li>The school has distinctive signature programmes that will stretch our able students in the form of national and international competitions such as the Math and Science Olympiads, the Queen’s Commonwealth Essay Competition, among others. The school also has an enrichment programme with Raffles Institution to nurture the passion of our top Science students.</li>
+				<li>Yes, students are allowed to offer both Geography and Literature at a higher level. This decision should be guided by their passion for the subjects, as well as their overall ability to cope with the other subjects and non-academic commitments.</li>
 			</ul>  
     </div>  
 </li>
