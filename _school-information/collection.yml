@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Achievers’ Programme (AP).md
       - Purchase of School Uniform.md
       - School Bookshop and Booklists.md
       - Exam Matters.md
