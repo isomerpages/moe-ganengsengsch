@@ -155,6 +155,29 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 
 <h4 style="color:black" align="left">C. Timetabling matters concerning reorganised Form Classes</h4>
 
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion8">  
+    <label for="accordion8"><h5 style="color:black">What will the timetable look like?</h5></label>  
+    <div>  
+      <ul>
+				<li>Students will stay in their Form Classes for all subjects in the Common Curriculum. For the other subjects, they will move to different venues, according to the level of each subject they are offering. These will be indicated clearly on the timetable.</li>
+				<li>Lessons will begin at 7:45am after flag-raising and students will end at different timings depending on their subject combinations. CCAs are on Tuesday and Friday afternoons.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion9">  
+    <label for="accordion9"><h5 style="color:black">Will I have problems mixing with others from widely diverse backgrounds?</h5></label>  
+    <div>  
+      <ul>
+				<li>It is important for students to feel accepted, safe and empowered in the classroom. Through our emphasis on positive teacher-student relationships as well as peer support and relationships, students will be well supported emotionally and learn to adopt the right mindsets and skills when engaging with one another.</li>
+				<li>There are also CCAs and many school-wide activities such as cohort camps, Learning Journeys and sports-based events (Sports Fiesta, Cross-Country) that enable students to form strong friendships regardless of backgrounds.</li>
+			</ul>  
+    </div>  
+</li>
+</ul>
+
 <h4 style="color:black" align="left">D. Curriculum demands of higher-level Humanities subjects</h4>
 
 <h4 style="color:black" align="left">E. Timetabling matters concerning higher-level Humanities subjects</h4>
