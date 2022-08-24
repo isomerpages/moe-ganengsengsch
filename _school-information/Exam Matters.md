@@ -36,8 +36,8 @@ description: ""
 
 *   **[Sec 4 Express Prelim 2022](/files/S4Exp-Prelim-TT-22-1.pdf)**
 *   **[Sec 4 Normal Academic Prelim 2022](/files/S4NA-Prelim-TT-22-1.pdf)**
-*   **[Sec 4 Normal Technical Prelim 2022](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/07/S4NT-Prelim-TT-22.pdf)**
-*   **[Sec 5 Normal Academic Prelim 2022](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/07/Sec-5-NA-Prelim-TT-22-1.pdf)**
+*   **[Sec 4 Normal Technical Prelim 2022](/files/S4NT-Prelim-TT-22.pdf)**
+*   **[Sec 5 Normal Academic Prelim 2022](/files/Sec-5-NA-Prelim-TT-22-1.pdf)**
 
 ### **Mid-Year Examination Timetable 2022**
 
