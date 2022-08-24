@@ -3,12 +3,35 @@ title: FAQ
 permalink: /frequently-asked-questions/
 description: ""
 ---
+**1\. What are the school’s current DSA-Sec programmes?**
 
+Gan Eng Seng School offers DSA for the following programmes:
 
-### **FAQ**
+*   Applied Learning Programme (ALP-STEM)
+*   Basketball (Boys)
+*   Football (Boys)
+*   Table Tennis (Girls)
+*   Choir
+*   Contemporary Dance
+*   Drama
+*   Military Band
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+**2.  What are the school’s subject combination for Sec 3s?**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+To view the subject combinations offered to Secondary 3 students in 2020, please click [here](/files/2020-Sec-3-Class-Combination-after-survey-final-briefing-20-oct-2020%20(1).pdf).
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+**3\. How does the school implement holistic education?**
+
+Gan Eng Seng School (GESS) is guided by the NURTURE@GESS Framework which anchors on the belief that education in the 21st century is about nurturing the whole person. This holistic focuses on four key areas: Quality Learning and Teaching, Quality Student Experience, Quality Relationship and Character-based Education. These are supported by the learning structures, social processes and affiliation which aim at the holistic development of all Gessians.
+
+For more details, please click [here](https://ganengsengsch.moe.edu.sg/nurturegess/holistic-education-at-gess/).
+
+**4\. What is the reporting time for students during normal school days?**
+
+On Mondays, all students must assemble at the parade ground by 8.20 am for the Silent Reading Programme. Attendance will be taken at 8.20 am sharp.
+
+From Tuesdays to Fridays, all students must reach school before 7.15 am for the Silent Reading Programme. Attendance will be taken at 7.15 am sharp.
+
+**5\. If I need information that is not on the school website, what should I do?**
+
+You may contact our General Office at 6474 5594 or email us at [gess@moe.edu.sg](mailto:gess@moe.edu.sg).
