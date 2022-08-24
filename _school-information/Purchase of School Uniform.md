@@ -25,7 +25,7 @@ Password: Will be inform via Parents Gateway
          Singapore 238882   
          Tel: 6732 7022** 
 
-December Operating Hours  
+<u>December Operating Hours</u>  
 Mon – Sat:                           10 am to 7 pm  
 Sun:                                       10 am to 6 pm  
 Dec 24 & 31:                       10 am to 4 pm  
@@ -36,16 +36,17 @@ Jan 01:                                 10 am to 6 pm
          **Address: 213 Henderson Road #01-12 Singapore 159553**  
          **Tel: 6271 9248**
 
-December Operating Hours
+<u>December Operating Hours</u>
 
    Mon – Fri:                         9 am to 6 pm  
-   Sat:                                     9 am to 5 pm  
+   Sat:                                       9 am to 5 pm  
    Dec 24 & 31:                    9 am to 1 pm  
    **Sun & Public Holiday:  CLOSE**
 
 **(c)**    **BIBI & BABA Private Limited  
          Address: Gan Eng Seng School 1 Henderson Road Singapore 159561**
 
-December Operating Hours  
+<u>December Operating Hours</u>  
 Dec 23:                                 12 pm to 3 pm  
-**Dec 24 – 26 & 31:             CLOSE**Dec 27 – 30:                        9 am to 3 pm
+**Dec 24 – 26 & 31:             CLOSE**<br>
+Dec 27 – 30:                        9 am to 3 pm
