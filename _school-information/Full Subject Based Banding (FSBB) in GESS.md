@@ -179,4 +179,82 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 
 <h4 style="color:black" align="left">D. Curriculum demands of higher-level Humanities subjects</h4>
 
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion10">  
+    <label for="accordion10"><h5 style="color:black">Can I cope with the common curriculum?</h5></label>  
+    <div>  
+      <ul>
+				<li>The common curriculum comprises <strong>Music, Art, D&T, PE, FCE</strong> and <strong>CCE</strong>. It is designed to ensure accessibility to all students. There would be common curriculum coverage and assessment tasks and rubrics that will allow all students to meet each subject’s requirements.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion11">  
+    <label for="accordion11"><h5 style="color:black">Can I change a SBB subject I am doing to a lower level at any time if I cannot cope?</h5></label>  
+    <div>  
+      <ul>
+				<li>It takes time to adjust to the demands of a higher-level subject, so students should allow themselves a full two years before deciding if they wish to continue offering the subject at a higher level in the upper secondary years. Interest in the subject is more important than the marks obtained, so students should not use marks as an indicator of their ability to cope with the subject.</li>
+				<li>The school would involve the student’s parents and teachers when such a request is made. The student and his/her parents can make the final decision to continue or drop the subject, as long as they are aware of the impact on the student’s post-secondary progression.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion12">  
+    <label for="accordion12"><h5 style="color:black">How will I be stretched in a class if I have obtained very good PSLE results?</h5></label>  
+    <div>  
+      <ul>
+				<li>The school has distinctive signature programmes that will stretch our able students in the form of national and international competitions such as the Math and Science Olympiads, the Queen’s Commonwealth Essay Competition, among others. The school also has an enrichment programme with Raffles Institution to nurture the passion of our top Science students.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion13">  
+    <label for="accordion13"><h5 style="color:black">Is there streaming at the end of Sec 2?</h5></label>  
+    <div>  
+      <ul>
+				<li>Streaming for different subject combinations will take place based on students’ Sec 2 overall results. Students will be placed in courses that best fit their academic ability and aspirations for their upper secondary education.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion14">  
+    <label for="accordion14"><h5 style="color:black">Are there changes at the National Exams for a FSBB student?</h5></label>  
+    <div>  
+      <ul>
+				<li>At the moment, there are no changes to the national exams for FSBB students. Students will register for their subjects according to the stream that they offer these subjects at, eg. Express Mathematics, N(A) Science etc.
+				</li>
+			</ul>  
+    </div>  
+</li>
+		<li>  
+    <input type="checkbox" id="accordion15">  
+    <label for="accordion15"><h5 style="color:black">How will I be stretched in a class if I have obtained very good PSLE results?</h5></label>  
+    <div>  
+      <ul>
+				<li>The school has distinctive signature programmes that will stretch our able students in the form of national and international competitions such as the Math and Science Olympiads, the Queen’s Commonwealth Essay Competition, among others. The school also has an enrichment programme with Raffles Institution to nurture the passion of our top Science students.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion16">  
+    <label for="accordion16"><h5 style="color:black">Is there streaming at the end of Sec 2?</h5></label>  
+    <div>  
+      <ul>
+				<li>Streaming for different subject combinations will take place based on students’ Sec 2 overall results. Students will be placed in courses that best fit their academic ability and aspirations for their upper secondary education.</li>
+			</ul>  
+    </div>  
+</li>
+	<li>  
+    <input type="checkbox" id="accordion17">  
+    <label for="accordion17"><h5 style="color:black">Are there changes at the National Exams for a FSBB student?</h5></label>  
+    <div>  
+      <ul>
+				<li>At the moment, there are no changes to the national exams for FSBB students. Students will register for their subjects according to the stream that they offer these subjects at, eg. Express Mathematics, N(A) Science etc.
+				</li>
+			</ul>  
+    </div>  
+</li>
+</ul>
+
 <h4 style="color:black" align="left">E. Timetabling matters concerning higher-level Humanities subjects</h4>
