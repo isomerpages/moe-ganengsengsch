@@ -2,14 +2,14 @@ collections:
   school-information:
     output: true
     order:
-      - Quick Links.md
-      - 2021 Sec 3 Subject Combinations.md
-      - Achievers’ Programme (AP).md
-      - Purchase of School Uniform.md
-      - School Bookshop and Booklists.md
-      - Exam Matters.md
-      - Direct School Admission (DSA).md
-      - School Admission.md
-      - Events/Event Calendar.md
-      - Events/.keep
       - Full Subject Based Banding (FSBB) in GESS.md
+      - Events/.keep
+      - Events/Event Calendar.md
+      - School Admission.md
+      - Direct School Admission (DSA).md
+      - Exam Matters.md
+      - School Bookshop and Booklists.md
+      - Purchase of School Uniform.md
+      - Achievers’ Programme (AP).md
+      - 2021 Sec 3 Subject Combinations.md
+      - Quick Links.md
