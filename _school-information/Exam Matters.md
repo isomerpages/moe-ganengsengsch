@@ -3,11 +3,11 @@ title: Exam Matters
 permalink: /school-information/exam-matters/
 description: ""
 ---
-<h4 style="color:black">Exam Rules and Regulations</h4>
+<h5 style="color:black">Exam Rules and Regulations</h5>
 
-#### [Examination Rules And Regulations](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/02/Examination-Rules-And-Regulations.pdf)
+[Examination Rules And Regulations](/files/Examination-Rules-And-Regulations.pdf)
 
-### Approved Calculator List
+<h5 style="color:black">Approved Calculator List</h5>
 
 #### [guidelines\_calculators](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/01/guidelines_calculators.pdf)
 
