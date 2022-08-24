@@ -11,9 +11,9 @@ description: ""
 
 [Guidelines for Calculators](/files/guidelines_calculators.pdf)
 
-### Approved Dictionaries
+<h5 style="color:black">Approved Dictionaries</h5>
 
-#### [list\_of\_dictionaries\_for\_examination](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/01/list_of_dictionaries_for_examination.pdf)
+[List of Dictionaries for Examination](/files/list_of_dictionaries_for_examination.pdf)
 
 ### Weighted Assessment (WA) Schedule 2022
 
