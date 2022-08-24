@@ -31,7 +31,8 @@ description: ""
 *   **[Sec 4 Normal Technical](/files/2022-GESS-WA_4NT.pdf)**
 *   **[Sec 5 Normal Academic](/files/2022-GESS-WA_5NA.pdf)**
 
-### **Preliminary Examination Timetable 2022**
+
+<h5 style="color:black">Preliminary Examination Timetable 2022</h5>
 
 *   **[Sec 4 Express Prelim 2022](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/07/S4Exp-Prelim-TT-22-1.pdf)**
 *   **[Sec 4 Normal Academic Prelim 2022](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2022/07/S4NA-Prelim-TT-22-1.pdf)**
