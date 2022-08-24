@@ -193,11 +193,11 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 </li>
 	<li>  
     <input type="checkbox" id="accordion11">  
-    <label for="accordion11"><h5 style="color:black">Can I change a SBB subject I am doing to a lower level at any time if I cannot cope?</h5></label>  
+    <label for="accordion11"><h5 style="color:black">What are the differences between the N(A) and Express syllabuses for the Humanities?</h5></label>  
     <div>  
       <ul>
-				<li>It takes time to adjust to the demands of a higher-level subject, so students should allow themselves a full two years before deciding if they wish to continue offering the subject at a higher level in the upper secondary years. Interest in the subject is more important than the marks obtained, so students should not use marks as an indicator of their ability to cope with the subject.</li>
-				<li>The school would involve the student’s parents and teachers when such a request is made. The student and his/her parents can make the final decision to continue or drop the subject, as long as they are aware of the impact on the student’s post-secondary progression.</li>
+				<li>For Geography, the N(A) syllabus is a subset of the Express syllabus. Both courses are grounded in the concepts of scale, place and space, with an issues-based framework adopted in the teaching and learning.</li>
+				<li>For Literature, the N(A) syllabus is a subset of the Express syllabus. Both courses focus on the 3 genres of prose, poetry and drama. The texts for these genres may be differentiated between the courses to manage the reading load of the students.</li>
 			</ul>  
     </div>  
 </li>
