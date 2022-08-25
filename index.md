@@ -40,4 +40,8 @@ sections:
         was…
       button: View Programme
       url: /lp_news/founders-day-2022/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
