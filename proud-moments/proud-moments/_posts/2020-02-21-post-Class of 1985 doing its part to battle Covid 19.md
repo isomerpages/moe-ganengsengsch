@@ -7,4 +7,4 @@ description: ""
 ---
 These Gessians have generously contributed surgical masks, hand sanitizers and thermal thermometers to the school. Thank you for your donations. Onward!
 
-![Class of 1985 doing its part to battle Covid 19](/images/Class%20of%201985%20doing%20its%20part%20to%20battle%20Covid%2019.jpeg)
+![Class of 1985 doing its part to battle Covid 19](/images/IMG_7056-2%202.jpeg)
