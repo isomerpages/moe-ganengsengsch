@@ -5,3 +5,8 @@ date: 2019-12-31
 layout: post
 description: ""
 ---
+Another amazing Senior Gessian!
+
+Congratulations, Thomas!
+
+![E sports: Thomas Kopankiewicz clinches silver for Singapore in Starcraft II](/images/Sports.jpeg)
