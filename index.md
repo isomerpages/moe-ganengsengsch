@@ -23,9 +23,10 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Letter to Parents (Term 3 Updates 2022)
+      description: Dear Parents/Guardians, Thank you for the strong support you have
+        shown for all our school events and activities. With your support,
+        school has completed the…
+      button: View Programme
+      url: /lp_news/letter-to-parents-term-3-updates-2022/
 ---
