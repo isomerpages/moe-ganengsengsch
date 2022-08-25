@@ -29,4 +29,8 @@ sections:
         school has completed the…
       button: View Programme
       url: /lp_news/letter-to-parents-term-3-updates-2022/
+  - infobar:
+      title: Personalised Digital Learning Programme
+      button: Read More
+      url: /lp_news/personalised-digital-learning-programme/
 ---
