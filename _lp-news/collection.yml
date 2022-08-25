@@ -2,5 +2,6 @@ collections:
   lp-news:
     output: true
     order:
+      - Founder’s Day 2022.md
       - Letter to Parents (Term 3 Updates 2022).md
       - Personalised Digital Learning Programme.md
