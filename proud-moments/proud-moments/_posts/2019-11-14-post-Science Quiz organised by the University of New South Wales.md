@@ -5,3 +5,6 @@ date: 2019-11-14
 layout: post
 description: ""
 ---
+Congratulations on your achievements in the Science Quiz organised by the University of New South Wales!
+
+![Science Quiz organised by the University of New South Wales](/images/Science-Quiz-NSW.jpeg)
