@@ -1,0 +1,4 @@
+collections:
+  lp-news:
+    output: true
+    order: []
