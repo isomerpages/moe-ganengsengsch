@@ -19,9 +19,9 @@ sections:
         - title: Mission
           description: Nurturing the best in each & Striving ever onward
           url: /about-us/vision-mission-values/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: School Values
+          description: Integrity | Compassion | Resilience | Discipline | Respect
+          url: /about-us/vision-mission-values/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
