@@ -8,19 +8,17 @@ notification: ""
 sections:
   - hero:
       background: /images/gess homepage.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: The Gessian Potrait
           description: Principled Leader | Engaged Learner | Reflective & Innovative
             Thinker | Active Citizen
           url: /about-us/gessian-portrait/
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Vision
+          description: Gessians of Excellence, Standing and Significance
+          url: https://gmail.com/about-us/vision-mission-values/
+        - title: Mission
+          description: Nurturing the best in each & Striving ever onward
+          url: /about-us/vision-mission-values/
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
