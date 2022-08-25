@@ -16,3 +16,4 @@ Our Student Leaders will rise up to the theme where they will Grow and Glow as l
 The school would like to extend our sincere appreciation to all seniors for their dedicated work as student leaders and look forward to the next group of student leaders to glow and grow!
 
 Thank you Student Leaders for your service and commitment to the school.
+
