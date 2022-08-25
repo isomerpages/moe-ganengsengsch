@@ -17,3 +17,14 @@ The school would like to extend our sincere appreciation to all seniors for thei
 
 Thank you Student Leaders for your service and commitment to the school.
 
+![](/images/SL6.png)
+
+![](/images/SL4.jpeg)
+
+![](/images/SL5.jpeg)
+
+![](/images/SL3.jpeg)
+
+![](/images/SL1.jpeg)
+
+![](/images/SL2.jpeg)
