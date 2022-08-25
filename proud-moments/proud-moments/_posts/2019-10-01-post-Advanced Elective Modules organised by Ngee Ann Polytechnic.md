@@ -16,3 +16,7 @@ The three AEMs the students took were
 (3) Connecting Trade and Business with Logistics.
 
 ![Advanced Elective Modules organised by Ngee Ann Polytechnic](/images/Ngee-Ann-1.jpeg)
+
+![Advanced Elective Modules organised by Ngee Ann Polytechnic](/images/Ngee-Ann-2.jpeg)
+
+![Advanced Elective Modules organised by Ngee Ann Polytechnic](/images/Ngee-Ann-3.jpeg)
