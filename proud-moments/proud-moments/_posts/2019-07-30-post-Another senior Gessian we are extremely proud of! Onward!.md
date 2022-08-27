@@ -8,3 +8,5 @@ description: ""
 [https://www.beritaharian.sg/setempat/dulu-selongkar-sampah-bekas-pelajar-normal-kini-menuntut-di-oxford](https://www.beritaharian.sg/setempat/dulu-selongkar-sampah-bekas-pelajar-normal-kini-menuntut-di-oxford)
 
 ![Another senior Gessian we are extremely proud of! Onward!](/images/Senior-Gessian.jpeg)
+
+![Another senior Gessian we are extremely proud of! Onward!](/images/Senior-Gessian-1.png)
