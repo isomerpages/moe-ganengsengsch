@@ -41,7 +41,6 @@ sections:
       button: View Programme
       url: /lp_news/founders-day-2022/
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Proud Moments & Announcements
+      button: Click here to read more
 ---
