@@ -11,4 +11,4 @@ The school has been informed by the Singapore Land Authority (SLA) that 8 Lower 
 
 Let us uphold the vision of our Founder to always lend a helping hand to those in need. Should you have any queries regarding the above, you may write in to lowerdelta.dorm@gmail.com. For further information, read attached FAQs from SLA.
 
-[Click here](/files/FAQ-for-8-Lower-Delta-Road.pdf) for FAQs from SLA on 8 Lower Delta Road
+[Click here](/files/FAQ-for-8-Lower-Delta-Road.pdf) for FAQs from SLA on 8 Lower Delta Road.
