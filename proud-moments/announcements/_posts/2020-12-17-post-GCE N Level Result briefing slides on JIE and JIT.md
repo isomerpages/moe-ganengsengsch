@@ -7,7 +7,7 @@ description: ""
 ---
 GCE N-Level Result information
 
-*   [2020 JIT resource\[MOE\]](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/12/2020-JIT-resourceMOE.pdf)
-*   [JIE\_Progression Pathways\_17 Dec 2020\[GESS\]](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/12/JIE_Progression-Pathways_17-Dec-2020GESS.pdf)
-*   [2020 GCE N-Level briefing slides for students\[MOE\]](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/12/2020-GCE-N-Level-briefing-slides-for-studentsMOE.pdf)
-*   [Results Release User Guide – GCE N(A)\_N(T)\_O\_A-Level (For school candidates)\[MOE\]](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/12/Results-Release-User-Guide-GCE-NA_NT_O_A-Level-For-school-candidatesMOE.pdf)
+*   [2020 JIT resource\[MOE\]](/files/2020-JIT-resourceMOE.pdf)
+*   [JIE\_Progression Pathways\_17 Dec 2020\[GESS\]](/files/JIE_Progression-Pathways_17-Dec-2020GESS.pdf)
+*   [2020 GCE N-Level briefing slides for students\[MOE\]](/files/2020-GCE-N-Level-briefing-slides-for-studentsMOE.pdf)
+*   [Results Release User Guide – GCE N(A)\_N(T)\_O\_A-Level (For school candidates)\[MOE\]](/files/Results-Release-User-Guide-GCE-NA_NT_O_A-Level-For-school-candidatesMOE.pdf)
