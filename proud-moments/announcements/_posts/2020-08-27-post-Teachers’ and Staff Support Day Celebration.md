@@ -11,7 +11,17 @@ As we look after ourselves and each other during these challenging times, it may
 
 [https://thankyoucher.edu.sg/](https://thankyoucher.edu.sg/)
 
-![](/images/Teachers’%20and%20Staff%20Support%20Day%20Celebration%20.png)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Teachers’%20and%20Staff%20Support%20Day%20Celebration%20.png" alt="banner awards" style="width:69%;">  
+  
+</body>
 
 **_We wish to inform all that this year’s Teachers’ and Support Staff Day Celebration is a closed door event due to safety reasons. We seek your understanding._**
 
