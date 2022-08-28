@@ -6,3 +6,17 @@ date: 2021-11-29
 layout: post
 description: ""
 ---
+Dear GESSians,
+
+The Sec 3 (2022) class lists are now confirmed. We wish you all the best for 2022.
+
+ONWARD! GESSians.
+
+– Appeal Cases”  
+[Appeal Letter to students](/files/Appeal-Letter-to-student.pdf)
+
+– Tentative Class List  
+[Sec 3 classlist caa 2211](/files/Sec-3-classlist-caa-2211.pdf)
+
+Regards,  
+Mr Tan Kian Beng
