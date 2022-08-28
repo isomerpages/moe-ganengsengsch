@@ -5,3 +5,10 @@ date: 2020-07-27
 layout: post
 description: ""
 ---
+Dear Parents/Guardians,
+
+Please refer to the attached letter for more information on AP schedule for 4NT in Term 3, Weeks 8 and 9.
+
+Thank you.
+
+[Click here](/files/AP-Schedule-For-4NT-Term-3-Weeks-8-and-9.pdf) for AP Schedule For 4NT (Term 3, Weeks 8 and 9)
