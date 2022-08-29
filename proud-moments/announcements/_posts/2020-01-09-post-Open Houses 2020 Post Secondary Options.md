@@ -5,3 +5,6 @@ date: 2020-01-09
 layout: post
 description: ""
 ---
+![](/images/SP-Open-House.png)
+
+![](/images/NP-Open-House.png)
