@@ -5,3 +5,4 @@ date: 2018-12-10
 layout: post
 description: ""
 ---
+[Sec 1 Registration Exercise 2019 GESS Portal Announcement](/files/Sec-1-Registration-Exercise-2019-GESS-Portal-Announcement.pdf)
