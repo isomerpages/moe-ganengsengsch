@@ -11,4 +11,4 @@ Our ECG Counsellors will continue to provide your child/ward with education and 
 
 Thank you.
 
-[Click here](/files/ECG-Poster-for-Parent-Gateway.pdf) for a copy of ECG Poste
+[Click here](/files/ECG-Poster-for-Parent-Gateway.pdf) for a copy of ECG Poster
