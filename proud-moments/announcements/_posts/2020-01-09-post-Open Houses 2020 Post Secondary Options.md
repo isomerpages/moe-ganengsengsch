@@ -40,21 +40,28 @@ Please [click here](https://www.tp.edu.sg/openhouse) for more information
 ![Republic Polytechnic Open House 2020](/images/RP-Open-House.png)
 Please [click here](https://www.rp.edu.sg/discover/openhouse.html) for more information
 
-<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+<h4 style="color:black" align="center">NAFA Open House</h4>
 
-![](/images/NAFA-Open-House.png)
+![NAFA Open House](/images/NAFA-Open-House.png)
+Please [click here](https://www.nafa.edu.sg/events/open-house-2020) for more information
 
-<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+<h4 style="color:black" align="center">Lasalle Open House 2020</h4>
 
-![](/images/Laselle-Open-House-1.jpeg)
+![Lasalle Open House 2020](/images/Laselle-Open-House-1.jpeg)
+Please [click here](https://bit.ly/lasalleopenhouse2020) to RSVP your interest
 
-<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+<h4 style="color:black" align="center">Singhealth Nursing Open House 2020</h4>
 
-![](/images/SInghealth-Nursing-Open-House.jpeg)
+![Singhealth Nursing Open House 2020](/images/SInghealth-Nursing-Open-House.jpeg)
+Please [click here](http://tiny.cc/SingHealthNOH2020) to register
 
-<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+<h4 style="color:black" align="center">
+Nursing Scholarship Sharing Session for
+O Level Graduates</h4>
 
-![](/images/Nursing-Scholarship.jpeg)
+![Nursing Scholarship Sharing Session for
+O Level Graduates](/images/Nursing-Scholarship.jpeg)
+Please register [here](https://www.eventbrite.sg/e/integrated-nursing-and-community-nursing-scholarship-information-session-registration-85208397611)
 
 <h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
 
