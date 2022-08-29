@@ -11,4 +11,4 @@ Welcome back to another exciting and enriching term. Please see term 2 letter to
 
 Thank you.
 
-[Click here](/files/2020-Term-2-letter-to-parents.pdf) for Term 2 letter
+[Click here](/files/2020-Term-2-letter-to-parents.pdf) for Term 2 letter.
