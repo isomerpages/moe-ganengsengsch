@@ -13,10 +13,8 @@ Secondary One classes will be dismissed at **1.55pm** **on the first day of sc
 
 You may refer to the attached document for more information on the programme and things to bring for the first day of school.
 
-Thank you
-
-Mr Teo Peng Kee
-
+Thank you <br>
+Mr Teo Peng Kee <br>
 Year Head
 
 [Gan Eng Seng School Timetable for First Day of School 2 Jan 2019](/files/Gan-Eng-Seng-School-Timetable-for-First-Day-of-School-2-Jan-2019.pdf)
