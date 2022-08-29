@@ -17,11 +17,12 @@ description: ""
 
 <h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
 
-![](/images/SP-Open-House.png)
+![Singapore Polytechnic Open House 2020](/images/SP-Open-House.png)
+Please [click here](https://openhouse.sp.edu.sg/) for more information
 
-<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+<h4 style="color:black" align="center">Ngee Ann Polytechnic Open House 2020</h4>
 
-![](/images/NP-Open-House.png)
+![Ngee Ann Polytechnic Open House 2020](/images/NP-Open-House.png)
 
 <h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
 
