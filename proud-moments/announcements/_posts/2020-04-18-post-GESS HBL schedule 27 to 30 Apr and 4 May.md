@@ -5,3 +5,8 @@ date: 2020-04-18
 layout: post
 description: ""
 ---
+Dear parents, the schedule for HBL from 20 to 24 April 2020 (Monday to Friday) is attached below, and sorted according to your child(ren)’s class(es).
+
+Thank you.
+
+[Gan Eng Seng School – HBL (20-24 Apr) topics](/files/Gan-Eng-Seng-School-HBL-20-24-Apr-topics.pdf)
