@@ -23,18 +23,22 @@ Please [click here](https://openhouse.sp.edu.sg/) for more information
 <h4 style="color:black" align="center">Ngee Ann Polytechnic Open House 2020</h4>
 
 ![Ngee Ann Polytechnic Open House 2020](/images/NP-Open-House.png)
+Please [click here](https://www.np.edu.sg/openhouse/Pages/default.aspx) for more information
 
-<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+<h4 style="color:black" align="center">Nanyang Polytechnic Open House 2020</h4>
 
-![](/images/NYP-Open-House.png)
+![Nanyang Polytechnic Open House 2020](/images/NYP-Open-House.png)
+Please [click here](https://www.nyp.edu.sg/openhouse.html) for more information
 
-<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+<h4 style="color:black" align="center">Temasek Polytechnic Open House 2020</h4>
 
-![](/images/TP-Open-House.png)
+![Temasek Polytechnic Open House 2020](/images/TP-Open-House.png)
+Please [click here](https://www.tp.edu.sg/openhouse) for more information
 
-<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+<h4 style="color:black" align="center">Republic Polytechnic Open House 2020</h4>
 
-![](/images/RP-Open-House.png)
+![Republic Polytechnic Open House 2020](/images/RP-Open-House.png)
+Please [click here](https://www.rp.edu.sg/discover/openhouse.html) for more information
 
 <h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
 
