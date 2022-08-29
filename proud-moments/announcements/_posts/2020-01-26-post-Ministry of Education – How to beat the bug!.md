@@ -5,3 +5,6 @@ date: 2020-01-26
 layout: post
 description: ""
 ---
+Germs and viruses may not be visible, but you can protect yourself by following these simple germ knock-out rules!
+
+***video to be uploaded to YouTube and embedded here!***
