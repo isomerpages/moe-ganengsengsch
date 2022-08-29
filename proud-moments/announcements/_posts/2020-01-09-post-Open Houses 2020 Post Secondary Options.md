@@ -13,9 +13,11 @@ description: ""
 
 <table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="390" style="box-sizing: inherit; padding: 5px 10px;">All Polytechnics (NP, NYP, SP, TP &amp; RP)</td><td width="317" style="box-sizing: inherit; padding: 5px 10px;">9-11 January 2020, 10 am – 6 pm</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="390" style="box-sizing: inherit; padding: 5px 10px;">Nanyang Academy of Fine Arts (NAFA)</td><td width="317" style="box-sizing: inherit; padding: 5px 10px;">17 – 18 January 2020, 11 am – 7 pm</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="390" style="box-sizing: inherit; padding: 5px 10px;">LASALLE College of the Arts</td><td width="317" style="box-sizing: inherit; padding: 5px 10px;">17 January 2020, 3 – 8 pm<br style="box-sizing: inherit;">18 January 2020, 11 am – 5 pm</td></tr></tbody></table>
 
-**_The Open Houses dates may change. We encourage you to check the school’s websites or contact them directly._**
+<h6 style="color:blue" align="center"><em>The Open Houses dates may change. We encourage you to check the school’s websites or contact them directly.</em></h6>
 
 **Singapore Polytechnic Open House 2020**
+
+<h4 style="color:black" align="center">2020 Open Houses Dates</h4>
 
 ![](/images/SP-Open-House.png)
 
