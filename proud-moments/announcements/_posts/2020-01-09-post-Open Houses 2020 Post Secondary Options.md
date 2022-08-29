@@ -19,20 +19,38 @@ description: ""
 
 ![](/images/SP-Open-House.png)
 
+<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+
 ![](/images/NP-Open-House.png)
+
+<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
 
 ![](/images/NYP-Open-House.png)
 
+<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+
 ![](/images/TP-Open-House.png)
+
+<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
 
 ![](/images/RP-Open-House.png)
 
+<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+
 ![](/images/NAFA-Open-House.png)
+
+<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
 
 ![](/images/Laselle-Open-House-1.jpeg)
 
+<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+
 ![](/images/SInghealth-Nursing-Open-House.jpeg)
 
+<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+
 ![](/images/Nursing-Scholarship.jpeg)
+
+<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
 
 ![](/images/Picture1.png)
