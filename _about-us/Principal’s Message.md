@@ -24,7 +24,6 @@ The Student portrait was also reviewed to comprise the following four key outcom
 Moving forward, the school will invest more time and effort to focus on uplifting staff competencies so teachers become master teachers in the classrooms where enriching, meaningful and innovative learning experiences are curated for the students. We will also be exploring ways to nudge the students out of their comfort zones and be more self-directed in their learning. The new Character and Citizenship Education syllabus also seeks to develop in Gessians a keen social conscience and the capacity to make ethical decisions. I believe that our direction and efforts will allow current and future Gessians to create their own story, a story of excellence, standing and significance.
 
 ONWARD GESSIANS! <br>
+
 Ms Tan Hwee Pin <br>
 Principal
-
-
