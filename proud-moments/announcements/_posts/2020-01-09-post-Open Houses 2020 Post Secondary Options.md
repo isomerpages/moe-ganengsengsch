@@ -63,6 +63,33 @@ O Level Graduates</h4>
 O Level Graduates](/images/Nursing-Scholarship.jpeg)
 Please register [here](https://www.eventbrite.sg/e/integrated-nursing-and-community-nursing-scholarship-information-session-registration-85208397611)
 
-<h4 style="color:black" align="center">Singapore Polytechnic Open House 2020</h4>
+<h4 style="color:black" align="left">Education and Career Guidance (ECG) Support for GESS ‘O’ Level Students</h4>
 
-![](/images/Picture1.png)
+Our ECG Counsellor, Ms Teoh, will be in GESS on:
+
+Date: 16 Jan 2020 (Thursday)
+
+<img src="/images/Picture1.png" style="width:120px;height:120px;margin-left:15px;" align = "right">
+
+**Time : 8am to 5pm**  
+**Venue:** **Aroozoo** **Room**
+
+Students and parents who wish to have a consultation session with Ms Teoh may make an appointment at:
+
+**https://calendly.com/msteoh/gess**  
+Or email Ms Teoh at: Teoh\_fan\_yun@schools.gov.sg
+
+_Please bring along ‘O’ Level Results Slip, Form A and JAE Booklet for the consultation_
+
+<h4 style="color:black" align="left">Education and Career Guidance (ECG) Support for ‘O’ Level Students</h4>
+
+*   **Course Counselling** is available at **individual Polytechnics** from **13 Jan 2020 to 17 Jan 2020**. Please visit the polytechnic’s website for more details.
+*   Students and parents may also wish to see an ECG Counsellor at MOE ECG Centre. The MOE ECG Centre is open on:
+
+Date  :   13 Jan 2020 to 24 Jan 2020 (Closed on PH)  
+Time   :   9am to 5pm (Weekdays)  
+Venue  :   #01-04, 51 Grange Road, Singapore 249564  
+Email  :   MOE_ECG@moe.gov.sg  
+Hotline  :   +65 6831 1420
+
+**To book an appointment, visit** **http://bit.ly/moe\_ecg**
