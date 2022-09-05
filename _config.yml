@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d27edpgfp63vob.amplifyapp.com
 prod: https://master.d27edpgfp63vob.amplifyapp.com
-resources_name: proud-moments
+resources_name: resources
