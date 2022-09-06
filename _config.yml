@@ -1,9 +1,9 @@
-title: Title
-url: ""
+title: Gan Eng Seng School
+url: https://ganengsengsch.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#73717a"
+  secondary-color: "#e69807"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -52,3 +52,8 @@ plugins:
 staging: https://staging.d27edpgfp63vob.amplifyapp.com
 prod: https://master.d27edpgfp63vob.amplifyapp.com
 resources_name: resources
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
