@@ -18,6 +18,7 @@ Please contact me through office **6474 5594** or email [**goh\_chuan\_hwee@m
 **Mr Goh Chuan Hwee**  
 **HOD/ PE & CCA**  
 **30-Oct-17**
+<br>
 
 ((BROKENLINK))
 [Link to 2017 Nov/Dec Holidays – CCA Training Schedule](https://docs.google.com/spreadsheets/d/1zzY9NTdBkko2dovyejGlshZJB7WDazRx8Moyq_bKNQY/edit?usp=sharing)
