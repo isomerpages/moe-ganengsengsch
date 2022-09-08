@@ -5,3 +5,13 @@ date: 2018-02-28
 layout: post
 description: ""
 ---
+Congratulations! SP Scholarship Awards: Amrita Kaur & Ferrell Yoong
+===================
+
+<br>
+<img src="/images/SP_Scholar.jpg" 
+         style="width:700px"
+	/>
+<br>
+
+
