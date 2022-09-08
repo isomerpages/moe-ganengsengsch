@@ -37,5 +37,6 @@ Find out more about GESS-PTA and our activities at [our facebook page](https://
 
 Honorary Secretary  
 Azizah Rahman
+<br>
 
 [Please click here to download this announcement on official letterhead](/files/Notice-of-AGM-GESS-PTA-2018.pdf)
