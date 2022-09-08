@@ -23,9 +23,9 @@ This naturally brings me to my second point. That is, in anything you do, do not
 
 Schooling’s story, is an on-going story of striving for accuracy and precision. So let us ask ourselves, are we striving for accuracy and precision in what we do? Do we want our stories to be of success as well? Before I end my speech, I would like to share 5 strategies that will help you to be more accurate and precise in your work.
 
-1.  Check your work (at least twice and check it one step at a time).
-2.  Ask if this is my best? And if it is not, fix it.
-3.  Did I do what I was asked to? (Did I follow the examples my teacher provided, did I use my notes to do my work?)
+1.   Check your work (at least twice and check it one step at a time).
+2.   Ask if this is my best? And if it is not, fix it.
+3.   Did I do what I was asked to? (Did I follow the examples my teacher provided, did I use my notes to do my work?)
 4.  Is my work accurate?
 5.  Aim to get it right the first time (Take the time you need to do it right, doing it over  
     always takes longer and “It takes less time to do a thing right, than it does to  
