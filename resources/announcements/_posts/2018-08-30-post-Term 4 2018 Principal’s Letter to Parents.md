@@ -5,3 +5,6 @@ date: 2018-08-30
 layout: post
 description: ""
 ---
+Dear Parents/Guardians of Gessians,
+
+Please [click here](/files/Letter-to-parents-term-4-2018-final-v1.pdf) to download the Principal’s Letter to Parents.
