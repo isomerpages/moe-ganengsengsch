@@ -5,3 +5,4 @@ date: 2022-01-06
 layout: post
 description: ""
 ---
+Students collecting results are to report to the school hall by 2 pm in school uniform and adhere to the guidelines for appropriate appearance stipulated in the GESS student handbook.
