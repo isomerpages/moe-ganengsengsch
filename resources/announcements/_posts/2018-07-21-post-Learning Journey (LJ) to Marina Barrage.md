@@ -23,7 +23,7 @@ Details of the LJ are as follows:
 (v) Cost : Free & 2-Way Transport will be provided  
 (vi) Vacancies : First 40 sets of Reply slip received
 
-Please [click here](https://drive.google.com/file/d/1r9L-Euosi0KNrmkTqXySFA4issVB0ILn/view?usp=sharing) to download the Reply Slip(PTO) and return it through your Mdm Foo Lee Lian by 27 July 2018.
+Please ((BROKENLINK))[click here](https://drive.google.com/file/d/1r9L-Euosi0KNrmkTqXySFA4issVB0ILn/view?usp=sharing) to download the Reply Slip(PTO) and return it through your Mdm Foo Lee Lian by 27 July 2018.
 
 We look forward to seeing all of you.
 
