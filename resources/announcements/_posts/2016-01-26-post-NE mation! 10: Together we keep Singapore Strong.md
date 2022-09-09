@@ -7,7 +7,7 @@ description: ""
 ---
 <br>
 <img src="/images/Slide1.jpg" 
-         style="width:600px"
+         style="width:700px"
 	/>
 <br>
 
