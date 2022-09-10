@@ -30,4 +30,3 @@ The four students who did our school proud are:
          style="width:600px"
 	/>
 <br>
-
