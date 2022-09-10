@@ -6,3 +6,8 @@ date: 2015-12-09
 layout: post
 description: ""
 ---
+<br>
+<img src="/images/image001.jpg" 
+         style="width:700px"
+	/>
+<br>
