@@ -3,7 +3,12 @@ title: Principal’s Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-![Ms Tan Hwee Pin](/images/Tan-Hwee-Pin.jpeg)
+
+<br>
+<img src="/images/Tan-Hwee-Pin.jpeg" 
+         style="width:300px"
+	/>
+<br>
 
 ‘ The story of our school is a history of change. But truth, faith and vigour survived circumstances strange’. So states our School anthem composed by our ex-teacher, Mr R.C. Scharenguivel. GESS is built to withstand the test of times. It fact, GESS has evolved with our local history and flourished to give all its students a unique Gessian Brand of Education. We now live in an era of disruptions in which powerful global forces are changing the way we live and work. Though the school has gone through many changes through the years, what is consistent is our focus on the holistic development and wellbeing of every Gessian. We take pride in walking with them in their educational  journey, and with the support of parents and key partners, we are confident we will realize our school vision.
 
