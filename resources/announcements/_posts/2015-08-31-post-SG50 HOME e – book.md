@@ -5,3 +5,9 @@ date: 2015-08-31
 layout: post
 description: ""
 ---
+
+<br>
+<img src="/images/SG50-Home-Square-Banner.jpg" 
+         style="width:700px"
+	/>
+<br>
