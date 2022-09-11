@@ -5,3 +5,8 @@ date: 2015-06-03
 layout: post
 description: ""
 ---
+
+
+
+
+[Link to Good Morning ‘Cher Webpage] BROKEN LINK(http://moe.gov.sg/sg50/events/morning-cher/)
