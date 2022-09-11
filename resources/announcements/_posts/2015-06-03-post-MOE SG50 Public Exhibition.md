@@ -5,6 +5,11 @@ date: 2015-06-03
 layout: post
 description: ""
 ---
+<br>
+<img src="/images/EDM_Good-Morning-Cher1.jpg" 
+         style="width:500px"
+	/>
+<br>
 
 
 
