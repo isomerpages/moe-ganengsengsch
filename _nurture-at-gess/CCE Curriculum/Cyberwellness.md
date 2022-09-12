@@ -18,20 +18,32 @@ Our CW curriculum is tailored such that it allows students to translate their un
 All gessians attend assembly talks that teach them how to stay safe in cyber-world. Topics covered include socializing on social media platforms, fake news, copyright issues, cyber-gaming, Internet addiction, cyber-bullying and cyber-relationships. In 2021, our Upper Secondary students had attended a talk/skit on I, Alan” mental well-being online assembly show by Health Promotion Board while our Lower Secondary students watched a skit “Let’s Face It” emotional well-being online assembly show by Health Promotion Board.
 
 We also conducted an in-house assembly talk and Questions and Answers Sessions on Cyber Bullying.
+<br>
+<img src="/images/Assembly-Talks-1024x576.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
-![Assembly Talks](/images/Assembly-Talks-1024x576.jpeg)
 
 **Positive Peer Advocacy through class ICT representatives**  
 Each class in GESS has 1-2 ICT Representatives, who lead the class in discussions about various cyberwellness issues during Assembly programme, CCE lessons or during Hear2Heart sessions. The topic of the ICT Representatives’ sharing in 2021 was on safety use of internet, cyber bullying and the consequences of excessive internet usage. They also tapped on their own experience to share possible strategies to overcome internet addiction. The ICT representatives will undergo at least 2 to 4 trainings per year so as to prepare them in
 
 1.  guiding their peers to be safe and discerning ICT users and championing Cyber Wellness efforts
 2.  supporting teachers in technical support
+<br>
+<img src="/images/IMG-20210713-WA0023.jpeg" 
+         style="width:400px"
+	/>
+<br><br>
+<img src="/images/WhatsApp-Image-2021-09-07.jpeg" 
+         style="width:400px"
+	/>
+<br><br>
+<img src="/images/WhatsApp-Image-2021-09-07_2.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
-![](/images/IMG-20210713-WA0023.jpeg)
-
-![](/images/WhatsApp-Image-2021-09-07.jpeg)
-
-![](/images/WhatsApp-Image-2021-09-07_2.jpeg)
 
 If you need help on Cyber Wellness issues, you can either:
 
