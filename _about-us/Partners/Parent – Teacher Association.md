@@ -17,8 +17,13 @@ The PTA is committed towards promoting close co-operation and understanding betw
 (c) to promote social interaction and fellowship among parents and teachers; and
 
 (d) to provide financial assistance to needy students.
+<br>
+<img src="/images/Group-1.jpeg" 
+         style="width:450px"
+	/>
+<br>
 
-![Group 1 Parent - Teacher Association](/images/Group-1.jpeg)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
