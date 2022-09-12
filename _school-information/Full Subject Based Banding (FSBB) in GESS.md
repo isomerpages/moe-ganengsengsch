@@ -6,15 +6,38 @@ description: ""
 <p style="text-align:center;"><strong>Menu</strong></p>
 
 <a name="up"></a>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 539px">
+<colgroup>
+<col style="width: 96px">
+<col style="width: 201px">
+<col style="width: 130px">
+<col style="width: 95px">
+</colgroup>
+<thead>
+  <tr>
+    <td class="tg-8jgo"><a href="#link1">Introduction</a></td>
+    <td class="tg-8jgo"><a href="#link2">How does FBB work?</a></td>
+    <td class="tg-8jgo"><a href="#link3">FSBB @ GESS</a></td>
+    <td class="tg-8jgo"><a href="#link4">FAQs</a></td>
+  </tr>
+</thead>
+</table>
 <table width="100%" align="center" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; text-align: center; width: 112px;"><a href="#Link1" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;">Introduction</a>
 	
 </td><td style="box-sizing: inherit; padding: 5px 10px; width: 199px; text-align: center;"><a name="Link2" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;">How does FSBB work?</a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 128px; text-align: center;"><a name="Link3" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;">FSBB @ GESS</a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 43px; text-align: center;"><a name="Link4" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;">Frequently Asked Questions (FAQ)</a></td></tr></tbody></table>
 
 ***
   
-<p style="text-align:center;"><strong><a name="Link_1"></a>Introduction</strong></p>
-
+<h5 id="link1"> Introduction</h5>
+<br>
 <img src="/images/group-potrait-1.jpeg" align="left" style="width:15%;">
 <img src="/images/group-potrait-4.jpeg" align="right" style="width:21%;">
 Subject-Based Banding (SBB) was piloted in twelve secondary schools in 2014, to provide greater flexibility in lower secondary subject combinations. Under SBB, students who perform well in certain subjects would be given the opportunity to offer them at a higher level.
@@ -30,7 +53,7 @@ When FSBB is fully implemented, students from the Express, Normal (Academic), an
 <p style="text-align:right;"><a href="#up">Up</a></p>
 
 ***
-<h4 id="Link2">How does FSBB work?</h4>
+<h5 id="Link2">How does FSBB work?</h5>
 
 <img src="/images/group-potrait-3.jpeg" style="width:120px;height:220px;margin-left:15px;" align = "left"> Under FSBB, all the subjects students offer are categorised into two groups – those in the Common Curriculum, and those offered as SBB subjects at different levels.
 
@@ -64,7 +87,7 @@ In this case, we can see that while all three students attend the same Common Cu
 <p style="text-align:right;"><a href="#up">Up</a></p>
 
 ***
-<h4 id="Link3">FSBB @ GESS</h4>
+<h5 id="Link3">FSBB @ GESS</h5>
 
 
 Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school has been preparing for the pilot:
