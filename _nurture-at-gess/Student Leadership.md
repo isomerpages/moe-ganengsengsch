@@ -90,12 +90,18 @@ In the Organisation Chart for Student Leaders, our Head Prefect oversees the dev
 ![Organising Committee](/images/SL-9.jpeg)
 
 <p style="text-align:center;"> <strong>Organising Committee</strong></p>
-
-![Designed by Student Leader](/images/SL-10.jpeg)
+<br>
+<img src="/images/SL-10.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
 <p style="text-align:center;"> <strong>Designed by Student Leader</strong></p>
-
-![Designed by Student Leader](/images/SL-11.jpeg)
+<br>
+<img src="/images/SL-11.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
 <p style="text-align:center;"> <strong>Designed by Student Leader</strong></p>
 
