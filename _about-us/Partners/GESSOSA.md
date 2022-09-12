@@ -16,7 +16,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Wong-Peng-Meng-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:40%;">  
+<body><img src="/images/Mr-Wong-Peng-Meng-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:25%;">  
   
 </body>
 
@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/teo-kim-ching-1.jpeg" alt="teo-kim-ching" style="width:40%;">  
+<body><img src="/images/teo-kim-ching-1.jpeg" alt="teo-kim-ching" style="width:25%;">  
   
 </body>
 
@@ -55,7 +55,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Ang-Joon-Ping-Joshua-1.jpeg" alt="Mr-Ang-Joon-Ping-Joshua" style="width:40%;">  
+<body><img src="/images/Mr-Ang-Joon-Ping-Joshua-1.jpeg" alt="Mr-Ang-Joon-Ping-Joshua" style="width:25%;">  
   
 </body>
 
@@ -78,7 +78,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Lee-Hay-Keong-1.jpeg" alt="Mr-Lee-Hay-Keong" style="width:40%;">  
+<body><img src="/images/Mr-Lee-Hay-Keong-1.jpeg" alt="Mr-Lee-Hay-Keong" style="width:25%;">  
   
 </body>
 
@@ -97,7 +97,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/yong-teck-ming-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:40%;">  
+<body><img src="/images/yong-teck-ming-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:25%;">  
   
 </body>
 
@@ -116,7 +116,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Wee-Ren-Chai-Ronald-1.jpeg" alt="Mr-Wee-Ren-Chai-Ronald" style="width:40%;">  
+<body><img src="/images/Mr-Wee-Ren-Chai-Ronald-1.jpeg" alt="Mr-Wee-Ren-Chai-Ronald" style="width:25%;">  
   
 </body>
 
@@ -133,7 +133,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/tang-chun-tuck-1.jpeg" alt="tang-chun-tuck" style="width:40%;">  
+<body><img src="/images/tang-chun-tuck-1.jpeg" alt="tang-chun-tuck" style="width:25%;">  
   
 </body>
 
@@ -152,7 +152,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/tang-wai-loong-kenneth-1.jpeg" alt="tang-wai-loong-kenneth" style="width:40%;">  
+<body><img src="/images/tang-wai-loong-kenneth-1.jpeg" alt="tang-wai-loong-kenneth" style="width:25%;">  
   
 </body>
 
@@ -169,7 +169,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Steven-Lee-Kiang-Sing-1.jpeg" alt="Mr-Steven-Lee-Kiang-Sing" style="width:40%;">  
+<body><img src="/images/Mr-Steven-Lee-Kiang-Sing-1.jpeg" alt="Mr-Steven-Lee-Kiang-Sing" style="width:25%;">  
   
 </body>
 
