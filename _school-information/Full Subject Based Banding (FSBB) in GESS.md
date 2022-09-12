@@ -16,10 +16,10 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 539px">
 <colgroup>
-<col style="width: 125px">
-<col style="width: 201px">
-<col style="width: 201px">
-<col style="width: 125px">
+<col style="width: 200px">
+<col style="width: 230px">
+<col style="width: 230px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
@@ -30,9 +30,7 @@ description: ""
   </tr>
 </thead>
 </table>
-<table width="100%" align="center" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; text-align: center; width: 112px;"><a href="#Link1" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;">Introduction</a>
 	
-</td><td style="box-sizing: inherit; padding: 5px 10px; width: 199px; text-align: center;"><a name="Link2" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;">How does FSBB work?</a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 128px; text-align: center;"><a name="Link3" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;">FSBB @ GESS</a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 43px; text-align: center;"><a name="Link4" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;">Frequently Asked Questions (FAQ)</a></td></tr></tbody></table>
 
 ***
   
