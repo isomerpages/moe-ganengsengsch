@@ -31,8 +31,12 @@ When, however, the Outram School building was derequisitioned, it was found poss
 Finally, exactly a year later, in May, 1947, the school succeeded in getting the Japanese School building in Waterloo Street where it functioned until 1951 when it shifted to Anson Road.Gan Eng Seng School is unique among the secondary schools in Singapore being the only one initiated, established and maintained by a local-born citizen with a gift of freehold property, buildings and adequate funds until his demise. Even the illustrious Raffles Institution, the older Mission and Communal Schools, e.g. St. Joseph’s Institution and Chung Cheng High School, pale into insignificance in this respect.
 
 In 1986, the new Gan Eng Seng School was opened on a new site beside Keppel Railway Station and officially inaugurated on 12th July 1989The school’s founding site at Telok Ayer Street was designated as a national historical site by the National Heritage Board in 1997. The school is currently located at Henderson Road in Bukit Merah.
+<br>
+<img src="/images/GESS-Current-Site.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
-![GESS Current Site](/images/GESS-Current-Site.jpeg)
 
 **HISTORY OF GAN ENG SENG SCHOOL IN BRIEF**
 
