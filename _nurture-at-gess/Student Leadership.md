@@ -110,8 +110,11 @@ In the Organisation Chart for Student Leaders, our Head Prefect oversees the dev
 ![Head Prefect Election](/images/SL-13.png)
 
 <p style="text-align:center;"> <strong>Head Prefect Election</strong></p>
-
-![Campaign initiated by Prefectorial Board](/images/SL-15.png)
+<br>
+<img src="/images/SL-15.png" 
+         style="width:450px"
+	/>
+<br>
 
 <p style="text-align:center;"> <strong>Campaign initiated by Prefectorial Board</strong></p>
 
