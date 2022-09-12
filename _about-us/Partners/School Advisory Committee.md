@@ -12,7 +12,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Johnny-Heng-new.jpeg" alt="Mr-Johnny-Heng-new" style="width:50%;">  
+<body><img src="/images/Mr-Johnny-Heng-new.jpeg" alt="Mr-Johnny-Heng-new" style="width:30%;">  
   
 </body>
 
@@ -28,7 +28,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Kenneth-Tang-new.jpeg" alt="Mr-Kenneth-Tang" style="width:50%;">  
+<body><img src="/images/Mr-Kenneth-Tang-new.jpeg" alt="Mr-Kenneth-Tang" style="width:30%;">  
   
 </body>
 
@@ -44,7 +44,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Lim-Hock-Guan.jpeg" alt="Mr-Lim-Hock-Guan" style="width:50%;">  
+<body><img src="/images/Mr-Lim-Hock-Guan.jpeg" alt="Mr-Lim-Hock-Guan" style="width:30%;">  
   
 </body>
 
@@ -60,7 +60,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Chiu-Wu-Hong-2.jpeg" alt="Mr-Chiu-Wu-Hong" style="width:50%;">  
+<body><img src="/images/Mr-Chiu-Wu-Hong-2.jpeg" alt="Mr-Chiu-Wu-Hong" style="width:30%;">  
   
 </body>
 
@@ -77,7 +77,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Lawrence-Lim-1.jpeg" alt="Mr-Lawrence-Lim" style="width:50%;">  
+<body><img src="/images/Mr-Lawrence-Lim-1.jpeg" alt="Mr-Lawrence-Lim" style="width:30%;">  
   
 </body>
 
@@ -93,7 +93,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Muhamad-Imaduddien-Bin-Abd-Karim-1.jpeg" alt="/Mr-Muhamad-Imaduddien-Bin-Abd-Karim" style="width:50%;">  
+<body><img src="/images/Mr-Muhamad-Imaduddien-Bin-Abd-Karim-1.jpeg" alt="/Mr-Muhamad-Imaduddien-Bin-Abd-Karim" style="width:30%;">  
   
 </body>
 
@@ -109,7 +109,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Samuel-Ang-new.jpeg" alt="Mr-Samuel-Ang" style="width:50%;">  
+<body><img src="/images/Mr-Samuel-Ang-new.jpeg" alt="Mr-Samuel-Ang" style="width:30%;">  
   
 </body>
 
@@ -126,7 +126,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms-Lee-717x1024.jpeg" alt="Ms-Lee" style="width:50%;">  
+<body><img src="/images/Ms-Lee-717x1024.jpeg" alt="Ms-Lee" style="width:30%;">  
   
 </body>
 
@@ -143,7 +143,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Sam-Liew.jpeg" alt="Mr-Sam-Liew" style="width:50%;">  
+<body><img src="/images/Mr-Sam-Liew.jpeg" alt="Mr-Sam-Liew" style="width:30%;">  
   
 </body>
 
