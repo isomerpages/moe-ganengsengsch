@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/holistics-gess.jpeg" alt="NURTURE@GESS Framework 1" style="width:100%;">  
+<body><img src="/images/holistics-gess.jpeg" alt="NURTURE@GESS Framework 1" style="width:70%;">  
   
 </body>
 
@@ -58,7 +58,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/holistic-pic.jpeg" alt="NURTURE@GESS Framework 2" style="width:100%;">  
+<body><img src="/images/holistic-pic.jpeg" alt="NURTURE@GESS Framework 2" style="width:70%;">  
   
 </body>
 
@@ -71,6 +71,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/nuture.jpeg" alt="NURTURE@GESS Framework 3" style="width:100%;">  
+<body><img src="/images/nuture.jpeg" alt="NURTURE@GESS Framework 3" style="width:70%;">  
   
 </body>
