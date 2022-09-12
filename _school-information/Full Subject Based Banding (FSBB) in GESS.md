@@ -16,10 +16,10 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 539px">
 <colgroup>
-<col style="width: 96px">
+<col style="width: 125px">
 <col style="width: 201px">
-<col style="width: 130px">
-<col style="width: 95px">
+<col style="width: 201px">
+<col style="width: 125px">
 </colgroup>
 <thead>
   <tr>
@@ -55,7 +55,7 @@ When FSBB is fully implemented, students from the Express, Normal (Academic), an
 <p style="text-align:right;"><a href="#up">Up</a></p>
 
 ***
-<h5 id="Link2">How does FSBB work?</h5>
+<h5 id="link2">How does FSBB work?</h5>
 
 <img src="/images/group-potrait-3.jpeg" style="width:120px;height:220px;margin-left:15px;" align = "left"> Under FSBB, all the subjects students offer are categorised into two groups – those in the Common Curriculum, and those offered as SBB subjects at different levels.
 
@@ -89,7 +89,7 @@ In this case, we can see that while all three students attend the same Common Cu
 <p style="text-align:right;"><a href="#up">Up</a></p>
 
 ***
-<h5 id="Link3">FSBB @ GESS</h5>
+<h5 id="link3">FSBB @ GESS</h5>
 
 
 Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school has been preparing for the pilot:
@@ -100,7 +100,7 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 
 ***
 <br><br>
-<h4 id="Link4">FSBB FAQs</h4>
+<h4 id="link4">FSBB FAQs</h4>
 
 
 <h4 style="color:black" align="left">A. Curriculum Demands of Reorganised Form Classes</h4>
