@@ -16,10 +16,10 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 539px">
 <colgroup>
-<col style="width: 200px">
+<col style="width: 180px">
 <col style="width: 230px">
 <col style="width: 230px">
-<col style="width: 200px">
+<col style="width: 180px">
 </colgroup>
 <thead>
   <tr>
