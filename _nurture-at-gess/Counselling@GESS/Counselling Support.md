@@ -15,5 +15,8 @@ Counselling support at GESS also facilitates referral, with consent from parents
 At GESS, we endeavour to strengthen a tripartite collaborative partnership encompassing school, parents and external agencies for the best learning growth and development of our students in our GESSian community.
 
 <font size="-1">\[1\] Adapted from Yeo, A. (1993). Counselling: A Problem-Solving Approach, Armour Publishing (p5).</font>
-
-![Counselling-Request-Form](/images/Counselling-Request-Form.jpeg)
+<br>
+<img src="/images/Counselling-Request-Form.jpeg" 
+         style="width:300px"
+	/>
+<br>
