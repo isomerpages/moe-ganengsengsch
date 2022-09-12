@@ -5,3 +5,21 @@ date: 2015-04-03
 layout: post
 description: ""
 ---
+Congratulations to the GESS Band who has achieved a Certificate of Distinction in the SYF 2015 Arts Presentation. ONWARD!
+
+
+<br>
+<img src="/images/syf2015.jpg" 
+         style="width:400px"
+	/>
+<br>
+<br>
+<img src="/images/syf2.jpg" 
+         style="width:400px"
+	/>
+<br>
+<br>
+<img src="/images/syf3.jpg" 
+         style="width:400px"
+	/>
+<br>
