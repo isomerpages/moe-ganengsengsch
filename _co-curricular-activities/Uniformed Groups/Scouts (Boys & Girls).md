@@ -8,7 +8,7 @@ Dragon Scouts (est since 1922)
 ------------------------------
 <br>
 <img src="/images/DSG-2-scaled.jpeg" 
-         style="width:400px"
+         style="width:600px"
 	/>
 <br>
 
