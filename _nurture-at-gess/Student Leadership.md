@@ -58,8 +58,11 @@ In addition to the basic leadership development for all students, an advanced le
 ### **Organisation Chart**
 
 In the Organisation Chart for Student Leaders, our Head Prefect oversees the development and progress of all Student Leaders in GESS.  He or she helps to ensure school activities are well planned and organised and leads the leaders in maintaining the discipline and order among Gessians.
-
-![Organisation Chart](/images/SL-2.png)
+<br>
+<img src="/images/SL-2.png" 
+         style="width:450px"
+	/>
+<br>
 
 <p style="text-align:center;"> <strong>Organisation Chart for Student Leaders</strong></p>
 
@@ -67,39 +70,58 @@ In the Organisation Chart for Student Leaders, our Head Prefect oversees the dev
 
 **Main Event 1: Secondary 1 GESS CAMP / Secondary 1 Orientation Camp**
 
-![Main Event 1: Secondary 1 GESS CAMP / Secondary 1 Orientation Camp](/images/SL-3.jpeg)
-
-![Main Event 1: Secondary 1 GESS CAMP / Secondary 1 Orientation Camp](/images/SL-4.jpeg)
-
-![Main Event 1: Secondary 1 GESS CAMP / Secondary 1 Orientation Camp](/images/SL-5.jpeg)
+<br>
+<img src="/images/SL-3.jpeg" 
+         style="width:350px"
+	/>
+<br><br>
+<img src="/images/SL-4.jpeg" 
+         style="width:350px"
+	/>
+<br><br>
+<img src="/images/SL-5.jpeg" 
+         style="width:350px"
+	/>
+<br>
 
 ***
 
 **Main Event 2: Student Leaders Appointment Ceremony**
-
-![Main Event 2: Student Leaders Appointment Ceremony](/images/SL-6.jpeg)
-
-![Main Event 2: Student Leaders Appointment Ceremony](/images/SL-7.jpeg)
+<br>
+<img src="/images/SL-6.jpeg" 
+         style="width:350px"
+	/>
+<br>
+<br>
+<img src="/images/SL-7.jpeg" 
+         style="width:350px"
+	/>
+<br>
 
 ***
 
 **Main Event 3: Teachers’ and Support Staff Day**
-
-![Main Event 3: Teachers’ and Support Staff Day](/images/SL-8.jpeg)
-
-![Organising Committee](/images/SL-9.jpeg)
-
+<br>
+<img src="/images/SL-8.jpeg" 
+         style="width:350px"
+	/>
+<br>
+<br>
+<img src="/images/SL-9.jpeg" 
+         style="width:350px"
+	/>
+<br>
 <p style="text-align:center;"> <strong>Organising Committee</strong></p>
 <br>
 <img src="/images/SL-10.jpeg" 
-         style="width:400px"
+         style="width:300px"
 	/>
 <br>
 
 <p style="text-align:center;"> <strong>Designed by Student Leader</strong></p>
 <br>
 <img src="/images/SL-11.jpeg" 
-         style="width:400px"
+         style="width:300px"
 	/>
 <br>
 
@@ -108,17 +130,23 @@ In the Organisation Chart for Student Leaders, our Head Prefect oversees the dev
 ***
 
 **Main Event 4: GESS do it right Campaign, Head Prefect election and  initiated by GESS Prefectorial Board**
-
-![70th GESS Prefectorial Board](/images/SL-12.jpeg)
+<br>
+<img src="/images/SL-12.jpeg" 
+         style="width:350px"
+	/>
+<br>
 
 <p style="text-align:center;"> <strong>70th GESS Prefectorial Board</strong></p>
-
-![Head Prefect Election](/images/SL-13.png)
+<br>
+<img src="/images/SL-13.png" 
+         style="width:350px"
+	/>
+<br>
 
 <p style="text-align:center;"> <strong>Head Prefect Election</strong></p>
 <br>
 <img src="/images/SL-15.png" 
-         style="width:450px"
+         style="width:300px"
 	/>
 <br>
 
