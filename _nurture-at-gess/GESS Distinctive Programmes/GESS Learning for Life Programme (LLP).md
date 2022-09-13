@@ -75,22 +75,52 @@ With a healthy understanding of self and others, and effective habits developed 
 
 Through the GESS LIFE programme, Gan Eng Seng School aimed to nurture our students to become GESSIANs of Excellence, Standing and Significance.
 
-![Our NKF Ambassador, Tan Daphne, ushering Minister for Education, Mr Ng Chee Meng during the Official opening of the NKF’s Kidney Discovery Centre on 17th April 2017.](/images/01.jpeg)
-Our NKF Ambassador, Tan Daphne, ushering Minister for Education, Mr Ng Chee Meng during the Official opening of the NKF’s Kidney Discovery Centre on 17th April 2017.
+<br>
+<img src="/images/01.jpeg" 
+         style="width:400px"
+	/>
+<br>
+<p style="text-align: center">Our NKF Ambassador, Tan Daphne, ushering Minister for Education, Mr Ng Chee Meng during the Official opening of the NKF’s Kidney Discovery Centre on 17th April 2017</p>
 
-![Faith Kirsten from Class 3B sharing her experiences on her outreach to the community to the distinguished guests.](/images/02.jpeg)
-Faith Kirsten from Class 3B sharing her experiences on her outreach to the community to the distinguished guests.
+<br>
+<img src="/images/02.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
-![Tan Daphne from Class 2F being interviewed by the media on her volunteering experiences.](/images/03.jpeg)
-Tan Daphne from Class 2F being interviewed by the media on her volunteering experiences.
+<p style="text-align: center">Faith Kirsten from Class 3B sharing her experiences on her outreach to the community to the distinguished guests</p>
 
-![Ian Ng, from Class 1F, explaining to the visitors how kidney patients perform dialysis by themselves.](/images/04.jpeg)
-Ian Ng, from Class 1F, explaining to the visitors how kidney patients perform dialysis by themselves.
+<br>
+<img src="/images/03.jpeg" 
+         style="width:400px"
+	/>
+<br>
+<p style="text-align: center">Tan Daphne from Class 2F being interviewed by the media on her volunteering experiences</p>
 
-![A lighter moment during the Official opening of the NKF Kidney Discovery Centre.](/images/05.jpeg)
-A lighter moment during the Official opening of the NKF Kidney Discovery Centre.
+<br>
+<img src="/images/04.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
-![A group photo of happy volunteers!](/images/06.jpeg)
-A group photo of happy volunteers!
+<p style="text-align: center">Ian Ng, from Class 1F, explaining to the visitors how kidney patients perform dialysis by themselves</p>
 
-![Gessians paying it forward to their community by helping senior citizens to clean up their residences.](/images/07.jpeg)Gessians paying it forward to their community by helping senior citizens to clean up their residences.
+<br>
+<img src="/images/05.jpeg" 
+         style="width:400px"
+	/>
+
+<p style="text-align: center">A lighter moment during the Official opening of the NKF Kidney Discovery Centre</p>
+
+<br>
+<img src="/images/06.jpeg" 
+         style="width:400px"
+	/>
+
+<p style="text-align: center">A group photo of happy volunteers!</p>
+<img src="/images/07.jpeg" 
+         style="width:400px"
+	/>
+<br>
+
+<p style="text-align: center">Gessians paying it forward to their community by helping senior citizens to clean up their residences</p>
