@@ -134,14 +134,51 @@ Dylan Yap (4G)
 Lou Jia Jun (4D)  
 Tay Shao Yang (4D)
 
-![Peer Tutoring](/images/Peer-Tutoring-768x576.jpeg)
-Peer Tutoring
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Peer-Tutoring-768x576.jpeg" alt="Peer Tutoring" style="width:70%;">  
+  
+</body>
 
-![Peers Learning](/images/Peers-Learning.jpeg)
-Peers Learning
+<p style="text-align:center;">Peer Tutoring</p>
 
-![Competition](/images/Competition-768x573.jpeg)
-Competition
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Peers-Learning.jpeg" alt="Peers Learning" style="width:70%;">  
+  
+</body>
+<p style="text-align:center;">Peers Learning</p>
 
-![Competition2](/images/Competition2-768x575.jpeg)
-Competition2
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Competition-768x573.jpeg" alt="Competition" style="width:70%;">  
+  
+</body>
+<p style="text-align:center;">Competition</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Competition2-768x575.jpeg" alt="Competition2" style="width:70%;">  
+  
+</body>
+<p style="text-align:center;">Competition2e</p>
