@@ -41,20 +41,45 @@ Singapore Junior Physics Olympiad: 1 Bronze award
 International Competition and Assessment for Schools pending result  
 Participation in Green Wave Competition
 
-1)       Be electrified during Science Camp
+1\. Be electrified during Science Camp
 
-![Be electrified during Science Camp](/images/Science-1-150x150.png)
+<br>
+<img src="/images/Science-1-150x150.png" 
+         style="width:400px"
+	/>
+<br>
+<br>
+<img src="/images/Science-2-150x150.png" 
+         style="width:400px"
+	/>
+<br>
 
-![Be electrified during Science Camp](/images/Science-2-150x150.png)
 
-2)       Outstanding Award for Scientific Research on fire extinguishing abilities
+2\. Outstanding Award for Scientific Research on fire extinguishing abilities
 
-![Outstanding Award for Scientific Research on fire extinguishing abilities](/images/Science-3-150x150.png)
+<br>
+<img src="/images/Science-3-150x150.png" 
+         style="width:400px"
+	/>
+<br>
 
-3)       Making our own indicator, marbling art work and demonstration during Science Busking
 
-![Making our own indicator, marbling art work and demonstration during Science Busking](/images/Science-4-150x150.png)
+3\. Making our own indicator, marbling art work and demonstration during Science Busking
 
-![Making our own indicator, marbling art work and demonstration during Science Busking](/images/Science-5-150x150.png)
+<br>
+<img src="/images/Science-4-150x150.png" 
+         style="width:400px"
+	/>
+<br>
 
-![Making our own indicator, marbling art work and demonstration during Science Busking](/images/Science-6-150x150.png)
+<br>
+<img src="/images/Science-5-150x150.png" 
+         style="width:400px"
+	/>
+<br>
+
+<br>
+<img src="/images/Science-6-150x150.png" 
+         style="width:500px"
+	/>
+<br>
