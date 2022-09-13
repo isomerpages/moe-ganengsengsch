@@ -24,11 +24,26 @@ The department has also introduced competitive skipping to all levels after its 
 
 The school can look forward to more interesting and enriching sporting activities as the PE Department continues to work towards its vision of nurturing Gessians to have healthy bodies and minds.
 
-![Outdoor Cooking Learning To Be Responsible Of Our Equipment](/images/Outdoor-Cooking-Learning-to-be-responsible-of-our-equipment-768x576.jpeg)
-Outdoor Cooking Learning To Be Responsible Of Our Equipment
+<br>
+<img src="/images/Outdoor-Cooking-Learning-to-be-responsible-of-our-equipment-768x576.jpeg" 
+         style="width:400px"
+	/>
+<br>
 
-![Sec 1 Learning Festival Bocca Ball. Seeing With Our ‘ears’](/images/Sec-1-Learning-Festival-Bocca-Ball-Seeing-with-our-ears-768x576.jpg)
-Sec 1 Learning Festival Bocca Ball. Seeing With Our ‘ears’
+<p style="text-align: center">Outdoor Cooking Learning To Be Responsible Of Our Equipment</p>
 
-![Indoor Rowing Championship Pre Covid](/images/Indoor-Rowing-Championship-Pre-Covid.jpeg)
-Indoor Rowing Championship Pre Covid
+<br>
+<img src="/images/Sec-1-Learning-Festival-Bocca-Ball-Seeing-with-our-ears-768x576.jpg" 
+         style="width:400px"
+	/>
+<br>
+
+<p style="text-align: center">Sec 1 Learning Festival Bocca Ball. Seeing With Our ‘ears’</p>
+
+<br>
+<img src="/images/Indoor-Rowing-Championship-Pre-Covid.jpeg" 
+         style="width:400px"
+	/>
+<br>
+
+<p style="text-align: center">Indoor Rowing Championship Pre Covid</p>
