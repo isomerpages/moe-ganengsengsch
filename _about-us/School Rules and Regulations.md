@@ -92,7 +92,16 @@ description: ""
 
 * * *
 
-![Attire Boys](/images/Attire-Boy.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Attire-Boy.jpeg" alt="Attire Boys" style="width:80%;">  
+  
+</body>
 
 *   **Hairstyle:**
     *   Hair length that touches the collar must be tied up.
@@ -109,7 +118,16 @@ description: ""
 
 * * *
 
-![Attire Girls](/images/Attire-Girl-4-Jan-2021.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Attire-Girl-4-Jan-2021.jpeg" alt="Attire Girls" style="width:80%;">  
+  
+</body>
 
 *   **Hairstyle:**
     *   Hair length that touches the collar must be tied up.
@@ -126,7 +144,16 @@ description: ""
 
 ***
 
-![Attire PE](/images/Attire-PE.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Attire-PE.jpeg" alt="Attire PE" style="width:80%;">  
+  
+</body>
 
 ***
 
