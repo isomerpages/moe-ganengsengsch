@@ -28,23 +28,19 @@ sections:
         shown for all our school events and activities. With your support,
         school has completed the…
       button: View Programme
-      url: /lp_news/letter-to-parents-term-3-updates-2022/
+      url: /lp-news/letter-to-parents-term-3-updates-2022/
   - infobar:
       title: Personalised Digital Learning Programme
       button: Read More
-      url: /lp_news/personalised-digital-learning-programme/
+      url: /lp-news/personalised-digital-learning-programme/
   - infobar:
       title: Founder’s Day 2022
       description: GESS Founder’s Day 2022 with the theme of Grateful hearts and
         Gracious hands went on very well on 11 March 2022. Our Guest-Of-Honour
         was…
       button: View Programme
-      url: /lp_news/founders-day-2022/
+      url: /lp-news/founders-day-2022/
   - resources:
       title: Proud Moments & Announcements
       button: Click here to read more
 ---
-
-
-
-
