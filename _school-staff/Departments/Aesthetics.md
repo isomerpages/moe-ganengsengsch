@@ -4,7 +4,6 @@ permalink: /nurturegess/academic/aesthetics/
 description: ""
 third_nav_title: Departments
 ---
-
 <br>
 <img src="/images/Aesthetics-3-scaled.jpeg" 
          style="width:450px"
