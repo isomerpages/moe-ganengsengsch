@@ -30,6 +30,8 @@ Each class in GESS has 1-2 ICT Representatives, who lead the class in discussion
 
 1.  guiding their peers to be safe and discerning ICT users and championing Cyber Wellness efforts
 2.  supporting teachers in technical support
+
+
 <br>
 <img src="/images/IMG-20210713-WA0023.jpeg" 
          style="width:400px"
