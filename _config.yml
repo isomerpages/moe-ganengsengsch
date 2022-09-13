@@ -2,8 +2,8 @@ title: Gan Eng Seng School
 url: https://ganengsengsch.moe.edu.sg
 favicon: /images/gess_logo1.png
 colors:
-  primary-color: "#73717a"
-  secondary-color: "#e69807"
+  primary-color: "#262626"
+  secondary-color: "#e7b141"
   media-colors:
     - title: media-color-one
       color: "#49759a"
