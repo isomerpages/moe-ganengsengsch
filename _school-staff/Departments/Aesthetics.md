@@ -4,7 +4,12 @@ permalink: /nurturegess/academic/aesthetics/
 description: ""
 third_nav_title: Departments
 ---
-![](/images/Aesthetics-3-scaled.jpeg)
+
+<br>
+<img src="/images/Aesthetics-3-scaled.jpeg" 
+         style="width:450px"
+	/>
+
 
 ### Vision
 
@@ -24,17 +29,35 @@ In **Music**, students develop musical capacities through a variety of activiti
 
 In **Nutrition and Food Science**, we focus on the importance of the diet in promoting  overall health. The topics covered will enable students to better appreciate and develop the understanding of not just a holistic diet but also how food is an important part of multicultural literacy in the global context. To prepare students for the 21st Century, we use inquiry-based learning where the hands-on approach in an authentic learning context allows students to relate and apply the knowledge gained in real-life situations.
 
-![Sec 3 Art students engaging in a critique session](/images/Aesthetics_1_Sec-3-Art-Critique-768x576.jpeg)
-Sec 3 Art students engaging in a critique session
+<br>
+<img src="/images/Aesthetics_1_Sec-3-Art-Critique-768x576.jpeg" 
+         style="width:400px"
+	/>
+<p style="text-align: center">Sec 3 Art students engaging in a critique session</p>
 
-![Sec 1 student working on her watercolour painting](/images/Aesthetics_2_Sec-1-Watercolour-Painting-768x576.jpeg)
-Sec 1 student working on her watercolour painting
+<br>
+<img src="/images/Aesthetics_2_Sec-1-Watercolour-Painting-768x576.jpeg" 
+         style="width:400px"
+	/>
 
-![Sec 1 students learning to play the ukulele](/images/Aesthetics_3_Sec-1-Ukulele-Lessons-768x576.jpeg)
-Sec 1 students learning to play the ukulele
+<p style="text-align: center">Sec 1 student working on her watercolour painting</p>
 
-![Sec 2 students playing as a band with safe distancing](/images/Aesthetics_4_Safe-Distanced-Sec-2-Band.jpeg)
-Sec 2 students playing as a band with safe distancing
+<br>
+<img src="/images/Aesthetics_3_Sec-1-Ukulele-Lessons-768x576.jpeg" 
+         style="width:400px"
+	/>
 
-![Students working in pairs during a NFS lesson](/images/Aesthetics_5_NFS_Working-in-Pairs-768x576.jpeg)
-Students working in pairs during a NFS lesson
+<p style="text-align: center">Sec 1 students learning to play the ukulele</p>
+
+<br>
+<img src="/images/Aesthetics_4_Safe-Distanced-Sec-2-Band.jpeg" 
+         style="width:400px"
+	/>
+
+<p style="text-align: center">Sec 2 students playing as a band with safe distancing</p>
+<br>
+<img src="/images/Aesthetics_5_NFS_Working-in-Pairs-768x576.jpeg" 
+         style="width:400px"
+	/>
+
+<p style="text-align: center">Students working in pairs during a NFS lesson</p>
