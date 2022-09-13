@@ -8,7 +8,7 @@ St. John Brigade (SJB)
 ----------------------
 <br>
 <img src="/images/SJB-1.jpeg" 
-         style="width:350px"
+         style="width:500px"
 	/>
 <br>
 
