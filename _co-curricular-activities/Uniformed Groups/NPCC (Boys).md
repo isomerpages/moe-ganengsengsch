@@ -8,7 +8,7 @@ National Police Cadet Corps
 ---------------------------
 <br>
 <img src="/images/npcc_1.jpeg" 
-         style="width:400px"
+         style="width:500px"
 	/>
 <br>
 
