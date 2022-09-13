@@ -2,7 +2,7 @@
 layout: homepage
 title: Gan Eng Seng School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/gesslogo.png
 permalink: /
 notification: ""
 sections:
@@ -44,4 +44,5 @@ sections:
       title: Proud Moments & Announcements
       button: Click here to read more
 ---
+
 
