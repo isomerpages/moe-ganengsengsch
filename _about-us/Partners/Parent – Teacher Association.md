@@ -19,7 +19,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
 (d) to provide financial assistance to needy students.
 <br>
 <img src="/images/Group-1.jpeg" 
-         style="width:450px"
+         style="width:650px"
 	/>
 <br>
 
