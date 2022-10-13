@@ -3,18 +3,9 @@ title: NURTURE@GESS Framework
 permalink: /nurturegess/holistic-education-at-gess/
 description: ""
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/holistics-gess.jpeg" alt="NURTURE@GESS Framework 1" style="width:70%;">  
-  
-</body>
+<img src="/images/holistics-gess.jpeg" alt="NURTURE@GESS Framework 1" style="width:70%;">  
 
-<h5 style="color:black" align="center">GESS Holistic Education Framework</h5>
+##### GESS Holistic Education Framework
 
 ### Rationale
 
@@ -49,28 +40,11 @@ The Character and Citizenship Development (CCE) component encompasses the inform
 
 In 2011, the school is chosen as one of the project study school to infuse 21st Century Competencies into the total curriculum. As part of her continuing effort to teach students to ‘Know the Good’, ‘Desire the Good’ and ‘Do the Good’, the four aspects of the _Parallel Curriculum Model_ serve as the guiding principles to deliver a quality curriculum in GESS. The tagline ‘Our Quality, Their Future’ serves as an anchoring belief for all staff at GESS in providing the best for the GESS family through the PLC.
 
-<h5 style="color:black" align="center">GAN ENG SENG SCHOOL 21ST CENTURY COMPETENCY FRAMEWORK</h5>
+##### GAN ENG SENG SCHOOL 21ST CENTURY COMPETENCY FRAMEWORK
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/holistic-pic.jpeg" alt="NURTURE@GESS Framework 2" style="width:70%;">  
-  
-</body>
+<img src="/images/holistic-pic.jpeg" alt="NURTURE@GESS Framework 2" style="width:70%;">  
 
 These four curriculum parallels serve as the guiding principles of infusing the 21st Century Competencies into the total GESS curriculum and thus shapes the goals and content, pedagogy and assessment practices of the school as outlined in the GESS Quality Teaching and Learning Framework.
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/nuture.jpeg" alt="NURTURE@GESS Framework 3" style="width:70%;">  
+<img src="/images/nuture.jpeg" alt="NURTURE@GESS Framework 3" style="width:70%;">  
   
-</body>
