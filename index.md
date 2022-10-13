@@ -1,7 +1,10 @@
 ---
 layout: homepage
 title: Gan Eng Seng School
-description: Gan Eng Seng School
+description: Gan Eng Seng School (GESS) is a co-educational government secondary
+  school in Bukit Merah, Singapore. Founded in 1885 by philanthropist Gan Eng
+  Seng, the school is the first school established by the overseas Chinese
+  community in Singapore and is one of the oldest schools in the country.
 image: /images/GESS_Crest_Transparent_V2.png
 permalink: /
 notification: ""
@@ -44,3 +47,4 @@ sections:
       title: Proud Moments & Announcements
       button: Click here to read more
 ---
+
