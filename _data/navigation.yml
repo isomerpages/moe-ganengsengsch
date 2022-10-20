@@ -3,7 +3,14 @@ links:
   - title: About Us
     collection: about-us
   - title: Achievements
-    collection: achievements
+    url: /achievements/academic/
+    sublinks:
+      - title: Academic Achievements
+        url: /achievements/academic/
+      - title: CCA Achievements
+        url: /achievements/cca/
+      - title: Proud moments
+        url: /resources/
   - title: Nuruture@GESS
     collection: nurture-at-gess
   - title: CCA
