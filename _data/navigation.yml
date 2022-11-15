@@ -1,15 +1,21 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/GESS_Crest_Transparent_V2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Achievements
+    url: /achievements/academic/
+    sublinks:
+      - title: Academic Achievements
+        url: /achievements/academic/
+      - title: CCA Achievements
+        url: /achievements/cca/
+      - title: Proud moments
+        url: /resources/
+  - title: Nuruture@GESS
+    collection: nurture-at-gess
+  - title: CCA
+    collection: co-curricular-activities
+  - title: Staff
+    collection: school-staff
+  - title: School Information
+    collection: school-information

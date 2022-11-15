@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - Vision, Mission & Values.md
+      - The Gessian Portrait.md
+      - School Anthem & Creed & Crest.md
+      - School Rules and Regulations.md
+      - GESS Heritage/.keep
+      - GESS Heritage/GESS History.md
+      - GESS Heritage/Principals.md
+      - Partners/.keep
+      - Partners/School Advisory Committee.md
+      - Partners/GESSOSA.md
+      - Partners/Parent – Teacher Association.md
+      - Contact Us.md

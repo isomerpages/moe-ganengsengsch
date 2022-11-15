@@ -1,0 +1,21 @@
+collections:
+  nurture-at-gess:
+    output: true
+    order:
+      - NURTURE@GESS Framework.md
+      - GESS Distinctive Programmes/.keep
+      - GESS Distinctive Programmes/GESS Learning for Life Programme (LLP).md
+      - GESS Distinctive Programmes/GESS Probes Applied Learning Programme
+        (ALP).md
+      - CCE Curriculum/.keep
+      - CCE Curriculum/Cyberwellness.md
+      - CCE Curriculum/Sexuality Education.md
+      - CCE Curriculum/Education and Career Guidance (ECG).md
+      - CCE Curriculum/Values in Action (VIA).md
+      - Student Leadership.md
+      - Counselling@GESS/.keep
+      - Counselling@GESS/Counselling Support.md
+      - Counselling@GESS/From the Counsellor’s Desk.md
+      - Counselling@GESS/MOE Resources for Parents.md
+      - Counselling@GESS/Helplines.md
+      - Counselling@GESS/Useful Links.md
