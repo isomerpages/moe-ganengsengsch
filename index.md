@@ -43,4 +43,8 @@ sections:
         was…
       button: View Programme
       url: /lp-news/founders-day-2022/
+  - infobar:
+      title: GESS Open House 2022
+      button: READ MORE
+      url: /resources/announcements/permalink/
 ---
