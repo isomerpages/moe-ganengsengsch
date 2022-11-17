@@ -26,6 +26,10 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
+      title: GESS Open House 2022
+      button: READ MORE
+      url: /resources/announcements/permalink/
+  - infobar:
       title: Letter to Parents (Term 3 Updates 2022)
       description: Dear Parents/Guardians, Thank you for the strong support you have
         shown for all our school events and activities. With your support,
@@ -43,8 +47,4 @@ sections:
         was…
       button: View Programme
       url: /lp-news/founders-day-2022/
-  - infobar:
-      title: GESS Open House 2022
-      button: READ MORE
-      url: /resources/announcements/permalink/
 ---
