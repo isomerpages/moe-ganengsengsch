@@ -29,4 +29,8 @@ sections:
       title: GESS Open House 2022
       button: READ MORE
       url: /resources/announcements/permalink/
+  - infobar:
+      title: School Bookshop and Booklists
+      button: READ MORE
+      url: /school-information/school-bookshop-and-booklists/
 ---
