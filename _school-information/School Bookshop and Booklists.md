@@ -23,7 +23,7 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
 
 #### Booklist
 * [Gan Eng Seng School Secondary 2 (Express) Booklist For Year 2023](/files/GESS%20S2E.pdf)
-* [Gan Eng Seng School Secondary 2 (Normal Academic) Booklist For Year 2023]()
+* [Gan Eng Seng School Secondary 2 (Normal Academic) Booklist For Year 2023](/files/GESS%20S2NA.pdf)
 * [Gan Eng Seng School Secondary 2 (Normal Technical) Booklist For Year 2023](/files/GESS%20S2NT.pdf)
 * [Gan Eng Seng School Secondary 3 (Express) Booklist For Year 2023](/files/GESS%20S3EXP.pdf)
 * [Gan Eng Seng School Secondary 3 (Normal Academic) Booklist For Year 2023](/files/GESS%20S3NA.pdf)
