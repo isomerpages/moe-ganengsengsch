@@ -22,13 +22,13 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
 * * *
 
 #### Booklist
-* [Gan Eng Seng School Secondary 2 (Express) Booklist For Year 2023](GESS S2E,PDF)
-* [Gan Eng Seng School Secondary 2 (Normal Academic) Booklist For Year 2023](GESS S2NA.PDF)
-* [Gan Eng Seng School Secondary 2 (Normal Technical) Booklist For Year 2023](GESS S2NT.PDF)
-* [Gan Eng Seng School Secondary 3 (Express) Booklist For Year 2023](GESS S3EXP.PDF)
-* [Gan Eng Seng School Secondary 3 (Normal Academic) Booklist For Year 2023](GESS S3NA.PDF)
-* [Gan Eng Seng School Secondary 3 (Normal Technical) Booklist For Year 2023](GESS S3NT.PDF)
-* [Gan Eng Seng School Secondary 4 (Express) Booklist For Year 2023](GESS S4EXP.PDF)
-* [Gan Eng Seng School Secondary 4 (Normal Academic) Booklist For Year 2023](GESS S4NA.PDF)
-* [Gan Eng Seng School Secondary 4 (Normal Technical) Booklist For Year 2023](GESS S4NT.PDF)
-* [Gan Eng Seng School Secondary 5 (Normal Academic) Booklist For Year 2023](GESS S5NA.PDF)
+* [Gan Eng Seng School Secondary 2 (Express) Booklist For Year 2023](/files/GESS%20S2E.pdf)
+* [Gan Eng Seng School Secondary 2 (Normal Academic) Booklist For Year 2023]()
+* [Gan Eng Seng School Secondary 2 (Normal Technical) Booklist For Year 2023](/files/GESS%20S2NT.pdf)
+* [Gan Eng Seng School Secondary 3 (Express) Booklist For Year 2023](/files/GESS%20S3EXP.pdf)
+* [Gan Eng Seng School Secondary 3 (Normal Academic) Booklist For Year 2023](/files/GESS%20S3NA.pdf)
+* [Gan Eng Seng School Secondary 3 (Normal Technical) Booklist For Year 2023](/files/GESS%20S3NT.pdf)
+* [Gan Eng Seng School Secondary 4 (Express) Booklist For Year 2023](/files/GESS%20S4EXP.pdf)
+* [Gan Eng Seng School Secondary 4 (Normal Academic) Booklist For Year 2023](/files/GESS%20S4NA.pdf)
+* [Gan Eng Seng School Secondary 4 (Normal Technical) Booklist For Year 2023](/files/GESS%20S4NT.pdf)
+* [Gan Eng Seng School Secondary 5 (Normal Academic) Booklist For Year 2023](/files/GESS%20S5NA.pdf)
