@@ -1,5 +1,5 @@
 collections:
-  co-curricular-activities:
+  our-co-curriculum:
     output: true
     order:
       - Student Leadership.md
