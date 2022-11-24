@@ -3,9 +3,7 @@ title: ICT & Computer Applications
 permalink: /nurturegess/academic/technology/
 description: ""
 ---
-
-
-![Technology](/images/ICT-2-scaled.jpeg)
+![](/images/infocomm%20technology%20department%20i.jpg)
 
 ### **Vision**
 
