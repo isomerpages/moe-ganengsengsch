@@ -3,9 +3,7 @@ title: Physical Education
 permalink: /nurturegess/academic/physical-education-cca/
 description: ""
 ---
-
-
-![](/images/PE-2-scaled.jpeg)
+![](/images/physical%20education%20department%20i.jpg)
 
 ### Vision
 
