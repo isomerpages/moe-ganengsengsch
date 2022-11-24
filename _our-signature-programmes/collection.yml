@@ -2,5 +2,6 @@ collections:
   our-signature-programmes:
     output: true
     order:
+      - Full Subject Based Banding (FSBB) in GESS.md
       - GESS Probes Applied Learning Programme (ALP).md
       - Departments/.keep
