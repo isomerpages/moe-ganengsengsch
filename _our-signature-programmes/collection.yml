@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Departments/.keep
-      - Departments/Character and Citizenship Education (CCE).md
       - Departments/English & Literature.md
       - Departments/Humanities.md
       - Departments/Mathematics.md
