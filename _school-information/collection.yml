@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Announcement/.keep
       - Full Subject Based Banding (FSBB) in GESS.md
       - Events/.keep
       - Events/Event Calendar.md
