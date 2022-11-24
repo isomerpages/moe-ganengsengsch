@@ -3,8 +3,7 @@ title: Mother Tongue Languages
 permalink: /nurturegess/academic/mother-tongue/
 description: ""
 ---
-
-![](/images/MT-4-scaled.jpeg)
+![](/images/mother%20tongue%20language%20departmemt%20i.jpg)
 
 ### Vision
 
