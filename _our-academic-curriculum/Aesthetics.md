@@ -4,11 +4,7 @@ permalink: /nurturegess/academic/aesthetics/
 description: ""
 ---
 
-<br>
-<img src="/images/Aesthetics-3-scaled.jpeg" 
-         style="width:450px"
-	/>
-
+![](/images/aesthetics%20department%20i.jpg)
 
 ### Vision
 
