@@ -2,6 +2,7 @@ collections:
   our-co-curriculum:
     output: true
     order:
+      - Character & Citizenship Ed/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys’ Brigade (Boys).md
       - Uniformed Groups/Girls’ Brigade (Girls).md
