@@ -2,6 +2,7 @@ collections:
   our-academic-curriculum:
     output: true
     order:
+      - Aesthetics.md
       - NURTURE@GESS Framework.md
       - GESS Distinctive Programmes/.keep
       - GESS Distinctive Programmes/GESS Learning for Life Programme (LLP).md
