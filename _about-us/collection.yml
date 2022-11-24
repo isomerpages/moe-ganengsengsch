@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Our Staff/.keep
       - Principal’s Message.md
       - Vision Mission Values.md
       - School Anthem & School Creed.md
       - The Gessian Portrait.md
+      - Our Staff/.keep
       - History of GESS.md
       - Our partners/.keep
       - Our partners/School Advisory Committee.md
