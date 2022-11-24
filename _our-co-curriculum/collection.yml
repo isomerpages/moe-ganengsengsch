@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - CCAs   Clubs & Societies/.keep
-      - CCAs   Clubs & Societies/Infocom Club (Boys & Girls).md
+      - CCAs   Clubs & Societies/Infocomm Club (Boys & Girls).md
       - CCAs   Clubs & Societies/Entrepreneur Club (Boys & Girls).md
       - CCAs   Performing Arts/.keep
       - CCAs   Performing Arts/Drama (Boys & Girls).md
