@@ -2,7 +2,14 @@ collections:
   our-co-curriculum:
     output: true
     order:
-      - Character & Citizenship Ed/.keep
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Infocom Club (Boys & Girls).md
+      - Clubs & Societies/Entrepreneur Club (Boys & Girls).md
+      - Performing Arts/.keep
+      - Performing Arts/Drama (Boys & Girls).md
+      - Performing Arts/Modern Dance (Boys & Girls).md
+      - Performing Arts/Marching Band (Boys & Girls).md
+      - Performing Arts/School Choir (Boys & Girls).md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys’ Brigade (Boys).md
       - Uniformed Groups/Girls’ Brigade (Girls).md
@@ -16,12 +23,5 @@ collections:
       - Sports & Games/Canoeing (Boys & Girls).md
       - Sports & Games/Cross Country (Boys & Girls).md
       - Sports & Games/Football (Boys).md
-      - Performing Arts/.keep
-      - Performing Arts/Drama (Boys & Girls).md
-      - Performing Arts/Modern Dance (Boys & Girls).md
-      - Performing Arts/Marching Band (Boys & Girls).md
-      - Performing Arts/School Choir (Boys & Girls).md
-      - Clubs & Societies/.keep
-      - Clubs & Societies/Infocom Club (Boys & Girls).md
-      - Clubs & Societies/Entrepreneur Club (Boys & Girls).md
+      - Character & Citizenship Ed/.keep
       - Student Leadership.md
