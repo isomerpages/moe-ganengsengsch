@@ -3,8 +3,7 @@ title: Mathematics
 permalink: /nurturegess/academic/mathematics/
 description: ""
 ---
-
-![](/images/Math-11-scaled.jpeg)
+![](/images/mathematics%20department%20i.jpg)
 
 ### Vision
 
