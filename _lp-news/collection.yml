@@ -1,5 +1,4 @@
 collections:
   lp-news:
     output: true
-    order:
-      - Founder’s Day 2022.md
+    order: []
