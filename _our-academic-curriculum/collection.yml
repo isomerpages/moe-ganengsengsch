@@ -2,6 +2,7 @@ collections:
   our-academic-curriculum:
     output: true
     order:
+      - Technology.md
       - Student Management.md
       - Science.md
       - Physical Education & CCA.md
