@@ -1,0 +1,36 @@
+---
+title: School Choir (Boys & Girls)
+permalink: /cca/performing-arts/choir/
+description: ""
+third_nav_title: CCA   Performing Arts
+---
+
+<br>
+<img src="/images/choir%201.jpeg" 
+         style="width:550px"
+	/>
+
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;"><a href="/images/choir%202.jpeg" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; outline: 0px; color: rgb(255, 208, 26); text-decoration: underline;"><img class="aligncenter wp-image-18853 size-thumbnail" src="/images/choir%202.jpeg" alt="20181108 075528" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px;"><a href="/images/choir%203.jpeg" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18854 size-thumbnail" src="/images/choir%203.jpeg" alt="20181109 104536" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px;"><a href="/images/choir%204.jpeg" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18855 size-thumbnail" src="/images/choir%204.jpeg" alt="20181109 160358" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px;"><a href="/images/choir%205.jpeg" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18856 size-thumbnail" src="/images/choir%205.jpeg" alt="20181110 154020" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px;"><a href="/images/choir%206.jpeg" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18857 size-thumbnail" src="/images/choir%206.jpeg" alt="20190312 172951" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td></tr></tbody></table>
+
+<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(252, 177, 0); height: 53.3281px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 157px; height: 53.3281px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Teacher-in-charge:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 184px; height: 53.3281px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Coach/Instructor/</strong><br style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Volunteer:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 208px; height: 53.3281px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Student Leader:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 119px; height: 53.3281px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Training Information:</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 68px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 157px; height: 68px;"><strong style="box-sizing: inherit; font-weight: bold;">Mrs Kalaivani Thanapalan</strong><br style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">(1st Teacher I/C)</strong><br style="box-sizing: inherit;">Ms Shirley Tan<br style="box-sizing: inherit;">Mr Tang Siew Kwong<br style="box-sizing: inherit;">Mr Andrew Tan</td><td style="box-sizing: inherit; padding: 5px 10px; width: 184px; height: 68px;">Ms Rose Loh</td><td style="box-sizing: inherit; padding: 5px 10px; width: 208px; height: 68px;"><div style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">2020/2021:</strong></div><div style="box-sizing: inherit;">Shermayne Chua (4D)</div><div style="box-sizing: inherit;">Xavier Au (4D)</div><div style="box-sizing: inherit;">Zhong Shuwen (4D)</div><div style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">2021/2022:</strong></div><div style="box-sizing: inherit;">Schubert Sarida Helen (3E)</div><div style="box-sizing: inherit;">Germaine Koo (3F)</div><div style="box-sizing: inherit;">Jasreel Boo (3B)</div></td><td style="box-sizing: inherit; padding: 5px 10px; width: 119px; height: 68px;"><strong style="box-sizing: inherit; font-weight: bold;">Tuesday</strong><span>&nbsp;</span>– 3:00pm to 5.30pm<br style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Friday</strong><span>&nbsp;</span>– 2.00pm to 5.30pm</td></tr></tbody></table>
+
+### Our Team:
+
+GESS Choir is a group of passionate Choristers who learn and perform songs of different genres and languages to serenade our audiences through our performance. We believe that music heals the souls and songs bring life into every event and performance.
+
+### Our Activities:
+
+*   Competition at Choral Festivals
+*   Performance in school events such as National Day, Founder’s Day
+*   Performance in ad-hoc community events such as National Day Dinner
+
+### Our Achievements:
+
+**<u>2021</u>**
+
+*   Singapore Youth Festival Arts Presentation – Results to be announced
+
+**<u>2019</u>**
+
+*   Singapore Youth Festival Arts Presentation – Certificate of Distinction
+*   7th Asia Arts Festival – Certificate of Distinction
