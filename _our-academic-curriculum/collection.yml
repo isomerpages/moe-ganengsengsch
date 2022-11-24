@@ -1,5 +1,5 @@
 collections:
-  nurture-at-gess:
+  our-academic-curriculum:
     output: true
     order:
       - NURTURE@GESS Framework.md
