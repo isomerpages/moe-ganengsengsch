@@ -2,6 +2,7 @@ collections:
   our-academic-curriculum:
     output: true
     order:
+      - Physical Education & CCA.md
       - Mother Tongue Languages.md
       - Mathematics.md
       - Humanities.md
