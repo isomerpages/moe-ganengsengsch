@@ -3,8 +3,7 @@ title: Humanities
 permalink: /nurturegess/academic/humanities/
 description: ""
 ---
-
-![](/images/Hum-6-scaled.jpeg)
+![](/images/humanities%20department%20i.jpg)
 
 ### Vision
 
