@@ -2,7 +2,6 @@ collections:
   our-signature-programmes:
     output: true
     order:
-      - Key Personnel and Form Teachers.md
       - Departments/.keep
       - Departments/Aesthetics.md
       - Departments/Character and Citizenship Education (CCE).md
