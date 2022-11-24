@@ -3,9 +3,7 @@ title: English Language & Literature
 permalink: /nurturegess/academic/english/
 description: ""
 ---
-
-
-![](/images/EL-6-scaled.jpeg)
+![](/images/english%20language%20and%20literature%20department%20i.jpg)
 
 ### Vision
 
