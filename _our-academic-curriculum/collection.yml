@@ -2,15 +2,15 @@ collections:
   our-academic-curriculum:
     output: true
     order:
-      - Technology.md
-      - Student Management.md
-      - Science.md
-      - Physical Education & CCA.md
-      - Mother Tongue Languages.md
-      - Mathematics.md
-      - Humanities.md
-      - English & Literature.md
       - Aesthetics.md
+      - English & Literature.md
+      - Humanities.md
+      - Technology.md
+      - Mathematics.md
+      - Student Management.md
+      - Mother Tongue Languages.md
+      - Physical Education & CCA.md
+      - Science.md
       - NURTURE@GESS Framework.md
       - GESS Distinctive Programmes/.keep
       - CCE Curriculum/.keep
