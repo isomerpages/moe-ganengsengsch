@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Student Leadership.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys’ Brigade (Boys).md
       - Uniformed Groups/Girls’ Brigade (Girls).md
