@@ -2,7 +2,6 @@ collections:
   our-co-curriculum:
     output: true
     order:
-      - Student Leadership.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys’ Brigade (Boys).md
       - Uniformed Groups/Girls’ Brigade (Girls).md
@@ -24,3 +23,4 @@ collections:
       - Clubs & Societies/.keep
       - Clubs & Societies/Infocom Club (Boys & Girls).md
       - Clubs & Societies/Entrepreneur Club (Boys & Girls).md
+      - Student Leadership.md
