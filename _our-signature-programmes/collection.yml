@@ -2,4 +2,5 @@ collections:
   our-signature-programmes:
     output: true
     order:
+      - GESS Probes Applied Learning Programme (ALP).md
       - Departments/.keep
