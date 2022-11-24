@@ -3,8 +3,7 @@ title: Science
 permalink: /nurturegess/academic/science/
 description: ""
 ---
-
-![](/images/Science-5-scaled.jpeg)
+![](/images/science%20departmemt%20i.jpg)
 
 ### Vision
 
