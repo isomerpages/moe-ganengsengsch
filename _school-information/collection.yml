@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Announcement/Personalised Digital Learning Programme.md
       - Announcement/Letter to Parents (Term 3 Updates 2022).md
       - Announcement/.keep
       - Full Subject Based Banding (FSBB) in GESS.md
