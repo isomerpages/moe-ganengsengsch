@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - Principal’s Message.md
-      - Vision, Mission & Values.md
+      - Vision Mission Values.md
+      - School Anthem & School Creed.md
       - The Gessian Portrait.md
-      - School Anthem & Creed & Crest.md
-      - School Rules and Regulations.md
-      - GESS Heritage/.keep
-      - GESS Heritage/GESS History.md
-      - GESS Heritage/Principals.md
-      - Partners/.keep
-      - Partners/School Advisory Committee.md
-      - Partners/GESSOSA.md
-      - Partners/Parent – Teacher Association.md
-      - Contact Us.md
+      - Our Staff/.keep
+      - Our Staff/Key Personnel and Form Teachers.md
+      - Our Staff/Executive and Admin Staff (EAS).md
+      - History of GESS.md
+      - Our partners/.keep
+      - Our partners/School Advisory Committee.md
+      - Our partners/GESSOSA.md
+      - Our partners/Parent – Teacher Association.md
+      - Contact Information.md
