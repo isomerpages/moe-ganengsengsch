@@ -1,5 +1,5 @@
 collections:
-  school-staff:
+  our-signature-programmes:
     output: true
     order:
       - Key Personnel and Form Teachers.md
