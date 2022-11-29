@@ -2,7 +2,7 @@ logo: /images/GESS_Crest_Transparent_V2.png
 links:
   - title: About Us
     collection: about-us
-  - title: Achievements
+  - title: Our Achievements
     url: /achievements/academic/
     sublinks:
       - title: Academic Achievements
