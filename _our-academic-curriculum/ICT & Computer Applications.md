@@ -3,7 +3,7 @@ title: ICT & Computer Applications
 permalink: /nurturegess/academic/technology/
 description: ""
 ---
-![](/images/infocomm%20technology%20department%20i.jpg)
+![ICT & Computer Applications](/images/infocomm%20technology%20department%20i.jpg)
 
 ### **Vision**
 
@@ -13,16 +13,18 @@ Technology – A Way of Life in GESS
 
 Together, we harness Technology to enhance teaching and learning in GESS, to bring up a new generation of responsible and ethical learners
 
-### **ICT**
+### **About**
 
-With the firm belief that ICT should be part of quality teaching and learning in this 21st century, the Technology department takes the initiative to collaborate with all academic departments to plan and implement an ICT integrated curriculum. The school also conducts an in-house ICT Enrichment Programme for Lower Secondary students, which equips them with basic skills in information literacy and computer proficiency.
+With the firm belief that ICT should be part of quality teaching and learning, the Technology department takes the initiative to collaborate with all departments to design and enact an ICT-enriched curriculum in GESS.
 
-### **Design & Technology (D&T)**
+A landmark programme under the ICT department’s charge continues to be the rollout of the Personalised Digital Learning Programme (PDLP). Since its onset in 2021, the department has taken care of it every step of the way – from device procurement, to distribution, to routine maintenance.
 
-Appreciating Design starts by understanding people and product through observation; Experiencing Design stretches the students’ ability to combine empathy for the context of a problem. Using their creativity, the students Contribute to the generation of insights and solutions, analyze and fit solutions.
+Under the ICT Department also takes charge in organising the the yearly Code For Fun enrichment programme that aims to promote computational thinking among the Secondary 1s.
 
-The D&T unit aims to nurture our students to <u>Appreciate</u>, <u>Contribute</u> to, and <u>Experience</u> Design.
 
-###  **Our Quality, Their Future**
+<img src="/images/44fdc71d-a58c-4190-8f2e-7d5ea1e36246-1-768x719.jpeg"  
+style="width:60%">
 
-In line with MOE’s 21st Century Competencies, the Technology department has tailored various programmes and activities to prepare and equip our students to be discerning consumers and producers of technology.
+  
+<img src="/images/dbc93878-ca24-4485-93c3-ebb81f04c16a-1.jpeg"  
+style="width:60%">
