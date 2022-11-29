@@ -3,7 +3,7 @@ title: English Language & Literature
 permalink: /nurturegess/academic/english/
 description: ""
 ---
-![](/images/english%20language%20and%20literature%20department%20i.jpg)
+![English Language & Literature](/images/english%20language%20and%20literature%20department%20i.jpg)
 
 ### Vision
 
@@ -25,24 +25,26 @@ description: ""
 **TRUTH**  
 **TRU**st . **T**imeliness . **H**armony.
 
-Aligned to the philosophy of the English Language and Literature department, lessons come to life when students learn in a fun and authentic setting. Beyond pen and paper tests, students get to apply their learning in various performance tasks and project-based learning. As a result of the myriad of learning experiences, they are able to hone and demonstrate their 21st Century Competencies.
+Aligned to the philosophy of the English Language and Literature department, lessons come to life when students learn in an engaging and authentic setting. The department is committed to developing our learners to enable them to be **empathetic communicators, discerning readers, and creative inquirers** through our curriculum. In Literature classrooms, students are empowered to make meaning of texts, and see themselves and the world from diverse perspectives. Students are constantly encouraged to empathise with others, and find their own voice as they reflect on the human condition with discernment.
 
-In support of the arts education programme in GESS, the department _d’ARTs@GESS_ (Defining Aesthetics, Rhetoric and Thoughts) Programme ensures that Gessians are offered a diverse range of experiences in the arts to heighten language appreciation and raise cultural awareness.
+In support of the arts education programme in GESS, the department provides a diverse range of experiences for students in the arts to deepen their appreciation for the language and strengthen their cultural awareness through the  _d’ARTs@GESS_ (Defining Aesthetics, Rhetoric and Thoughts) Programme.
+
+Students are also given the opportunity to deepen their learning of both the writing and speaking skills beyond the classroom through the department’s Capstone programme. The school has participated in various competitions such as the Singapore Secondary Schools’ Debate Championships, the YMCA Plain English Speaking Awards (PESA), and the Queen’s Commonwealth Essay Competition.
 
 ### USEFUL LINKS
 
 **English Language and Literature Assessment Syllabuses**
 
 *   **English Language Ordinary Level**
-    *   [For examinations till 2022 (1128)](https://www.seab.gov.sg/content/syllabus/olevel/2018Syllabus/1128_2018.pdf) 
+
     *   [For examinations from 2023 (1184)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1184_y23_sy.pdf)
 
 *   **English Language Normal (Academic) Level**
-    *   [For examinations till 2022 (1190)](https://www.seab.gov.sg/content/syllabus/nlevel/2018Syllabus/1190_2018.pdf)
+
     *   [For examinations from 2023 (1190)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1190_y23_sy.pdf)
 
 *   **English Language Normal (Technical)**
-    *   [For examinations till 2022 (1195)](https://www.seab.gov.sg/content/syllabus/nlevel/2018Syllabus/1195_2018.pdf)
+
     *   [For examinations from 2023 (1195)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_sy.pdf)
 
 *   **Literature in English Ordinary Level**
