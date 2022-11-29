@@ -3,9 +3,9 @@ title: History of GESS
 permalink: /about-us/history/gess-history/
 description: ""
 ---
-![](/images/History%20of%20GESS.png)
+![History of GESS](/images/History%20of%20GESS.png)
 
-**A Brief History of GESS**
+<h2 style="color:black" align="center">A Brief History of GESS</h2>
 
 In 1885, a school was founded in some shophouses in Tanjong Pagar by Mr Gan Eng Seng to offer free education to the children of poor parents in the vicinity. It was called the Anglo-Chinese Free School.
 
