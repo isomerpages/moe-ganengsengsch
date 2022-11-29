@@ -4,44 +4,86 @@ permalink: /cca/uniformed-group/ncc/
 description: ""
 third_nav_title: CCAs   Uniformed Groups
 ---
+#### **National Cadet Corps (Land)**
 
-### National Cadet Corps (Land)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/GESS-NCC-Main-Picture.png" alt="NCC (Land) (Boys)" style="width:70%;">  
+  
+</body>
+<br>
 
-![](/images/GESS-NCC-Main-Picture.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/NCC-2.jpeg" alt="NCC (Land) (Boys)" style="width:70%;">  
+  
+</body>
+<br>
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 206.664px;"><a href="/images/1_NCC-School-Photo-150x150.jpeg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; outline: 0px; color: rgb(255, 208, 26); text-decoration: underline;"><img class="alignnone size-thumbnail wp-image-21491" src="/images/1_NCC-School-Photo-150x150.jpeg" alt="Ncc School Photo" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 205.211px;"><a href="/images/2_NCC-1-150x150.jpeg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="alignnone size-thumbnail wp-image-21493" src="/images/2_NCC-1-150x150.jpeg" alt="Ncc 1" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 206.664px;"><a href="/images/3_NCC-4-150x150.jpeg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="alignnone size-thumbnail wp-image-21496" src="/images/3_NCC-4-150x150.jpeg" alt="Ncc 4" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 208.125px;"><a href="/images/4_NCC-3-150x150.jpeg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="alignnone size-thumbnail wp-image-21495" src="/images/4_NCC-3-150x150.jpeg" alt="Ncc 3" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></td></tr></tbody></table>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/NCC-3.jpeg" alt="NCC (Land) (Boys)" style="width:70%;">  
+  
+</body>
+<br>
 
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 826.664px; height: 192px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(252, 177, 0); height: 2.8125px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 205.789px; height: 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Teachers-in-charge:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 205.789px; height: 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Volunteer:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 292.922px; height: 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Student Leader:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 121.164px; height: 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Information:</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 182px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 205.789px; height: 182px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">CPT (NCC) Lin-Phua Hui Shi (1st Teacher I/C)</strong><p style="box-sizing: inherit;"></p><p style="box-sizing: inherit;">CPT Ang Boon Bin<br style="box-sizing: inherit;">CPT (NCC) Tan Kian Beng<br style="box-sizing: inherit;">Mr. Subramanian S/O Annamalai<br style="box-sizing: inherit;">Mr. Rodney Sea<br style="box-sizing: inherit;">Mr. Marcus Quek</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 205.789px; text-align: left; height: 182px;">C/2LT Suffian Bin Abdullah<p style="box-sizing: inherit;"></p><p style="box-sizing: inherit;">C/Offr Nur Ilhan Shafeez Bin Karim</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 292.922px; height: 182px; text-align: left;">MSG (NCC) Ajmal Peer Mohideen Ajwad Habib Ahmed (3F 2021, Unit Sergeant Major)<p style="box-sizing: inherit;"></p><p style="box-sizing: inherit;">MSG (NCC) Aneesh Rai (3B 2021, Assistant Sergeant Major)</p><p style="box-sizing: inherit;">SSG (NCC) Liew Cheng En (3H 2021, Company Admin Sergeant)</p><p style="box-sizing: inherit;">SSG (NCC) Ong Hong Bin Ryan (3G 2021, Platoon Sergeant)</p><p style="box-sizing: inherit;">SSG (NCC) Mohamad Hazrul Bin Mohamad Hasli (3D 2021, Platoon Sergeant)</p><p style="box-sizing: inherit;">SSG (NCC) Muhammed Rayhaan Bin Muhammed Thariq (3C 2021, Platoon Sergeant)</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 121.164px; height: 182px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Every Tuesday&nbsp;</strong><br style="box-sizing: inherit;">3.00pm – 5.30pm<br style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Every Friday</strong><br style="box-sizing: inherit;">2.00pm – 5.30pm<p style="box-sizing: inherit;"></p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">NCC</strong><br style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Venue</strong>: Arena/NCC Corridor/ Classrooms</p></td></tr></tbody></table>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/NCC-4.jpeg" alt="NCC (Land) (Boys)" style="width:70%;">  
+  
+</body>
+<br>
 
-### About Us
-
-**Our Unit:**
-
-Gan Eng Seng School National Cadet Corps (NCC) Land Unit nurtures responsible, resilient and resourceful cadets to become successful citizens. We are thinking and learning team driven by our NCC Core Values: Loyalty to Nation, Uprightness, Leadership, Discipline, Commitment and Responsibility, Care for Fellow Cadets and Adventurous Spirit. GESS NCC develops resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military related activities.
-
-GESS NCC has been the most consistent UG in the school since its inception in 1957. The unit has won numerous awards over the years. These include winning the Overall Best Unit in 2000 and 2002 in the NCC Annual Best Unit Competition (BUC). We have also been awarded the Gold Unit Award every year since it began in 1993. Our loyal and dedicated teacher- and honorary officers, as well as NCOs, take it upon themselves to groom each cadet into a thinking soldier and a distinguished leader.
-
-GESS NCC also teaches you inter-personal skills and enables you to make friends who are true and sincere.
-
-### Our Activities
-
-GESS NCC aims to develop and nurture inspiring and committed leaders through a series of fun, adventurous and military-related activities. The NCC syllabus exposes our cadets to activities like basic foot and arms drills, orienteering, individual field craft, technical handling and live range shooting. Their competency in these skills enables them to problem-solve and appreciate the importance of our nation’s military defence. The strong camaraderie forged with their platoon mates during the NCC trainings will also enrich the lives of our cadets.
-
-Furthermore, our cadets are given the opportunity to participate in major events such as the National Day Parade and Observance Ceremonies. As part of providing a wider scope of experiential training and to foster international friendship and interaction, cadets are also given the opportunity to go on overseas exchange programmes with the NCC in India, USA, the UK and China.
-
-### Our Key Achievements
-
-*   Gold/Distinction Unit: 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019
-
-**HQ NCC Outstanding Cadet Awards:**
-
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="35" style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">2019</strong></td><td width="246" style="box-sizing: inherit; padding: 5px 10px;">Brandon Lee Wei Quan</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="35" style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">2020</strong></td><td width="246" style="box-sizing: inherit; padding: 5px 10px;">Suffian Bin Abdullah</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="35" style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">2021</strong></td><td width="246" style="box-sizing: inherit; padding: 5px 10px;">Lok Yan Rui, Sebestian</td></tr></tbody></table>
-
-### Other Links
-
-If you’re interested to find out more about NCC, do check out the official NCC Facebook Group and our GESS NCC’s Instagram.
-
-**NCC Facebook Group** – [https://www.facebook.com/sgncc.hq/](https://www.facebook.com/sgncc.hq/)  
-**GESS NCC Instagram** –[https://www.instagram.com/theofficialgessncc/](https://www.instagram.com/theofficialgessncc/)
-
-<table border="1" width="888" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="288" style="box-sizing: inherit; padding: 5px 10px; width: 265.289px;"><strong style="box-sizing: inherit; font-weight: bold;">CCA Achievements for 2020&nbsp;to 2021</strong></td><td width="288" style="box-sizing: inherit; padding: 5px 10px; width: 265.289px;"><strong style="box-sizing: inherit; font-weight: bold;">2020</strong></td><td width="312" style="box-sizing: inherit; padding: 5px 10px; width: 295.086px;"><strong style="box-sizing: inherit; font-weight: bold;">2021</strong></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">Name of CCA:</span></th>
+    <th class="tg-l2bf" colspan="2"><span style="font-weight:bold">NCC (Land)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">Teachers-in-charge:</td>
+    <td class="tg-h5mn">Volunteer Adult Leaders:</td>
+    <td class="tg-h5mn">Student Leaders:</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">CPT (NCC) Lin-Phua Hui Shi</span><br><span style="font-weight:bold"> </span><br>CPT Ang Boon Bin<br>CPT (NCC) Tan Kian Beng<br>CPT Rodney Sea<br>2LT (NCC) Yohan Fendy<br>Mr. Subramanian S/O Annamalai</td>
+    <td class="tg-1ppo">C/LTA Suffian Bin Abdullah<br>C/Offr Nur Ilhan Shafeez Bin Karim<br>Brandon Lee Wei Quan</td>
+    <td class="tg-1ppo">1SG (NCC) Aden Tei Yi Xue (3-1 2022, Unit Sergeant Major)<br>1SG (NCC) Wee Jyun Lee (3-4 2022, Assistant Sergeant Major)<br>1SG (NCC) Choy Xu Ren, Sherman (3-8 2022, Company Admin Sergeant)<br>1SG (NCC) Paramanandam Barath (3-7 2022, Platoon Sergeant)<br>1SG (NCC) Imam Tu Bin Ab Wahab (3-3 2022, Platoon Sergeant)<br>1SG (NCC) Mohamed Shameer Sham Mikhail (3-2 2022, Platoon Sergeant)</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn" colspan="3">The Gan Eng Seng School National Cadet Corps (NCC) Land Unit nurtures responsible, resilient and resourceful cadets to become successful citizens. We are a thinking and learning team driven by our NCC Core Values: Loyalty to Nation, Uprightness, Leadership, Discipline, Commitment and Responsibility, Care for Fellow Cadets and Adventurous Spirit. GESS NCC develops resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military related activities.<br><br>GESS NCC has been the most consistent UG in the school since its inception in 1957. The unit has won numerous awards over the years. These include winning the Overall Best Unit in 2000 and 2002 in the NCC Annual Best Unit Competition (BUC). We have also been awarded the Gold/Distinction Unit Award every year since it began in 1993. Our loyal and dedicated teacher- and honorary officers, as well as NCOs, take it upon themselves to groom each cadet into a thinking soldier and a distinguished leader.<br><br>Furthermore, our cadets are given the opportunity to participate in major events such as the National Day Parade and Observance Ceremonies. As part of providing a wider scope of experiential training and to foster international friendship and interaction, cadets are also given the opportunity to go on overseas exchange programmes with the NCC in India, USA, the UK and China.<br><br><span style="font-weight:bold">Unit Recognition:</span><br><br>Gold/Distinction Unit: 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021<br><br><span style="font-weight:bold">HQ NCC Outstanding Cadet Awards:</span><br><br><span style="font-weight:bold">2019</span><br>Brandon Lee Wei Quan<br><br><span style="font-weight:bold">2020</span><br>Suffian Bin Abdullah<br><br><span style="font-weight:bold">2021</span><br>Lok Yan Rui, Sebestian<br><br><span style="font-weight:bold">2022</span><br>Ajmal Peer Mohideen Ajwad Habib Ahmed<br><br><br><br><span style="font-weight:400;font-style:normal">If you’re interested to find out more about NCC, do check out the official NCC Facebook Group and our GESS NCC’s Instagram.</span><br><br><span style="font-weight:bold">NCC Facebook Group </span>–  <a href="https://www.facebook.com/sgncc.hq/" target="_blank" rel="noopener noreferrer">https://www.facebook.com/sgncc.hq/</a><br><br><br><span style="font-weight:bold">GESS NCC Instagram </span>– <a href="https://www.instagram.com/theofficialgessncc/" target="_blank" rel="noopener noreferrer">https://www.instagram.com/theofficialgessncc/</a><br><br>                              </td>
+  </tr>
+</tbody>
+</table>
