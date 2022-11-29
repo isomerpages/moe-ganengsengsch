@@ -2,9 +2,9 @@ collections:
   our-academic-curriculum:
     output: true
     order:
-      - Design & Technology.md
       - Aesthetics.md
       - English Language & Literature.md
+      - Design & Technology.md
       - Humanities.md
       - ICT & Computer Applications.md
       - Mathematics.md
