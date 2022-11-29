@@ -3,7 +3,16 @@ title: History of GESS
 permalink: /about-us/history/gess-history/
 description: ""
 ---
-![History of GESS](/images/History%20of%20GESS.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/History%20of%20GESS.png" alt="History of GESS" style="width:80%;">  
+  
+</body>
 
 <h2 style="color:black" align="center">A Brief History of GESS</h2>
 
@@ -31,123 +40,23 @@ In 1986, Gan Eng Seng School moved to a new site at Raeburn Park. The school’s
 
 In 2001, the school relocated to its present site at 1 Henderson Road. Recent years have seen it launch its inaugural Founders’ Day (2012) and the GESSOSA Student Development Fund (2015). It even made the Singapore Book of Records in 2019 by completing 102,000 squats in 5 minutes, and was chosen as one of only 27 pilot schools to undergo the Full Subject Based Banding (FSBB) trial in 2020.
 
-![](/images/History%20of%20GESS%201.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/History%20of%20GESS%201.jpg" alt="Our current building at 1 Henderson Road" style="width:70%;">  
+  
+</body>
 
 <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"Source Sans Pro"; mso-font-alt:Arial; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1610613495 33554433 0 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-fareast-font-family:Calibri; mso-hansi-font-family:Calibri; mso-bidi-font-family:Calibri;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-**Our current building at 1 Henderson Road**
+
+<p style="text-align:center;"> <strong>Our current building at 1 Henderson Road</strong></p>
 
 
 
 **Principals of Gan Eng Seng School**
 
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
- mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
- cell-none;mso-border-insidev:cell-none" width="427" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Year</span></b><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222"></span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Name</span></b><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:1;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1895 – 1904</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Robert Little</span></p></td></tr><tr style="mso-yfti-irow:2;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1905 – 1914</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Ernesr J. Gomes</span></p></td></tr><tr style="mso-yfti-irow:3;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1914 – 1915</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Pagler</span></p></td></tr><tr style="mso-yfti-irow:4;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1915 – 1922</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr J.A. Roberts</span></p></td></tr><tr style="mso-yfti-irow:5;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1923 – 1938</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr H.A.L. Orchard</span></p></td></tr><tr style="mso-yfti-irow:6;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1938</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr G.C.S. Koch (AG)</span></p></td></tr><tr style="mso-yfti-irow:7;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1938 – 1955</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr P.F. Aroozoo</span></p></td></tr><tr style="mso-yfti-irow:8;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1955</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Soo Ban Hoe</span></p></td></tr><tr style="mso-yfti-irow:9;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1956</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Peter Lim (AG)</span></p></td></tr><tr style="mso-yfti-irow:10;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1957 – 1960</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Wee Seong Kang</span></p></td></tr><tr style="mso-yfti-irow:11;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1960 – 1965</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr A.G. Meyer</span></p></td></tr><tr style="mso-yfti-irow:12;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1966 – 1968</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Lee Chong Kee</span></p></td></tr><tr style="mso-yfti-irow:13;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1969 – 1973</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mrs Peggy Phang</span></p></td></tr><tr style="mso-yfti-irow:14;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1974 – 1976</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr S Thiagarajah</span></p></td></tr><tr style="mso-yfti-irow:15;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1977 – 1978</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Ong Kim Siong</span></p></td></tr><tr style="mso-yfti-irow:16;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1979 – 1980</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Teo Lye Huat</span></p></td></tr><tr style="mso-yfti-irow:17;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1981 – 1983</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Tan Hui Seng</span></p></td></tr><tr style="mso-yfti-irow:18;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1984 – 1987</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Goh Yong Hung</span></p></td></tr><tr style="mso-yfti-irow:19;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1988 – 1994</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Eric Retnam</span></p></td></tr><tr style="mso-yfti-irow:20;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1995 – 1997</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Ms Ho Peng</span></p></td></tr><tr style="mso-yfti-irow:21;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">1998 – 2002</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Goh Choon Leng</span></p></td></tr><tr style="mso-yfti-irow:22;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">2003 – 2008</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mr Victor Giam Chong Guan</span></p></td></tr><tr style="mso-yfti-irow:23;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">2009 – 2014</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mrs Carolin Tan</span></p></td></tr><tr style="mso-yfti-irow:24;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">2015 – 2019</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Mdm Jenny Tan Mei Mei</span></p></td></tr><tr style="mso-yfti-irow:25;mso-yfti-lastrow:yes;height:21.0pt"><td style="width:111.0pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="148"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">2020 – present</span></p></td><td style="width:209.25pt;border:none;padding:4.0pt 8.0pt 4.0pt 8.0pt;
-  height:21.0pt" valign="top" width="279"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Source Sans Pro&quot;;mso-bidi-font-family:&quot;Source Sans Pro&quot;;color:#222222">Ms Tan Hwee Pin</span></p></td></tr></tbody></table>
+<table border="1"><tbody><tr style="height: 10px;"><td style="height: 10px;" width="148"><strong>Year</strong></td><td style="height: 10px;" width="279"><strong>Name</strong></td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1895 – 1904</td><td style="height: 10px;" width="279">Mr Robert Little</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1905 – 1914</td><td style="height: 10px;" width="279">Mr Ernest J. Gomes</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1914 – 1915</td><td style="height: 10px;" width="279">Mr Pagler</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1915 – 1922</td><td style="height: 10px;" width="279">Mr J.A. Roberts</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1923 – 1938</td><td style="height: 10px;" width="279">Mr H.A.L. Orchard</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1938</td><td style="height: 10px;" width="279">Mr G.C.S. Koch (AG)</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1938 – 1955</td><td style="height: 10px;" width="279">Mr P.F. Aroozoo</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1955</td><td style="height: 10px;" width="279">Mr Soo Ban Hoe</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1956</td><td style="height: 10px;" width="279">Mr Peter Lim (AG)</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1957 – 1960</td><td style="height: 10px;" width="279">Mr Wee Seong Kang</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1960 – 1965</td><td style="height: 10px;" width="279">Mr A.G. Meyer</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1966 – 1968</td><td style="height: 10px;" width="279">Mr Lee Chong Kee</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1969 – 1973</td><td style="height: 10px;" width="279">Mrs Peggy Phang</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1974 – 1976</td><td style="height: 10px;" width="279">Mr S Thiagarajah</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1977 – 1978</td><td style="height: 10px;" width="279">Mr Ong Kim Siong</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1979 – 1980</td><td style="height: 10px;" width="279">Mr Teo Lye Huat</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1981 – 1983</td><td style="height: 10px;" width="279">Mr Tan Hui Seng</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1984 – 1987</td><td style="height: 10px;" width="279">Mr Goh Yong Hung</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1988 – 1994</td><td style="height: 10px;" width="279">Mr Eric Retnam</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1995 – 1997</td><td style="height: 10px;" width="279">Ms Ho Peng</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">1998 – 2002</td><td style="height: 10px;" width="279">Mr Goh Choon Leng</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">2003 – 2008</td><td style="height: 10px;" width="279">Mr Victor Giam Chong Guan</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">2009 – 2014</td><td style="height: 10px;" width="279">Mrs Carolin Tan</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">2015 – 2019</td><td style="height: 10px;" width="279">Mdm Jenny Tan Mei Mei</td></tr><tr style="height: 10px;"><td style="height: 10px;" width="148">2020 – present</td><td style="height: 10px;" width="279">Ms Tan Hwee Pin</td></tr></tbody></table>
