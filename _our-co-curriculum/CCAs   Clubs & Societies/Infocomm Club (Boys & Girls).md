@@ -4,24 +4,82 @@ permalink: /cca/clubs/infocomm-club/
 description: ""
 third_nav_title: CCAs   Clubs & Societies
 ---
-
-
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Infocomm-1.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:70%;">  
+  
+</body>
 <br>
-<img src="/images/infocomm%201%20Small.jpeg" 
-         style="width:350px"
-	/>
 
-<table class=" aligncenter" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; margin: auto; display: block; clear: both; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; text-align: center;"><a href="/images/infocomm%202.jpeg" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; outline: 0px; color: rgb(255, 208, 26); text-decoration: underline;"><img class="aligncenter wp-image-19478 size-thumbnail" src="/images/infocomm%202.jpeg" alt="Img 9186" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; text-align: center;"><a href="/images/infocomm%203.jpeg" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-19571 size-thumbnail" src="/images/infocomm%203.jpeg" alt="Img 3598 (1024x683)" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; text-align: center;"><a href="/images/infocomm%204.jpeg" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-19572 size-thumbnail" src="/images/infocomm%204.jpeg" alt="Img 3609 (1024x683)" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td></tr></tbody></table>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Infocomm-2.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:70%;">  
+  
+</body>
+<br>
 
-<table border="1" align="center" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(252, 177, 0);"><td style="box-sizing: inherit; padding: 5px 10px; width: 178px;"><strong style="box-sizing: inherit; font-weight: bold;">Teacher-in-charge:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 166px;"><strong style="box-sizing: inherit; font-weight: bold;">Coach / Instructor / Volunteer:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 233px;"><strong style="box-sizing: inherit; font-weight: bold;">Student Leader:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 193px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Information:</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 178px;">Mr Jeffrey Sui<br style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">(1st Teacher I/C)</strong><br style="box-sizing: inherit;">Mr Niu Zi Bin</td><td style="box-sizing: inherit; padding: 5px 10px; width: 166px;"></td><td style="box-sizing: inherit; padding: 5px 10px; width: 233px;"><strong style="box-sizing: inherit; font-weight: bold;">President:<span>&nbsp;</span></strong>Yu Xiao Qian 3F<p style="box-sizing: inherit;"></p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Vice-President:<span>&nbsp;</span></strong>Velden Tham 3H</p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Vice-President:<span>&nbsp;</span></strong>Lewis Tan 3H</p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Chief Sound Engineer:<span>&nbsp;</span></strong>Lee Chin Yi 3F</p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Chief Photographer:<span>&nbsp;</span></strong>Bryan Luke Jing Sen 3E</p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Chief Videographer:<span>&nbsp;</span></strong>Max Leong 3E</p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Upper Sec Sub-com:</strong></p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Sound Specialist:<span>&nbsp;</span></strong>Marcus Chua 3B</p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Sound Specialist:<span>&nbsp;</span></strong>Gherciu Stefan Adrian 3D</p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Photography Specialist:<span>&nbsp;</span></strong>Law Qiao Yi 3D</p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Graphics Specialist:<span>&nbsp;</span></strong>Cadence Foong 3D</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 193px;"><strong style="box-sizing: inherit; font-weight: bold;">Tuesday</strong><br style="box-sizing: inherit;">3.00pm-5.30pm<p style="box-sizing: inherit;"></p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Friday</strong><br style="box-sizing: inherit;">2.00pm-5.30pm</p><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Note :</strong><br style="box-sizing: inherit;">Members shall perform duties during school events apart from their weekly training. This involves pre and post event duties.</p></td></tr></tbody></table>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Infocomm-3.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:70%;">  
+  
+</body>
+<br>
 
-### Our Unit
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Infocomm-4.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:70%;">  
+  
+</body>
+<br>
 
-The Infocomm Club @ GESS aims to deepen students’ passion for by equipping them with ICT knowledge and skills, and to develop them to be responsible and respectful members who are confident and competent in handling challenging tasks to ensure smooth running of school events.  
-Strong friendships and a deep sense of camaraderie among members are forged in the collaborative process of serving the school together.
-
-### Our Activities:
-
-The three areas of focus for the Infocomm Club are: Live Sound Reinforcement, Event Photography and Video Production.  
-Members have attended courses on handling PA equipment, using DSLR, photo editing and videography. They are also actively involved in providing audio-visual, photography and video support at various school events, assemblies and ceremonies.
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">Name of CCA:</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Infocomm Club</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">Teachers-in-charge:</td>
+    <td class="tg-h5mn">Student Leaders:</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Mr Jeffrey Sui<br>Mr Niu Zi Bin</td>
+    <td class="tg-1ppo">President: JUDE YONG HO YAN (3-4)<br>Vice-President: OSKAR LOY CHENG JUN (3-5)<br>Vice-President: BRANSON LIM KENG SENG (3-6)<br>EXCO Member: TITUS TEOH CHENG JING (3-5)<br>EXCO Member: LAM YONG XUAN (3-5)<br>EXCO Member: ZHAO HOUZAI (3-7)</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn" colspan="2">The Infocomm Club @ GESS aims to deepen students’ passion for by equipping them with ICT knowledge and skills, and to develop them to be responsible and respectful members who are confident and competent in handling challenging tasks to ensure smooth running of school events.<br><br>Strong friendships and a deep sense of camaraderie among members are forged in the collaborative process of serving the school together.<br>The three areas of focus for the Infocomm Club are: Live Sound Reinforcement, Event Photography and Video Production.<br>Members have attended courses on handling PA equipment, using DSLR, photo editing and videography. They are also actively involved in providing audio-visual, photography and video support at various school events, assemblies and ceremonies.</td>
+  </tr>
+</tbody>
+</table>
