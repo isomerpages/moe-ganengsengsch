@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Entrepreneur-2.jpeg)" alt="Entrepreneur Club (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Entrepreneur-2.jpeg" alt="Entrepreneur Club (Boys & Girls)" style="width:70%;">  
   
 </body>
 <br>
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Entrepreneur-3.jpeg)" alt="Entrepreneur Club (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Entrepreneur-3.jpeg" alt="Entrepreneur Club (Boys & Girls)" style="width:70%;">  
   
 </body>
 <br>
