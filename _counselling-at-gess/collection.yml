@@ -2,5 +2,6 @@ collections:
   counselling-at-gess:
     output: true
     order:
+      - MOE Resources for Parents.md
       - Helplines.md
       - Useful Links.md
