@@ -4,7 +4,6 @@ permalink: /partners/parent-teacher-association/
 description: ""
 third_nav_title: Our partners
 ---
-
 ### Our Mission
 
 The PTA is committed towards promoting close co-operation and understanding between parents, principal and teachers and providing the necessary support to the school so as to create a conducive learning environment that will bring out the best in the students.
@@ -18,6 +17,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
 (c) to promote social interaction and fellowship among parents and teachers; and
 
 (d) to provide financial assistance to needy students.
+
 <br>
 <img src="/images/Group-1.jpeg" 
          style="width:650px"
@@ -191,4 +191,8 @@ The PTA is committed towards promoting close co-operation and understanding betw
 *   **WHEN ARE GESS PTA MEETINGS?**
     *   General Meetings are held bi-monthly throughout the year for all members. Details are announced well ahead of time. The Annual General Meeting is usually held in March. The PTA EXCO Committee meets monthly to ensure the smooth management of GESS PTA.
 
-***
+	*   monthly to ensure the smooth management of GESS PTA.
+
+**Other Link:**
+
+[Dadsforlife](https://sites.google.com/site/gessdadsforlife/)
