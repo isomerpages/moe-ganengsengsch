@@ -4,7 +4,7 @@ permalink: /about-us/Our-Staff/permalink/
 description: ""
 third_nav_title: Our Staff
 ---
-![Key Personnel & Form Teachers](/images/school%20management%20team%201.jpg)
+![Key Personnel & Form Teachers](/images/SMT-1024x731.jpeg)
 
 <br>
 
