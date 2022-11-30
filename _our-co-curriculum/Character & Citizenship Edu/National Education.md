@@ -80,6 +80,6 @@ img {
 
 We invite our students to host morning assembly sharing sessions with the school. An example can be seen here.
 
-[High-5 and Take-5 on Total Defence Day 2022](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/national-education-2/attachment/high-5-and-take-5-on-total-defence-day-2022/)
+[High-5 and Take-5 on Total Defence Day 2022](/files/High-5-and-Take-5-on-Total-Defence-Day-2022.pdf)
 
-[High-5 and Take-5 on International Friendship Day 2022](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/national-education-2/attachment/high-5-and-take-5-on-international-friendship-day-2022/)
+[High-5 and Take-5 on International Friendship Day 2022](/files/High-5-and-Take-5-on-International-Friendship-Day-2022.pdf)
