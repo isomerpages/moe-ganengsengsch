@@ -3,7 +3,7 @@ title: Learning for Life Programme (LLP) (VP Selva)
 permalink: /nurturegess/celebrating-the-good/gess-distinctive-programm/gess-learning-for-life-programme-llp/
 description: ""
 ---
-### **Community and Youth Leadership**
+<p style="text-align:center;"><strong>Community and Youth Leadership</strong></p>
 
 GESS LLP in Community and Youth Leadership is aimed at empowering our students to be principled leaders and active citizens. Anchored on the school values of Integrity, Compassion, Resilience, Discipline and Respect, Gessians hone their leadership skills to be of service to the school and community. It is our hope that through LLP, Gessians will embrace an attitude of volunteerism to make a difference to the people around them.
 
