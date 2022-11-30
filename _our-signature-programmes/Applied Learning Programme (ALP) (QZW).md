@@ -29,6 +29,8 @@ img {
 </body>
 <br>
 
+*   **_Digitalisation and Coding_**: In response to the quickly evolving nature of the sphere of digital technology, a rudimentary knowledge of coding and associated logics will be essential to navigate the changes which will arise. Hence, in partnership with the Infocomm Media Development Authority (IMDA), our Sec 1 Gessians go through a Tier 1 coding programme known as Code for Fun (CFF). In this programme, they were exposed from learning how to code using Micro:Bit controllers to Artificial Intelligence. At the end of this programme, Gessians are to draw from what they learnt and design a smart solution to a real-world problem given by the instructors.
+
 <style>  
 img {  
   display: block;  
@@ -40,6 +42,10 @@ img {
   
 </body>
 <br>
+
+*   **Design Thinking**: The Design Thinking process (Empathise – Define – Ideate – Prototype – Test) is an iterative methodology for creative problem-solving. It is used as the overarching approach in our ALP domains. Design thinking is applied in Alternative Assessments (AA) and class projects, allowing Gessians to come together in teams to solve real-world tasks. Through this approach, Gessians exercise creativity by synthesizing their knowledge and demonstrate teamwork beyond the normal pen-and-paper learning experience.
+
+The ALP experience is further enriched by curated webinars organised by external agencies such as DSTA and Science Centre where expert speakers are invited to share the current technology development from time to time. Gessians who demonstrate potential and passion are also selected to represent the school in various competitions organised by the other agencies and institutes of education such as Polytechnics or other secondary schools under the Tier 2 programme.
 
 <style>  
 img {  
