@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/LLP-1.jpeg" alt="The Leadership Model & Process" style="width:75%;">  
+<body><img src="/images/LLP-1.jpeg" alt="The Leadership Model & Process" style="width:85%;">  
   
 </body>
 
