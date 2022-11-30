@@ -2,6 +2,7 @@ collections:
   useful-links-and-resources:
     output: true
     order:
+      - Assessment Matters/Weighted Assessment.md
       - Assessment Matters/Exam Matters.md
       - Assessment Matters/.keep
       - Counselling@GESS/Counselling Support.md
