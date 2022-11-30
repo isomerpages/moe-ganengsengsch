@@ -8,13 +8,13 @@ third_nav_title: Counselling@GESS
 
 [02 Post Secondary-Transition](/files/02-Post-Secondary-Transition.pdf)
 
-[03 Gratitude](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2020/11/03-Gratitude.pdf)
+[03 Gratitude](/files/03-Gratitude.pdf)
 
-[04 Praise Your Child](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2020/11/04-Praise-Your-Child.pdf)
+[04 Praise Your Child](/files/04-Praise-Your-Child.pdf)
 
-[05 Raising Confident Children](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/05-Raising-Confident-Children-reduced.pdf)
+[05 Raising Confident Children](/files/05-Raising-Confident-Children-reduced.pdf)
 
-[06 Resilience Booster](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2020/11/06-Resilience-Booster.pdf)
+[06 Resilience Booster](/files/06-Resilience-Booster.pdf)
 
 [07 Guidelines School-Home Partnership](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2020/11/07-Guidelines-School-Home-Partnership.pdf)
 
