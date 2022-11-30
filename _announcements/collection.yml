@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Personalised Digital Learning Programme.md
       - Letter to Parents (Term 3 Updates 2022).md
