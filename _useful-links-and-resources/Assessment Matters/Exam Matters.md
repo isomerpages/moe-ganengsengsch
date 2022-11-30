@@ -40,20 +40,24 @@ third_nav_title: Assessment Matters
 *   **[Sec 4 Normal Technical Prelim 2022](/files/S4NT-Prelim-TT-22.pdf)**
 *   **[Sec 5 Normal Academic Prelim 2022](/files/Sec-5-NA-Prelim-TT-22-1.pdf)**
 
-<h5 style="color:black">Mid-Year Examination Timetable 2022</h5>
+<h5 style="color:black">End of Year Examination Timetable 2022
+</h5>
 
-*   **[Secondary 2](/files/S2-MYE-TT-22-1.pdf)**
-*   **[Secondary 4 Express](/files/4XP-MYE-2022-updated-6-Apr-1.pdf)**
-*   **[Secondary 4 Normal Academic](/files/4NA-MYE-2022-updated-8-Apr.pdf)**
-*   **[Secondary 4 Normal Technical](/files/4NT-MYE-2022-updated-6-Apr.pdf)**
-*   **[Sec 5 Normal Academic](/files/5NA-MYE-2022-updated-6-Apr.pdf)**
+*   **[Sec 1](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/EYE_TT_22-_Sec-1-2.pdf)**
+*   **[Sec 2](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/EYE_TT_22-_Sec-2-2.pdf)**
+*   **[Sec 3 Express](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/EYE_TT_22-_3-EXPRESS-2.pdf)**
+*   **[Sec 3 Normal Academic](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/EYE_TT_22_3NA-3.pdf)**
+*   **[Sec 3 Normal Technical](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/EYE_TT_22-_3NT-3.pdf)**
 
-<h5 style="color:black">Mid-Year Examination Format & Topics 2022</h5>
 
-*   **[Sec 2 Express](/files/S2E-MYE-Topic-and-Format.pdf)**
-*   **[Sec 2 Normal Academic](/files/S2NA-MYE-Topic-and-Format.pdf)**
-*   **[Sec 2 Normal Technical](/files/Sec-2-Normal-Technical-1.pdf)**
-*   **[Sec 4 Express](/files/S4E-MYE-Topic-and-Format.pdf)**
-*   **[Sec 4 Normal Academic](/files/S4NA-MYE-Topic-and-Format.pdf)**
-*   **[Sec 4 Normal Technical](/files/S4NT-MYE-Topic-and-Format.pdf)**
-*   **[Sec 5 Normal Academic](/files/S5NA-MYE-Topic-and-Format.pdf)**
+<h5 style="color:black">Final Examination Format & Topics 2022</h5>
+
+*   **[Sec 1 Express](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_SEC-1EXP-1.pdf)**
+*   **[Sec 1 Normal Academic](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_SEC-1NA-1.pdf)**
+*   **[Sec 1 Normal Technical](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_1NT-1.pdf)**
+*   **[Sec 2 Express](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/GAN-ENG-SENG_2-EXPRESS.pdf)**
+*   **[Sec 2 Normal Academic](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_2NA-1.pdf)**
+*   **[Sec 2 Normal Technical](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_2NT-1.pdf)**
+*   **[Sec 3 Express](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_3EXPRESS.pdf)**
+*   **[Sec 3 Normal Academic](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_3NA-1.pdf)**
+*   **[Sec 3 Normal Technical](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/GAN-ENG-SENG_3NT.pdf)**
