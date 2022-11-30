@@ -2,8 +2,6 @@ collections:
   useful-links-and-resources:
     output: true
     order:
-      - Events/.keep
-      - Events/Event Calendar.md
       - School Admission.md
       - Direct School Admission (DSA).md
       - Exam Matters.md
