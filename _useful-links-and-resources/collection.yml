@@ -2,7 +2,6 @@ collections:
   useful-links-and-resources:
     output: true
     order:
-      - Announcement/.keep
       - Events/.keep
       - Events/Event Calendar.md
       - School Admission.md
