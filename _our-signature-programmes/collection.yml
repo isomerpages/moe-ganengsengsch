@@ -2,8 +2,8 @@ collections:
   our-signature-programmes:
     output: true
     order:
-      - Home Based and Student Initiated Learning.md
       - Applied Learning Programme (ALP) (QZW).md
       - Capstone Programme.md
       - Full Subject Based Banding.md
+      - Home Based and Student Initiated Learning.md
       - GESS Learning for Life Programme (LLP).md
