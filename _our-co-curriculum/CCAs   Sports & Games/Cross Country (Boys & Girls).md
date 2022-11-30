@@ -4,54 +4,72 @@ permalink: /cca/sports/cross-country/
 description: ""
 third_nav_title: CCAs   Sports & Games
 ---
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Cross-Country-2.jpeg" alt="Cross Country (Boys & Girls)" style="width:70%;">  
+  
+</body>
 <br>
-<img src="/images/GESS-Athletics%20Small.jpeg" 
-         style="width:400px"
-	/>
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Cross-Country-3.jpeg" alt="Cross Country (Boys & Girls)" style="width:70%;">  
+  
+</body>
+<br>
 
-<table align="center" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 202.383px;"><a href="/images/Cross-Country-1-150x150.jpeg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; outline: 0px; color: rgb(255, 208, 26); text-decoration: underline;"><img class="alignnone size-thumbnail wp-image-21111" src="/images/Cross-Country-1-150x150.jpeg" alt="Cross Country 1" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 202.383px;"><a href="/images/Cross-Country-4-150x150.jpeg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="alignnone size-thumbnail wp-image-21113" src="/images/Cross-Country-4-150x150.jpeg" alt="Cross Country 4" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 202.383px;"><a href="/images/Cross-Country-5-150x150.jpeg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="alignnone size-thumbnail wp-image-21114" src="/images/Cross-Country-5-150x150.jpeg" alt="Cross Country 5" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 219.516px;"><a href="/images/Cross-Country-6-150x150.jpeg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="alignnone size-thumbnail wp-image-21115" src="/images/Cross-Country-6-150x150.jpeg" alt="Cross Country 6" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a></td></tr></tbody></table>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Cross-Country-1.jpeg" alt="Cross Country (Boys & Girls)" style="width:70%;">  
+  
+</body>
+<br>
 
-<table border="2" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(252, 177, 0); height: 48px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 181.992px; height: 48px;"><strong style="box-sizing: inherit; font-weight: bold;">Teachers-in-charge:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 206.164px; height: 48px;"><strong style="box-sizing: inherit; font-weight: bold;">Coach/Instructor<br style="box-sizing: inherit;">/Volunteer:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 183.414px; height: 48px;"><strong style="box-sizing: inherit; font-weight: bold;">Student Leaders:</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 253.094px; height: 48px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Information:</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 106px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 181.992px; height: 101px;"><p style="box-sizing: inherit;">Mr Tan Yong Geng</p><p style="box-sizing: inherit;">Mr Lim Bun</p><p style="box-sizing: inherit;">Ms Thng Lay Keng</p><p style="box-sizing: inherit;">Ms Nalyn Chua</p><p style="box-sizing: inherit;">Ms Chong Chi</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 206.164px; height: 106px;"><p style="box-sizing: inherit;">Mr Lim Bun</p><p style="box-sizing: inherit;">Mr Tan Yong Geng</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 183.414px; height: 101px;"><p style="box-sizing: inherit;">Captain: Goh Sze Yen Hazel (3C)</p><p style="box-sizing: inherit;">Vice-captain:</p><p style="box-sizing: inherit;">Largosa Anne Jennette Puerta (3B)</p><p style="box-sizing: inherit;">Ho Sung Lok, Aden (3H)</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 253.094px; height: 101px;"><p style="box-sizing: inherit;">Tuesday: 3.00pm- 5:30pm</p><p style="box-sizing: inherit;">Friday: 3.00pm-5:45pm</p><p style="box-sizing: inherit;">Venue:</p><ol style="box-sizing: inherit;"><li style="box-sizing: inherit;">School</li><li style="box-sizing: inherit;">Kallang Practice Track</li><li style="box-sizing: inherit;">Queenstown stadium</li><li style="box-sizing: inherit;">Mount Faber</li></ol></td></tr></tbody></table>
-
-### About Us
-
-‘The will to win means nothing if you do not have the will to train hard”
-
-We prepare students to be physically fit and to acquire technical skills in track & field events. We hope that students will develop the love for keeping fit and pursue a lifelong healthy lifestyle. Training includes distance running, weight training, speed drills and techniques of jumps. In preparation for the National Track & Field Championship, in depth techniques for jumps and relays are imparted to students. This is complemented by speed training, endurance training and distance running
-
-Values are paramount in track and field. We believe the right attitude will turn students into leaders and athletes into champions. We do not wait for competition to train; we train to get into competition form. Our focus is on inculcating the right habits of mind and to invest in the growth of our students. A student who leaves with a well-rounded development is the pride of the CCA.
-
-Since 2016, we only take in new students for long distance running as short distance running/jumping was gradually phased out. Track and Field CCA has become Cross Country CCA in year 2020.
-
-### Our Activities
-
-*   Weight training
-*   Speed drills
-*   Mileage clocking
-*   Slope training
-*   Annual CCA Camp
-*   Wings Athletics Cross Country Championship
-*   National Inter-School Cross Country Championship
-*   Cougars Athletics Cross Country Championship
-*   Share-a-textbook Community Project
-*   ‘Old Shoes, New Future’ Community Project
-
-### Our Key Achievements
-
-*   Virtual Inter-School Challenge 2021 – Team 3rd (B division Girls)
-*   National Inter-School Cross Country Championship 2019
-*   Team 5th (B Division boys)
-*   Vivi Yeo(4D) – 13th
-*   Drisana Muruganantham (1A) – 19th
-*   National Inter-School Track & Field Championship 2019
-
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="234" style="box-sizing: inherit; padding: 5px 10px; width: 473.453px;"><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Events (Final)</strong></p></td><td width="232" style="box-sizing: inherit; padding: 5px 10px; width: 352.211px;"><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">Results (Final)</strong></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="234" style="box-sizing: inherit; padding: 5px 10px; width: 473.453px;"><p style="box-sizing: inherit;">4 x 400m (boys)</p></td><td width="232" style="box-sizing: inherit; padding: 5px 10px; width: 352.211px;"><p style="box-sizing: inherit;">Top 8</p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="234" style="box-sizing: inherit; padding: 5px 10px; width: 473.453px;"><p style="box-sizing: inherit;">200m boys (Tham Kang Tai, 4C1)</p></td><td width="232" style="box-sizing: inherit; padding: 5px 10px; width: 352.211px;"><p style="box-sizing: inherit;">8<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="234" style="box-sizing: inherit; padding: 5px 10px; width: 473.453px;"><p style="box-sizing: inherit;">400m boys (Samayamuthu Dehvaraj, 4C2)</p></td><td width="232" style="box-sizing: inherit; padding: 5px 10px; width: 352.211px;"><p style="box-sizing: inherit;">4<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="234" style="box-sizing: inherit; padding: 5px 10px; width: 473.453px;"><p style="box-sizing: inherit;">800m boys (Tan Jun Hao, 4F)</p></td><td width="232" style="box-sizing: inherit; padding: 5px 10px; width: 352.211px;"><p style="box-sizing: inherit;">8<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="234" style="box-sizing: inherit; padding: 5px 10px; width: 473.453px;"><p style="box-sizing: inherit;">1500m boys (Tan Yu Hui, Xavier, 4E)</p></td><td width="232" style="box-sizing: inherit; padding: 5px 10px; width: 352.211px;"><p style="box-sizing: inherit;">10<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="234" style="box-sizing: inherit; padding: 5px 10px; width: 473.453px;"><p style="box-sizing: inherit;">1500m boys (Tan Jun Hao, 4F)</p></td><td width="232" style="box-sizing: inherit; padding: 5px 10px; width: 352.211px;"><p style="box-sizing: inherit;">13<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="234" style="box-sizing: inherit; padding: 5px 10px; width: 473.453px;"><p style="box-sizing: inherit;">1500m girls (Vivi Yeo, 4D)</p></td><td width="232" style="box-sizing: inherit; padding: 5px 10px; width: 352.211px;"><p style="box-sizing: inherit;">10<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="234" style="box-sizing: inherit; padding: 5px 10px; width: 473.453px;"><p style="box-sizing: inherit;">3000m girls (Vivi Yeo, 4D)</p></td><td width="232" style="box-sizing: inherit; padding: 5px 10px; width: 352.211px;"><p style="box-sizing: inherit;">7<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p></td></tr></tbody></table>
-
-*   National Inter-School Cross Country Championship 2018
-*   Team 8th (B Division boys)
-*   Zechariah Low (4F) – 6th
-*   Vivi Yeo (3D) – 17th
-
-<table border="2" width="888" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 888px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="288" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">CCA Achievements for 2020&nbsp;to 2021</strong></p></td><td width="288" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">2020</strong></p></td><td width="312" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit;"><strong style="box-sizing: inherit; font-weight: bold;">2021</strong></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="288" style="box-sizing: inherit; padding: 5px 10px;">&nbsp;</td><td width="288" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit;">Nil – Events cancelled due to Covid-19</p><p style="box-sizing: inherit;">&nbsp;</p></td><td width="312" style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit;"><u style="box-sizing: inherit;">Virtual Inter-School Challenge 2021</u></p><p style="box-sizing: inherit;">Team results:</p><p style="box-sizing: inherit;">B division girls – 3<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">rd</sup></p><p style="box-sizing: inherit;">B division boys – 6<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p><p style="box-sizing: inherit;">C division girls – 7<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p><p style="box-sizing: inherit;">C division boys – 9<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup>&nbsp;</p><p style="box-sizing: inherit;">Individual:</p><p style="box-sizing: inherit;">Goh Sze Yen Hazel (3C) – 8<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p><p style="box-sizing: inherit;">Drisana Muruganantham (3A) – 9<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p><p style="box-sizing: inherit;">Largosa Anne Jennette Puerta (3B) – 15<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p><p style="box-sizing: inherit;">Teo Jin Rui (4C) – 20<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">th</sup></p></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">Name of CCA:</span></th>
+    <th class="tg-l2bf" colspan="2"><span style="font-weight:bold">Cross Country</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">Teachers-in-charge:</td>
+    <td class="tg-h5mn">Coaches:<br></td>
+    <td class="tg-h5mn">Student Leaders:</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Mr Tan Yong Geng<br>Mr Lim Bun<br>Mr Eugene Teo<br>Mrs Nalyn Chan<br>Ms Chong Chi</td>
+    <td class="tg-1ppo">Mr Lim Bun<br>Mr Tan Yong Geng<br></td>
+    <td class="tg-1ppo">Captain:<br>Eng Kang Sheng (3-6)<br>Vice-captains:<br>Natalie Nah Zi Xuan (3-6)<br>Vishal Vijayachelvan (3-7)</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn" colspan="3">‘The will to win means nothing if you do not have the will to train hard’<br><br>We prepare students to be physically fit and to acquire technical skills in track &amp; field events. We hope that students will develop the love for keeping fit and pursue a lifelong healthy lifestyle. Training includes distance running, weight training and speed drills.<br><br>In preparation for the National School Games for Cross Country and Track &amp; Field Championship, in depth techniques for relays are imparted to students. This is complemented by speed training, endurance training and distance running.<br><br>Values are paramount in this CCA. We believe the right attitude will turn students into leaders and athletes into champions. We do not wait for competition to train; we train to get into competition form. Our focus is on inculcating the right habits of mind and to invest in the growth of our students. A student who leaves with a well-rounded development is the pride of the CCA.<br><br>Over the past 2 years, our CCA has performed well at the National School Games (NSG) Cross country and Track &amp; Field Championships, with the Boys ‘C’ Division Team attaining 4th position and the Girls ‘B’ Division Girls attaining 6th position overall.</td>
+  </tr>
+</tbody>
+</table>
