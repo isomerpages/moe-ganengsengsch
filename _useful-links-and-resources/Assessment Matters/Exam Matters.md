@@ -52,12 +52,12 @@ third_nav_title: Assessment Matters
 
 <h5 style="color:black">Final Examination Format & Topics 2022</h5>
 
-*   **[Sec 1 Express](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_SEC-1EXP-1.pdf)**
-*   **[Sec 1 Normal Academic](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_SEC-1NA-1.pdf)**
-*   **[Sec 1 Normal Technical](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_1NT-1.pdf)**
-*   **[Sec 2 Express](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/GAN-ENG-SENG_2-EXPRESS.pdf)**
-*   **[Sec 2 Normal Academic](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_2NA-1.pdf)**
-*   **[Sec 2 Normal Technical](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_2NT-1.pdf)**
+*   **[Sec 1 Express](/files/Gan-Eng-Seng-School_SEC-1EXP-1.pdf)**
+*   **[Sec 1 Normal Academic](/files/Gan-Eng-Seng-School_SEC-1NA-1.pdf)**
+*   **[Sec 1 Normal Technical](/files/Gan-Eng-Seng-School_1NT-1.pdf)**
+*   **[Sec 2 Express](/files/GAN-ENG-SENG_2-EXPRESS.pdf)**
+*   **[Sec 2 Normal Academic](/files/Gan-Eng-Seng-School_2NA-1.pdf)**
+*   **[Sec 2 Normal Technical](/files/Gan-Eng-Seng-School_2NT-1.pdf)**
 *   **[Sec 3 Express](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_3EXPRESS.pdf)**
 *   **[Sec 3 Normal Academic](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_3NA-1.pdf)**
 *   **[Sec 3 Normal Technical](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/GAN-ENG-SENG_3NT.pdf)**
