@@ -2,15 +2,15 @@ collections:
   useful-links-and-resources:
     output: true
     order:
+      - Purchase of School Uniform.md
+      - Quick Links/.keep
       - Quick Links/SchoolBag.md
       - Quick Links/GESS Library.md
       - Quick Links/Online Submission of Insurance Claims.md
-      - Quick Links/.keep
       - School Admission.md
       - Direct School Admission (DSA).md
       - Exam Matters.md
       - School Bookshop and Booklists.md
-      - Purchase of School Uniform.md
       - Achievers’ Programme (AP).md
       - 2021 Sec 3 Subject Combinations.md
       - Quick Links.md
