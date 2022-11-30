@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/NE-1.jpeg)" alt="National Education" style="width:70%;"> <p style="text-align:center;">HAHAHHA</p>
+<body><img src="/images/NE-1.jpeg" alt="National Education" style="width:70%;"> <p style="text-align:center;">Sec 2 Learning Journey to the National Museum of Singapore</p>
   
 </body>
 <br>
@@ -35,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/NE-2.jpeg)" alt="National Education" style="width:70%;"> <p style="text-align:center;">HAHAHHA</p>
+<body><img src="/images/NE-2.jpeg" alt="National Education" style="width:70%;"> <p style="text-align:center;">Commemoration of Racial Harmony Day</p>
   
 </body>
 <br>
@@ -47,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/NE-3.jpeg)" alt="National Education" style="width:70%;"> <p style="text-align:center;">HAHAHHA</p>
+<body><img src="/images/NE-3.jpeg" alt="National Education" style="width:70%;"> <p style="text-align:center;">National Day Celebration</p>
   
 </body>
 <br>
@@ -59,7 +59,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/NE-4.jpeg)" alt="National Education" style="width:70%;"> <p style="text-align:center;">HAHAHHA</p>
+<body><img src="/images/NE-4.jpeg" alt="National Education" style="width:70%;"> <p style="text-align:center;">Creation of the ‘Good Deed Card’, an initiative for gessians to express gratitude to others by completing 21 good deeds for others</p>
   
 </body>
 <br>
@@ -71,7 +71,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/NE-5.jpeg)" alt="National Education" style="width:70%;">
+<body><img src="/images/NE-5.jpeg" alt="National Education" style="width:70%;">
   
 </body>
 <br>
+
+**<u>Morning assembly sharing by our students</u>**
+
+We invite our students to host morning assembly sharing sessions with the school. An example can be seen here.
+
+[High-5 and Take-5 on Total Defence Day 2022](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/national-education-2/attachment/high-5-and-take-5-on-total-defence-day-2022/)
+
+[High-5 and Take-5 on International Friendship Day 2022](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/national-education-2/attachment/high-5-and-take-5-on-international-friendship-day-2022/)
