@@ -5,7 +5,7 @@ description: ""
 ---
 Dear Parents/Guardians,
 
-**Sale and Collection of Textbooks / Stationeries for year 2023**
+**<u>Sale and Collection of Textbooks / Stationeries for year 2023</u>**
 
 Please be informed that the window period for online ordering of textbooks for use in year 2023 will start from 1 November 2022 to 15 December 2022
 
@@ -15,7 +15,282 @@ Mode of payment: Master/Visa/Pay now (Scan & Pay)
 
 Self-collection: if you opt for self-collection, you will have to choose a date and time to do so. Please check the collection date/time below for details.
 
-<table style="width: 100%; border-collapse: collapse; height: 920px;" border="1"><tbody><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;"><strong>Date</strong></td><td style="width: 13.5713%; height: 23px; text-align: center;"><strong>Day</strong></td><td style="width: 52.6192%; height: 23px; text-align: center;"><strong>Description</strong></td><td style="width: 21.0714%; height: 23px; text-align: center;"><strong>Time</strong></td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;"><strong>14 Nov</strong></td><td style="width: 13.5713%; height: 23px; text-align: center;"><strong>Mon</strong></td><td style="width: 52.6192%; height: 23px; text-align: center;"><strong>CLOSED</strong></td><td style="width: 21.0714%; height: 23px; text-align: center;">&nbsp;</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">15 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Tue</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">16 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Wed</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">17 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Thur</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">18 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Fri</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">19 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Sat</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 - 1200 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;"><strong>21 Nov</strong></td><td style="width: 13.5713%; height: 23px; text-align: center;"><strong>Mon</strong></td><td style="width: 52.6192%; height: 23px; text-align: center;"><strong>CLOSED</strong></td><td style="width: 21.0714%; height: 23px; text-align: center;">&nbsp;</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">22 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Tue</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">23 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Wed</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">24 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Thur</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">25 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Fri</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">26 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Sat</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 -1200 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;"><strong>28 Nov</strong></td><td style="width: 13.5713%; height: 23px; text-align: center;"><strong>Mon</strong></td><td style="width: 52.6192%; height: 23px; text-align: center;"><strong>CLOSED</strong></td><td style="width: 21.0714%; height: 23px; text-align: center;">&nbsp;</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">29 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Tue</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">30 Nov</td><td style="width: 13.5713%; height: 23px; text-align: center;">Wed</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">1 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Thur</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">2 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Fri</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">3 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Sat</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 -1200 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;"><strong>5 Dec</strong></td><td style="width: 13.5713%; height: 23px; text-align: center;"><strong>Mon</strong></td><td style="width: 52.6192%; height: 23px; text-align: center;"><strong>CLOSED</strong></td><td style="width: 21.0714%; height: 23px; text-align: center;">&nbsp;</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">6 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Tue</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">7 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Wed</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">8 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Thur</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">9 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Fri</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">10 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Sat</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 -1200 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;"><strong>12 Dec</strong></td><td style="width: 13.5713%; height: 23px; text-align: center;"><strong>Mon</strong></td><td style="width: 52.6192%; height: 23px; text-align: center;"><strong>CLOSED</strong></td><td style="width: 21.0714%; height: 23px; text-align: center;">&nbsp;</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">13 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Tue</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">14 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Wed</td><td style="width: 52.6192%; height: 23px; text-align: center;">Walk in for Sec 2 -5 MOE FAS and School- Based FAS only</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">15 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Thur</td><td style="width: 52.6192%; height: 23px; text-align: center;">Walk in for Sec 2 -5 MOE FAS and School- Based FAS only</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">16 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Fri</td><td style="width: 52.6192%; height: 23px; text-align: center;">Walk in for Sec 2 -5 MOE FAS and School- Based FAS only</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">17 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Sat</td><td style="width: 52.6192%; height: 23px; text-align: center;">Walk in for Sec 2 -5 MOE FAS and School- Based FAS only</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 -1200 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;"><strong>19 Dec</strong></td><td style="width: 13.5713%; height: 23px; text-align: center;"><strong>Mon</strong></td><td style="width: 52.6192%; height: 23px; text-align: center;"><strong>CLOSED</strong></td><td style="width: 21.0714%; height: 23px; text-align: center;">&nbsp;</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">20 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Tue</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 2-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">21 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Wed</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 1 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">22 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Thur</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 1 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">23 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Fri</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 1 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">24 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Sat</td><td style="width: 52.6192%; height: 23px; text-align: center;"><strong>CLOSED</strong></td><td style="width: 21.0714%; height: 23px; text-align: center;">&nbsp;</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">26 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Mon</td><td style="width: 52.6192%; height: 23px; text-align: center;"><strong>CLOSED</strong></td><td style="width: 21.0714%; height: 23px; text-align: center;">&nbsp;</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">27 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Tue</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 1-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr style="height: 23px;"><td style="width: 12.7381%; height: 23px; text-align: center;">28 Dec</td><td style="width: 13.5713%; height: 23px; text-align: center;">Wed</td><td style="width: 52.6192%; height: 23px; text-align: center;">Self-Collection for sec 1-5 online orders</td><td style="width: 21.0714%; height: 23px; text-align: center;">0900 – 1500 hrs</td></tr><tr><td style="width: 12.7381%; text-align: center;">29 Dec</td><td style="width: 13.5713%; text-align: center;">Thur</td><td style="width: 52.6192%; text-align: center;">Self-Collection for sec 1-5 online orders</td><td style="width: 21.0714%; text-align: center;">0900 – 1500 hrs</td></tr><tr><td style="width: 12.7381%; text-align: center;">30 Dec</td><td style="width: 13.5713%; text-align: center;">Fri</td><td style="width: 52.6192%; text-align: center;"><strong>CLOSED</strong></td><td style="width: 21.0714%; text-align: center;">&nbsp;</td></tr><tr><td style="width: 12.7381%; text-align: center;">31 Dec</td><td style="width: 13.5713%; text-align: center;">Sat</td><td style="width: 52.6192%; text-align: center;"><strong>CLOSED</strong></td><td style="width: 21.0714%; text-align: center;">&nbsp;</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-pr30{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4ufn"><span style="font-weight:bold">Date</span></th>
+    <th class="tg-4ufn"><span style="font-weight:bold">Day</span></th>
+    <th class="tg-4ufn"><span style="font-weight:bold">Description</span></th>
+    <th class="tg-4ufn"><span style="font-weight:bold">Time</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pr30"><span style="font-weight:bold">14 Nov</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
+    <td class="tg-gj5f"></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">15 Nov</td>
+    <td class="tg-a3j2">Tue</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">16 Nov</td>
+    <td class="tg-gj5f">Wed</td>
+    <td class="tg-gj5f">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">17 Nov</td>
+    <td class="tg-a3j2">Thur</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">18 Nov</td>
+    <td class="tg-gj5f">Fri</td>
+    <td class="tg-gj5f">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">19 Nov</td>
+    <td class="tg-a3j2">Sat</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1200 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-pr30"><span style="font-weight:bold">21 Nov</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
+    <td class="tg-gj5f"></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">22 Nov</td>
+    <td class="tg-a3j2">Tue</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">23 Nov</td>
+    <td class="tg-gj5f">Wed</td>
+    <td class="tg-gj5f">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">24 Nov</td>
+    <td class="tg-a3j2">Thur</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">25 Nov</td>
+    <td class="tg-gj5f">Fri</td>
+    <td class="tg-gj5f">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">26 Nov</td>
+    <td class="tg-a3j2">Sat</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 -1200 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-pr30"><span style="font-weight:bold">28 Nov</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
+    <td class="tg-gj5f"></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">29 Nov</td>
+    <td class="tg-a3j2">Tue</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">30 Nov</td>
+    <td class="tg-gj5f">Wed</td>
+    <td class="tg-gj5f">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">1 Dec</td>
+    <td class="tg-a3j2">Thur</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">2 Dec</td>
+    <td class="tg-gj5f">Fri</td>
+    <td class="tg-gj5f">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">3 Dec</td>
+    <td class="tg-a3j2">Sat</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 -1200 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-pr30"><span style="font-weight:bold">5 Dec</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
+    <td class="tg-gj5f"></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">6 Dec</td>
+    <td class="tg-a3j2">Tue</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">7 Dec</td>
+    <td class="tg-gj5f">Wed</td>
+    <td class="tg-gj5f">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">8 Dec</td>
+    <td class="tg-a3j2">Thur</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">9 Dec</td>
+    <td class="tg-gj5f">Fri</td>
+    <td class="tg-gj5f">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">10 Dec</td>
+    <td class="tg-a3j2">Sat</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 -1200 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-pr30"><span style="font-weight:bold">12 Dec</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
+    <td class="tg-gj5f"></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">13 Dec</td>
+    <td class="tg-a3j2">Tue</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">14 Dec</td>
+    <td class="tg-gj5f">Wed</td>
+    <td class="tg-gj5f">Walk in for Sec 2 -5 MOE FAS and School- Based FAS only</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">15 Dec</td>
+    <td class="tg-a3j2">Thur</td>
+    <td class="tg-a3j2">Walk in for Sec 2 -5 MOE FAS and School- Based FAS only</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">16 Dec</td>
+    <td class="tg-gj5f">Fri</td>
+    <td class="tg-gj5f">Walk in for Sec 2 -5 MOE FAS and School- Based FAS only</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">17 Dec</td>
+    <td class="tg-a3j2">Sat</td>
+    <td class="tg-a3j2">Walk in for Sec 2 -5 MOE FAS and School- Based FAS only</td>
+    <td class="tg-a3j2">0900 -1200 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-pr30"><span style="font-weight:bold">19 Dec</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
+    <td class="tg-gj5f"></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">20 Dec</td>
+    <td class="tg-a3j2">Tue</td>
+    <td class="tg-a3j2">Self-Collection for sec 2-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">21 Dec</td>
+    <td class="tg-gj5f">Wed</td>
+    <td class="tg-gj5f">Self-Collection for sec 1 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">22 Dec</td>
+    <td class="tg-a3j2">Thur</td>
+    <td class="tg-a3j2">Self-Collection for sec 1 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">23 Dec</td>
+    <td class="tg-gj5f">Fri</td>
+    <td class="tg-gj5f">Self-Collection for sec 1 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-4ufn"><span style="font-weight:bold">24 Dec</span></td>
+    <td class="tg-4ufn"><span style="font-weight:bold">Sat</span></td>
+    <td class="tg-4ufn"><span style="font-weight:bold">CLOSED</span></td>
+    <td class="tg-a3j2"></td>
+  </tr>
+  <tr>
+    <td class="tg-pr30"><span style="font-weight:bold">26 Dec</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
+    <td class="tg-gj5f"></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">27 Dec</td>
+    <td class="tg-a3j2">Tue</td>
+    <td class="tg-a3j2">Self-Collection for sec 1-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">28 Dec</td>
+    <td class="tg-gj5f">Wed</td>
+    <td class="tg-gj5f">Self-Collection for sec 1-5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">29 Dec</td>
+    <td class="tg-a3j2">Thur</td>
+    <td class="tg-a3j2">Self-Collection for sec 1-5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-pr30"><span style="font-weight:bold">30 Dec</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Fri</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
+    <td class="tg-gj5f"></td>
+  </tr>
+  <tr>
+    <td class="tg-4ufn"><span style="font-weight:bold">31 Dec</span></td>
+    <td class="tg-4ufn"><span style="font-weight:bold">Sat</span></td>
+    <td class="tg-4ufn"><span style="font-weight:bold">CLOSED</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 
 
 
