@@ -4,52 +4,47 @@ permalink: /nurturegess/character-citizenship-education/cyberwellness/
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
+#### **Cyber Wellness Programme**
 
+**What is Cyber Wellness?**
 
-### Cyber Wellness@GESS
+Cyber Wellness (CW) focuses on the well-being of our students as they navigate cyberspace. Our curriculum aims to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.
 
-Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The aim of the GESS CW programme is to develop gessians into discerning and responsible ICT users who are able to protect themselves, and be responsible for their well-being in the cyberspace.
-
-The school adopts MOE’s CW Framework, which focuses on three key processes:
+GESS adopts MOE’s Cyber Wellness Framework in the inculcation of Cyber Wellness in our students. The framework focuses on three key processes: Sense, Think and Act
 
 ![Cyberwellness Framework](/images/Cyberwellness-Framework.png)
 
-Our CW curriculum is tailored such that it allows students to translate their understanding into actions that will keep them safe while online. On top of CW lessons delivered as part of the GESS Character and Citizenship Education (CCE) curriculum, other platforms are provided for students to enhance their CW knowledge.
+The Cyber Wellness programme in GESS comprises assembly talks, CCE lessons and the Cyber Wellness Ambassador programme to advocate cyber wellness efforts. The following are the guiding principles of Cyber Wellness:
 
-**Assembly Talks**  
-All gessians attend assembly talks that teach them how to stay safe in cyber-world. Topics covered include socializing on social media platforms, fake news, copyright issues, cyber-gaming, Internet addiction, cyber-bullying and cyber-relationships. In 2021, our Upper Secondary students had attended a talk/skit on I, Alan” mental well-being online assembly show by Health Promotion Board while our Lower Secondary students watched a skit “Let’s Face It” emotional well-being online assembly show by Health Promotion Board.
+1.  **Respect for Self and Others**
 
-We also conducted an in-house assembly talk and Questions and Answers Sessions on Cyber Bullying.
-<br>
-<img src="/images/Assembly-Talks-1024x576.jpeg" 
-         style="width:400px"
-	/>
-<br>
+Students need to : 
 
+*   uphold their own dignity when online (e.g. share appropriate content and participate in only legal online activities) 
+*   respect other people online (e.g. put themselves in others’ shoes, accept diverse views and opinions, give credit when using other people’s work and seek permission where necessary, avoid sharing hurtful materials).
 
-**Positive Peer Advocacy through class ICT representatives**  
-Each class in GESS has 1-2 ICT Representatives, who lead the class in discussions about various cyberwellness issues during Assembly programme, CCE lessons or during Hear2Heart sessions. The topic of the ICT Representatives’ sharing in 2021 was on safety use of internet, cyber bullying and the consequences of excessive internet usage. They also tapped on their own experience to share possible strategies to overcome internet addiction. The ICT representatives will undergo at least 2 to 4 trainings per year so as to prepare them in
+2.  **Safe and Responsible Use**
 
-1.  guiding their peers to be safe and discerning ICT users and championing Cyber Wellness efforts
-2.  supporting teachers in technical support
+Students need to:
 
+*   have an understanding of the risks of harmful and illegal online behaviour, and take steps to protect themselves (e.g. keep their personal information private, verify the reliability of information using various sources, take steps to avoid dangers they may encounter online). 
+*   make wise and healthy choices (e.g. maintain a healthy balance of their online and offline activities).
 
-<br>
-<img src="/images/IMG-20210713-WA0023.jpeg" 
-         style="width:400px"
-	/>
-<br><br>
-<img src="/images/WhatsApp-Image-2021-09-07.jpeg" 
-         style="width:400px"
-	/>
-<br><br>
-<img src="/images/WhatsApp-Image-2021-09-07_2.jpeg" 
-         style="width:400px"
-	/>
-<br>
+3.  **Positive Peer Influence**
 
+Students need to: 
 
-If you need help on Cyber Wellness issues, you can either:
+*   be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society).
+*   advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media).
 
-*   Consult your form teacher or school counsellor
-*   Visit [https://www.betterinternet.sg/](https://www.betterinternet.sg/)
+**Cyber Wellness Ambassadors in GESS**
+
+The Cyber Wellness Ambassadors (CWA) in GESS aim to guide their peers to be safe and discerning ICT users. They champion ICT efforts and spread positive Cyber Wellness messages in GESS.
+
+The CWA are trained to:
+
+*   promote safe, responsible and meaningful use of ICT through monthly sharing on Cyber Wellness issues such as Cyber Bullying, Spreading of False information and Managing Screen Time.
+*   champion the use of new media such as note-taking using their Personal Learning Devices (PLDs) by guiding their classmates to harness the power of ICT for effective learning.
+*   spread the LEARN routines to their peers so as to help their peers to learn effectively using their PLDs.
+
+In 2022, the lower secondary ambassadors advocate the safe and responsible use of ICT through the monthly sharing to their classmates. On the other hand, the upper secondary ambassadors also took part in the National Cyber Wellness Advocacy Challenge to advocate and spread the messages related to Cyber Wellness issues. The focus of the campaign was on Misinformation and Filter Bubble.
