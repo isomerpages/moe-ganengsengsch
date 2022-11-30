@@ -2,6 +2,7 @@ collections:
   useful-links-and-resources:
     output: true
     order:
+      - Counselling@GESS/MOE Resources for Parents.md
       - Counselling@GESS/Helplines.md
       - Counselling@GESS/.keep
       - Key School Events.md
