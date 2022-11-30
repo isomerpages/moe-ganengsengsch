@@ -4,26 +4,62 @@ permalink: /nurturegess/character-citizenship-education/ecareerportal/
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
+**Education and Career Guidance (ECG)**
 
-**PROGRAMMES**  
-At GESS, we believe in providing our students with authentic learning experiences to increase their awareness of their strengths, and possible educational and career pathways upon graduation. This is done at various levels:
+Education and Career Guidance (ECG) equips Gessians with the necessary knowledge, skills, and values to make informed decisions about their education and career pathways. A good ECG curriculum prepares students for successful transition from school to further education or work, as part of their lifelong learning.
 
-**1\. Job Shadowing Programme for Secondary 1s**  
-The Job Shadowing Programme provides an opportunity for students to connect with the world of work through experiencing first-hand the work environment of their family members. Students are encouraged to make connections between their learning in school, and real-life contexts.  
-Students who had participated in the Job-shadowing Programme in 2019 shared they had grown a deeper appreciation of the importance of different industries that their family members are involved in. As students hear their classmates share their experiences at the end of this Programme, they too gain broader perspectives of career possibilities and the working world.
+The GESS ECG curriculum aims to:
 
-**2\. Subject Combination Talks for Secondary 2s**
+*   nurture student’s self-awareness and self-directedness for lifelong learning;
+*   enable students to explore education and career options, by equipping them with accurate and comprehensive information.;
+*   help students develop a growth mindset and a resilient attitude to embrace future opportunities, and appreciate all occupations across society; and
+*   create opportunities for students to build positive connections with the community (such as teachers, ECG counsellors, parents, industry partners), to develop an appreciation for different career pathways.
 
-<table width="100%" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 7px; text-align: center;"><a href="/images/ecg_1.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; outline: 0px; color: rgb(255, 208, 26); text-decoration: underline;"><img class="aligncenter wp-image-18590 size-medium" src="/images/ecg_1.jpeg" alt="Pic1" width="300" height="225" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 9px; text-align: center;"><a href="/images/ecg_2.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18591 size-medium" src="/images/ecg_2.jpeg" alt="Pic2" width="300" height="225" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td></tr></tbody></table>
+Key messages of ECG
 
-To help our students make informed decisions about their choice of subjects at the upper secondary level, the ECG team invited various subject coordinators to introduce the respective syllabi to all Secondary Two students.
+**1\. Discover Who You Are**
 
-**3\. Advanced Elective Modules (AEMs), Talks by JCs and Polytechnics for Secondary 3s**
+Develop your values, interests, personality and skills throughout life to fulfil your aspirations, and use them to shape the society you want to be a part of in the future.
 
-<table width="100%" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; text-align: center; width: 7px;"><p style="box-sizing: inherit;"></p><div id="attachment_18592" class="wp-caption aligncenter" style="box-sizing: inherit; margin: auto; display: block; clear: both; width: 235px;"><a href="/images/ecg_3.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img aria-describedby="caption-attachment-18592" class="wp-image-18592 size-medium" src="/images/ecg_3.jpeg" alt="Pic3" width="225" height="300" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a><p id="caption-attachment-18592" class="wp-caption-text" style="box-sizing: inherit;">Eunoia Junior College’s sharing with our Sec 3s</p></div></td><td style="box-sizing: inherit; padding: 5px 10px; text-align: center; width: 9px;"><p style="box-sizing: inherit;"></p><div id="attachment_18593" class="wp-caption aligncenter" style="box-sizing: inherit; margin: auto; display: block; clear: both; width: 235px;"><a href="/images/ecg_4.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img aria-describedby="caption-attachment-18593" class="wp-image-18593 size-medium" src="/images/ecg_4.jpeg" alt="Pic4" width="225" height="300" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a><p id="caption-attachment-18593" class="wp-caption-text" style="box-sizing: inherit;">Singapore Polytechnic’s sharing with our Sec 3s</p></div></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; text-align: center; width: 22px;"><p style="box-sizing: inherit;"></p><div id="attachment_18594" class="wp-caption aligncenter" style="box-sizing: inherit; margin: auto; display: block; clear: both; width: 310px;"><a href="/images/ecg_5.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img aria-describedby="caption-attachment-18594" class="wp-image-18594 size-medium" src="/images/ecg_5.jpeg" alt="Pic5" width="300" height="225" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a><p id="caption-attachment-18594" class="wp-caption-text" style="box-sizing: inherit;">Advanced Elective Module (AEM)’s Field Trip</p></div></td></tr></tbody></table>
+**2\. Navigate Pathways with Confidence**
 
-To introduce students to possible courses of study in post-secondary education institutions, the school regularly invite JCs, Polytechnics, ITEs to speak to our students who have different post-secondary aspirations. In addition, the school organizes Elective Modules and Advanced Elective Modules that allow students to deepen their desire to explore fields such as Engineering, Business, Design etc.
+Explore your education and career options, as you think about what you want to do, and who you want to be, in future. The more you learn, the more you will be ready to confidently take up opportunities that are presented to you.
 
-**4\. Visits to Open Houses, Learning Journeys to organisations such as Lifelong Learning Institute, Early Admission Exercise (EAE) Workshops for Secondary 4s and 5s.**
+**3\. Make Informed Decisions and Own Them**
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; text-align: center;"><p style="box-sizing: inherit;"></p><div id="attachment_18595" class="wp-caption aligncenter" style="box-sizing: inherit; margin: auto; display: block; clear: both; width: 160px;"><a href="/images/ecg_6.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img aria-describedby="caption-attachment-18595" class="wp-image-18595 size-thumbnail" src="/images/ecg_6.jpeg" alt="Pic6" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a><p id="caption-attachment-18595" class="wp-caption-text" style="box-sizing: inherit;">Learning Journey to NYJC</p></div></td><td style="box-sizing: inherit; padding: 5px 10px; text-align: center;"><p style="box-sizing: inherit;"></p><div id="attachment_18597" class="wp-caption aligncenter" style="box-sizing: inherit; margin: auto; display: block; clear: both; width: 160px;"><a href="/images/ecg_7.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img aria-describedby="caption-attachment-18597" class="wp-image-18597 size-thumbnail" src="/images/ecg_7.jpeg" alt="Pic8" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a><p id="caption-attachment-18597" class="wp-caption-text" style="box-sizing: inherit;">Engineering Your Future” – collaboration between Lifelong Learning Institute (LLI) and SUTD</p></div></td><td style="box-sizing: inherit; padding: 5px 10px; text-align: center;"><p style="box-sizing: inherit;"></p><div id="attachment_19489" class="wp-caption aligncenter" style="box-sizing: inherit; margin: auto; display: block; clear: both; width: 160px;"><a href="/images/ecg_8.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img aria-describedby="caption-attachment-19489" class="wp-image-19489 size-thumbnail" src="/images/ecg_8.jpeg" alt="Pic7" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></a><p id="caption-attachment-19489" class="wp-caption-text" style="box-sizing: inherit;">Secondary 5 students engage in conversations with<br style="box-sizing: inherit;">industry professionals at ECG Symposium 2019</p></div></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; text-align: center;"><a href="/images/ecg_9.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18599 size-thumbnail" src="/images/ecg_9.jpeg" alt="Pic10" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; text-align: center;"><a href="/images/ecg_10.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18598 size-thumbnail" src="/images/ecg_10.jpeg" alt="Pic9" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; text-align: center;"><a href="/images/ecg_11.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18600 size-thumbnail" src="/images/ecg_11.jpeg" alt="Pic11" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td colspan="3" style="box-sizing: inherit; padding: 5px 10px; text-align: center;"><span style="box-sizing: inherit; font-size: 12pt;">Students from graduating cohort exploring career possibilities at Day X 2019</span></td></tr></tbody></table>
+Continue to grow your knowledge and skills to expand opportunities for yourself. Explore how you can tap on such opportunities to pursue your aspirations. Take positive steps to embark on your education and career plans.
+
+**4\. Keep Learning. Be Resilient**
+
+Continue learning throughout your life and view setbacks as opportunities to develop yourself and grow. Be adaptable and resilient as you build a fulfilling career.
+
+**Key programmes for each level at GESS:**
+
+*   Sec 1: MySkillsFuture onboarding, ECG Learning Fortnight
+*   Sec 2: Subject Combination Exploration
+*   Sec 3: Education Pathway Exploration
+*   Sec 4/5: JC talks, Polytechnic courses exploration, ITE engagement session, EAE and DSA preparatory sessions, JC and Polytechnic Open Houses.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/IMG_0376-768x576.jpeg" alt="Education and Career Guidance (ECG)" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/IMG_0377-768x576.jpeg" alt="Education and Career Guidance (ECG)" style="width:70%;">  
+  
+</body>
+<br>
