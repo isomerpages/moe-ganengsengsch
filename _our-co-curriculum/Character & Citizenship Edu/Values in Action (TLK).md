@@ -4,10 +4,94 @@ permalink: /nurturegess/academic/student-development/gess-values-in-action/
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
+**<u>Vision</u>**
 
+To nurture Gessians into active citizens who serve with compassion and who love Singapore.
 
-The GESS Values in Action (VIA) programme is aligned to the Love-Embodied trait in our Gessian Portrait. Gessians go through a structured and developmental VIA programme to ensure progressive, coherent and sustainable learning. The programme also provides Gessians with the opportunity to understand the issues that the beneficiaries are facing and then decide how they can make a sustained change to them. Teachers act as facilitators and mentors to support our students in their group endeavours. There are also whole-school VIA projects weaved into our Chinese New Year and Founder’s Day celebrations.
+**<u>About us</u>**
 
-ViA experiences allow our Gessians to interact with and understand people of different backgrounds. These efforts to bring youths and the larger community together help to develop empathy for others. As Gessians serve the community, they often learn important life lessons as well.
+VIA is a valuable student development experience that GESS provides for our students to nurture them into active citizens with the heart to serve others in the community with compassion.
 
-<table border="1" width="823" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 92px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 267px;"><a href="/images/ViA-Pic-1-150x150.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18420 size-thumbnail" src="/images/ViA-Pic-1-150x150.jpeg" alt="Via Pic 1" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 267px;"><strong style="box-sizing: inherit; font-weight: bold;">Gessians sharing with members of the public the importance of mental well-being as part of celebrating the school’s Founder’s Day.</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 267px;"><a href="/images/ViA-Pic-2-150x150.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18421 size-thumbnail" src="/images/ViA-Pic-2-150x150.jpeg" alt="Via Pic 2" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 267px;"><a href="/images/ViA-Pic-3-150x150.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18422 size-thumbnail" src="/images/ViA-Pic-3-150x150.jpeg" alt="Via Pic 3" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 267px;"><strong style="box-sizing: inherit; font-weight: bold;">Gessians interacting with seniors from Thye Hua Kwan Seniors Activity Centre through games.</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 267px;"><a href="/images/ViA-Pic-4-150x150.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18424 size-thumbnail" src="/images/ViA-Pic-4-150x150.jpeg" alt="Via Pic 4" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 267px;"><a href="/images/ViA-Pic-5-150x150.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18425 size-thumbnail" src="/images/ViA-Pic-5-150x150.jpeg" alt="Via Pic 5" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 267px;"><strong style="box-sizing: inherit; font-weight: bold;">Gessians volunteering in the noteworthy NTUC ‘Share-A-Textbook’ project to sort used textbooks into various categories for collection and distribution.</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 267px;"><a href="/images/ViA-Pic-6-150x150.jpeg" target="_blank" rel="noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img class="aligncenter wp-image-18426 size-thumbnail" src="/images/ViA-Pic-6-150x150.jpeg" alt="Via Pic 6" width="150" height="150" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"></a></td></tr></tbody></table>
+Besides the activity alone, GESSCares encourages student ownership and initiative, providing a platform where students reflect on their experiences, the values they have put into practice, and how they can contribute meaningfully to impact the people they interact with. We adopt the **3P (People, Places, exPeriences)** approach when planning the VIA activities to allow students to interact with different people from all walks of life and visit different places to learn.
+
+Key VIA activities include:
+
+*   GESS **C**lean: keeping our environment clean (cleaning of our school premises, beaches and neighbourhood),
+*   GESS Inter**A**ct: interacting with the elderly and residents at Thong Kheng Senior Activity Centre, Thye Hwa Kwan Senior Activity Centre and Boon Tiong Residents’ Committee,
+*   GESS **R**ead: reading to the Primary school students (kidsREAD programme with Gan Eng Seng Primary School & Read Well Programme with CDAC),
+*   GESS **E**xcel: tutoring the primary school students in their Mathematics (Math Tutoring Programme with Alexandra Primary School & Math Tutoring for our Sec 3 students),
+*   GESS **S**erve: Serving and supporting community events such as Henderson Dawson National Day Observance Ceremony and Fairprice Share-a-Textbook.
+
+<p style="text-align:center;"><strong>KidsREAD programme with students from Gan Eng Seng Primary School (GESPS)</strong></p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/VIA-1.jpeg" alt="Values in Action" style="width:70%;"> <p style="text-align:center;"><strong>Words of encouragement to a P6 student from Alexandra Primary School (ALPS)</strong></p>
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/VIA-2.jpeg" alt="Values in Action" style="width:70%;"> <p style="text-align:center;"><strong>Interacting and Exercising with the elderly residents of Thong Kheng Senior Activity Centre</strong></p>
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/VIA-3.jpeg" alt="Values in Action" style="width:70%;"> 
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/VIA-4.jpeg" alt="Values in Action" style="width:70%;"> <p style="text-align:center;"><strong>Participating in the Henderson-Dawson National Day Observance ceremony</strong></p>
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/VIA-5.jpeg" alt="Values in Action" style="width:70%;"> <p style="text-align:center;"><strong>Supporting the NTUC Fairprice ‘Share-a-Textbook’ scheme</strong></p>
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/VIA-6.png" alt="Values in Action" style="width:70%;"> 
+  
+</body>
+<br>
