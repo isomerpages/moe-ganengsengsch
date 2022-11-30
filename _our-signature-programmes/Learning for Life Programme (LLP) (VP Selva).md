@@ -3,125 +3,69 @@ title: Learning for Life Programme (LLP) (VP Selva)
 permalink: /nurturegess/celebrating-the-good/gess-distinctive-programm/gess-learning-for-life-programme-llp/
 description: ""
 ---
+### **Community and Youth Leadership**
 
+GESS LLP in Community and Youth Leadership is aimed at empowering our students to be principled leaders and active citizens. Anchored on the school values of Integrity, Compassion, Resilience, Discipline and Respect, Gessians hone their leadership skills to be of service to the school and community. It is our hope that through LLP, Gessians will embrace an attitude of volunteerism to make a difference to the people around them.
 
-The GESS Learning for Life Programme (LLP), also known as the GESS LIFE programme, launched in July 2014, seeks to develop students to be confident and effective student leaders who positively impact their community through the 3D approach – **Discovering** myself, **Developing** good habits, and **Designing** our world.
+**Objectives of LLP**
 
-Students discover themselves and develop a better appreciation of one another’s uniqueness using the Myers–Briggs Type Indicator (MBTI) assessment, a psychometric questionnaire designed to measure psychological preferences in how people perceive the world and make decisions. They will learn simple and effective strategies to leverage their strengths and build competencies in other areas, and collaborate with others.
+1.  To develop leadership skills in students anchored on The Leadership Challenge Model of Posner & Kouzes.
+2.  To leverage on the GESS Student Leadership, GESS values-in-action Programme (ViA) and skills acquired through GESS Life Camps to reach out to the school and community to serve diverse groups ranging from the young to the elderly and meet other needs such as care for the environment.
 
-As an integral part of the GESS LIFE programme, the annual cohort GESS LIFE Camp will equip our students with effective strategies and skills to enhance self-management, develop resilience and focus, improve team collaboration, and to understand and appreciate cross-cultural issues.
+Three Levers of Learning For Life Programme
 
-With a healthy understanding of self and others, and effective habits developed in oneself, GESSIANs are able to design the world they live in. The LIFE programme will provide school-wide, cohort and personal opportunities for every student to purposefully and competently apply their knowledge and skills to impact their families, school, community, nation and the world.
+![Three Levers of Learning For Life Programme](/images/LLP.jpeg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l2bf"><span style="font-weight:bold">Name of activity / module</span></th>
-    <th class="tg-l2bf"><span style="font-weight:bold">Level(s) of students involved</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-1ppo">1. GESS LIFE Camp</td>
-    <td class="tg-1ppo">Sec 1 – 5</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">2. Cohort Leadership Development Programme</td>
-    <td class="tg-h5mn">Sec 1 – 3</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">3. Election of Head Prefect</td>
-    <td class="tg-1ppo">Sec 1 – 5</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">4. Student Leadership Development Programme – NYAA</td>
-    <td class="tg-h5mn">Sec 2</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">5. MBTI Programme</td>
-    <td class="tg-1ppo">Sec 2</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">6. Student Leadership Development Student Forum</td>
-    <td class="tg-h5mn">Sec 1 – 5</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">7. Level Values-in-Action (ViA) Programme</td>
-    <td class="tg-1ppo">Sec 1 – 5</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">8. Education &amp; Career Guidance Programme</td>
-    <td class="tg-h5mn">Sec 1 – 5</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">9. Student Leadership Development Programme:<br><br>a. Training<br>b. Application of skills &amp; knowledge</td>
-    <td class="tg-1ppo">Selected Sec 1 – 5 students</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn">10. Community Youth Leaders in leading Values-in-Action Programme</td>
-    <td class="tg-h5mn">Selected Sec 1 – 5 students</td>
-  </tr>
-</tbody>
-</table>
+**Student Outcomes**
 
-Through the GESS LIFE programme, Gan Eng Seng School aimed to nurture our students to become GESSIANs of Excellence, Standing and Significance.
+Students should have acquired the following in their 4 to 5 years of LLP journey in GESS:
 
-<br>
-<img src="/images/01.jpeg" 
-         style="width:400px"
-	/>
-<br>
-<p style="text-align: center">Our NKF Ambassador, Tan Daphne, ushering Minister for Education, Mr Ng Chee Meng during the Official opening of the NKF’s Kidney Discovery Centre on 17th April 2017</p>
+*   Recognise that as a caring and responsible citizen, Gessians are empowered to initiate and plan activities and programmes to address issues that are within their sphere of influence.
+*   The five elements of the Leadership Challenge Model (by Posner & Kouzes)
+*   The ability to plan, implement and review ViA projects that impact the school and the community.
 
-<br>
-<img src="/images/02.jpeg" 
-         style="width:400px"
-	/>
-<br>
+**Student Leadership**
 
-<p style="text-align: center">Faith Kirsten from Class 3B sharing her experiences on her outreach to the community to the distinguished guests</p>
+**The Leadership Model & Process**
 
-<br>
-<img src="/images/03.jpeg" 
-         style="width:400px"
-	/>
-<br>
-<p style="text-align: center">Tan Daphne from Class 2F being interviewed by the media on her volunteering experiences</p>
+The school adopts Kouzes and Posner ‘The Leadership Challenge’ (TLC) model. We believe that TLC effectively equips our students to:
 
-<br>
-<img src="/images/04.jpeg" 
-         style="width:400px"
-	/>
-<br>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-1.jpeg" alt="The Leadership Model & Process" style="width:75%;">  
+  
+</body>
 
-<p style="text-align: center">Ian Ng, from Class 1F, explaining to the visitors how kidney patients perform dialysis by themselves</p>
+We believe in giving every Gessian leadership opportunities in their 4/5 years of Secondary School life. Leadership opportunities are given through cohort camps, class committees and formal leadership appointments as Prefects, CCA leaders, Class Chairpersons, Sports Leaders and Peer Support Leaders to cater to their developmental needs and varied abilities. At Lower Secondary level, all students will go through TLC workshops to equip them with leadership skills. At Upper Secondary level, all Secondary 3 students will embark on the National Youth Achievement Award (NYAA) Silver as part of their leadership journey.
 
-<br>
-<img src="/images/05.jpeg" 
-         style="width:400px"
-	/>
+**GESS Life Camps**
 
-<p style="text-align: center">A lighter moment during the Official opening of the NKF Kidney Discovery Centre</p>
+GESS Life Camps aim to strengthen and further develop Gessians’ life and leadership skills. As an integral part of the camp, students are equipped with effective strategies and skills to enhance self-management, develop resilience and improve teamwork, communication and collaboration. GESS Life Camp also develops students to be confident and effective leaders who positively impact their community.
 
-<br>
-<img src="/images/06.jpeg" 
-         style="width:400px"
-	/>
+ **Values-in-Action Programme (ViA)**
 
-<p style="text-align: center">A group photo of happy volunteers!</p>
-<img src="/images/07.jpeg" 
-         style="width:400px"
-	/>
-<br>
+GESS Values-in-Action (ViA) programme aims to empower Gessians to be active contributors to the school and community. Gessians go through a structured and developmental ViA programme to ensure progressive, coherent and sustainable learning. The programme also provides Gessians with the opportunity to understand school and community needs and lead in making a positive change to them. Teachers act as facilitators and mentors to support students involved in these ViA activities.
 
-<p style="text-align: center">Gessians paying it forward to their community by helping senior citizens to clean up their residences</p>
+ **Nomination, Assessment & Review**
+
+Teachers nominate students for the leadership roles after observing them to have leadership potential and interest. In addition to this, students are also given the autonomy to do self or peer nomination if they or their friends are interested or have exhibited leadership potential to take up the different leadership roles.
+
+Assessment of Student leadership competencies is done for tier 3 students where teachers have review sessions with individual student leaders. For all other tiers, student reflections and perception surveys are used as platforms to assess student leadership competencies.
+
+Annual Review of LLP is done at the end of the academic year as part of the overall review of school plans for the year.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-2.jpeg" alt="Key Partners for Learning for Life Programme" style="width:80%;">  
+  
+</body>
