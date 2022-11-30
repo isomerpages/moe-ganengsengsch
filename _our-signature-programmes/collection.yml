@@ -2,10 +2,10 @@ collections:
   our-signature-programmes:
     output: true
     order:
-      - The Gessian Series.md
-      - Secondary 1 Learning Festival.md
       - Applied Learning Programme (ALP) (QZW).md
       - Capstone Programme.md
       - Full Subject Based Banding.md
       - Home Based and Student Initiated Learning.md
       - Learning for Life Programme (LLP) (VP Selva).md
+      - Secondary 1 Learning Festival.md
+      - The Gessian Series.md
