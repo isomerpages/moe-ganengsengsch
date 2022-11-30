@@ -2,6 +2,7 @@ collections:
   useful-links-and-resources:
     output: true
     order:
+      - Quick Links/GESS Library.md
       - Quick Links/Online Submission of Insurance Claims.md
       - Quick Links/.keep
       - School Admission.md
