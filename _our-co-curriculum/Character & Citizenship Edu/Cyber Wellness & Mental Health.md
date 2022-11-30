@@ -72,3 +72,30 @@ img {
   
 </body>
 <br>
+
+**Mental Health Education**                
+
+Gan Eng Seng School Mental Health Education (MHE) Programme is designed to achieve the following goals:
+
+*   Strengthen students’ resilience and well-being for good mental health
+*   Guide students to understand mental health as a continuum (mental wellness to mental illness)
+*   Develop in students an understanding of mental illness and their treatments
+*   Enhance students’ help-seeking efficacy 
+*   Destigmatise mental illness for our students
+
+The MHE curriculum in GESS takes reference from the topics stipulated by MOE’s Student Development Curriculum Division. In line with the goals stated above, we have customised a series of MHE programmes for our students such as assembly talks, sharing by Peer Support Leaders and journaling.
+
+To encourage journaling among our students, the school has developed “It’s Okay not to be Okay” Journals for all students which aims to allow every Gessian to learn how to think positively, overcome obstacles, be grateful and unlock the amazing potential that he/she has.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Cyber-Wellness-2.jpeg" alt="Cyber Wellness & Mental Health" style="width:70%;">  
+  
+</body>
+<br>
+
