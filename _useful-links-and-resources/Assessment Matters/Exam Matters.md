@@ -58,6 +58,6 @@ third_nav_title: Assessment Matters
 *   **[Sec 2 Express](/files/GAN-ENG-SENG_2-EXPRESS.pdf)**
 *   **[Sec 2 Normal Academic](/files/Gan-Eng-Seng-School_2NA-1.pdf)**
 *   **[Sec 2 Normal Technical](/files/Gan-Eng-Seng-School_2NT-1.pdf)**
-*   **[Sec 3 Express](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_3EXPRESS.pdf)**
-*   **[Sec 3 Normal Academic](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/Gan-Eng-Seng-School_3NA-1.pdf)**
-*   **[Sec 3 Normal Technical](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/GAN-ENG-SENG_3NT.pdf)**
+*   **[Sec 3 Express](/files/Gan-Eng-Seng-School_3EXPRESS.pdf)**
+*   **[Sec 3 Normal Academic](/files/Gan-Eng-Seng-School_3NA-1.pdf)**
+*   **[Sec 3 Normal Technical](/files/GAN-ENG-SENG_3NT.pdf)**
