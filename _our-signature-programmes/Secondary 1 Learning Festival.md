@@ -35,9 +35,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 1 Learning Festival" style="width:65%;">  
+<body><img src="/images/LF-1.jpeg" alt="Secondary 1 Learning Festival" style="width:65%;">  
   
 </body>
+<br>
 
 <style>  
 img {  
@@ -46,9 +47,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 1 Learning Festival" style="width:65%;">  
+<body><img src="/images/LF-2.jpeg" alt="Secondary 1 Learning Festival" style="width:65%;">  
   
 </body>
+<br>
 
 <style>  
 img {  
@@ -57,9 +59,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 1 Learning Festival" style="width:65%;">  
+<body><img src="/images/LF-3.jpeg" alt="Secondary 1 Learning Festival" style="width:65%;">  
   
 </body>
+<br>
 
 <style>  
 img {  
@@ -68,9 +71,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 1 Learning Festival" style="width:65%;">  
+<body><img src="/images/LF-4.jpeg" alt="Secondary 1 Learning Festival" style="width:65%;">  
   
 </body>
+<br>
 
 <style>  
 img {  
@@ -79,6 +83,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 1 Learning Festival" style="width:65%;">  
+<body><img src="/images/LF-5.jpeg" alt="Secondary 1 Learning Festival" style="width:65%;">  
   
 </body>
