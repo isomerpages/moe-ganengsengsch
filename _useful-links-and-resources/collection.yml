@@ -2,6 +2,7 @@ collections:
   useful-links-and-resources:
     output: true
     order:
+      - Counselling@GESS/Counselling Support.md
       - Counselling@GESS/From the Counsellor’s Desk.md
       - Counselling@GESS/MOE Resources for Parents.md
       - Counselling@GESS/Helplines.md
