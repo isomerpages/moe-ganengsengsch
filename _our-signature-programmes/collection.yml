@@ -2,6 +2,7 @@ collections:
   our-signature-programmes:
     output: true
     order:
+      - Capstone Programme.md
       - Applied Learning Programme (ALP) (QZW).md
       - Full Subject Based Banding (FSBB) in GESS.md
       - GESS Learning for Life Programme (LLP).md
