@@ -4,10 +4,9 @@ permalink: /nurturegess/character-citizenship-education/gess-sexuality-education
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
-
 <h3 style="color:black" align="center">Gan Eng Seng School</h3>
 
-#### **Moe** **Sexuality Education in Schools**
+**Moe Sexuality Education in Schools**
 
 1.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
@@ -39,7 +38,7 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 
 7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Gan Eng Seng School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
+**At Gan Eng Seng School, the following lessons from the Sexuality Education Programme will be taught in <u>2022:</u>**
 
  **Secondary 1**
 
@@ -226,7 +225,7 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 </tbody>
 </table>
 
-**_eTeens_** **Programme**:
+**<u>_eTeens_</u>** **<u>Programme</u>**:
 
 8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
