@@ -22,20 +22,25 @@ The Capstone+ Framework is a progressive model based on the approach of Enrich, 
 
 <img src="/images/1-Capstone-Students-Presenting-at-RI-Research-Cafe-2022-2048x1536.jpg"  
 style="width:85%">
+
 **Capstone+ Students Presenting At Ri Research Cafe 2022**
 
 <img src="/images/2-Capstone-Students-Presenting-at-RI-Research-Cafe-2022-2048x1536.jpg"  
 style="width:85%">
+
 **Capstone+ Students Presenting At Ri Research Cafe 2022**
 
 <img src="/images/3-Capstone-Students-Presenting-at-RI-Research-Cafe-2022-2048x1536.jpg"  
-style="width:85%">
+style="width:85%"> 
+
 **Capstone+ Students Presenting At Ri Research Cafe 2022**
 
 <img src="/images/4-Fireside-chat-with-Mr-Laurance-Liau-with-students-from-different-schools-2048x1536.jpg"  
 style="width:85%">
+
 **Fireside Chat With Mr Laurance Liau From Ai Singapore With Students From Different Schools**
 
 <img src="/images/5-Capstone-Students-at-RI-Research-Cafe-2022.jpg"  
 style="width:85%">
+
 **Capstone+ Students At Ri Research Cafe 2022**
