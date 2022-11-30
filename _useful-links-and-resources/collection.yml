@@ -2,6 +2,7 @@ collections:
   useful-links-and-resources:
     output: true
     order:
+      - School Bookshop and Booklists.md
       - Purchase of School Uniform.md
       - Quick Links/.keep
       - Quick Links/SchoolBag.md
@@ -10,7 +11,6 @@ collections:
       - School Admission.md
       - Direct School Admission (DSA).md
       - Exam Matters.md
-      - School Bookshop and Booklists.md
       - Achievers’ Programme (AP).md
       - 2021 Sec 3 Subject Combinations.md
       - Quick Links.md
