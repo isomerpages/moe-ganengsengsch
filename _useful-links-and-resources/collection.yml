@@ -2,7 +2,6 @@ collections:
   useful-links-and-resources:
     output: true
     order:
-      - Announcement/Founder’s Day 2022.md
       - Announcement/.keep
       - Events/.keep
       - Events/Event Calendar.md
