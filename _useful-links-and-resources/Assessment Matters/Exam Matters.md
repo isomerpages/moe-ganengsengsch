@@ -43,11 +43,11 @@ third_nav_title: Assessment Matters
 <h5 style="color:black">End of Year Examination Timetable 2022
 </h5>
 
-*   **[Sec 1](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/EYE_TT_22-_Sec-1-2.pdf)**
-*   **[Sec 2](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/EYE_TT_22-_Sec-2-2.pdf)**
-*   **[Sec 3 Express](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/EYE_TT_22-_3-EXPRESS-2.pdf)**
-*   **[Sec 3 Normal Academic](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/EYE_TT_22_3NA-3.pdf)**
-*   **[Sec 3 Normal Technical](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/09/EYE_TT_22-_3NT-3.pdf)**
+*   **[Sec 1](/files/EYE_TT_22-_Sec-1-2.pdf)**
+*   **[Sec 2](/files/EYE_TT_22-_Sec-2-2.pdf)**
+*   **[Sec 3 Express](/files/EYE_TT_22-_3-EXPRESS-2.pdf)**
+*   **[Sec 3 Normal Academic](/files/EYE_TT_22_3NA-3.pdf)**
+*   **[Sec 3 Normal Technical](/files/EYE_TT_22-_3NT-3.pdf)**
 
 
 <h5 style="color:black">Final Examination Format & Topics 2022</h5>
