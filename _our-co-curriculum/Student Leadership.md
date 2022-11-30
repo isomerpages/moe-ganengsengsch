@@ -3,37 +3,9 @@ title: Student Leadership
 permalink: /nurturegess/student-leadership/
 description: ""
 ---
+<table border="1" width="859" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="343" style="box-sizing: inherit; padding: 5px 10px; width: 334.914px;"><strong style="box-sizing: inherit; font-weight: bold;">Teachers-in-charge:</strong></td><td width="516" style="box-sizing: inherit; padding: 5px 10px; width: 490.75px;"><strong style="box-sizing: inherit; font-weight: bold;">Student Leaders:</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="343" style="box-sizing: inherit; padding: 5px 10px; width: 334.914px;">Ms Nalyn Chua<br style="box-sizing: inherit;">Ms Beh Jing Ying<br style="box-sizing: inherit;">Ms Tan Si Ying<br style="box-sizing: inherit;">Mr Evan Ling<br style="box-sizing: inherit;">Mr Johann Lim</td><td width="516" style="box-sizing: inherit; padding: 5px 10px; width: 490.75px;">Pablo Letchemee Sanz (Head Prefect)<br style="box-sizing: inherit;">Janelle Lim En (Vice-Head Prefect/ Head of Training)<br style="box-sizing: inherit;">Liew Rui Ning Reanne (Vice-Head Prefect / Head of Recruitment)<br style="box-sizing: inherit;">Kaylene Quek Zhi Tong (Head Of Welfare)<br style="box-sizing: inherit;">Sherman Choy Xu Ren (Head Of Student Relations)</td></tr></tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l2bf"><span style="font-weight:bold">Teachers-in-charge:</span></th>
-    <th class="tg-l2bf"><span style="font-weight:bold">Coach/Instructor</span><br><span style="font-weight:bold">/Volunteer:</span></th>
-    <th class="tg-l2bf"><span style="font-weight:bold">Student Leaders:</span>(Name of Main Student Leaders for 2021/2022)<br><br>(Only those appointed during SLAC)</th>
-    <th class="tg-l2bf"><span style="font-weight:bold">Training Information:</span>(Day / Time/Venue)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">Nalyn Chua</span><br><span style="font-weight:bold">Beh Jing Ying</span><br><span style="font-weight:bold">Tan Si Ying</span><br><span style="font-weight:bold">Evan Ling</span><br><span style="font-weight:bold">Johann Lim</span></td>
-    <td class="tg-rs0e"><span style="font-weight:bold">–</span></td>
-    <td class="tg-xyrl"><span style="font-weight:bold;text-decoration:underline">70th Exco committee</span><br><br><span style="font-weight:bold">Tan Ching, 3F – Head Prefect and Head Of Recruitment</span><br><br><span style="font-weight:bold">Selin Yap, 3F – Vice-Head Prefect</span><br><br><span style="font-weight:bold">Chew Si Ki, 3F – Head Of Student Relations</span><br><br><span style="font-weight:bold">Charles Marcellino, 3F – Head Of Training</span><br><br><span style="font-weight:bold">Elliott Tan, 3H – Head Of Welfare</span><br></td>
-    <td class="tg-rs0e"><span style="font-weight:bold">–</span></td>
-  </tr>
-</tbody>
-</table>
-
-### **Our Philosophy**
+<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 826.664px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 412.828px; text-align: center;"><a href="/images/SL-1.jpeg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img loading="lazy" class="aligncenter size-medium wp-image-23369" src="/images/SL-1.jpeg" alt="Sl 1" width="300" height="224" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; clear: both; margin: auto; display: block;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 412.836px; text-align: center;"><a href="https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/SL-2.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img loading="lazy" class="aligncenter size-medium wp-image-23370" src="https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/SL-2-300x225.jpg" alt="Sl 2" width="300" height="225" srcset="/wp-content/uploads/2022/11/SL-2-300x225.jpg 300w, /wp-content/uploads/2022/11/SL-2.jpg 358w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; clear: both; margin: auto; display: block;"></a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 412.828px; text-align: center;"><a href="https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/SL-3.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; color: rgb(241, 174, 22); text-decoration: underline;"><img loading="lazy" class="aligncenter size-medium wp-image-23371" src="https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/SL-3-300x224.jpg" alt="Sl 3" width="300" height="224" srcset="/wp-content/uploads/2022/11/SL-3-300x224.jpg 300w, /wp-content/uploads/2022/11/SL-3.jpg 420w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; clear: both; margin: auto; display: block;"></a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 412.836px; text-align: center;"><a href="https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/SL-4.jpg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; outline: 0px; color: rgb(255, 208, 26); text-decoration: underline;"><img loading="lazy" class="aligncenter size-medium wp-image-23372" src="https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/SL-4-300x226.jpg" alt="Sl 4" width="300" height="226" srcset="/wp-content/uploads/2022/11/SL-4-300x226.jpg 300w, /wp-content/uploads/2022/11/SL-4.jpg 389w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; clear: both; margin: auto; display: block;"></a></td></tr></tbody></table><br>
 
 Our approach to student leadership development is guided by the following principles:
 
@@ -42,115 +14,23 @@ Our approach to student leadership development is guided by the following princi
 *   Gessians have the potential to be developed into principled leaders.
 *   To provide platforms for Gessians to apply their leadership skills.
 
-### **Our Student Leadership Logo**
+The overarching purpose of student leadership development is to develop Gessians as principled leaders of self and others, imbued with the school values of Integrity, Compassion, Resilience, Discipline and Respect.
 
-![Our Student Leadership Logo](/images/SL-1.png)
-
-### **Our Pedagogical Approach**
+#### **Our Pedagogical Approach**
 
 The Student Leadership Committee seeks to mould Gessians into principled leaders through a progressive leadership development plan, incorporating the 5 Practices of The Leadership Challenge.
 
 Each level has a progressive leadership focus starting from Self-Leadership in Sec 1, Peer-Leadership in Sec 2, School-Leadership in Sec 3, and culminating in Mentor-Leadership in Sec 4/5. We strive to help Gessians to discover their leadership abilities through our cohort training programme. Platforms have been put in place for students to learn and demonstrate leadership skills by integrating leadership teaching and learning at various school activities and programmes.
 
-Gan Eng Seng School has a series of developmental leadership training and opportunities to actualize every student’s potential to serve the school and community. The student leadership committee aims to develop and implement segmented student leadership training programme for identified student leaders to be effective in their roles to serve the school. Student Leaders Camp takes place to help the leaders in developing stronger working relationship and sharpening their leadership skills.
+GESS has a series of developmental leadership training and opportunities to actualize every student’s potential to serve the school and community. The student leadership committee aims to develop and implement segmented student leadership training programmes for identified student leaders to be effective in their roles to serve the school. Student Leaders Camp takes place to help the leaders in developing strong working relationships and sharpening their leadership skills.
 
-In addition to the basic leadership development for all students, an advanced leadership development is designed to stretch our core Student Leaders (Prefects, CCA Leaders, Class Chairpersons, Peer Support Leaders and Sports Leaders). Student Leaders are empowered to lead their classes, CCAs and peers in various school activities such as Secondary 1 GESS Camp, Election of Head Prefect, Teachers’ and Support Staff Day, Student Leaders Camp, Student Leaders Appointment Ceremony etc, as well as conducting outreach programmes to cluster Primary Schools and community.
+In addition to the basic leadership development for all students, an advanced leadership development is designed to stretch our core Student Leaders (Prefects, CCA Leaders, Class Chairpersons, Peer Support Leaders and Sports Leaders). Student Leaders are empowered to lead their classes, CCAs and peers in various school activities such as Secondary 1 GESS Camp, Election of Head Prefect, Teachers’ and Support Staff Day, Student Leaders Camp, Student Leaders Appointment Ceremony etc, as well as conducting outreach programmes to cluster Primary Schools and community. The following infographic shows how the Student Leaders are organized in GESS:
 
-### **Organisation Chart**
 
-In the Organisation Chart for Student Leaders, our Head Prefect oversees the development and progress of all Student Leaders in GESS.  He or she helps to ensure school activities are well planned and organised and leads the leaders in maintaining the discipline and order among Gessians.
-<br>
 <img src="/images/SL-2.png" 
          style="width:450px"
 	/>
 <br>
 
-<p style="text-align:center;"> <strong>Organisation Chart for Student Leaders</strong></p>
 
-***
 
-**Main Event 1: Secondary 1 GESS CAMP / Secondary 1 Orientation Camp**
-
-<br>
-<img src="/images/SL-3.jpeg" 
-         style="width:350px"
-	/>
-<br><br>
-<img src="/images/SL-4.jpeg" 
-         style="width:350px"
-	/>
-<br><br>
-<img src="/images/SL-5.jpeg" 
-         style="width:350px"
-	/>
-<br>
-
-***
-
-**Main Event 2: Student Leaders Appointment Ceremony**
-<br>
-<img src="/images/SL-6.jpeg" 
-         style="width:350px"
-	/>
-<br>
-<br>
-<img src="/images/SL-7.jpeg" 
-         style="width:350px"
-	/>
-<br>
-
-***
-
-**Main Event 3: Teachers’ and Support Staff Day**
-<br>
-<img src="/images/SL-8.jpeg" 
-         style="width:350px"
-	/>
-<br>
-<br>
-<img src="/images/SL-9.jpeg" 
-         style="width:350px"
-	/>
-<br>
-<p style="text-align:center;"> <strong>Organising Committee</strong></p>
-<br>
-<img src="/images/SL-10.jpeg" 
-         style="width:300px"
-	/>
-<br>
-
-<p style="text-align:center;"> <strong>Designed by Student Leader</strong></p>
-<br>
-<img src="/images/SL-11.jpeg" 
-         style="width:300px"
-	/>
-<br>
-
-<p style="text-align:center;"> <strong>Designed by Student Leader</strong></p>
-
-***
-
-**Main Event 4: GESS do it right Campaign, Head Prefect election and  initiated by GESS Prefectorial Board**
-<br>
-<img src="/images/SL-12.jpeg" 
-         style="width:350px"
-	/>
-<br>
-
-<p style="text-align:center;"> <strong>70th GESS Prefectorial Board</strong></p>
-<br>
-<img src="/images/SL-13.png" 
-         style="width:350px"
-	/>
-<br>
-
-<p style="text-align:center;"> <strong>Head Prefect Election</strong></p>
-<br>
-<img src="/images/SL-15.png" 
-         style="width:300px"
-	/>
-<br>
-
-<p style="text-align:center;"> <strong>Campaign initiated by Prefectorial Board</strong></p>
-
-***
