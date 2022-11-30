@@ -48,3 +48,27 @@ The CWA are trained to:
 *   spread the LEARN routines to their peers so as to help their peers to learn effectively using their PLDs.
 
 In 2022, the lower secondary ambassadors advocate the safe and responsible use of ICT through the monthly sharing to their classmates. On the other hand, the upper secondary ambassadors also took part in the National Cyber Wellness Advocacy Challenge to advocate and spread the messages related to Cyber Wellness issues. The focus of the campaign was on Misinformation and Filter Bubble.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Cyber-Wellness-3.jpeg" alt="Cyber Wellness & Mental Health" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Cyber-Wellness-1.jpeg" alt="Cyber Wellness & Mental Health" style="width:70%;">  
+  
+</body>
+<br>
