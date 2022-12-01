@@ -56,7 +56,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Cyber-Wellness-3.jpeg" alt="Cyber Wellness & Mental Health" style="width:70%;">  
+<body><img src="/images/Cyber-Wellness-3.jpeg" alt="Cyber Wellness & Mental Health" style="width:55%;">  
   
 </body>
 <br>
@@ -68,7 +68,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Cyber-Wellness-1.jpeg" alt="Cyber Wellness & Mental Health" style="width:70%;">  
+<body><img src="/images/Cyber-Wellness-1.jpeg" alt="Cyber Wellness & Mental Health" style="width:55%;">  
   
 </body>
 <br>
@@ -94,8 +94,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Cyber-Wellness-2.jpeg" alt="Cyber Wellness & Mental Health" style="width:70%;">  
+<body><img src="/images/Cyber-Wellness-2.jpeg" alt="Cyber Wellness & Mental Health" style="width:55%;">  
   
 </body>
 <br>
-
