@@ -19,4 +19,5 @@ Our department designs its outreach and talent development programmes to meet th
 
 To stretch students’ potential and develop their critical and creative thinking as well as information and communication skills, students prepare for competitions such as New South Wales Science Competition, GreenWave competition, and the Physics Olympiad. The Science Department also conducts the GESS Talents @ RI programme as part of the school’s Capstone Talent Development programme.
 
-![Science](/images/Science.jpg)
+<img src="/images/Science.jpg"  
+style="width:70%">
