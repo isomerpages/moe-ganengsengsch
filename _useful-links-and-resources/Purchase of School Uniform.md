@@ -19,7 +19,7 @@ Students who are granted MOE Financial Assistance Scheme will receive a letter f
 
 **Addresses and dates of sale of school uniform:**
 
- **(a)   BIBI & BABA Private Limited**        **Address: Far East Shopping Centre, 545 Orchard Road #02-28  
+ **(a)   BIBI & BABA Private Limited**        <br>**Address: Far East Shopping Centre, 545 Orchard Road #02-28  
         Singapore 238882   
         Tel: 6732 7022** 
 
@@ -29,7 +29,7 @@ Students who are granted MOE Financial Assistance Scheme will receive a letter f
 
         Public Holidays:   CLOSED.       
 
-**(b)   Purchase and Made to Measure Order @ Henderson Factory**         **Address: 213 Henderson Road #01-12 Singapore 159553  
+**(b)   Purchase and Made to Measure Order @ Henderson Factory**       <br>  **Address: 213 Henderson Road #01-12 Singapore 159553  
         Tel: 6271 9248**
 
         Operating Hours
