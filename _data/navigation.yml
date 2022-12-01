@@ -18,4 +18,13 @@ links:
   - title: Our Signature Programmes
     collection: our-signature-programmes
   - title: Useful Links And Resources
-    collection: useful-links-and-resources
+    url: /school-information/school-admission-2/
+    sublinks:
+      - title: Announcements
+        url: /resources/announcements/
+      - title: Assessment Matters
+        url: /weighted-assessment/
+      - title: Counselling Support in GESS
+        url: /counselling-support/
+      - title: Key School Events
+        url: /events/event-calendar/
