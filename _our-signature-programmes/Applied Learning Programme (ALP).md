@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/ALP-1.jpeg" alt="Applied Learning Programme (ALP)" style="width:70%;">  
+<body><img src="/images/ALP-1.jpeg" alt="Applied Learning Programme (ALP)" style="width:55%;">  
   
 </body>
 <br>
@@ -38,7 +38,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/ALP-2.jpeg" alt="Applied Learning Programme (ALP)" style="width:70%;">  
+<body><img src="/images/ALP-2.jpeg" alt="Applied Learning Programme (ALP)" style="width:55%;">  
   
 </body>
 <br>
@@ -54,7 +54,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/ALP-3.jpeg" alt="Applied Learning Programme (ALP)" style="width:70%;">  
+<body><img src="/images/ALP-3.jpeg" alt="Applied Learning Programme (ALP)" style="width:55%;">  
   
 </body>
 <br>
