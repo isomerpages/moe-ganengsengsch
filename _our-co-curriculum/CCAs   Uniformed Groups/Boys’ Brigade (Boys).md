@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/BB%201.jpeg" alt="Boys’ Brigade (Boys)" style="width:70%;">  
+<body><img src="/images/BB%201.jpeg" alt="Boys’ Brigade (Boys)" style="width:55%;">  
   
 </body>
 <br>
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/BB%202.jpeg" alt="Boys’ Brigade (Boys)" style="width:70%;">  
+<body><img src="/images/BB%202.jpeg" alt="Boys’ Brigade (Boys)" style="width:55%;">  
   
 </body>
 <br>
@@ -35,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/BB%203.jpeg" alt="Boys’ Brigade (Boys)" style="width:70%;">  
+<body><img src="/images/BB%203.jpeg" alt="Boys’ Brigade (Boys)" style="width:55%;">  
   
 </body>
 <br>
@@ -47,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/BB%204.jpeg" alt="Boys’ Brigade (Boys)" style="width:70%;">  
+<body><img src="/images/BB%204.jpeg" alt="Boys’ Brigade (Boys)" style="width:55%;">  
   
 </body>
 <br>
