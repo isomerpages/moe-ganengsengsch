@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Choir%201.jpeg" alt="School Choir (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Choir%201.jpeg" alt="School Choir (Boys & Girls)" style="width:60%;">  
   
 </body>
 <br>
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Choir%202.jpeg" alt="School Choir (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Choir%202.jpeg" alt="School Choir (Boys & Girls)" style="width:60%;">  
   
 </body>
 <br>
