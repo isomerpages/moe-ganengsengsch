@@ -19,9 +19,17 @@ On the scheduled HBL Day, students’ learning takes place through a less struct
 
 On HBL days, time will also be set aside for Student-Initiated Learning (SIL) and Online Digital Literacy lessons. 30 minutes of digital literacy modules via an SLS self-paced package will be for lower secondary students only.
 
-![Home Based Learning](/images/HBL-2.png)
-
-![Home Based Learning](/images/HBL-3.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/HBL-2.png" alt="Home Based Learning" style="width:70%;">  
+  
+</body>
+<br>
 
 <style>  
 img {  
@@ -30,7 +38,20 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/HBL-4.png" alt="Home Based Learning" style="width:30%;">  
+<body><img src="/images/HBL-3.png" alt="Home Based Learning" style="width:70%;">  
+  
+</body>
+<br>
+
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/HBL-4.png" alt="Home Based Learning" style="width:20%;">  
   
 </body>
 
