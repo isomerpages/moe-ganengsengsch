@@ -26,7 +26,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/HBL-2.png" alt="Home Based Learning" style="width:70%;">  
+<body><img src="/images/HBL-2.png" alt="Home Based Learning" style="width:75%;">  
   
 </body>
 <br>
@@ -38,7 +38,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/HBL-3.png" alt="Home Based Learning" style="width:70%;">  
+<body><img src="/images/HBL-3.png" alt="Home Based Learning" style="width:75%;">  
   
 </body>
 <br>
