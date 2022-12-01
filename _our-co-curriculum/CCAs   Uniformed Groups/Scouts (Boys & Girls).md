@@ -14,7 +14,7 @@ img {
 }  
 </style>  
 <body><img src="/images/Scout-1.jpeg" alt="Scouts (Boys & Girls)
-" style="width:70%;">  
+" style="width:55%;">  
   
 </body>
 <br>
@@ -28,7 +28,7 @@ img {
 }  
 </style>  
 <body><img src="/images/Scout-2.jpeg" alt="Scouts (Boys & Girls)
-" style="width:70%;">  
+" style="width:55%;">  
   
 </body>
 <br>
@@ -42,7 +42,7 @@ img {
 }  
 </style>  
 <body><img src="/images/Scout-3.jpeg" alt="Scouts (Boys & Girls)
-" style="width:70%;">  
+" style="width:55%;">  
   
 </body>
 <br>
@@ -56,7 +56,7 @@ img {
 }  
 </style>  
 <body><img src="/images/Scout-4.jpeg" alt="Scouts (Boys & Girls)
-" style="width:70%;">  
+" style="width:55%;">  
   
 </body>
 <br>
