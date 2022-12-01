@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Cross-Country-3.jpeg" alt="Cross Country (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Cross-Country-3.jpeg" alt="Cross Country (Boys & Girls)" style="width:55%;">  
   
 </body>
 <br>
