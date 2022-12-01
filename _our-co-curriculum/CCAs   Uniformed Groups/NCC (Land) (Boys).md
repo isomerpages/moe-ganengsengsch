@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/GESS-NCC-Main-Picture.png" alt="NCC (Land) (Boys)" style="width:70%;">  
+<body><img src="/images/GESS-NCC-Main-Picture.png" alt="NCC (Land) (Boys)" style="width:60%;">  
   
 </body>
 <br>
@@ -25,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NCC-2.jpeg" alt="NCC (Land) (Boys)" style="width:70%;">  
+<body><img src="/images/NCC-2.jpeg" alt="NCC (Land) (Boys)" style="width:60%;">  
   
 </body>
 <br>
@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NCC-3.jpeg" alt="NCC (Land) (Boys)" style="width:70%;">  
+<body><img src="/images/NCC-3.jpeg" alt="NCC (Land) (Boys)" style="width:60%;">  
   
 </body>
 <br>
@@ -49,7 +49,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NCC-4.jpeg" alt="NCC (Land) (Boys)" style="width:70%;">  
+<body><img src="/images/NCC-4.jpeg" alt="NCC (Land) (Boys)" style="width:60%;">  
   
 </body>
 <br>
