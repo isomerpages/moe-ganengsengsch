@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Table-Tennis-1.jpeg" alt="Table Tennis (Girls)" style="width:70%;">  
+<body><img src="/images/Table-Tennis-1.jpeg" alt="Table Tennis (Girls)" style="width:60%;">  
   
 </body>
 <br>
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Table-Tennis-2.jpeg" alt="Table Tennis (Girls)" style="width:70%;">  
+<body><img src="/images/Table-Tennis-2.jpeg" alt="Table Tennis (Girls)" style="width:60%;">  
   
 </body>
 <br>
