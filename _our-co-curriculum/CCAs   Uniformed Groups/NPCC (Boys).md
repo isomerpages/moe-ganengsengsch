@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NPCC%201.jpeg" alt="NPCC (Boys)" style="width:70%;">  
+<body><img src="/images/NPCC%201.jpeg" alt="NPCC (Boys)" style="width:55%;">  
   
 </body>
 <br>
@@ -25,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NPCC%202.jpeg" alt="NPCC (Boys)" style="width:70%;">  
+<body><img src="/images/NPCC%202.jpeg" alt="NPCC (Boys)" style="width:55%;">  
   
 </body>
 <br>
@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NPCC%203.jpeg" alt="NPCC (Boys)" style="width:70%;">  
+<body><img src="/images/NPCC%203.jpeg" alt="NPCC (Boys)" style="width:55%;">  
   
 </body>
 <br>
@@ -49,7 +49,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NPCC%204.jpeg" alt="NPCC (Boys)" style="width:70%;">  
+<body><img src="/images/NPCC%204.jpeg" alt="NPCC (Boys)" style="width:55%;">  
   
 </body>
 <br>
