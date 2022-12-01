@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Infocomm-1.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Infocomm-1.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:60%;">  
   
 </body>
 <br>
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Infocomm-2.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Infocomm-2.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:60%;">  
   
 </body>
 <br>
@@ -35,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Infocomm-3.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Infocomm-3.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:60%;">  
   
 </body>
 <br>
