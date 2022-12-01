@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Marching-Band-1.jpeg" alt="Marching Band (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Marching-Band-1.jpeg" alt="Marching Band (Boys & Girls)" style="width:60%;">  
   
 </body>
 <br>
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Matching-Band-2.jpeg" alt="Marching Band (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Matching-Band-2.jpeg" alt="Marching Band (Boys & Girls)" style="width:60%;">  
   
 </body>
 <br>
