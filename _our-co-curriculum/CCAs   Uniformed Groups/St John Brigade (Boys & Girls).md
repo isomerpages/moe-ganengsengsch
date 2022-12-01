@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/St-John-1.jpeg" alt="St John Brigade (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/St-John-1.jpeg" alt="St John Brigade (Boys & Girls)" style="width:60%;">  
   
 </body>
 <br>
@@ -26,7 +26,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/St-John-3.jpeg" alt="St John Brigade (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/St-John-3.jpeg" alt="St John Brigade (Boys & Girls)" style="width:60%;">  
   
 </body>
 <br>
@@ -39,7 +39,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/St-John-4.jpeg" alt="St John Brigade (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/St-John-4.jpeg" alt="St John Brigade (Boys & Girls)" style="width:60%;">  
   
 </body>
 <br>
@@ -52,7 +52,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/St-John-5.jpeg" alt="St John Brigade (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/St-John-5.jpeg" alt="St John Brigade (Boys & Girls)" style="width:60%;">  
   
 </body>
 <br>
