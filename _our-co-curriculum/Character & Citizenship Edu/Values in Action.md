@@ -4,7 +4,6 @@ permalink: /nurturegess/academic/student-development/gess-values-in-action/
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
-
 **<u>Vision</u>**
 
 To nurture Gessians into active citizens who serve with compassion and who love Singapore.
@@ -32,7 +31,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/VIA-1.jpeg" alt="Values in Action" style="width:70%;"> <p style="text-align:center;"><strong>Words of encouragement to a P6 student from Alexandra Primary School (ALPS)</strong></p>
+<body><img src="/images/VIA-1.jpeg" alt="Values in Action" style="width:60%;"> <p style="text-align:center;"><strong>Words of encouragement to a P6 student from Alexandra Primary School (ALPS)</strong></p>
   
 </body>
 <br>
@@ -44,7 +43,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/VIA-2.jpeg" alt="Values in Action" style="width:70%;"> <p style="text-align:center;"><strong>Interacting and Exercising with the elderly residents of Thong Kheng Senior Activity Centre</strong></p>
+<body><img src="/images/VIA-2.jpeg" alt="Values in Action" style="width:60%;"> <p style="text-align:center;"><strong>Interacting and Exercising with the elderly residents of Thong Kheng Senior Activity Centre</strong></p>
   
 </body>
 <br>
@@ -56,7 +55,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/VIA-3.jpeg" alt="Values in Action" style="width:70%;"> 
+<body><img src="/images/VIA-3.jpeg" alt="Values in Action" style="width:60%;"> 
   
 </body>
 <br>
@@ -68,7 +67,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/VIA-4.jpeg" alt="Values in Action" style="width:70%;"> <p style="text-align:center;"><strong>Participating in the Henderson-Dawson National Day Observance ceremony</strong></p>
+<body><img src="/images/VIA-4.jpeg" alt="Values in Action" style="width:60%;"> <p style="text-align:center;"><strong>Participating in the Henderson-Dawson National Day Observance ceremony</strong></p>
   
 </body>
 <br>
@@ -80,7 +79,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/VIA-5.jpeg" alt="Values in Action" style="width:70%;"> <p style="text-align:center;"><strong>Supporting the NTUC Fairprice ‘Share-a-Textbook’ scheme</strong></p>
+<body><img src="/images/VIA-5.jpeg" alt="Values in Action" style="width:60%;"> <p style="text-align:center;"><strong>Supporting the NTUC Fairprice ‘Share-a-Textbook’ scheme</strong></p>
   
 </body>
 <br>
@@ -92,7 +91,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/VIA-6.png" alt="Values in Action" style="width:70%;"> 
+<body><img src="/images/VIA-6.png" alt="Values in Action" style="width:60%;"> 
   
 </body>
 <br>
