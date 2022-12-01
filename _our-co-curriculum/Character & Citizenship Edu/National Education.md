@@ -4,8 +4,6 @@ permalink: /nurturegess/character-citizenship-education/national-education/
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
-
-
 **<u>Vision</u>**
 
 To nurture Gessians into active citizens with love for Singapore and serve with a heart for others.
@@ -25,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NE-1.jpeg" alt="National Education" style="width:70%;"> <p style="text-align:center;">Sec 2 Learning Journey to the National Museum of Singapore</p>
+<body><img src="/images/NE-1.jpeg" alt="National Education" style="width:60%;"> <p style="text-align:center;">Sec 2 Learning Journey to the National Museum of Singapore</p>
   
 </body>
 <br>
@@ -37,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NE-2.jpeg" alt="National Education" style="width:70%;"> <p style="text-align:center;">Commemoration of Racial Harmony Day</p>
+<body><img src="/images/NE-2.jpeg" alt="National Education" style="width:60%;"> <p style="text-align:center;">Commemoration of Racial Harmony Day</p>
   
 </body>
 <br>
@@ -49,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NE-3.jpeg" alt="National Education" style="width:70%;"> <p style="text-align:center;">National Day Celebration</p>
+<body><img src="/images/NE-3.jpeg" alt="National Education" style="width:60%;"> <p style="text-align:center;">National Day Celebration</p>
   
 </body>
 <br>
@@ -61,7 +59,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NE-4.jpeg" alt="National Education" style="width:70%;"> <p style="text-align:center;">Creation of the ‘Good Deed Card’, an initiative for gessians to express gratitude to others by completing 21 good deeds for others</p>
+<body><img src="/images/NE-4.jpeg" alt="National Education" style="width:60%;"> <p style="text-align:center;">Creation of the ‘Good Deed Card’, an initiative for gessians to express gratitude to others by completing 21 good deeds for others</p>
   
 </body>
 <br>
