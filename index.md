@@ -33,7 +33,4 @@ sections:
       title: School Bookshop and Booklists
       button: READ MORE
       url: /school-information/school-bookshop-and-booklists/
-  - resources:
-      title: Proud Moments and Announcements
-      button: Click here to read more!
 ---
