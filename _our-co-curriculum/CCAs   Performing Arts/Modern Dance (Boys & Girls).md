@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Dance-2.jpeg" alt="Modern Dance (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Dance-2.jpeg" alt="Modern Dance (Boys & Girls)" style="width:50%;">  
   
 </body>
 <br>
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Dance-5.jpeg" alt="Modern Dance (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Dance-5.jpeg" alt="Modern Dance (Boys & Girls)" style="width:50%;">  
   
 </body>
 <br>
@@ -35,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Dance-3.jpeg" alt="Modern Dance (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Dance-3.jpeg" alt="Modern Dance (Boys & Girls)" style="width:50%;">  
   
 </body>
 <br>
