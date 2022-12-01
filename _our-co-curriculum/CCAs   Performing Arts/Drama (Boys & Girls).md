@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Drama-1.jpeg" alt="Drama (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Drama-1.jpeg" alt="Drama (Boys & Girls)" style="width:55%;">  
   
 </body>
 <br>
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Drama-2.jpeg" alt="Drama (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Drama-2.jpeg" alt="Drama (Boys & Girls)" style="width:55%;">  
   
 </body>
 <br>
@@ -35,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Drama-3.jpeg" alt="Drama (Boys & Girls)" style="width:70%;">  
+<body><img src="/images/Drama-3.jpeg" alt="Drama (Boys & Girls)" style="width:55%;">  
   
 </body>
 <br>
