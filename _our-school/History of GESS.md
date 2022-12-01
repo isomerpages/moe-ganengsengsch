@@ -47,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/History%20of%20GESS%201.jpg" alt="Our current building at 1 Henderson Road" style="width:70%;">  
+<body><img src="/images/History%20of%20GESS%201.jpg" alt="Our current building at 1 Henderson Road" style="width:57%;">  
   
 </body>
 
