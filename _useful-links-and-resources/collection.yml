@@ -2,6 +2,7 @@ collections:
   useful-links-and-resources:
     output: true
     order:
+      - Counselling@GESS/Counselling Support in GESS.md
       - Counselling@GESS/.keep
       - Admission to GESS/.keep
       - Admission to GESS/Transferring to GESS.md
