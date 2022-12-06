@@ -2,14 +2,14 @@ collections:
   useful-links-and-resources:
     output: true
     order:
-      - Counselling@GESS/Counselling Support in GESS.md
-      - Counselling@GESS/.keep
       - Admission to GESS/.keep
       - Admission to GESS/Transferring to GESS.md
       - Admission to GESS/Direct School Admission (DSA).md
       - Assessment Matters/.keep
       - Assessment Matters/Weighted Assessment.md
       - Assessment Matters/Exam Matters.md
+      - Counselling@GESS/.keep
+      - Counselling@GESS/Counselling Support in GESS.md
       - Key School Events.md
       - School Bookshop and Booklists.md
       - Purchase of School Uniform.md
