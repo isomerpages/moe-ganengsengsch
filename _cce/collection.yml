@@ -2,5 +2,6 @@ collections:
   cce:
     output: true
     order:
+      - National Education.md
       - Sexuality Education.md
       - Values in Action.md
