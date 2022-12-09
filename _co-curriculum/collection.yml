@@ -1,5 +1,5 @@
 collections:
-  our-co-curriculum:
+  co-curriculum:
     output: true
     order:
       - CCAs   Clubs & Societies/.keep
