@@ -3,8 +3,6 @@ title: MOE Resources for Parents
 permalink: /moe-resources-for-parents/
 description: ""
 ---
-
-
 [01 Transition Supports](/files/01-Transition-Supports.pdf)
 
 [02 Post Secondary-Transition](/files/02-Post-Secondary-Transition.pdf)
@@ -13,7 +11,7 @@ description: ""
 
 [04 Praise Your Child](/files/04-Praise-Your-Child.pdf)
 
-[05 Raising Confident Children](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/05-Raising-Confident-Children.pdf) ***(FILE TOO BIG!)***
+[05 Raising Confident Children](/files/05%20Raising%20Confident%20Children%20-%20reduced.pdf)
 
 [06 Resilience Booster](/files/06-Resilience-Booster.pdf)
 
