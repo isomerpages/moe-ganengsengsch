@@ -53,8 +53,8 @@ Congratulations and well done to all winners once again!
 
 [National Day Awards 2022 Winners List\_Best CCA Member Award](/files/National-Day-Awards-2022-Winners-List_Best-CCA-Member-Award.pdf)
 
-[National Day Awards 2022 Winners List\_Colours Award](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/10/National-Day-Awards-2022-Winners-List_Colours-Award.pdf)
+[National Day Awards 2022 Winners List\_Colours Award](/files/National-Day-Awards-2022-Winners-List_Colours-Award.pdf)
 
-[National Day Awards 2022 Winners List\_Distinguished Service Award](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/10/National-Day-Awards-2022-Winners-List_Distinguished-Service-Award.pdf)
+[National Day Awards 2022 Winners List\_Distinguished Service Award](/files/National-Day-Awards-2022-Winners-List_Distinguished-Service-Award.pdf)
 
-[National Day Awards 2022 Winners List\_Good Progress CCA Award](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/10/National-Day-Awards-2022-Winners-List_Good-Progress-CCA-Award.pdf)
+[National Day Awards 2022 Winners List\_Good Progress CCA Award](/files/National-Day-Awards-2022-Winners-List_Good-Progress-CCA-Award.pdf)
