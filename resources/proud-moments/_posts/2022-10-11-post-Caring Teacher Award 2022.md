@@ -15,26 +15,23 @@ style="width:60%">
 
 Ms Ong Li Pei
 
-[![Mr Marcus Quek (1)](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/10/MR-MARCUS-QUEK-1-214x300.jpg)]<img src="![](/images/MR-MARCUS-QUEK-1-731x1024.jpeg)"  
+<img src="/images/MR-MARCUS-QUEK-1-731x1024.jpeg"  
 style="width:60%">
 
 Mr Quek Zhi Whui (Marcus)
 
-[![Ms Herianti Samsudin (1)](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/10/MS-HERIANTI-SAMSUDIN-1-214x300.jpg)]<img src="![](/images/MS-HERIANTI-SAMSUDIN-1-731x1024.jpeg)"  
+<img src="/images/MS-HERIANTI-SAMSUDIN-1-731x1024.jpeg"  
 style="width:60%">
 
 Ms Herianti
 
-[![Mdm Foo Lee Lian (1)](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/10/MDM-FOO-LEE-LIAN-1-214x300.jpg)]
-<img src="![](/images/MDM-FOO-LEE-LIAN-1-731x1024.jpeg)"  
+<img src="/images/MDM-FOO-LEE-LIAN-1-731x1024.jpeg"
 style="width:60%">
 
 
 Mdm Foo Lee Lian
 
-[![Ms Geetha Do Muthu (1)](https://ganengsengsch-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/10/MS-GEETHA-DO-MUTHU-1-214x300.jpg)]
-<img src="![](/images/MS-GEETHA-DO-MUTHU-1-731x1024.jpeg)"  
-style="width:60%">
+<img src="/images/MS-GEETHA-DO-MUTHU-1-731x1024.jpeg"  style="width:60%">
 
 Ms Geetha D/O Muthu
 
