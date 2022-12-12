@@ -1,0 +1,9 @@
+collections:
+  counselling-at-gess:
+    output: true
+    order:
+      - Counselling Support.md
+      - From the Counsellor’s Desk.md
+      - MOE Resources for Parents.md
+      - Helplines.md
+      - Useful Links.md

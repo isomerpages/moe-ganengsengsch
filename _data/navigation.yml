@@ -1,8 +1,8 @@
 logo: /images/GESS_Crest_Transparent_V2.png
 links:
-  - title: About Us
-    collection: about-us
-  - title: Achievements
+  - title: Our School
+    collection: our-school
+  - title: Our Achievements
     url: /achievements/academic/
     sublinks:
       - title: Academic Achievements
@@ -10,12 +10,29 @@ links:
       - title: CCA Achievements
         url: /achievements/cca/
       - title: Proud moments
-        url: /resources/
-  - title: Our Academic Curriculum
-    collection: our-academic-curriculum
-  - title: Our Co Curriculum
-    collection: our-co-curriculum
-  - title: Our Signature Programmes
-    collection: our-signature-programmes
-  - title: School Information
-    collection: school-information
+        url: /resources/proud-moments/
+  - title: Academic Curriculum
+    collection: academic-curriculum
+  - title: Co Curriculum
+    collection: co-curriculum
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Useful Links And Resources
+    url: /school-information/school-admission-2/
+    sublinks:
+      - title: Announcements
+        url: /resources/announcements/
+      - title: Admission to GESS
+        url: /school-information/school-admission-2/
+      - title: Assessment Matters
+        url: /weighted-assessment/
+      - title: Counselling Support in GESS
+        url: /counselling-support/
+      - title: Key School Events
+        url: /events/event-calendar/
+      - title: School Bookshop and Booklists
+        url: /school-information/school-bookshop-and-booklists/
+      - title: Purchase of School Uniform
+        url: /school-information/school-uniform-supplier/
+      - title: Quick Links
+        url: /schoolbag-sg/

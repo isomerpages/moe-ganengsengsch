@@ -1,0 +1,17 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - Principal’s Message.md
+      - Vision Mission Values.md
+      - School Anthem & School Creed.md
+      - The Gessian Portrait.md
+      - Our Staff/Key Personnel and Form Teachers.md
+      - Our Staff/.keep
+      - Our Staff/Executive and Admin Staff (EAS).md
+      - History of GESS.md
+      - Our partners/.keep
+      - Our partners/School Advisory Committee (SAC).md
+      - Our partners/GESSOSA.md
+      - Our partners/Parent – Teacher Association (PTA).md
+      - Contact Information.md
