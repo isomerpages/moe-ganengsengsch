@@ -12,7 +12,7 @@ third_nav_title: Counselling@GESS
 
 [04 Praise Your Child](/files/04-Praise-Your-Child.pdf)
 
-[05 Raising Confident Children](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2020/11/05-Raising-Confident-Children.pdf) ***(FILE TOO BIG!)***
+[05 Raising Confident Children](/files/05%20Raising%20Confident%20Children%20-%20reduced.pdf)
 
 [06 Resilience Booster](/files/06-Resilience-Booster.pdf)
 
