@@ -52,9 +52,9 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Chandrima Roy<br>Tang Siew Kong<br>Thng Lay Kheng<br>Jamie Toh Su Lin</td>
-    <td class="tg-1ppo">Manning Music Centre Pvt. Ltd</td>
-    <td class="tg-1ppo">President –<br>Yap Jia YinVice-Presidents<br>Yiar Reii and Lee Ain</td>
+    <td class="tg-tsok">Chandrima Roy<br>Tang Siew Kong<br>Thng Lay Kheng<br>Jamie Toh Su Lin</td>
+    <td class="tg-tsok">Manning Music Centre Pvt. Ltd</td>
+    <td class="tg-tsok">President –<br>Yap Jia YinVice-Presidents<br>Yiar Reii and Lee Ain</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="3">GESS Choir trains to  learn a range of music repertoire as well as musical techniques and explore a wide range of genres and styles within choral literature. The members prepare  to perform at school-based and external performances and competitions, such that they develop performance confidence, poise and etiquette.<br><br>In 2022, GESS Choir performed during the school’s Aesthetics Week, the National Day Concert and the GESS Open House. We are now training to put up a magnificent performance at the 2023 Singapore Youth Festival (SYF), after attaining a Special Award in the 2021 SYFAs part of our training, our CCA conducts the following:<br>●        Physical and Vocal Training for singing<br>●        Training for coordinated breathing, vowel formation, tonal placement and diction for skilful vocal production<br>●        Learning to read music scores and basic music theory<br>●        Annual Choir Camps<br>●        Exposure to Choral performance<br>●        Choral Workshops<br>●        End-of-Year Performance</td>
