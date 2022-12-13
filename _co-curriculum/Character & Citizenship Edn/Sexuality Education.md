@@ -255,8 +255,8 @@ _eTeens_ is a programme developed by Health Promotion Board, in collaboration w
     <td class="tg-tsok">·         Awareness of the different STIs and HIV/AIDS<br><br>·         Modes of transmission<br><br>·         Modes of protection, specifically on how the condom is used<br><br>·         Consequences and impact of STIs/HIV<br></td>
   </tr>
   <tr>
-    <td class="tg-h5mn">Classroom-based Lesson</td>
-    <td class="tg-h5mn">·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+    <td class="tg-tsok">Classroom-based Lesson</td>
+    <td class="tg-tsok">·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
   </tr>
 </tbody>
 </table>
