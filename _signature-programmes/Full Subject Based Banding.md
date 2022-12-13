@@ -65,7 +65,7 @@ Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EvqQIb1UCDE" title="Teachers Computer 100" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/EvqQIb1UCDE" title="Teachers Computer 100" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <br><br><p style="text-align:right;"><a href="#up">Up</a></p>
 
