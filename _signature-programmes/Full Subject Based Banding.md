@@ -61,11 +61,13 @@ In this case, we can see that while all three students attend the same Common Cu
 
 Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school has been preparing for the pilot:
 
-<img src="/images/group-potrait-2.jpeg" style="width:120px;height:250px;margin-left:15px;" align = "Right"> 
+<img src="/images/group-potrait-2.jpeg" style="width:120px;height:250px;margin-left:15px;" align = "Left"> 
 
-**_VIDEO TO BE EMBEDDED HERE!_**
+<br>
 
-<br><br><br><br><p style="text-align:right;"><a href="#up">Up</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EvqQIb1UCDE" title="Teachers Computer 100" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br><p style="text-align:right;"><a href="#up">Up</a></p>
 
 ***
 <br>
