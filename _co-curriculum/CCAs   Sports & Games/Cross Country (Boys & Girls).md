@@ -64,9 +64,9 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Tan Yong Geng<br>Mr Lim Bun<br>Mr Eugene Teo<br>Mrs Nalyn Chan<br>Ms Chong Chi</td>
-    <td class="tg-1ppo">Mr Lim Bun<br>Mr Tan Yong Geng<br></td>
-    <td class="tg-1ppo">Captain:<br>Eng Kang Sheng (3-6)<br>Vice-captains:<br>Natalie Nah Zi Xuan (3-6)<br>Vishal Vijayachelvan (3-7)</td>
+    <td class="tg-tsok">Mr Tan Yong Geng<br>Mr Lim Bun<br>Mr Eugene Teo<br>Mrs Nalyn Chan<br>Ms Chong Chi</td>
+    <td class="tg-tsok">Mr Lim Bun<br>Mr Tan Yong Geng<br></td>
+    <td class="tg-tsok">Captain:<br>Eng Kang Sheng (3-6)<br>Vice-captains:<br>Natalie Nah Zi Xuan (3-6)<br>Vishal Vijayachelvan (3-7)</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="3">‘The will to win means nothing if you do not have the will to train hard’<br><br>We prepare students to be physically fit and to acquire technical skills in track &amp; field events. We hope that students will develop the love for keeping fit and pursue a lifelong healthy lifestyle. Training includes distance running, weight training and speed drills.<br><br>In preparation for the National School Games for Cross Country and Track &amp; Field Championship, in depth techniques for relays are imparted to students. This is complemented by speed training, endurance training and distance running.<br><br>Values are paramount in this CCA. We believe the right attitude will turn students into leaders and athletes into champions. We do not wait for competition to train; we train to get into competition form. Our focus is on inculcating the right habits of mind and to invest in the growth of our students. A student who leaves with a well-rounded development is the pride of the CCA.<br><br>Over the past 2 years, our CCA has performed well at the National School Games (NSG) Cross country and Track &amp; Field Championships, with the Boys ‘C’ Division Team attaining 4th position and the Girls ‘B’ Division Girls attaining 6th position overall.</td>
