@@ -3,37 +3,6 @@ title: Full Subject Based Banding
 permalink: /school-information/gess-full-subject-based-banding-sbb/
 description: ""
 ---
-<p style="text-align:center;"><strong>Menu</strong></p>
-
-<a name="up"></a>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 539px">
-<colgroup>
-<col style="width: 180px">
-<col style="width: 230px">
-<col style="width: 230px">
-<col style="width: 180px">
-</colgroup>
-<thead>
-  <tr>
-    <td class="tg-8jgo"><a href="#link1">Introduction</a></td>
-    <td class="tg-8jgo"><a href="#link2">How does FBB work?</a></td>
-    <td class="tg-8jgo"><a href="#link3">FSBB @ GESS</a></td>
-    <td class="tg-8jgo"><a href="#link4">FAQs</a></td>
-  </tr>
-</thead>
-</table>
-	
-
-***
-  
 <h5 id="link1"> Introduction</h5>
 <br>
 <img src="/images/group-potrait-1.jpeg" align="left" style="width:15%;">
@@ -92,12 +61,16 @@ In this case, we can see that while all three students attend the same Common Cu
 
 Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school has been preparing for the pilot:
 
-<img src="/images/group-potrait-2.jpeg" style="width:120px;height:250px;margin-left:15px;" align = "right"> ***VIDEO TO BE EMBEDDED HERE!*** <br>
+<img src="/images/group-potrait-2.jpeg" style="width:120px;height:250px;margin-left:15px;" align = "Left"> 
 
-<p style="text-align:right;"><a href="#up">Up</a></p>
+<br>
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/EvqQIb1UCDE" title="Teachers Computer 100" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<br><br><p style="text-align:right;"><a href="#up">Up</a></p>
 
 ***
-<br><br>
+<br>
 <h4 id="link4">FSBB FAQs</h4>
 
 

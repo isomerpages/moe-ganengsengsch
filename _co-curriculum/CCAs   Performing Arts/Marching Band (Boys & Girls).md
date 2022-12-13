@@ -52,12 +52,12 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Ms Vino Selveindran<br>Ms Herianti Samsudin<br>Mr Tan Kay Chuan<br>Mdm Siti Zuraidah</td>
-    <td class="tg-1ppo">Mr Er Wee San<br>Ms Ng Yan Xin Jasmine</td>
-    <td class="tg-1ppo">Drum Major: Huang Miao Li (3-7)<br>Band Major: Zayden Poh Jia Yu (3-5)<br>Asst Drum Major: Emmanuel Tan Jian An (3-4)</td>
+    <td class="tg-tsok">Ms Vino Selveindran<br>Ms Herianti Samsudin<br>Mr Tan Kay Chuan<br>Mdm Siti Zuraidah</td>
+    <td class="tg-tsok">Mr Er Wee San<br>Ms Ng Yan Xin Jasmine</td>
+    <td class="tg-tsok">Drum Major: Huang Miao Li (3-7)<br>Band Major: Zayden Poh Jia Yu (3-5)<br>Asst Drum Major: Emmanuel Tan Jian An (3-4)</td>
   </tr>
   <tr>
-    <td class="tg-h5mn" colspan="3">The GESS Marching Band was formed in 1965 after the official launch of school bands by the Ministry of Education. In the 57 years of our history, we have grown from a fledgling brass band of 20 to the current strength of 65 members today.<br><br>The Marching Band programme challenges students to cultivate a deeper appreciation of music and to share this with the wider school community through our performances. As an ensemble, the Marching Band is committed in the pursuit of excellence so as to realize our vision of One Band, One Sound, One Mission.<br>Our band members conduct and participate in the following activities:<br>– Physical Conditioning<br>– Technique Development<br>– Sectional Training<br>– Whole Ensemble Training<br>– Annual Band Camp<br>– Performances (School Celebrations, National Day Parade, Open House)<br>– Singapore Youth Festival Arts Presentation<br>We are proud to announce that we have been awarded the Certificate of Distinction during the 2017 and 2019 Singapore Youth Festival (SYF) Arts Presentation, and a Certificate of Accomplishment during the 2021 iteration of the same competition.</td>
+    <td class="tg-h5mn" colspan="3">The GESS Marching Band was formed in 1965 after the official launch of school bands by the Ministry of Education. In the 57 years of our history, we have grown from a fledgling brass band of 20 to the current strength of 65 members today.<br><br>The Marching Band programme challenges students to cultivate a deeper appreciation of music and to share this with the wider school community through our performances. As an ensemble, the Marching Band is committed in the pursuit of excellence so as to realize our vision of One Band, One Sound, One Mission.<br><br>Our band members conduct and participate in the following activities:<br>– Physical Conditioning<br>– Technique Development<br>– Sectional Training<br>– Whole Ensemble Training<br>– Annual Band Camp<br>– Performances (School Celebrations, National Day Parade, Open House)<br>– Singapore Youth Festival Arts Presentation<br><br>We are proud to announce that we have been awarded the Certificate of Distinction during the 2017 and 2019 Singapore Youth Festival (SYF) Arts Presentation, and a Certificate of Accomplishment during the 2021 iteration of the same competition.</td>
   </tr>
 </tbody>
 </table>

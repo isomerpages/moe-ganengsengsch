@@ -76,9 +76,9 @@ img {
     <td class="tg-h5mn">Student Leader:</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Sathis Kumar<br>Mr Qaleelullah</td>
-    <td class="tg-1ppo">Mr Nordin B Abdul Mannan</td>
-    <td class="tg-1ppo">Captain<br>Sheldon Ng Wei Le (3-5)<br>Vice-Captain<br>Mustaq Ahmad Bin Sikkandar (3-1)</td>
+    <td class="tg-tsok">Mr Sathis Kumar<br>Mr Qaleelullah</td>
+    <td class="tg-tsok">Mr Nordin B Abdul Mannan</td>
+    <td class="tg-tsok">Captain<br>Sheldon Ng Wei Le (3-5)<br>Vice-Captain<br>Mustaq Ahmad Bin Sikkandar (3-1)</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="3">Football is a popular and well-loved sport in GESS. After starting out as just a Student-Initiated Activity (SIA), the sport attracted much interest and dedication from students resulting in their enthusiastic participation in various futsal tournaments. The hard work and commitment put in by the boys combined with their achievements in these tournaments have proven that they are capable of achieving excellence in this sport. With the support of the school leaders and staff, the GESS Football Team was established in 2015 and is a full-fledged CCA at GESS.<br><br>Gan Eng Seng School participates in both the ‘C’ &amp; ‘B’ Division National School Games annually. Gan Eng Seng School offers DSA for Football. To ensure that GESS Football maintains a competent pool of footballers, all incoming Secondary One footballers will have to undergo a Football Assessment before getting selected into the team.<br><br>Weekly training sessions will incorporate technical, tactical and fitness aspects of football skills in all our players. The training targets to enhance cardiovascular endurance, agility, reaction-time, speed and lower body strength of the students. In addition, plyometric training methods will also be incorporated to give them explosive power and edge over others.<br><br>GESS Footballers will also be able to experience fun and exciting team bonding activities during the off-season period. These activities include learning journeys, Values-In-Action (VIA) projects and football clinics.<br></td>
