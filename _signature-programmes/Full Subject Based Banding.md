@@ -61,12 +61,13 @@ In this case, we can see that while all three students attend the same Common Cu
 
 Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school has been preparing for the pilot:
 
-<img src="/images/group-potrait-2.jpeg" style="width:120px;height:250px;margin-left:15px;" align = "left"> <iframe width="560" height="315" src="https://www.youtube.com/embed/9CB6976Sy1Y" title="Gan Eng Seng School (GESS) School-wide Approach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
+<img src="/images/group-potrait-2.jpeg" style="width:120px;height:250px;margin-left:15px;" align = "left"> 
 
 <p style="text-align:right;"><a href="#up">Up</a></p>
 
+
 ***
-<br><br>
+<br><br><br>
 <h4 id="link4">FSBB FAQs</h4>
 
 
