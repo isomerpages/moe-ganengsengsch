@@ -25,4 +25,4 @@ description: ""
 <h4 style="color:black" align="center">Our School Creed:
 </h4>
 
-<p style="text-align:center;">This is our school<br><br>Let peace dwell here<br><br>Let there be contentment<br><br>Let love abide here<br><br>Love of one another<br><br>Love of mankind<br><br>Love of life itself<br><br>And love of God<br><br>Let us remember<br><br>That as many hands build a house<br><br>So many hearts make a school<br><br></strong><br></p>
+<p style="text-align:center;">This is our school<br><br>Let peace dwell here<br><br>Let there be contentment<br><br>Let love abide here<br><br>Love of one another<br><br>Love of mankind<br><br>Love of life itself<br><br>And love of God<br><br>Let us remember<br><br>That as many hands build a house<br><br>So many hearts make a school<br><br><br></p>
