@@ -75,7 +75,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
   <tr>
     <td class="tg-tsok">2<br><br>(60 mins)</td>
     <td class="tg-tsok">·         Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
-    <td class="tg-pcr6">Lessons will be conducted during CCE lessons.</td>
+    <td class="tg-tsok">Lessons will be conducted during CCE lessons.</td>
   </tr>
   <tr>
     <td class="tg-tsok">3<br><br>(60 mins)</td>
@@ -115,17 +115,17 @@ Through the Sexuality Education lessons, secondary students will have the opport
     <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">1<br><br>(60 mins)</td>
     <td class="tg-tsok">·        Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>·        Understand what sexual orientation entails<br></td>
-    <td class="tg-com3">Lessons will be conducted during CCE lessons.</td>
+    <td class="tg-tsok">Lessons will be conducted during CCE lessons.</td>
   </tr>
   <tr>
-    <td class="tg-h5mn">2A<br><br>(60 mins)</td>
-    <td class="tg-h5mn">·       Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
-    <td class="tg-pcr6">Lessons will be conducted during CCE lessons.</td>
+    <td class="tg-tsok">2A<br><br>(60 mins)</td>
+    <td class="tg-tsok">·       Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-tsok">Lessons will be conducted during CCE lessons.</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">2B<br><br>(60 mins)</td>
-    <td class="tg-1ppo">·      Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
-    <td class="tg-com3">Lessons will be conducted during CCE lessons.</td>
+    <td class="tg-tsok">2B<br><br>(60 mins)</td>
+    <td class="tg-tsok">·      Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td class="tg-tsok">Lessons will be conducted during CCE lessons.</td>
   </tr>
 </tbody>
 </table>
@@ -157,20 +157,20 @@ Through the Sexuality Education lessons, secondary students will have the opport
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06" rowspan="3">Respectful Relationships &amp; Safety</td>
-    <td class="tg-zr06">1<br><br>(60 mins)</td>
-    <td class="tg-zr06">·         Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>·         Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>·         Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
-    <td class="tg-1547">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-tsok">1<br><br>(60 mins)</td>
+    <td class="tg-tsok">·         Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>·         Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>·         Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
+    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
   </tr>
   <tr>
-    <td class="tg-bsu7">2<br><br>(60 mins)</td>
-    <td class="tg-bsu7">·         Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br><br>·         Know that a decision to end a relationship will have consequences on oneself and others.<br><br>·         Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br><br>·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br></td>
-    <td class="tg-0isw">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok">2<br><br>(60 mins)</td>
+    <td class="tg-tsok">·         Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br><br>·         Know that a decision to end a relationship will have consequences on oneself and others.<br><br>·         Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br><br>·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br></td>
+    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
   </tr>
   <tr>
-    <td class="tg-zr06">3<br><br>(60 mins)</td>
-    <td class="tg-zr06">·         Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br><br>·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-1547">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok">3<br><br>(60 mins)</td>
+    <td class="tg-tsok">·         Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br><br>·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
   </tr>
 </tbody>
 </table>
@@ -194,7 +194,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-l2bf"><span style="font-weight:bold">UNIT</span></th>
+    <th class="tg-I2bf"><span style="font-weight:bold">UNIT</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">LESSONS / DURATION</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">TIME PERIOD</span><br><br><span style="font-weight:bold">(e.g. Term 1 Week 2)</span></th>
@@ -202,33 +202,33 @@ Through the Sexuality Education lessons, secondary students will have the opport
 </thead>
 <tbody>
   <tr>
-    <td class="tg-1ppo" rowspan="4">Respectful Relationships &amp; Safety</td>
-    <td class="tg-1ppo">1<br><br>(60 mins)</td>
-    <td class="tg-1ppo">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
-    <td class="tg-com3">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok" rowspan="4">Respectful Relationships &amp; Safety</td>
+    <td class="tg-tsok">1<br><br>(60 mins)</td>
+    <td class="tg-tsok">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
+    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
   </tr>
   <tr>
-    <td class="tg-h5mn">2<br><br>(60 mins)</td>
-    <td class="tg-h5mn">·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br>·         Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><br>·         Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><br>·         Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.<br></td>
-    <td class="tg-pcr6">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok">2<br><br>(60 mins)</td>
+    <td class="tg-tsok">·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br>·         Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><br>·         Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><br>·         Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.<br></td>
+    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">3<br><br>(30 mins)</td>
-    <td class="tg-1ppo">·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.<br><br>·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br>·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.<br></td>
-    <td class="tg-com3">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok">3<br><br>(30 mins)</td>
+    <td class="tg-tsok">·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.<br><br>·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br>·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.<br></td>
+    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
   </tr>
   <tr>
-    <td class="tg-h5mn">4<br><br>(60 mins)</td>
-    <td class="tg-h5mn">·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-pcr6">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok">4<br><br>(60 mins)</td>
+    <td class="tg-tsok">·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
   </tr>
 </tbody>
 </table>
 
 **<u>_eTeens_</u>** **<u>Programme</u>**:
 
-8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
-9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+_eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+<br><br>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At Gan Eng Seng School, the _eTeens_ programme will be implemented as follows in 2022:**
 
@@ -251,8 +251,8 @@ Through the Sexuality Education lessons, secondary students will have the opport
 </thead>
 <tbody>
   <tr>
-    <td class="tg-1ppo">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-1ppo">·         Awareness of the different STIs and HIV/AIDS<br><br>·         Modes of transmission<br><br>·         Modes of protection, specifically on how the condom is used<br><br>·         Consequences and impact of STIs/HIV<br></td>
+    <td class="tg-tsok">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-tsok">·         Awareness of the different STIs and HIV/AIDS<br><br>·         Modes of transmission<br><br>·         Modes of protection, specifically on how the condom is used<br><br>·         Consequences and impact of STIs/HIV<br></td>
   </tr>
   <tr>
     <td class="tg-h5mn">Classroom-based Lesson</td>
@@ -263,8 +263,8 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **Information for Parents**
 
-1.  10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
-    11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be available on Parents Gateway.
-    12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be available on Parents Gateway.
-    13.  Parents can contact the school at 64745594 for discussion or to seek clarification about the school’s sexuality education programme.
-    14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
+Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be available on Parents Gateway.<br><br>
+Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be available on Parents Gateway.<br><br>
+Parents can contact the school at 64745594 for discussion or to seek clarification about the school’s sexuality education programme.<br><br>
+Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
