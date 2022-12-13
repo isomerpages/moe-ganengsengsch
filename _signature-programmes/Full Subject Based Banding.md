@@ -61,13 +61,14 @@ In this case, we can see that while all three students attend the same Common Cu
 
 Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school has been preparing for the pilot:
 
-<img src="/images/group-potrait-2.jpeg" style="width:120px;height:250px;margin-left:15px;" align = "left"> 
+<img src="/images/group-potrait-2.jpeg" style="width:120px;height:250px;margin-left:15px;" align = "Right"> 
 
-<p style="text-align:right;"><a href="#up">Up</a></p>
+**_VIDEO TO BE EMBEDDED HERE!_**
 
+<br><br><br><br><p style="text-align:right;"><a href="#up">Up</a></p>
 
 ***
-<br><br><br>
+<br>
 <h4 id="link4">FSBB FAQs</h4>
 
 
