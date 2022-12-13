@@ -79,7 +79,7 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">ASP Ngoh Cher Tian Jenny (OC)<br>INSP Kelvin Kwok Tzih-Yeung (Dy OC)<br>ASP Tay Yian Ling<br>INSP Emerson Foo Meng Juan</td>
+    <td class="tg-tsok">ASP Ngoh Cher Tian Jenny (OC)<br>INSP Kelvin Kwok Tzih-Yeung (Dy OC)<br>ASP Tay Yian Ling<br>INSP Emerson Foo Meng Juan</td>
     <td class="tg-tsok"><span style="font-weight:bold">Honorary Officers:</span><br>Mr Ronald Wee Ren Chai<br>Mr Shoorya Prakash<br><br><span style="font-weight:bold">Senior Cadet Inspectors:</span><br>Mr Lock Chan Hong<br>Mr Bryan Chai Siong Yi<br>Mr Clemen Kok Yu Shan<br><br><span style="font-weight:bold">Cadet Inspectors:</span><br>Mr Dave Ng Si Jie<br>Mr Jared Xin Ern Terredano<br>Mr Shahul Hameed Ashik Ahmad<br>Mr Au Yong Cheng Jun<br>Mr Tan Jun Ming<br>Mr Sam Jun En</td>
     <td class="tg-tsok"><span style="font-weight:bold">Chief Field Instructor:</span><br>SGT Goh Yong Ping Murphy (3-5)<br><br><span style="font-weight:bold">Chief Operations Officer:</span><br>SGT Tang Wei Zheng Caden (3-6)<br><br><span style="font-weight:bold">Chief Drill Instructor:</span><br>SGT Guai Tzer Ray (3-6)</td>
   </tr>
