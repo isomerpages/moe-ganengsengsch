@@ -75,8 +75,8 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mr Jeffrey Sui<br>Mr Niu Zi Bin</td>
-    <td class="tg-1ppo">President: JUDE YONG HO YAN (3-4)<br>Vice-President: OSKAR LOY CHENG JUN (3-5)<br>Vice-President: BRANSON LIM KENG SENG (3-6)<br>EXCO Member: TITUS TEOH CHENG JING (3-5)<br>EXCO Member: LAM YONG XUAN (3-5)<br>EXCO Member: ZHAO HOUZAI (3-7)</td>
+    <td class="tg-tsok">Mr Jeffrey Sui<br>Mr Niu Zi Bin</td>
+    <td class="tg-tsok">President: JUDE YONG HO YAN (3-4)<br>Vice-President: OSKAR LOY CHENG JUN (3-5)<br>Vice-President: BRANSON LIM KENG SENG (3-6)<br>EXCO Member: TITUS TEOH CHENG JING (3-5)<br>EXCO Member: LAM YONG XUAN (3-5)<br>EXCO Member: ZHAO HOUZAI (3-7)</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="2">The Infocomm Club @ GESS aims to deepen students’ passion for by equipping them with ICT knowledge and skills, and to develop them to be responsible and respectful members who are confident and competent in handling challenging tasks to ensure smooth running of school events.<br><br>Strong friendships and a deep sense of camaraderie among members are forged in the collaborative process of serving the school together.<br><br>The three areas of focus for the Infocomm Club are: <br>Live Sound Reinforcement, Event Photography and Video Production.<br><br>Members have attended courses on handling PA equipment, using DSLR, photo editing and videography. They are also actively involved in providing audio-visual, photography and video support at various school events, assemblies and ceremonies.</td>
