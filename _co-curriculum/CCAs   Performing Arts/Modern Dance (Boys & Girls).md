@@ -64,8 +64,8 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-1ppo">Mdm Asnur Mursalin<br>Mrs Jacqueline Yeo<br>Mdm Ulaganathan Karpagam<br>Miss Shirley Tan Li Hoon</td>
-    <td class="tg-1ppo">Mr Teh Boon Kiat<br><br>Ms Seah Li Ling</td>
+    <td class="tg-tsok">Mdm Asnur Mursalin<br>Mrs Jacqueline Yeo<br>Mdm Ulaganathan Karpagam<br>Miss Shirley Tan Li Hoon</td>
+    <td class="tg-tsok">Mr Teh Boon Kiat<br><br>Ms Seah Li Ling</td>
     <td class="tg-l2bf"><span style="font-weight:bold">President:</span><br>Nur Safirah Adiliana Binte Budiman (3-4)<br><span style="font-weight:bold">Vice Presidents:</span><br>Tan Sheen Megan (3-8)<br>Liaw Ling Xuan Gerraine (3-6)</td>
   </tr>
   <tr>
