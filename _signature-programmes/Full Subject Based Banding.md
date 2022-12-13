@@ -3,8 +3,6 @@ title: Full Subject Based Banding
 permalink: /school-information/gess-full-subject-based-banding-sbb/
 description: ""
 ---
-
-
 <h5 id="link1"> Introduction</h5>
 <br>
 <img src="/images/group-potrait-1.jpeg" align="left" style="width:15%;">
@@ -63,8 +61,7 @@ In this case, we can see that while all three students attend the same Common Cu
 
 Let’s hear a couple of our teachers’ thoughts about FSBB, and how the school has been preparing for the pilot:
 
-<img src="/images/group-potrait-2.jpeg" style="width:120px;height:250px;margin-left:15px;" align = "right"> <iframe width="727" height="409" src="https://www.youtube.com/embed/9CB6976Sy1Y" title="Gan Eng Seng School (GESS) School-wide Approach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
-
+<img src="/images/group-potrait-2.jpeg" style="width:120px;height:250px;margin-left:15px;" align = "right"> <iframe width="560" height="315" src="https://www.youtube.com/embed/9CB6976Sy1Y" title="Gan Eng Seng School (GESS) School-wide Approach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
 
 <p style="text-align:right;"><a href="#up">Up</a></p>
 
