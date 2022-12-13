@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Dear Gessians,
 
 All the best to those who are collecting their results on 19 Dec 2022.  
