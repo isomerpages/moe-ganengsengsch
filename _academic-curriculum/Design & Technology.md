@@ -13,5 +13,4 @@ There are particular focus areas unique to each year of study, as follows:
 
 *   Secondary 1: Key tag + Tealight holder
 *   Secondary 2: Clamp+
-
-Upper Secondary: Theme – Combining
+*   Upper Secondary: Theme – Combining
