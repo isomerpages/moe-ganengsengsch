@@ -12,7 +12,6 @@ img {
 }  
 </style>  
   
-</body>
 
 <h2 style="color:black" align="center">A Brief History of GESS</h2>
 
