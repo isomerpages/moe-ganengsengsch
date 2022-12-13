@@ -3,6 +3,7 @@ title: History of GESS
 permalink: /about-us/history/gess-history/
 description: ""
 ---
+![](/images/First%20School%20Site.jpg)
 <style>  
 img {  
   display: block;  
@@ -10,7 +11,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/History%20of%20GESS.png" alt="History of GESS" style="width:80%;">  
   
 </body>
 
