@@ -26,9 +26,9 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: GESS Open House 2022
+      title: Release of 2022 GCE N(A) & N(T) Level results on 19 Dec 2022
       button: READ MORE
-      url: /resources/announcements/permalink/
+      url: /resources/announcements/2022NLevelResult/
   - infobar:
       title: School Bookshop and Booklists
       button: READ MORE
