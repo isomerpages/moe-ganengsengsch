@@ -5,7 +5,9 @@ description: ""
 ---
 Dear Parents/Guardians,
 
-**<u>Sale and Collection of Textbooks / Stationeries for year 2023</u>**
+**<u>Sale and Collection of Textbooks / Stationeries for year 2023</u>** 
+<br>
+** (for Sec 1 only) **
 
 Please be informed that the window period for online ordering of textbooks for use in year 2023 will start from 16 December 2022 to 27 December 2022
 
