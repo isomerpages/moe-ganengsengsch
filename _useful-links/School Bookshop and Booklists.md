@@ -9,7 +9,7 @@ Dear Parents/Guardians,
 <br>
 ** (for Sec 1 only) **
 
-Please be informed that the window period for online ordering of textbooks for use in year 2023 will start from 16 December 2022 to 27 December 2022
+Please be informed that the window period for online ordering of textbooks for use in year 2023 will start from 16 December 2022 to 27 December 2022.
 
 Purchases through online orders can be either delivered to your residence or self -collected at the school bookshop at [www.pacificbookstores.com](http://www.pacificbookstores.com/) with options for home delivery (Fixed delivery Charge of $13.80 applies) or self-collection in school premises.
 
