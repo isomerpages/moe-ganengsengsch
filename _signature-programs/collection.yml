@@ -1,5 +1,5 @@
 collections:
-  signature-programmes:
+  signature-programs:
     output: true
     order:
       - Applied Learning Programme (ALP).md
