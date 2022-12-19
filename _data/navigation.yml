@@ -1,7 +1,7 @@
 logo: /images/GESS_Crest_Transparent_V2.png
 links:
-  - title: Our School
-    collection: our-school
+  - title: About Us
+    collection: about-us
   - title: Achievements
     url: /achievements/academic/
     sublinks:
