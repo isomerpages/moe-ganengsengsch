@@ -103,7 +103,7 @@ Alternatively, you may scan the QR code below to access the PTA registration for
 ![](/images/QRcode%202.png)
 <BR>
 
-**(10) Financial Assistance Scheme (FAS)**
+**<u>(10) Financial Assistance Scheme (FAS)<u/>**
 
 For parents who have **successfully applied for Financial Assistance Scheme (FAS) in the child’s primary school or if their child has siblings under FAS in another school**, they may come to the GESS General Office with the FAS approval form from their child’s primary or sibling’s schools to collect the **authorisation letter** for collection of textbooks and school uniform.
 
