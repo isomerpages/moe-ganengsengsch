@@ -4,9 +4,9 @@ permalink: /school-information/school-uniform-supplier/
 description: ""
 ---
 Dear Parents/ Guardians,
-<BR>
+<BR><BR>
 **END-OF-YEAR SALE OF SCHOOL UNIFORM FOR GAN ENG SENG SCHOOL 2022**
-<BR>
+<BR><BR>
 We strongly recommend that you purchase your child’s/ward’s school attire via any of the **three** options given below:
 <BR><BR>
 **Purchase via online:** [**https://www.schooluniforms.sg/gan-eng-seng-school**](https://www.schooluniforms.sg/gan-eng-seng-school)
