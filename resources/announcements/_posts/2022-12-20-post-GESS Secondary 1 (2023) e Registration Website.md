@@ -131,7 +131,7 @@ Parents may approach the school’s General Office for assistance from Monday **
 
 FAS application will take about 1-2 weeks to process. Do submit all the necessary documents as stated in the application form to avoid delay. Parents will be notified of the outcome via phone call from the school.
 
-**(11) Art Elective Programme (AEP) and Music Elective Programme (MEP)**
+**<u>(11) Art Elective Programme (AEP) and Music Elective Programme (MEP)</u>**
 
 Students who are interested in the Art or Music Elective Programme at an external centre may refer to the following link for more information:
 
