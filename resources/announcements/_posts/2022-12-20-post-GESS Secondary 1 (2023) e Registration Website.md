@@ -54,7 +54,7 @@ For students in the N(T) or N(A) streams who are offered SBB subjects, the Form 
 
 A hardcopy of the offer letter will be issued to the students on the first day of school. Please submit the completed offer letter to the school by **5 January 2023**.
 
-**(6) Mother Tongue Languages Matters**
+**<u>(6) Mother Tongue Languages Matters</u>**
 
 Please access the link below for information on Mother Tongue Languages:
 
