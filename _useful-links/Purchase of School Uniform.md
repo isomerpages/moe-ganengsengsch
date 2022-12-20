@@ -9,13 +9,13 @@ Dear Parents/ Guardians,
 <BR><BR>
 We strongly recommend that you purchase your child’s/ward’s school attire via any of the **three** options given below:
 <BR><BR>
-**Purchase via online:** [**https://www.schooluniforms.sg/gan-eng-seng-school**](https://www.schooluniforms.sg/gan-eng-seng-school)
-
-**Purchase at school site**
+1. **Purchase via online:** [**https://www.schooluniforms.sg/gan-eng-seng-school**](https://www.schooluniforms.sg/gan-eng-seng-school)
 <BR>
-(1)  There will be **no physical trying of school uniform.**
+2. **Purchase at school site**
 <BR>
-(2)  Each student with one accompanying adult is allowed.
+(a)  There will be **no physical trying of school uniform.**
+<BR>
+(b)  Each student with one accompanying adult is allowed.
 
 
 | Dates for purchase at school site | Time |
@@ -25,7 +25,7 @@ We strongly recommend that you purchase your child’s/ward’s school attire vi
 23,27,28 December 2022     | 9am to 2pm    |
 
 
-**Walk-in Purchase at Retail Outlet**
+3. **Walk-in Purchase at Retail Outlet**
 <BR>
 Students who are granted MOE Financial Assistance Scheme will receive a letter from the school. Please present the letter at the outlet to receive your uniform.
 <BR>
