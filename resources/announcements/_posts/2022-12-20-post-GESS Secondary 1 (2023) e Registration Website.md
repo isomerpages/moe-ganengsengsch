@@ -143,13 +143,13 @@ Mr Tan Kay Chuan ([tan\_kay\_chuan@schools.gov.sg](mailto:tan_kay_chuan@schools.
 
 Ms Vino ([vinodhini\_m\_selveindran@schools.gov.sg](mailto:vinodhini_m_selveindran@schools.gov.sg)) for MEP.
 
-**(12) Road Safety**
+**<u>(12) Road Safety</u>**
 
 The safety of your child is of utmost importance to us and it is essential that our students and parents observe the rules with regards to road safety. Please access the link below for our school’s guidelines on road safety.
 
 [Guidelines on Road Safety](https://drive.google.com/file/d/1GyFhyRkbzDjgSOP4QpYKID_0cUvvndqt/view?usp=share_link)
 
-**(13) School Smart Card (SSC)**
+**<u>(13) School Smart Card (SSC)</u>**
 
 All students entering Secondary 1 will be issued a new Secondary Level SSC. While waiting for their new SSC to be ready, Secondary 1 students can continue to use their Primary Level SSC for concessionary travel till **end of April 2023**. Secondary 1 students can purchase the Bus Concession Pass (BCP) using their Primary Level SSC but they will need to purchase the BCP for **secondary school students**.
 
