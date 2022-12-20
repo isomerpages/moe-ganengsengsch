@@ -48,7 +48,7 @@ For the purchase of books and school uniform, please refer to the following link
 
 ·         For students who are on Financial Assistance Scheme (FAS), parents are to collect the FAS Authorisation Letter from the GESS General Office before proceeding to collect the books and school uniform.
 
-**(5) Subject-Based Banding (SBB) Offer**
+**<u>(5) Subject-Based Banding (SBB) Offer</u>**
 
 For students in the N(T) or N(A) streams who are offered SBB subjects, the Form Teachers will be calling the parents during the e-Registration on 22 December 2022 to confirm if the child is taking up these subjects.
 
