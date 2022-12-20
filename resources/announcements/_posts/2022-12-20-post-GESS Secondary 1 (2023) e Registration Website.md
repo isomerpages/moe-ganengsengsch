@@ -16,7 +16,9 @@ We have uploaded all the relevant information for the Secondary 1 (2023) e-Regis
 
 Secondary 1 Registration will open at **8:00am on Thursday, 22 December 2022**.  You can access the link [https://go.gov.sg/gessregistration2023](https://go.gov.sg/gessregistration2023) to complete the Online Information Form to **confirm your child’s/ward’s registration** as a student of GESS. Alternatively, you may scan the QR Code to access the form
 <BR>
-![](/images/QRcode%201.png)
+<img src="/images/QRcode%201.png" 
+         style="width:200px"
+	/>
 <BR>
 The online registration will **close at 12pm on the same day (22 Dec 2022)**.
 
