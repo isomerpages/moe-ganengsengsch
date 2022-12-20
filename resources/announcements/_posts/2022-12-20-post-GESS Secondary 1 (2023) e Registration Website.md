@@ -26,11 +26,11 @@ Our Online Information Form will also help us to collate other information we wi
 
 Parents can also use this platform to ask any question(s) they may still have after our presentation.
 
-**(2) Secondary 1 (2023) e-Registration Webinar**
+**<u>(2) Secondary 1 (2023) e-Registration Webinar</u>**
 
 To share with you some of the key information about the school as well as administrative matters pertaining to the registration process, we will be conducting a **Zoom Webinar at 9.00 am on 22 December 2022**. The details of the webinar will be sent to parents via PG.
 
-**(3) Class Allocation**
+**<u>(3) Class Allocation</u>**
 
 Details of the Secondary 1 class allocation have been sent to all parents via **PG**.
 
