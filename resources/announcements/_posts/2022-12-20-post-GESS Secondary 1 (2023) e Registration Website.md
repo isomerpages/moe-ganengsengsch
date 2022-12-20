@@ -102,7 +102,9 @@ The school hopes to promote greater parent involvement in school activities as w
 
 Alternatively, you may scan the QR code below to access the PTA registration form:
 <BR>
-![](/images/QRcode%202.png)
+<img src="/images/QRcode%202.png" 
+         style="width:200px"
+	/>
 <BR>
 
 **<u>(10) Financial Assistance Scheme (FAS)</u>**
