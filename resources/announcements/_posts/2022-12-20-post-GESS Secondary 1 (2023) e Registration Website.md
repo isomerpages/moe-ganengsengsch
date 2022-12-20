@@ -12,7 +12,7 @@ On behalf of all staff and students, we welcome you and your child/ward to our G
 
 We have uploaded all the relevant information for the Secondary 1 (2023) e-Registration on this website.
 
-**(1) Online Information Form**
+**<u>(1) Online Information Form</u>**
 
 Secondary 1 Registration will open at **8:00am on Thursday, 22 December 2022**.  You can access the link [https://go.gov.sg/gessregistration2023](https://go.gov.sg/gessregistration2023) to complete the Online Information Form to **confirm your child’s/ward’s registration** as a student of GESS. Alternatively, you may scan the QR Code to access the form
 <BR>
