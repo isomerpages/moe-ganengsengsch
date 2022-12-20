@@ -38,8 +38,11 @@ Students who are granted MOE Financial Assistance Scheme will receive a letter f
 ![](/images/Date%20for%20Uniform%202022.png)
 ![](/images/Date%20for%20Uniform%202022%201.png)
 <BR>
-**Normal Business Hours: 10 am to 7 pm (Monday to Saturday)**
-                                           **10 am to 6 pm (Sunday**
+**Normal Business Hours: 
+<BR>
+10 am to 7 pm (Monday to Saturday)**
+<BR>
+**10 am to 6 pm (Sunday**
 
 
 
