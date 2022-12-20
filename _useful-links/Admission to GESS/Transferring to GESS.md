@@ -4,7 +4,7 @@ permalink: /school-information/school-admission-2/
 description: ""
 third_nav_title: Admission to GESS
 ---
-**Application For Transfer to Gan Eng Seng School**
+# **Application For Transfer to Gan Eng Seng School**
 
 1.  **Transfer application for PSLE Student after Sec 1 Posting Results**
 <BR>Please submit the duly completed [Application Form](https://form.gov.sg/637f39579e873400129602be) and supporting documents via the Formsg. The application should only be submitted after the release of the Secondary School Posting  
