@@ -13,7 +13,7 @@ We strongly recommend that you purchase your child’s/ward’s school attire vi
 <BR>
 2. **Purchase at school site**
 <BR>
-(a)  There will be **no physical trying of school uniform.**
+(a)  There will be **no physical trying of school uniform**
 <BR>
 (b)  Each student with one accompanying adult is allowed.
 
