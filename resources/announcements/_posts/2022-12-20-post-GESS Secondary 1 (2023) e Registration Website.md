@@ -189,7 +189,7 @@ We would like to encourage parents to register for e-GIRO if you have not done s
 
 [User Guide on e-GIRO application](https://drive.google.com/file/d/1y7iJN8sdeFu-pifTiAFMSRyzq60Gyv3O/view?usp=share_link)
 
-**(18) Frequently Asked Questions (FAQs)**
+**<u>(18) Frequently Asked Questions (FAQs)</u>**
 
 Please access the link below for FAQs pertaining to the Secondary 1 e-Registration.
 
