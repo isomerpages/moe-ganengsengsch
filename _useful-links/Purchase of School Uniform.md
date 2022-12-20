@@ -10,18 +10,15 @@ Dear Parents/ Guardians,
 We strongly recommend that you purchase your child’s/ward’s school attire via any of the **<u>three</u>** options given below:
 <BR><BR>
 **Purchase via online:** [**https://www.schooluniforms.sg/gan-eng-seng-school**](https://www.schooluniforms.sg/gan-eng-seng-school)
-<BR>
+<BR><BR>
 **Purchase at school site**
 <BR>
 (a)  There will be <u>**no physical trying of school uniform**</u>
 <BR>
 (b)  Each student with one accompanying adult is allowed.
 <BR>
-
 ![](/images/Timings.png)
-
-<BR>
-
+<BR><BR>
 **Walk-in Purchase at Retail Outlet**
 <BR>
 Students who are granted MOE Financial Assistance Scheme will receive a letter from the school. Please present the letter at the outlet to receive your uniform.
