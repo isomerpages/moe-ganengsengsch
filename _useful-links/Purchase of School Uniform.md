@@ -42,9 +42,8 @@ Students who are granted MOE Financial Assistance Scheme will receive a letter f
 <BR>
 10 am to 7 pm (Monday to Saturday)**
 <BR>
-**10 am to 6 pm (Sunday**
-
-
+**10 am to 6 pm (Sunday)**
+<BR><BR>
 **b)   Purchase and Made to Measure Order @ Henderson Factory**         
 <BR>
 ****Address: 213 Henderson Road #01-12 Singapore 159553**  
