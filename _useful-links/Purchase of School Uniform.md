@@ -49,8 +49,8 @@ Students who are granted MOE Financial Assistance Scheme will receive a letter f
          **<u>Operating Hours</u>**
 <BR>
          Mon – Fri:                              9 am to 6 pm  
-         Sat:                                        9 am to 1 pm
+         Sat:                                           9 am to 1 pm
 <BR>
-         24 Dec & 31 Dec:                  9 am to 1pm
+         24 Dec & 31 Dec:                 9 am to 1pm
 <BR>
          Sunday & Public Holidays:    CLOSED.
