@@ -159,7 +159,7 @@ There will be a photo-taking session for all Secondary 1 students in February 20
 
 More information on the date of the photo-taking will be provided at a later time.
 
-**(15) Hardcopy Forms to be issued on the First Day of School**
+**<u>(15) Hardcopy Forms to be issued on the First Day of School</u>**
 
 Do take note of the following forms which will be issued to your child/ward for follow up on the first day of school:
 
