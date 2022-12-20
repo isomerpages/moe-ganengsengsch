@@ -60,7 +60,7 @@ A hardcopy of the offer letter will be issued to the students on the first day o
 
 Please access the link below for information on Mother Tongue Languages:
 
-[Mother Tongue Languages](https://drive.google.com/file/d/1hcPAYXLi4n9JNRhylaY4GWucHLeQEI2H/view?usp=share_link)
+[Mother Tongue Languages](https://drive.google.com/file/d/1deDUA50nzhnBTjqa7zl79AY-iSSFLJ3a/view?usp=share_link)
 
 For further queries pertaining to Mother Tongue Languages, please contact Ms See Bee Keow (Head of Department / Mother Tongue Languages) via email at [see\_bee\_keow@schools.gov.sg](mailto:see_bee_keow@schools.gov.sg).
 
@@ -115,13 +115,13 @@ For **new FAS applications**, parents may refer to the MOE FAS Brochure for more
 
 a)    [Information on MOE FAS](https://drive.google.com/file/d/1ROBN2oJb-UZYOgt-1Uw1CZXmuQgP3keb/view?usp=share_link)
 
-b)    [FAS Brochure (Chinese)](https://drive.google.com/file/d/1n-wAYVxQV9nypT0G8GjH_ZY9aIZAYn8k/view?usp=share_link)
+b)    [FAS Brochure (Chinese)](https://drive.google.com/file/d/1Xk3qNS_2GjPloZrFSqjRpK2KepytxnIh/view?usp=share_link)
 
-c)    [FAS Brochure (English)](https://drive.google.com/file/d/1Qw9aDg_elJv0jCQ95cEa0yU_VP4_ocGZ/view?usp=share_link)
+c)    [FAS Brochure (English)](https://drive.google.com/file/d/1TJrsLp5X7LrqiFphXYaegHRYfpGvkalJ/view?usp=share_link)
 
-d)    [FAS Brochure (Malay)](https://drive.google.com/file/d/1ezUKeQUpzxHmgzfK-a6ajP5uUQfuhCmN/view?usp=share_link)
+d)    [FAS Brochure (Malay)](https://drive.google.com/file/d/1pTryNjyZxbhf2UcbcrWR8CMgdq4-xpwe/view?usp=share_link)
 
-e)    [FAS Brochure (Tamil)](https://drive.google.com/file/d/1Ea3y0mmk-XOAgSo_K5yrD-viq0slW7oh/view?usp=share_link)
+e)    [FAS Brochure (Tamil)](https://drive.google.com/file/d/1mNyTSHBM5LtTaI0O0RXeKTRVLHd6yIkC/view?usp=share_link)
 
 f)     [MOE FAS Application Form](https://drive.google.com/file/d/1-KuuZO-EBaFx2Y6mdQzXqmu0ZB5GLFMw/view?usp=share_link)
 
