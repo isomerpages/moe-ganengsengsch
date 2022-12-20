@@ -153,7 +153,7 @@ The safety of your child is of utmost importance to us and it is essential that 
 
 All students entering Secondary 1 will be issued a new Secondary Level SSC. While waiting for their new SSC to be ready, Secondary 1 students can continue to use their Primary Level SSC for concessionary travel till **end of April 2023**. Secondary 1 students can purchase the Bus Concession Pass (BCP) using their Primary Level SSC but they will need to purchase the BCP for **secondary school students**.
 
-**(14) Photo-taking for Secondary 1 Students**
+**<u>(14) Photo-taking for Secondary 1 Students</u>**
 
 There will be a photo-taking session for all Secondary 1 students in February 2023. Photographs will be used for the students’ report book and school cockpit system. The 8 passport-sized photographs will cost $4.00 and the money is to be paid straight to the photographer on the day itself.
 
