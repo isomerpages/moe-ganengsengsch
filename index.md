@@ -26,9 +26,14 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Release of 2022 GCE N(A) & N(T) Level results on 19 Dec 2022
+      title: Briefing slides & information on 2023 Joint Intake Exercise
       button: READ MORE
-      url: /resources/announcements/2022NLevelResult/
+      url: /resources/announcements/permalink/briefingslides2023JIE
+  - infobar:
+      title: GESS Secondary 1 (2023) e-Registration Website
+      description: Infobar description
+      button: READ MORE
+      url: /resources/announcements/GESSSecondary12023eRegistrationWebsite/
   - infobar:
       title: School Bookshop and Booklists
       button: READ MORE
