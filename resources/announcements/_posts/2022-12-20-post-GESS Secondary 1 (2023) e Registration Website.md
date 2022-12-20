@@ -183,7 +183,7 @@ Please access the links below for more information on PG as well as the on board
 
 [PG FAQs for Parents](https://drive.google.com/file/d/1Q5ygut1Oo8Jidd9hPa_U90JwXhnP4Es3/view?usp=share_link)
 
-**(17) e-GIRO**
+**<u>(17) e-GIRO</u>**
 
 We would like to encourage parents to register for e-GIRO if you have not done so. Please click on the link below for more information:
 
