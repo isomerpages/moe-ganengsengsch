@@ -22,9 +22,9 @@ We strongly recommend that you purchase your child’s/ward’s school attire vi
 **Walk-in Purchase at Retail Outlet**
 <BR>
 Students who are granted MOE Financial Assistance Scheme will receive a letter from the school. Please present the letter at the outlet to receive your uniform.
-<BR>
+<BR><BR>
 **Addresses and dates of sale of school uniform:**
-<BR>
+<BR><BR>
  **(a)   BIBI & BABA Private Limited**     
  <BR>
  ***Address: Far East Shopping Centre, 545 Orchard Road #02-28 Singapore 238882****
