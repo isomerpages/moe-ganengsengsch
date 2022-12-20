@@ -31,7 +31,6 @@ sections:
       url: /resources/announcements/permalink/briefingslides2023JIE
   - infobar:
       title: GESS Secondary 1 (2023) e-Registration Website
-      description: Infobar description
       button: READ MORE
       url: /resources/announcements/GESSSecondary12023eRegistrationWebsite/
   - infobar:
