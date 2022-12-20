@@ -34,9 +34,13 @@ Students who are granted MOE Financial Assistance Scheme will receive a letter f
  **(a)   BIBI & BABA Private Limited**     
  <BR>
  ***Address: Far East Shopping Centre, 545 Orchard Road #02-28 Singapore 238882****
-
+<BR>
 ![](/images/Date%20for%20Uniform%202022.png)
 ![](/images/Date%20for%20Uniform%202022%201.png)
+<BR>
+
+
+
 
 This is to inform you that our school’s uniform supplier is BIBI&BABA. The sales of the school uniform will be held at BIBI&BABA outlets. Please note the following
 
