@@ -80,7 +80,7 @@ Please access the link below for the first day of school programme:
 
 [First Day of School Programme (for Sec 1)](https://drive.google.com/file/d/1Aofl2ZX_JiLhY9-GSfLj5uRdcZjAwNMf/view?usp=share_link)
 
-**(8) Secondary 1 GESS Camp**
+**<u>(8) Secondary 1 GESS Camp</u>**
 
 To familiarise the Secondary 1 students with the rich history and culture of GESS as well as to ease students’ transition into secondary school life, all Sec 1 students will take part in the Secondary 1 GESS Camp conducted by the Student Leaders’ Committee.
 
