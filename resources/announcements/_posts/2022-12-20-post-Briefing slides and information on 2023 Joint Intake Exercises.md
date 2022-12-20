@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**2023 Joint Intake Exercises and PFP Factsheet**
+**2023 Joint Intake Exercises (JIE) and PFP Factsheet**
 
 [JIE\_Progression Pathways\_19 Dec 2022\[GESS\]](https://drive.google.com/file/d/15FT7-nQa89q28lkxKo6TMx3ooHU7a5fL/view?usp=sharing)
 
