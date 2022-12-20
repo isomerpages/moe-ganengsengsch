@@ -9,28 +9,22 @@ Dear Parents/ Guardians,
 <BR><BR>
 We strongly recommend that you purchase your child’s/ward’s school attire via any of the **<u>three</u>** options given below:
 <BR><BR>
-1. **Purchase via online:** [**https://www.schooluniforms.sg/gan-eng-seng-school**](https://www.schooluniforms.sg/gan-eng-seng-school)
-<BR>
-2. **Purchase at school site**
+**Purchase via online:** [**https://www.schooluniforms.sg/gan-eng-seng-school**](https://www.schooluniforms.sg/gan-eng-seng-school)
+<BR><BR>
+**Purchase at school site**
 <BR>
 (a)  There will be <u>**no physical trying of school uniform**</u>
 <BR>
 (b)  Each student with one accompanying adult is allowed.
 <BR>
-
-| Dates for purchase at school site | Time |
-| -------- | -------- |
-|21 December 2022 (Sec 1 Posting Result Release)     |11am to 3pm    |
-22 December 2022 (Sec 1 Registration)     | 9am to 3pm     |
-23,27,28 December 2022     | 9am to 2pm    |
-<BR>
-
-3. **Walk-in Purchase at Retail Outlet**
+![](/images/Timings.png)
+<BR><BR>
+**Walk-in Purchase at Retail Outlet**
 <BR>
 Students who are granted MOE Financial Assistance Scheme will receive a letter from the school. Please present the letter at the outlet to receive your uniform.
-<BR>
+<BR><BR>
 **Addresses and dates of sale of school uniform:**
-<BR>
+<BR><BR>
  **(a)   BIBI & BABA Private Limited**     
  <BR>
  ***Address: Far East Shopping Centre, 545 Orchard Road #02-28 Singapore 238882****
@@ -52,8 +46,8 @@ Students who are granted MOE Financial Assistance Scheme will receive a letter f
          **<u>Operating Hours</u>**
 <BR>
          Mon – Fri:                              9 am to 6 pm  
-         Sat:                                        9 am to 1 pm
+         Sat:                                           9 am to 1 pm
 <BR>
-         24 Dec & 31 Dec:                  9 am to 1pm
+         24 Dec & 31 Dec:                 9 am to 1pm
 <BR>
          Sunday & Public Holidays:    CLOSED.
