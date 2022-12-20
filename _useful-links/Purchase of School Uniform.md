@@ -12,9 +12,28 @@ We strongly recommend that you purchase your child’s/ward’s school attire vi
 **Purchase via online:** [**https://www.schooluniforms.sg/gan-eng-seng-school**](https://www.schooluniforms.sg/gan-eng-seng-school)
 
 **Purchase at school site**
-
+<BR>
 (1)  There will be **no physical trying of school uniform.**
+<BR>
 (2)  Each student with one accompanying adult is allowed.
+
+
+| Dates for purchase at school site | Time |
+| -------- | -------- |
+|21 December 2022 (Sec 1 Posting Result Release)     |11am to 3pm    |
+22 December 2022 (Sec 1 Registration)     | 9am to 3pm     |
+23,27,28 December 2022     | 9am to 2pm    |
+
+
+**Walk-in Purchase at Retail Outlet**
+<BR>
+Students who are granted MOE Financial Assistance Scheme will receive a letter from the school. Please present the letter at the outlet to receive your uniform.
+<BR>
+**Addresses and dates of sale of school uniform:**
+<BR>
+ **(a)   BIBI & BABA Private Limited**        ****Address: Far East Shopping Centre, 545 Orchard Road #02-28 Singapore 238882****
+
+
 
 
 This is to inform you that our school’s uniform supplier is BIBI&BABA. The sales of the school uniform will be held at BIBI&BABA outlets. Please note the following
