@@ -33,4 +33,9 @@ sections:
       title: School Bookshop and Booklists
       button: READ MORE
       url: /school-information/school-bookshop-and-booklists/
+  - infobar:
+      title: GESS Secondary 1 (2023) e-Registration Website
+      description: Infobar description
+      button: READ MORE
+      url: /resources/announcements/GESSSecondary12023eRegistrationWebsite/
 ---
