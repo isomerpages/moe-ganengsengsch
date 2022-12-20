@@ -62,7 +62,7 @@ Please access the link below for information on Mother Tongue Languages:
 
 For further queries pertaining to Mother Tongue Languages, please contact Ms See Bee Keow (Head of Department / Mother Tongue Languages) via email at [see\_bee\_keow@schools.gov.sg](mailto:see_bee_keow@schools.gov.sg).
 
-**(7) First Day of School Programme**
+**<u>(7) First Day of School Programme</u>**
 
 All Secondary 1 students are to reach school and report at the Arena (school’ parade square) **by 7.30 am, on Tuesday, 3 January 2023**. Students who have yet to purchase their GESS school uniform may report in their primary school uniform.
 
