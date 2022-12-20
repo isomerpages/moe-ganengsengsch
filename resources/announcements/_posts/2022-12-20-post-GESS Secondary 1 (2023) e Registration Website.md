@@ -173,7 +173,7 @@ Do take note of the following forms which will be issued to your child/ward for 
 
 Please complete and return the forms to the Form Teachers via your child by **5 January 2023**.
 
-**(16) Parents Gateway (PG)**
+**<u>(16) Parents Gateway (PG)</u>**
 
 We would like to encourage all parents to come on board PG and to check it regularly as the school uses it as the main platform for communications with parents.
 
