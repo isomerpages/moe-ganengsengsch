@@ -90,7 +90,7 @@ Please access the link below for more information on the Secondary 1 GESS Camp p
 
 [2023 Secondary 1 GESS Camp Programme](https://drive.google.com/file/d/1VuIx-vlnrMPAIpDkamgk_A-Hj5KG8cf7/view?usp=share_link)
 
-**(9) Parent-Teacher Association (PTA) Membership**
+**<u>(9) Parent-Teacher Association (PTA) Membership</u>**
 
 All parents are automatically members of the GESS PTA. The school will be making a one-time collection of $24.00 based on an annual subscription of $6.00 per year. The amount collected will be used to support school activities like the supervised self-study programme.
 
