@@ -36,7 +36,7 @@ Details of the Secondary 1 class allocation have been sent to all parents via **
 
 For parents who are not on-board PG, your child’s/ward’s Form Teacher would send you a **WhatsApp message** informing you of your child’s/ward’s class.
 
-**(4) Purchase of Books and School Uniform**
+**<u>(4) Purchase of Books and School Uniform</u>**
 
 For the purchase of books and school uniform, please refer to the following links for the necessary information:
 
