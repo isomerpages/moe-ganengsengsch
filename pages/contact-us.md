@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 5.30pm
         description: ""
-    maps_link: https://goo.gl/maps/wzPLxyu2XgqVtALb8
+    maps_link: ""
     title: School Location
   - address:
       - 109 North Bridge Road
