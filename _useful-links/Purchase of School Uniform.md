@@ -7,13 +7,13 @@ Dear Parents/ Guardians,
 <BR><BR>
 **END-OF-YEAR SALE OF SCHOOL UNIFORM FOR GAN ENG SENG SCHOOL 2022**
 <BR><BR>
-We strongly recommend that you purchase your child’s/ward’s school attire via any of the **three** options given below:
+We strongly recommend that you purchase your child’s/ward’s school attire via any of the **<u>three</u>** options given below:
 <BR><BR>
 1. **Purchase via online:** [**https://www.schooluniforms.sg/gan-eng-seng-school**](https://www.schooluniforms.sg/gan-eng-seng-school)
 <BR>
 2. **Purchase at school site**
 <BR>
-(a)  There will be **no physical trying of school uniform**
+(a)  There will be <u>**no physical trying of school uniform**</u>
 <BR>
 (b)  Each student with one accompanying adult is allowed.
 <BR>
@@ -49,7 +49,7 @@ Students who are granted MOE Financial Assistance Scheme will receive a letter f
 ****Address: 213 Henderson Road #01-12 Singapore 159553**  
 **Tel: 6271 9248****
 <BR><BR>
-         **Operating Hours**
+         **<u>Operating Hours</u>**
 <BR>
          Mon – Fri:                              9 am to 6 pm  
          Sat:                                        9 am to 1 pm
