@@ -18,11 +18,8 @@ We strongly recommend that you purchase your child’s/ward’s school attire vi
 (b)  Each student with one accompanying adult is allowed.
 <BR>
 
-| Dates for purchase at school site | Time |
-| -------- | -------- |
-|21 December 2022 (Sec 1 Posting Result Release)     |11am to 3pm    |
-22 December 2022 (Sec 1 Registration)     | 9am to 3pm     |
-23,27,28 December 2022     | 9am to 2pm    |
+![](/images/Timings.png)
+
 <BR>
 
 3. **Walk-in Purchase at Retail Outlet**
