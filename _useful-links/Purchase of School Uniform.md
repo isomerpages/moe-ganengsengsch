@@ -49,7 +49,6 @@ Students who are granted MOE Financial Assistance Scheme will receive a letter f
 ****Address: 213 Henderson Road #01-12 Singapore 159553**  
 **Tel: 6271 9248****
 <BR><BR>
-
          **Operating Hours**
 <BR>
          Mon – Fri:                              9 am to 6 pm  
