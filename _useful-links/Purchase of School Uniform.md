@@ -4,11 +4,11 @@ permalink: /school-information/school-uniform-supplier/
 description: ""
 ---
 Dear Parents/ Guardians,
-
+<BR>
 **END-OF-YEAR SALE OF SCHOOL UNIFORM FOR GAN ENG SENG SCHOOL 2022**
-
+<BR>
 We strongly recommend that you purchase your child’s/ward’s school attire via any of the **three** options given below:
-
+<BR><BR>
 **Purchase via online:** [**https://www.schooluniforms.sg/gan-eng-seng-school**](https://www.schooluniforms.sg/gan-eng-seng-school)
 
 **Purchase at school site**
@@ -59,5 +59,3 @@ Students who are granted MOE Financial Assistance Scheme will receive a letter f
          24 Dec & 31 Dec:                  9 am to 1pm
 <BR>
          Sunday & Public Holidays:    CLOSED.
-				 
-
