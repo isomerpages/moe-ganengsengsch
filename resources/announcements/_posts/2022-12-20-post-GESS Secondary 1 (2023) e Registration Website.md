@@ -19,8 +19,7 @@ Secondary 1 Registration will open at **8:00am on Thursday, 22 December 2022**.�
 <img src="/images/QRcode%201.png" 
          style="width:200px"
 	/>
-<BR>
-If you intend to transfer your child to another school, you will still need to register him/her with us first by completing the Online Information Form. You may then proceed with the transfer process to another school.
+<BR>If you intend to transfer your child to another school, you will still need to register him/her with us first by completing the Online Information Form. You may then proceed with the transfer process to another school.
 
 Our Online Information Form will also help us to collate other information we will need for administrative purposes like your child’s/ward’s medical condition (if any), cohort T-shirt size, whether parents are on-board Parents Gateway (PG) and a short feedback on the registration process.
 
