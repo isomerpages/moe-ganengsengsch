@@ -60,7 +60,7 @@ A hardcopy of the offer letter will be issued to the students on the first day o
 
 Please access the link below for information on Mother Tongue Languages:
 
-[Mother Tongue Languages](https://drive.google.com/file/d/1deDUA50nzhnBTjqa7zl79AY-iSSFLJ3a/view?usp=share_link)
+[Mother Tongue Languages](https://drive.google.com/file/d/1HE7VzxsdD8jR6J4jg5doEqj8uF32vGxL/view?usp=share_link)
 
 For further queries pertaining to Mother Tongue Languages, please contact Ms See Bee Keow (Head of Department / Mother Tongue Languages) via email at [see\_bee\_keow@schools.gov.sg](mailto:see_bee_keow@schools.gov.sg).
 
