@@ -59,10 +59,11 @@ Please access the link below for information on Mother Tongue Languages:
 
 [Mother Tongue Languages](https://drive.google.com/file/d/1HE7VzxsdD8jR6J4jg5doEqj8uF32vGxL/view?usp=share_link)
 
-Sec 1 students who have been successfully offered MSP in Zhonghua Secondary School, please register via the link below:
-
-[https://sites.google.com/moe.edu.sg/zhonghuasec12023/higher-mtl-3rd-lang-msp](https://sites.google.com/moe.edu.sg/zhonghuasec12023/higher-mtl-3rd-lang-msp)
-
+Sec 1 students who have been successfully offered MSP in Zhonghua Secondary School, please register via the link below:<BR>
+[https://sites.google.com/moe.edu.sg/zhonghuasec12023/higher-mtl-3rd-lang-msp](https://sites.google.com/moe.edu.sg/zhonghuasec12023/higher-mtl-3rd-lang-msp)<BR>
+The student is required to complete the online form from **22 December 2022 (0700 hr) to 5 Jan 2023 (2359 hr),** if he/she **accept** the offer to take up MSP in Zhonghua Secondary School.<BR>
+**_If successful applicants do not register by 5 January 2023, the offer will lapse and the place will be offered to another applicant_** [MALAY SPECIAL PROGRAMME](/files/MSP%20FAQs.pdf)
+<BR>
 For further queries pertaining to Mother Tongue Languages, please contact Ms See Bee Keow (Head of Department / Mother Tongue Languages) via email at [see\_bee\_keow@schools.gov.sg](mailto:see_bee_keow@schools.gov.sg).
 
 **<u>(7) First Day of School Programme</u>**
