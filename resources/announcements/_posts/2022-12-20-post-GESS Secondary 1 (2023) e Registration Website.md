@@ -59,6 +59,10 @@ Please access the link below for information on Mother Tongue Languages:
 
 [Mother Tongue Languages](https://drive.google.com/file/d/1HE7VzxsdD8jR6J4jg5doEqj8uF32vGxL/view?usp=share_link)
 
+Sec 1 students who have been successfully offered MSP in Zhonghua Secondary School, please register via the link below:
+
+[https://sites.google.com/moe.edu.sg/zhonghuasec12023/higher-mtl-3rd-lang-msp](https://sites.google.com/moe.edu.sg/zhonghuasec12023/higher-mtl-3rd-lang-msp)
+
 For further queries pertaining to Mother Tongue Languages, please contact Ms See Bee Keow (Head of Department / Mother Tongue Languages) via email at [see\_bee\_keow@schools.gov.sg](mailto:see_bee_keow@schools.gov.sg).
 
 **<u>(7) First Day of School Programme</u>**
