@@ -9,3 +9,4 @@ description: ""
 ![](/images/School%20Rules%20and%20Regulations_Page_4.jpg)
 ![](/images/School%20Rules%20and%20Regulations_Page_5.jpg)
 ![](/images/School%20Rules%20and%20Regulations_Page_6.jpg)
+![](/images/School%20Rules%20and%20Regulations_Page_7.jpg)
