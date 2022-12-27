@@ -64,8 +64,7 @@ Sec 1 students who have been successfully offered MSP in Zhonghua Secondary Scho
 The student is required to complete the online form from **22 December 2022 (0700 hr) to 5 Jan 2023 (2359 hr),** if he/she **accept** the offer to take up MSP in Zhonghua Secondary School.<BR>
 **_If successful applicants do not register by 5 January 2023, the offer will lapse and the place will be offered to another applicant_**<BR>
 Please refer to [MALAY SPECIAL PROGRAMME](/files/MSP%20FAQs.pdf) for more information
-<BR>
-
+<BR><BR>
 For further queries pertaining to Mother Tongue Languages, please contact Ms See Bee Keow (Head of Department / Mother Tongue Languages) via email at [see\_bee\_keow@schools.gov.sg](mailto:see_bee_keow@schools.gov.sg).
 
 **<u>(7) First Day of School Programme</u>**
