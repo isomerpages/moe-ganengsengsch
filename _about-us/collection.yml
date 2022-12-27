@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - School Rules and Regulations.md
       - Principal’s Message.md
       - Vision Mission Values.md
       - School Anthem & School Creed.md
       - The Gessian Portrait.md
-      - Our Staff/Key Personnel and Form Teachers.md
+      - School Rules and Regulations.md
       - Our Staff/.keep
+      - Our Staff/Key Personnel and Form Teachers.md
       - Our Staff/Executive and Admin Staff (EAS).md
       - History of GESS.md
       - Our partners/.keep
