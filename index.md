@@ -33,4 +33,7 @@ sections:
       title: School Bookshop and Booklists
       button: READ MORE
       url: /school-information/school-bookshop-and-booklists/
+  - infobar:
+      title: Information for Students for First Day of School(3 Jan 2023)
+      button: Button Text
 ---
