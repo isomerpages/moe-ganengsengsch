@@ -26,10 +26,6 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Briefing slides & information on 2023 Joint Intake Exercise
-      button: READ MORE
-      url: /resources/announcements/permalink/briefingslides2023JIE
-  - infobar:
       title: GESS Secondary 1 (2023) e-Registration Website
       button: READ MORE
       url: /resources/announcements/GESSSecondary12023eRegistrationWebsite/
