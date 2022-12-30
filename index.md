@@ -27,7 +27,7 @@ sections:
           url: /about-us/vision-mission-values/
   - infobar:
       title: Information for Students for First Day of School(3 Jan 2023)
-      button: Button Text
+      button: READ MORE
       url: /resources/announcements/permalink/firstdayofschool2023/
   - infobar:
       title: GESS Secondary 1 (2023) e-Registration Website
