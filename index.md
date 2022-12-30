@@ -36,4 +36,5 @@ sections:
   - infobar:
       title: Information for Students for First Day of School(3 Jan 2023)
       button: Button Text
+      url: /resources/announcements/permalink/firstdayofschool2023/
 ---
