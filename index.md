@@ -26,6 +26,10 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
+      title: Information for Students for First Day of School(3 Jan 2023)
+      button: READ MORE
+      url: /resources/announcements/permalink/firstdayofschool2023/
+  - infobar:
       title: GESS Secondary 1 (2023) e-Registration Website
       button: READ MORE
       url: /resources/announcements/GESSSecondary12023eRegistrationWebsite/
