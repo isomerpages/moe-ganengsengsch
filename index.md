@@ -26,7 +26,7 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Release of 2022 GCE O Level results on Thur 12 January 2023
+      title: Release of 2022 GCE O Level results on Thursday 12 Jan 2023
       button: READ MORE
       url: /resources/announcements/permalink/2022GCEOLevelResults/
   - infobar:
