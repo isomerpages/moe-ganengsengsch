@@ -3,8 +3,25 @@ title: ICT and Computer Applications
 permalink: /nurturegess/academic/technology/
 description: ""
 ---
-
 ![ICT & Computer Applications](/images/infocomm%20technology%20department%20i.jpg)
+<BR>
+\------------------------------\------------------------------\------------------------------\------------------------------\------------------------------
+### **Personalised Digital Literacy Programme (PDLP)**
+
+At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (**“NDLP”**) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (**“PDLP”**) which places in the hands of secondary school students, a school-prescribed Personal Learning Device (**“PLD”**) by end-2021. 
+
+  
+
+The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (**“SLS”**) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world. 
+
+  
+
+For more information on PDLP Journey in Gan Eng Seng School, please refer to the following website : 
+
+**[https://go.gov.sg/gesspdlp](https://go.gov.sg/gesspdlp)**
+
+\------------------------------\------------------------------\------------------------------\------------------------------\------------------------------
+<BR>
 
 ### **Vision**
 
@@ -13,7 +30,6 @@ Technology – A Way of Life in GESS
 ### **Mission**
 
 Together, we harness Technology to enhance teaching and learning in GESS, to bring up a new generation of responsible and ethical learners
-
 ### **About**
 
 With the firm belief that ICT should be part of quality teaching and learning, the Technology department takes the initiative to collaborate with all departments to design and enact an ICT-enriched curriculum in GESS.
