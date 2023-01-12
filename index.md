@@ -26,10 +26,6 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Release of 2022 GCE O Level results on Thursday 12 Jan 2023
-      button: READ MORE
-      url: /resources/announcements/permalink/2022GCEOLevelResults/
-  - infobar:
       title: GESS Secondary 1 (2023) e-Registration Website
       button: READ MORE
       url: /resources/announcements/GESSSecondary12023eRegistrationWebsite/
