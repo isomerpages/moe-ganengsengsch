@@ -26,6 +26,10 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
+      title: Briefing slides & information on 2023 Joint Admissions Ex
+      button: READ MORE
+      url: /resources/announcements/permalink/2023JAE/
+  - infobar:
       title: Letter to parents (Term 1 2023)
       button: READ MORE
       url: /resources/announcements/permalink/Term12023/
@@ -37,8 +41,4 @@ sections:
       title: School Bookshop and Booklists
       button: READ MORE
       url: /school-information/school-bookshop-and-booklists/
-  - infobar:
-      title: Briefing slides & information on 2023 Joint Admissions Ex
-      button: READ MORE
-      url: /resources/announcements/permalink/2023JAE/
 ---
