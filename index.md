@@ -37,4 +37,8 @@ sections:
       title: School Bookshop and Booklists
       button: READ MORE
       url: /school-information/school-bookshop-and-booklists/
+  - infobar:
+      title: Briefing slides & information on 2023 Joint Admissions Ex
+      button: READ MORE
+      url: /resources/announcements/permalink/2023JAE/
 ---
