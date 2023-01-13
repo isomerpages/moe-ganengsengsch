@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 2023 Joint Admissions Exercise and other relevant information
-<BR>
+<BR><BR>
 [2022 GCE O level Results_JAE Briefing Slides](/files/2022%20GCE%20O%20level%20Results_JAE%20Briefing%20Slides.pdf)
 <BR>
 [2023 JAE Booklet](/files/2023%20JAE%20Booklet.pdf)
