@@ -26,6 +26,10 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
+      title: Follow up for Sec 1 Meet Parent Session 2023
+      button: READ MORE
+      url: /resources/announcements/permalinkMPS2023/
+  - infobar:
       title: Briefing slides & information on 2023 Joint Admissions Ex
       button: READ MORE
       url: /resources/announcements/permalink/2023JAE/
@@ -33,12 +37,4 @@ sections:
       title: Letter to parents (Term 1 2023)
       button: READ MORE
       url: /resources/announcements/permalink/Term12023/
-  - infobar:
-      title: GESS Secondary 1 (2023) e-Registration Website
-      button: READ MORE
-      url: /resources/announcements/GESSSecondary12023eRegistrationWebsite/
-  - infobar:
-      title: School Bookshop and Booklists
-      button: READ MORE
-      url: /school-information/school-bookshop-and-booklists/
 ---
