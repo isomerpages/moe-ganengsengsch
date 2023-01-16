@@ -33,4 +33,8 @@ sections:
       title: Letter to parents (Term 1 2023)
       button: READ MORE
       url: /resources/announcements/permalink/Term12023/
+  - infobar:
+      title: Follow up for Sec 1 Meet Parent Session 2023
+      button: READ MORE
+      url: /resources/announcements/permalinkMPS2023/
 ---
