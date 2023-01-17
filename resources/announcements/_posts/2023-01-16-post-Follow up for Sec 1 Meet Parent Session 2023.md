@@ -8,7 +8,7 @@ image: ""
 ---
 Dear parents/guardians,
 
-Please see attached slides shared during the Meet Parent Session 2023
+Thank you for the overwhelming response to our Sec 1 Meet-Parent-Session on 13 Jan 2023. We hope you found the session useful. Here are the slides shared by the respective presenters:
 
 Thank you
 
