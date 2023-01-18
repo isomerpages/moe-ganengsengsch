@@ -10,7 +10,6 @@ Dear parents/guardians,
 
 Thank you for the overwhelming response to our Sec 1 Meet-Parent-Session on 13 Jan 2023. We hope you found the session useful. Here are the slides shared by the respective presenters:
 
-Thank you
 
 <BR>
 [Sec 1 Meet Parent Session 2023 Address by Principal](/files/Sec%201%20Meet%20Parent%20Session%202023_Address%20by%20Principal.pdf)
