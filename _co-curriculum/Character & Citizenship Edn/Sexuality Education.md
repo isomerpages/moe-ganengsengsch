@@ -25,9 +25,9 @@ The key messages of Sexuality Education are:
 
 You may click [here](http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/) ([https://www.moe.gov.sg/programmes/sexuality-education](https://www.moe.gov.sg/programmes/sexuality-education)) for more information on MOE Sexuality Education.
 
-**Overview of Gan Eng Seng School’s Sexuality Education Programme for 2022**
+**Overview of Gan Eng Seng School’s Sexuality Education Programme for 2023**
 
-Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/scope/) ([https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools)) for more information on the scope of Sexuality Education in the school curriculum.
+Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/) ([https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)) for more information on the scope of Sexuality Education in the school curriculum.
 The subjects that incorporate topics on sexuality include:
     1.  Science
     2.  Character and Citizenship Education (CCE)
