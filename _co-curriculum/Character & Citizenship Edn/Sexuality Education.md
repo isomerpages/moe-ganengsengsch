@@ -25,9 +25,9 @@ The key messages of Sexuality Education are:
 
 You may click [here](http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/) ([https://www.moe.gov.sg/programmes/sexuality-education](https://www.moe.gov.sg/programmes/sexuality-education)) for more information on MOE Sexuality Education.
 
-**Overview of Gan Eng Seng School’s Sexuality Education Programme for 2022**
+**Overview of Gan Eng Seng School’s Sexuality Education Programme for 2023**
 
-Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/scope/) ([https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools)) for more information on the scope of Sexuality Education in the school curriculum.
+Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/) ([https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)) for more information on the scope of Sexuality Education in the school curriculum.
 The subjects that incorporate topics on sexuality include:
     1.  Science
     2.  Character and Citizenship Education (CCE)
@@ -38,11 +38,11 @@ The values and attitudes of our youth towards sexuality are increasingly shaped 
 
 Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Gan Eng Seng School, the following lessons from the Sexuality Education Programme will be taught in <u>2022:</u>**
+**At Gan Eng Seng School, the following lessons from the Sexuality Education Programme will be taught in <u>2023:</u>**
 
  **Secondary 1**
 
-**CCE 2022 Theme: Making Choices**
+**CCE 2023 Theme: Making Choices**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -87,7 +87,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **Secondary 2**
 
-**CCE 2022 Theme: Making Choices**
+**CCE 2023 Theme: Making Choices**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -132,7 +132,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **Secondary 3**
 
-**CCE 2022 Theme: Making Choices**
+**CCE 2023 Theme: Making Choices**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -177,7 +177,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **Secondary 4/5**
 
-**CCE 2022 Theme: Making Choices**
+**CCE 2023 Theme: Making Choices**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -230,7 +230,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 <br><br>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Gan Eng Seng School, the _eTeens_ programme will be implemented as follows in 2022:**
+**At Gan Eng Seng School, the _eTeens_ programme will be implemented as follows in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
