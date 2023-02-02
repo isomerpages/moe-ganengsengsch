@@ -45,3 +45,18 @@ For example, only instructors who have a Level 2 certification with ACCT or Outw
 
 Facilities and equipment at MOE adventure learning centres should also be checked and inspected monthly and maintained every quarter by ACCT-accredited professionals.
 
+![](/images/Sec3camp2.jpg)
+
+The four MOE adventure learning centres, as well as two Outward Bound Singapore sites, now have the required accreditation, said master outdoor adventure educator Kuang Yoke Wee. 
+
+“During the hiatus, we spent a lot of time with instructors. We had regular refresher sessions, and just before we resumed, we conducted a few sessions of skills verifications … They all spent one full day just going through all the dispatches, safety briefings, management, rescue practices,” he added. 
+
+Instructors now also need to take on more accountability and sign off on forms when they have checked the equipment and facilities, said Mr Kuang. 
+
+For example, instructors now have a checklist to go through before they issue equipment to students, which spells out exactly what they need to look for, he added. 
+
+The lowered operating capacity also allows instructors to ease back into the job with these enhanced safety measures, said Mr Kuang. 
+
+“We have the consideration that challenge course instructors have been off this work for so many months. So we just want to make sure everybody gets back on track with the correct understanding.”
+
+Source: CNA/hw(jo)
