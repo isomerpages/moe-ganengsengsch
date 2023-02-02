@@ -23,3 +23,25 @@ Gan Eng Seng School student Bao-Anh Nguyen, 15, said she had been looking forwar
 
 The Secondary 3 students were at Jalan Bahtera for a three-day camp. About 30 per cent of the cohort, or 80 students, got to try out the height-based activities for the first time since they were suspended in February 2021 - after a 15-year-old student died during a rope course at SAFRA Yishun.
 
+“I think the instructors’ guidance was very reassuring to us because they made us trust them and they were there for us,” Bao-Anh said. 
+
+“And I think we feel very safe also because they are very adamant about our equipment being very correct, our helmets put on properly and our harnesses also."
+
+She said that they were checked at least three to four times before starting their runs. 
+
+Each class was split into two groups of 20 students, with one mentor attached to each group.
+
+![](/images/Sec3camp1.jpg)
+
+Aside from mentors and instructors, teachers will be onsite to look after students, with appointed school personnel executing incident and emergency plans when needed, MOE said.
+
+Instructors are responsible for setting up and conducting the height-based activities, and safety supervisors are in charge of the overall safety conduct of activities, as well as managing rescue and evacuation situations. 
+
+After carrying out an internal review of the safety of height-based activities, MOE now requires all operators offering such activities for MOE students to be regularly accredited by a National Sports Association or a regional outdoor adventure learning professional body. 
+
+Schools must also engage only accredited operators and qualified instructors to conduct the activities. Instructors must have skills and training based on the Association for Challenge Course Technology (ACCT) standards. 
+
+For example, only instructors who have a Level 2 certification with ACCT or Outward Bound Singapore can be safety supervisors. 
+
+Facilities and equipment at MOE adventure learning centres should also be checked and inspected monthly and maintained every quarter by ACCT-accredited professionals.
+
