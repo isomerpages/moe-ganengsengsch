@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-In line with GESS 21CC drive, the school hosted 27 staff and students from Suanboonyopatham Lamphun School (Chiang Mai, Thailand) today. 
+In line with GESS 21CC drive, the school hosted 27 staff and students from Suanboonyopatham Lamphun School (Chiang Mai, Thailand) on 2 February 2023. 
 
 Gessians had an enriching time getting to know more about Thailand, in particular, about Chiangmai and Lamphun. The Thai students' dance was refreshingly different. 
 
