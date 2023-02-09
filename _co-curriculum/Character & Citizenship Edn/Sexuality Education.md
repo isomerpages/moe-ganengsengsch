@@ -23,7 +23,7 @@ The key messages of Sexuality Education are:
 *   Make responsible decisions for yourself, your family and society; and
 *   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-
+Click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/) ([https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)) for more information on MOE Sexuality Education 
 
 **Overview of Gan Eng Seng School’s Sexuality Education Programme for 2023**
 
