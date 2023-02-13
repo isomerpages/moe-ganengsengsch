@@ -38,7 +38,3 @@ Sec 4/5 ECG Programme cum Learning Journey was held on Wed, 8 Feb 2023. The prog
 <BR>
 ![](/images/ECG15.jpg)
 <BR>
-
-
-
-
