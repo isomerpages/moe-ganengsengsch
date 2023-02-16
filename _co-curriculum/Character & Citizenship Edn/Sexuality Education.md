@@ -247,6 +247,8 @@ _eTeens_ is a programme developed by Health Promotion Board, in collaboration w
   <tr>
     <th class="tg-l2bf"><span style="font-weight:bold">Topics/Lessons</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">Programme Learning Objectives</span></th>
+		<th class="tg-l2bf"><span style="font-weight:bold">Time Period
+(e.g. Term 3 Week 9)</span></th>
   </tr>
 </thead>
 <tbody>
