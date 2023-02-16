@@ -4,7 +4,7 @@ permalink: /nurturegess/character-citizenship-education/gess-sexuality-education
 description: ""
 third_nav_title: Character & Citizenship Edn
 ---
-<h3 style="color:black" align="center">Gan Eng Seng School</h3>
+<h3 align="center" style="color:black">Gan Eng Seng School</h3>
 
 **Moe Sexuality Education in Schools**
 
@@ -56,7 +56,8 @@ Through the Sexuality Education lessons, secondary students will have the opport
 .tg .tg-pcr6{background-color:#E6E6E6;color:#222;font-style:italic;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+
+ &nbsp; &nbsp;<table class="tg">
 <thead>
   <tr>
     <th class="tg-l2bf"><span style="font-weight:bold">**Unit**</span></th>
@@ -69,9 +70,9 @@ weight:bold">**Lesson Overview**
 </thead>
 <tbody>
   <tr>
-    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
-    <td class="tg-tsok">Steady or Not <br>Lesson 1<br>(60 mins)</td>
-    <td class="tg-tsok">·         Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>·         Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>·         Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><br>·         Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br></td>
+    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
+    <td class="tg-tsok">Steady or Not <br>Lesson 1<br>(60 mins)</td><td>Steady or Not Lesson 1(60 mins)
+		</td><td class="tg-tsok">·         Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>·         Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>·         Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><br>·         Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br></td>
     <td class="tg-com3">Lessons will be conducted during CCE lessons.</td>
   </tr>
   <tr>
@@ -114,7 +115,7 @@ weight:bold">**Lesson Overview**
 </thead>
 <tbody>
   <tr>
-    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">1<br><br>(60 mins)</td>
     <td class="tg-tsok">·        Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>·        Understand what sexual orientation entails<br></td>
     <td class="tg-tsok">Lessons will be conducted during CCE lessons.</td>
@@ -159,7 +160,7 @@ weight:bold">**Lesson Overview**
 </thead>
 <tbody>
   <tr>
-    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">1<br><br>(60 mins)</td>
     <td class="tg-tsok">·         Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>·         Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>·         Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
     <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
@@ -204,7 +205,7 @@ weight:bold">**Lesson Overview**
 </thead>
 <tbody>
   <tr>
-    <td class="tg-tsok" rowspan="4">Respectful Relationships &amp; Safety</td>
+    <td rowspan="4" class="tg-tsok">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">1<br><br>(60 mins)</td>
     <td class="tg-tsok">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
     <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
