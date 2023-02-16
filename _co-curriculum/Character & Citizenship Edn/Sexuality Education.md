@@ -42,7 +42,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 &nbsp;**Secondary 1**
 
-**CCE 2023 Theme: Making Choices**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -87,7 +87,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **Secondary 2**
 
-**CCE 2023 Theme: Making Choices**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -132,7 +132,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **Secondary 3**
 
-**CCE 2023 Theme: Making Choices**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -177,7 +177,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **Secondary 4/5**
 
-**CCE 2023 Theme: Making Choices**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
