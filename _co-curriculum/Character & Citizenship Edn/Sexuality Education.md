@@ -4,7 +4,7 @@ permalink: /nurturegess/character-citizenship-education/gess-sexuality-education
 description: ""
 third_nav_title: Character & Citizenship Edn
 ---
-<h3 align="center" style="color:black">Gan Eng Seng School</h3>
+<h3 style="color:black" align="center">Gan Eng Seng School</h3>
 
 **Moe Sexuality Education in Schools**
 
@@ -72,7 +72,7 @@ weight:bold">**Lesson Objectives**</span><br><br><span style="font-weight:bold">
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
+    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">Steady or Not <br>Lesson 1<br>(60 mins)</td>
 		<td>The lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline
 		</td>
@@ -111,7 +111,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 .tg .tg-pcr6{background-color:#E6E6E6;color:#222;font-style:italic;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+
+ &nbsp; &nbsp;<table class="tg">
 <thead>
   <tr>
     <th class="tg-l2bf"><span style="font-weight:bold">Unit</span></th>
@@ -123,7 +124,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
+    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">A Role for Everyone<br>Lesson 1<br>(60 mins)</td>
     <td class="tg-tsok">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.
 Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. 
@@ -133,8 +134,9 @@ Students will also learn about the definitions of biological sex, gender identit
     <td class="tg-tsok">*Lessons will be conducted during CCE lessons.*</td>
   </tr>
   <tr>
-    <td class="tg-tsok">2A<br><br>(60 mins)</td>
-    <td class="tg-tsok">·       Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-tsok">Online Safety Challenge<br>Lesson 2A<br>(60 mins)</td><td>Online Safety ChallengeThis lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+		</td><td class="tg-tsok">·       Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
     <td class="tg-tsok">Lessons will be conducted during CCE lessons.</td>
   </tr>
   <tr>
@@ -172,7 +174,7 @@ Students will also learn about the definitions of biological sex, gender identit
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
+    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">1<br><br>(60 mins)</td>
     <td class="tg-tsok">·         Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>·         Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>·         Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
     <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
@@ -217,7 +219,7 @@ Students will also learn about the definitions of biological sex, gender identit
 </thead>
 <tbody>
   <tr>
-    <td rowspan="4" class="tg-tsok">Respectful Relationships &amp; Safety</td>
+    <td class="tg-tsok" rowspan="4">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">1<br><br>(60 mins)</td>
     <td class="tg-tsok">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
     <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
