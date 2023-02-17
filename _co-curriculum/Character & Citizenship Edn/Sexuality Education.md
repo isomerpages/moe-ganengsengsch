@@ -180,9 +180,10 @@ weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At t
 <tbody>
   <tr>
     <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
-    <td class="tg-tsok">1<br><br>(60 mins)</td>
-    <td class="tg-tsok">·         Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>·         Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>·         Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
-    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok">Love Yourself, Love Others<br>Lesson 1A<br>(60 mins)</td>
+    <td class="tg-tsok">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.  </td>
+		<td class="tg-tsok">·         Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>·         Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>·         Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
+    <td class="tg-tsok">*Lessons will be conducted during CCE lessons*</td>
   </tr>
   <tr>
     <td class="tg-tsok">2<br><br>(60 mins)</td>
