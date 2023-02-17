@@ -26,11 +26,11 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Follow up for Sec 1 Meet Parent Session 2023
-      button: READ MORE
-      url: /resources/announcements/permalinkMPS2023/
-  - infobar:
       title: Letter to parents (Term 1 2023)
       button: READ MORE
       url: /resources/announcements/permalink/Term12023/
+  - infobar:
+      title: "Green Wave Environmental Care Project "
+      button: READ MORE
+      url: /resources/proud-moments/permalink/greenwave2022/
 ---
