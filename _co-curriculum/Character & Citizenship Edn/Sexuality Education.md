@@ -85,7 +85,8 @@ weight:bold">**Lesson Overview**
   </tr>
   <tr>
     <td class="tg-tsok">More than Meets the Eye<br>Lesson 3<br>(60 mins)</td>
-    <td class="tg-tsok">·         Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>·         Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+    <td class="tg-tsok">More than Meets the Eye<br>Lesson 3<br>(60 mins)</td>
+		<td class="tg-tsok">·         Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>·         Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
     <td class="tg-com3">*Lessons will be conducted during CCE lessons.*</td>
   </tr>
 </tbody>
