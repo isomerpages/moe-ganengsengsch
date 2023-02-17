@@ -66,7 +66,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 weight:bold">Lesson Overview
  &nbsp; &nbsp;</span></th>
 		<th><span style="font-
-weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+weight:bold">**Lesson Objectives**</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">Time Period (e.g. Term 1 Week 2</span></th>
   </tr>
 </thead>
@@ -124,8 +124,12 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <tbody>
   <tr>
     <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
-    <td class="tg-tsok">1<br><br>(60 mins)</td>
-    <td class="tg-tsok">·        Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>·        Understand what sexual orientation entails<br></td>
+    <td class="tg-tsok">A Role for Everyone<br>Lesson 1<br>(60 mins)</td>
+    <td class="tg-tsok">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.
+Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. 
+Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
+</td>
+		<td class="tg-tsok">·        Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>·        Understand what sexual orientation entails<br></td>
     <td class="tg-tsok">Lessons will be conducted during CCE lessons.</td>
   </tr>
   <tr>
