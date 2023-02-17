@@ -186,8 +186,9 @@ weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At t
     <td class="tg-tsok">*Lessons will be conducted during CCE lessons*</td>
   </tr>
   <tr>
-    <td class="tg-tsok">2<br><br>(60 mins)</td>
-    <td class="tg-tsok">·         Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br><br>·         Know that a decision to end a relationship will have consequences on oneself and others.<br><br>·         Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br><br>·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br></td>
+    <td class="tg-tsok">Mending a Broken Heart<br>Lesson 1B<br>(60 mins)</td>
+    <td class="tg-tsok">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support. </td>
+		<td class="tg-tsok">·         Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br><br>·         Know that a decision to end a relationship will have consequences on oneself and others.<br><br>·         Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br><br>·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br></td>
     <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
   </tr>
   <tr>
