@@ -130,7 +130,7 @@ Students learn to focus on their personal strengths to pursue their interests an
 Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
 </td>
 		<td class="tg-tsok">·        Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>·        Understand what sexual orientation entails<br></td>
-    <td class="tg-tsok">Lessons will be conducted during CCE lessons.</td>
+    <td class="tg-tsok">*Lessons will be conducted during CCE lessons.*</td>
   </tr>
   <tr>
     <td class="tg-tsok">2A<br><br>(60 mins)</td>
