@@ -141,9 +141,10 @@ This lesson is conducted separately for boys and girls in different classrooms, 
     <td class="tg-tsok">*Lessons will be conducted during CCE lessons*.</td>
   </tr>
   <tr>
-    <td class="tg-tsok">2B<br><br>(60 mins)</td>
-    <td class="tg-tsok">·      Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
-    <td class="tg-tsok">Lessons will be conducted during CCE lessons.</td>
+    <td class="tg-tsok">Do I or Don't I<br>Lesson 2B<br>(60 mins)</td>
+    <td class="tg-tsok">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.  </td>
+		<td class="tg-tsok">·      Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td class="tg-tsok">*Lessons will be conducted during CCE lessons.*</td>
   </tr>
 </tbody>
 </table>
