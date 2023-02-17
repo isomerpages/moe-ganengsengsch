@@ -60,12 +60,14 @@ Through the Sexuality Education lessons, secondary students will have the opport
  &nbsp; &nbsp;<table class="tg">
 <thead>
   <tr>
-    <th class="tg-l2bf"><span style="font-weight:bold">**Unit**</span></th>
-    <th class="tg-l2bf"><span style="font-weight:bold">**Lesson Title / Duration**</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Unit</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Lesson Title / Duration</span></th>
     <th class="tg-l2bf"><span style="font-
-weight:bold">**Lesson Overview**
- &nbsp; &nbsp;</span></th><th><span>**Lesson Objectives**</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
-    <th class="tg-l2bf"><span style="font-weight:bold">**Time Period (e.g. Term 1 Week 2**</span></th>
+weight:bold">Lesson Overview
+ &nbsp; &nbsp;</span></th>
+		<th><span style="font-
+weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Time Period (e.g. Term 1 Week 2</span></th>
   </tr>
 </thead>
 <tbody>
