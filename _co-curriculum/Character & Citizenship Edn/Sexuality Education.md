@@ -134,9 +134,9 @@ Students will also learn about the definitions of biological sex, gender identit
     <td class="tg-tsok">*Lessons will be conducted during CCE lessons.*</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Online Safety Challenge<br>Lesson 2A<br>(60 mins)</td><td>Online Safety ChallengeThis lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. 
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-		</td><td class="tg-tsok">·       Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-tsok">Online Safety Challenge<br>Lesson 2A<br>(60 mins)</td>
+		<td>This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
     <td class="tg-tsok">Lessons will be conducted during CCE lessons.</td>
   </tr>
   <tr>
