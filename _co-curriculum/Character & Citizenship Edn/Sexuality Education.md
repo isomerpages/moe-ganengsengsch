@@ -4,7 +4,7 @@ permalink: /nurturegess/character-citizenship-education/gess-sexuality-education
 description: ""
 third_nav_title: Character & Citizenship Edn
 ---
-<h3 align="center" style="color:black">Gan Eng Seng School</h3>
+<h3 style="color:black" align="center">Gan Eng Seng School</h3>
 
 **Moe Sexuality Education in Schools**
 
@@ -72,7 +72,7 @@ weight:bold">**Lesson Objectives**</span><br><br><span style="font-weight:bold">
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
+    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">Steady or Not <br>Lesson 1<br>(60 mins)</td>
 		<td>The lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline
 		</td>
@@ -124,7 +124,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
+    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">A Role for Everyone<br>Lesson 1<br>(60 mins)</td>
     <td class="tg-tsok">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.
 Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. 
@@ -179,7 +179,7 @@ weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At t
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
+    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">Love Yourself, Love Others<br>Lesson 1A<br>(60 mins)</td>
     <td class="tg-tsok">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.  </td>
 		<td class="tg-tsok">·         Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>·         Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>·         Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
@@ -216,7 +216,8 @@ weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At t
 .tg .tg-pcr6{background-color:#E6E6E6;color:#222;font-style:italic;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+
+ &nbsp; &nbsp;<table class="tg">
 <thead>
   <tr>
     <th class="tg-I2bf"><span style="font-weight:bold">Unit</span></th>
@@ -229,16 +230,16 @@ weight:bold">Lesson Overview
 </thead>
 <tbody>
   <tr>
-    <td rowspan="4" class="tg-tsok">Respectful Relationships &amp; Safety</td>
+    <td class="tg-tsok" rowspan="4">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">Levelling The Ground<br>Lesson 1<br>(60 mins)</td>
     <td class="tg-tsok">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
 		<td class="tg-tsok">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
     <td class="tg-tsok">*Lessons will be conducted during CCE lessons.*</td>
   </tr>
   <tr>
-    <td class="tg-tsok">2<br><br>(60 mins)</td>
-    <td class="tg-tsok">·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br>·         Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><br>·         Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><br>·         Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.<br></td>
-    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok">When Love Hurts<br>Lesson 2<br>(60 mins)</td><td>This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.
+		</td><td class="tg-tsok">·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br>·         Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><br>·         Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><br>·         Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.<br></td>
+    <td class="tg-tsok">*Lessons will be conducted during CCE lessons.*</td>
   </tr>
   <tr>
     <td class="tg-tsok">3<br><br>(30 mins)</td>
