@@ -242,14 +242,15 @@ weight:bold">Lesson Overview
     <td class="tg-tsok">*Lessons will be conducted during CCE lessons.*</td>
   </tr>
   <tr>
-    <td class="tg-tsok">3<br><br>(30 mins)</td>
-    <td class="tg-tsok">·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.<br><br>·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br>·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.<br></td>
-    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok">For Better or For Worse<br>Lesson 3<br>(60 mins)</td>
+    <td class="tg-tsok">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other. </td>
+		<td class="tg-tsok">·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.<br><br>·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br>·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.<br></td>
+    <td class="tg-tsok">*Lessons will be conducted during CCE lessons*.</td>
   </tr>
   <tr>
     <td class="tg-tsok">4<br><br>(60 mins)</td>
     <td class="tg-tsok">·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok">*Lessons will be conducted during CCE lessons.*</td>
   </tr>
 </tbody>
 </table>
