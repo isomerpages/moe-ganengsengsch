@@ -192,8 +192,9 @@ weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At t
     <td class="tg-tsok">*Lessons will be conducted during CCE lessons*.</td>
   </tr>
   <tr>
-    <td class="tg-tsok">3<br><br>(60 mins)</td>
-    <td class="tg-tsok">·         Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br><br>·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-tsok">When Respect Takes Centre Stage<br>Lesson 2<br>(60 mins)</td>
+    <td class="tg-tsok">When Respect Takes Centre Stage<br>Lesson 2<br>(60 mins)</td>
+		<td class="tg-tsok">·         Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br><br>·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
     <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
   </tr>
 </tbody>
