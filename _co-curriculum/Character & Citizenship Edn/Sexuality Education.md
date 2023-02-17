@@ -291,13 +291,13 @@ _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaborati
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
+.tg .tg-1547{background-color:#FFF;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-0isw{background-color:#E6E6E6;font-style:italic;text-align:left;vertical-align:top}
 </style>
-
- &nbsp; &nbsp;
- &nbsp; &nbsp;<table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-l2bf"><span style="font-weight:bold">**Topics/Lessons**</span></th>
