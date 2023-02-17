@@ -223,7 +223,7 @@ weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At t
     <th class="tg-l2bf"><span style="font-weight:bold">Lesson Title / Duration</span></th>
     <th class="tg-l2bf"><span style="font-
 weight:bold">Lesson Overview
- &nbsp; &nbsp;</span></th><th><span>Lesson Objectives</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
+ &nbsp; &nbsp;</span></th><th><span>**Lesson Objectives**</span><br><br><span style="font-weight:bold">At the end of the lesson, students will be able to:</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">Time Period</span><br><br><span style="font-weight:bold">(e.g. Term 1 Week 2)</span></th>
   </tr>
 </thead>
