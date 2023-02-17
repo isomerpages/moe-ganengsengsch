@@ -78,7 +78,7 @@ weight:bold">**Lesson Overview**
   <tr>
     <td class="tg-tsok">Being Aware, Being Safe <br> Lesson 2<br>60 mins </td>
     <td class="tg-tsok">·         Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
-    <td class="tg-tsok">Lessons will be conducted during CCE lessons.</td>
+    <td class="tg-tsok">*Lessons will be conducted during CCE lessons*.</td>
   </tr>
   <tr>
     <td class="tg-tsok">3<br><br>(60 mins)</td>
