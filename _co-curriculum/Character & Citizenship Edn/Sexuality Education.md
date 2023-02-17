@@ -4,7 +4,7 @@ permalink: /nurturegess/character-citizenship-education/gess-sexuality-education
 description: ""
 third_nav_title: Character & Citizenship Edn
 ---
-<h3 style="color:black" align="center">Gan Eng Seng School</h3>
+<h3 align="center" style="color:black">Gan Eng Seng School</h3>
 
 **Moe Sexuality Education in Schools**
 
@@ -43,18 +43,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 &nbsp;**Secondary 1**
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
-.tg .tg-1547{background-color:#FFF;font-style:italic;text-align:left;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-0isw{background-color:#E6E6E6;font-style:italic;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -69,7 +58,7 @@ weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At t
 </thead>
 <tbody>
   <tr>
-    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">Steady or Not <br>Lesson 1<br>(60 mins)</td>
 		<td>The lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline
 		</td>
@@ -121,7 +110,7 @@ weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At t
 </thead>
 <tbody>
   <tr>
-    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">A Role for Everyone<br>Lesson 1<br>(60 mins)</td>
     <td class="tg-tsok">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.
 Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. 
@@ -175,7 +164,7 @@ weight:bold">Lesson Objectives</span><br><br><span style="font-weight:bold">At t
 </thead>
 <tbody>
   <tr>
-    <td class="tg-tsok" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">Love Yourself, Love Others<br>Lesson 1A<br>(60 mins)</td>
     <td class="tg-tsok">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.  </td>
 		<td class="tg-tsok">·         Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>·         Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>·         Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
@@ -225,7 +214,7 @@ weight:bold">Lesson Overview
 </thead>
 <tbody>
   <tr>
-    <td class="tg-tsok" rowspan="4">Respectful Relationships &amp; Safety</td>
+    <td rowspan="4" class="tg-tsok">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">Levelling The Ground<br>Lesson 1<br>(60 mins)</td>
     <td class="tg-tsok">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
 		<td class="tg-tsok">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
@@ -280,7 +269,7 @@ weight:bold">Lesson Overview
 </thead>
 <tbody>
   <tr>
-    <td class="tg-tsok" rowspan="1">Respectful Relationships &amp; Safety</td>
+    <td rowspan="1" class="tg-tsok">Respectful Relationships &amp; Safety</td>
     <td class="tg-tsok">This is Where I Draw the Line<br>(60 mins)</td>
     <td class="tg-tsok">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others</td>
 		<td class="tg-tsok">·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
