@@ -71,7 +71,7 @@ weight:bold">**Lesson Overview**
 <tbody>
   <tr>
     <td rowspan="3" class="tg-tsok">Respectful Relationships &amp; Safety</td>
-    <td class="tg-tsok">Steady or Not <br>Lesson 1<br>(60 mins)</td><td>Steady or Not Lesson 1(60 mins)
+    <td class="tg-tsok">Steady or Not <br>Lesson 1<br>(60 mins)</td><td>The lesson helps students understand more about relationship building and the different types of love (eg familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making decision
 		</td><td class="tg-tsok">·         Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>·         Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>·         Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><br>·         Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br></td>
     <td class="tg-com3">Lessons will be conducted during CCE lessons.</td>
   </tr>
