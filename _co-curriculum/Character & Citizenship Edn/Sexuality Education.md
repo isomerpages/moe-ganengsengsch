@@ -233,7 +233,7 @@ weight:bold">Lesson Overview
     <td class="tg-tsok">Levelling The Ground<br>Lesson 1<br>(60 mins)</td>
     <td class="tg-tsok">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
 		<td class="tg-tsok">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
-    <td class="tg-tsok">Lessons will be conducted during CCE lessons &amp; assembly sessions.</td>
+    <td class="tg-tsok">*Lessons will be conducted during CCE lessons.*</td>
   </tr>
   <tr>
     <td class="tg-tsok">2<br><br>(60 mins)</td>
