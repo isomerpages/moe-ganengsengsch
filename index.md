@@ -32,5 +32,5 @@ sections:
   - infobar:
       title: "Green Wave Environmental Care Project "
       button: READ MORE
-      url: /resources/announcements/permalink/Term12023/
+      url: /resources/proud-moments/permalink/greenwave2022/
 ---
