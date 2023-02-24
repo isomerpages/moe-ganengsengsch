@@ -64,10 +64,6 @@ img {
 
 ***
 
-<h5 style="color:black" align="center">Honorary Assistant Secretary</h5>
-<p style="text-align:center;"> <strong>Mohamed Hamja Maricar</strong><br><em>Managing Director</em><br>Pixaknights Pte Ltd<br><strong>Class of 03</strong></p>
-
-***
 
 <h5 style="color:black" align="center">Honorary Assistant Secretary
 </h5>
@@ -100,9 +96,9 @@ img {
   
 </body>
 
-<p style="text-align:center;"> <strong>Lee Hay Keong
-</strong><br><em>Senior Vice President
-</em><br>CPG consultants Pte Ltd<br><strong>Class of 74</strong></p>
+<p style="text-align:center;"> <strong>Ramli Chan
+</strong><br><em>Sales Director
+</em><br>GME Chemicals (S) Pte Ltd<br><strong>Class of 93</strong></p>
 
 ***
 <h5 style="color:black" align="center">Committee Member
