@@ -27,6 +27,24 @@ img {
 <br>
 
 ***
+<h5 style="color:black" align="center">Vice President
+</h5>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/tang-wai-loong-kenneth-1.jpeg" alt="tang-wai-loong-kenneth" style="width:25%;">  
+  
+</body>
+
+
+<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><em>Partner</em><br>Chang See Hiang & Partners<br><strong>Year of Graduation: 1985</strong></p>
+
+***
+
 
 <h5 style="color:black" align="center">Vice President
 </h5>
@@ -143,23 +161,6 @@ img {
 
 ***
 
-<h5 style="color:black" align="center">Committee Member
-</h5>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/tang-wai-loong-kenneth-1.jpeg" alt="tang-wai-loong-kenneth" style="width:25%;">  
-  
-</body>
-
-
-<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><em>Partner</em><br>Chang See Hiang & Partners<br><strong>Year of Graduation: 1985</strong></p>
-
-***
 
 <h5 style="color:black" align="center">Committee Member</h5>
 <style>  
