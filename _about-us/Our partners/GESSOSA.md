@@ -228,4 +228,4 @@ img {
 
 <h5 style="color:black" align="left">Sub Committees</h5>
 
-<p style="text-align:left;"> GESSOSA Education Development Fund<br><em>Fund Raising</em><br>Social<br>Membership<br>Policies & Constitutional Review<br>Public Relations<br>Student Welfare & Education<br></p>
+<p style="text-align:left;"> GESSOSA Education Development Fund<br>Fund Raising<br>Social<br>Membership<br>Policies & Constitutional Review<br>Public Relations<br>Student Welfare & Education<br></p>
