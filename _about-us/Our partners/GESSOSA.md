@@ -216,15 +216,14 @@ img {
 
 <h5 style="color:black" align="center">Internal Auditors</h5>
 
-<p style="text-align:center;"> <strong>Lim Pang Yong Raymond<strong><BR><strong>Chui Siew Pun<strong>
-</p>
-
+<p style="text-align:center;"> <strong>Lim Pang Yong Raymond</strong><br><em>Chui Siew Pun</em><br><br><strong></strong></p>	
+	
 ***
 
 <h5 style="color:black" align="center">School Liaison Officer</h5>
 
-<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><em>Casey Teo Kim Ching</em><br>Lee Hay Keong<br></p>
-	
+<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><em>Casey Teo Kim Ching</em><br>Lee Hay Keong<br><strong></strong></p>
+
 ***
 
 <h5 style="color:black" align="left">Sub Committees</h5>
