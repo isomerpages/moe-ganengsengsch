@@ -169,7 +169,7 @@ img {
 <body><img src="/images/Dennis%20Chua.jpg" alt="Mr-Dennis-Chua" style="width:25%;">   
 </body>
 
-<p style="text-align:center;"> <strong>Dennis Chua</strong><br><em>Freelance</em><br>Trainer<br><strong>Class of 82</strong></p>	
+<p style="text-align:center;"> <strong>Dennis Chua</strong><br>Freelance<br>Trainer<br><strong>Class of 82</strong></p>	
 	
 ***
 
