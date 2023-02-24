@@ -210,13 +210,13 @@ img {
 
 <h5 style="color:black" align="center">Committee Member</h5>
 
-<p style="text-align:center;"> <strong>Ravindran Nair</strong><br><em>Freelance</em><br>Consultant<br><strong>Class of 74</strong></p>
+<p style="text-align:center;"> <strong>Ravindran Nair</strong><br>Freelance<br>Consultant<br><strong>Class of 74</strong></p>
 	
 ***
 
 <h5 style="color:black" align="center">Internal Auditors</h5>
 
-<p style="text-align:center;"> <strong>Lim Pang Yong Raymond</strong><br><em>Chui Siew Pun</em><br><br><strong></strong></p>	
+<p style="text-align:center;"> <strong>Lim Pang Yong Raymond</strong><br><strong>Chui Siew Pun<br><br></strong></p>	
 	
 ***
 
