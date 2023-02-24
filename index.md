@@ -12,7 +12,7 @@ sections:
   - hero:
       background: /images/gess homepage.gif
       key_highlights:
-        - title: The Gessian Potrait
+        - title: The Gessian Portrait
           description: Principled Leader | Engaged Learner | Reflective & Innovative
             Thinker | Active Citizen
           url: /about-us/gessian-portrait/
