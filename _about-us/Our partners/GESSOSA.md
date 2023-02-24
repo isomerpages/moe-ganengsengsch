@@ -92,7 +92,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr-Lee-Hay-Keong-1.jpeg" alt="Mr-Lee-Hay-Keong" style="width:25%;">  
+<body>
+<img src="/images/Mr-Lee-Hay-Keong-1.jpeg" alt="Mr-Lee-Hay-Keong" style="width:25%;">  
   
 </body>
 
