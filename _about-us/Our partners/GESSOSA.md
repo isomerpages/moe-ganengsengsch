@@ -215,13 +215,19 @@ img {
 
 ***
 
-<h5 style="color:black" align="center">Committee Member</h5>
+<h5 style="color:black" align="center">Internal Auditors</h5>
 
-<p style="text-align:center;"> <strong>Edwin Chong
-</strong><br><em>Senior Vice President (Equities & Capital Markets)</em><br>UOB Kay Hian<br><strong>Class of 91</strong></p>
+<p style="text-align:center;"> <strong>Lim Pang Yong Raymond<strong><BR><strong>Chui Siew Pun<strong>
+</p>
 
 ***
 
-<h5 style="color:black" align="center">Committee Member</h5>
+<h5 style="color:black" align="center">School Liaison Officer</h5>
 
-<p style="text-align:center;"> <strong>Benjamin Lau Chang Xun</strong><br><em>Research Assistant (Credit Research)</em><br>GIC<br><strong>Class of 09</strong></p>
+<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><em>Casey Teo Kim Ching</em><br>Lee Hay Keong<br></p>
+	
+***
+
+<h5 style="color:black" align="left">Sub Committees</h5>
+
+<p style="text-align:left;"> <strong>GESSOSA Education Development Fund</strong><br><em>Fund Raising</em><br>Social<br>Membership<br>Policies & Constitutional Review<br>Public Relations<br>Student Welfare & Education<br></p>
