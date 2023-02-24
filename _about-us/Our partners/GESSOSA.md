@@ -93,6 +93,7 @@ img {
 }  
 </style>  
 <body>
+<img src="/images/Chan%20Ramli.jpg" alt="Mr-Ramli-Chan" style="width:25%;">  
 
 </body>
 
@@ -164,7 +165,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Dennis%20Chua.jpg" alt="teo-kim-ching" style="width:25%;">   
+<body><img src="/images/Dennis%20Chua.jpg" alt="Mr-Dennis-Chua" style="width:25%;">   
 </body>
 
 
