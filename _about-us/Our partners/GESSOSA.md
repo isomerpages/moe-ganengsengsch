@@ -101,6 +101,24 @@ img {
 </em><br>GME Chemicals (S) Pte Ltd<br><strong>Class of 93</strong></p>
 
 ***
+
+<h5 style="color:black" align="center">Honorary Assistance Treasurer</h5>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Mr-Wee-Ren-Chai-Ronald-1.jpeg" alt="Mr-Wee-Ren-Chai-Ronald" style="width:25%;">  
+  
+</body>
+
+
+<p style="text-align:center;"> <strong>Wee Ren Chai Ronald</strong><br><em>Founder</em><br>Apex Training & Leadership<br><strong>Class of 04</strong></p>
+
+***
+
 <h5 style="color:black" align="center">Committee Member
 </h5>
 <style>  
