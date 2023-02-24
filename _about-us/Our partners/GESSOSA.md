@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our partners
 ---
 GESSOSA EXCO for 2021 – 2023
------------------------------
+---------------------------------
 
 <h5 style="color:black" align="center">President</h5>
 
