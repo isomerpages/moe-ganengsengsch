@@ -156,6 +156,7 @@ img {
 <p style="text-align:center;"> <strong>Teo Kim Ching Casey</strong><br><em>Partner</em><br>WSS Marine Supplies P L<br><strong>Class of 80</strong></p>
 
 ***
+
 <h5 style="color:black" align="center">Committee Member
 </h5>
 <style>  
@@ -168,9 +169,8 @@ img {
 <body><img src="/images/Dennis%20Chua.jpg" alt="Mr-Dennis-Chua" style="width:25%;">   
 </body>
 
-
-<p style="text-align:center;"> <strong>Dennis Chua</strong><br><em>Freelance Trainer<br><strong>Class of 82</strong></p>
-
+<p style="text-align:center;"> <strong>Dennis Chua</strong><br><em>Freelance</em><br>Trainer<br><strong>Class of 82</strong></p>	
+	
 ***
 
 <h5 style="color:black" align="center">Committee Member
@@ -210,9 +210,8 @@ img {
 
 <h5 style="color:black" align="center">Committee Member</h5>
 
-<p style="text-align:center;"> <strong>Ravidran Nair
-</strong><br><em>Freelance Consultant<br><strong>Class of 74</strong></p>
-
+<p style="text-align:center;"> <strong>Ravindran Nair</strong><br><em>Freelance</em><br>Consultant<br><strong>Class of 74</strong></p>
+	
 ***
 
 <h5 style="color:black" align="center">Internal Auditors</h5>
@@ -230,4 +229,4 @@ img {
 
 <h5 style="color:black" align="left">Sub Committees</h5>
 
-<p style="text-align:left;"> <strong>GESSOSA Education Development Fund</strong><br><em>Fund Raising</em><br>Social<br>Membership<br>Policies & Constitutional Review<br>Public Relations<br>Student Welfare & Education<br></p>
+<p style="text-align:left;"> GESSOSA Education Development Fund<br><em>Fund Raising</em><br>Social<br>Membership<br>Policies & Constitutional Review<br>Public Relations<br>Student Welfare & Education<br></p>
