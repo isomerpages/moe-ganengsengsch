@@ -215,7 +215,7 @@ img {
 
 <h5 style="color:black" align="center">Internal Auditors</h5>
 
-<p style="text-align:center;"> <strong>Lim Pang Yong Raymond</strong><br><strong>Chui Siew Pun<br><br></strong></p>	
+<p style="text-align:center;"> <strong>Lim Pang Yong Raymond</strong><br><strong>Chui Siew Pun<br></strong></p>	
 	
 ***
 
