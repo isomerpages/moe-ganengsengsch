@@ -24,7 +24,6 @@ img {
 <p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<br><strong>Class of 74</strong></p>
 
 
-<br>
 
 ***
 <h5 style="color:black" align="center">Vice President
