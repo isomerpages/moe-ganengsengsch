@@ -4,8 +4,7 @@ permalink: /partners/gessosa/
 description: ""
 third_nav_title: Our partners
 ---
-
-EXECUTIVE COUNCIL 2020 – 2022
+GESSOSA EXCO for 2021 – 2023
 -----------------------------
 
 <h5 style="color:black" align="center">President</h5>
