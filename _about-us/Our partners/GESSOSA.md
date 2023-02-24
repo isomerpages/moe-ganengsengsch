@@ -210,6 +210,13 @@ img {
 
 <h5 style="color:black" align="center">Committee Member</h5>
 
+<p style="text-align:center;"> <strong>Ravidran Nair
+</strong><br><em>Freelance Consultant<br><strong>Class of 74</strong></p>
+
+***
+
+<h5 style="color:black" align="center">Committee Member</h5>
+
 <p style="text-align:center;"> <strong>Edwin Chong
 </strong><br><em>Senior Vice President (Equities & Capital Markets)</em><br>UOB Kay Hian<br><strong>Class of 91</strong></p>
 
