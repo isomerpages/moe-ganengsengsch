@@ -46,24 +46,6 @@ img {
 ***
 
 
-<h5 style="color:black" align="center">Vice President
-</h5>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/teo-kim-ching-1.jpeg" alt="teo-kim-ching" style="width:25%;">  
-  
-</body>
-
-
-<p style="text-align:center;"> <strong>Teo Kim Ching Casey</strong><br><em>Partner</em><br>WSS Marine Supplies P L<br><strong>Class of 80</strong></p>
-
-***
-
 <h5 style="color:black" align="center">Honorary Secretary
 </h5>
 <style>  
@@ -161,6 +143,24 @@ img {
 
 ***
 
+
+<h5 style="color:black" align="center">Committee Member
+</h5>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/teo-kim-ching-1.jpeg" alt="teo-kim-ching" style="width:25%;">  
+  
+</body>
+
+
+<p style="text-align:center;"> <strong>Teo Kim Ching Casey</strong><br><em>Partner</em><br>WSS Marine Supplies P L<br><strong>Class of 80</strong></p>
+
+***
 
 <h5 style="color:black" align="center">Committee Member</h5>
 <style>  
