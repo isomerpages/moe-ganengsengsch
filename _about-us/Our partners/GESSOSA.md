@@ -93,7 +93,7 @@ img {
 }  
 </style>  
 <body>
-<img src="/images/Mr-Lee-Hay-Keong-1.jpeg" alt="Mr-Lee-Hay-Keong" style="width:25%;">  
+<img src="/images/Chan-Ramli.jpeg" alt="Mr-Ramli Chan" style="width:25%;">  
   
 </body>
 
