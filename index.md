@@ -18,7 +18,7 @@ sections:
           url: /about-us/gessian-portrait/
         - title: Vision
           description: Gessians of Excellence, Standing and Significance
-          url: https://gmail.com/about-us/vision-mission-values/
+          url: /about-us/vision-mission-values/
         - title: Mission
           description: Nurturing the best in each & Striving ever onward
           url: /about-us/vision-mission-values/
