@@ -164,8 +164,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/teo-kim-ching-1.jpeg" alt="teo-kim-ching" style="width:25%;">  
-  
+<body><img src="/images/Dennis%20Chua.jpg" alt="teo-kim-ching" style="width:25%;">   
 </body>
 
 
