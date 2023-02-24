@@ -169,7 +169,7 @@ img {
 </body>
 
 
-<p style="text-align:center;"> <strong>Tang Chun Tuck</strong><br><em>Senior Managing Director
+<p style="text-align:center;"> <strong>Tang Chun Tuck</strong><br><em>Senior Marketing Director
 </em><br>ERA Realty Network Pte Ltd<br><strong>Class of 69 & 71</strong></p>
 
 ***
