@@ -93,8 +93,7 @@ img {
 }  
 </style>  
 <body>
-<img src="/images/Chan-Ramli.jpeg" alt="Mr-Ramli Chan" style="width:25%;">  
-  
+
 </body>
 
 <p style="text-align:center;"> <strong>Ramli Chan
