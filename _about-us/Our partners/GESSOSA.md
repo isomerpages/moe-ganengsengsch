@@ -119,42 +119,6 @@ img {
 
 ***
 
-<h5 style="color:black" align="center">Committee Member
-</h5>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/yong-teck-ming-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:25%;">  
-  
-</body>
-
-
-<p style="text-align:center;"> <strong>Yong Teck Ming
-</strong><br><em>Chartered Financial Consultant
-</em><br>representing Prudential, AIG, AXA & Liberty<br><strong>Class of 85</strong></p>
-
-***
-
-<h5 style="color:black" align="center">Committee Member</h5>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Mr-Wee-Ren-Chai-Ronald-1.jpeg" alt="Mr-Wee-Ren-Chai-Ronald" style="width:25%;">  
-  
-</body>
-
-
-<p style="text-align:center;"> <strong>Wee Ren Chai Ronald</strong><br><em>Founder</em><br>Eudaemonia International<br><strong>Class of 04</strong></p>
-
-***
 
 <h5 style="color:black" align="center">Committee Member</h5>
 <style>  
@@ -190,6 +154,26 @@ img {
 
 
 <p style="text-align:center;"> <strong>Teo Kim Ching Casey</strong><br><em>Partner</em><br>WSS Marine Supplies P L<br><strong>Class of 80</strong></p>
+
+***
+
+<h5 style="color:black" align="center">Committee Member
+</h5>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/yong-teck-ming-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:25%;">  
+  
+</body>
+
+
+<p style="text-align:center;"> <strong>Yong Teck Ming
+</strong><br><em>Chartered Financial Consultant
+</em><br>representing Prudential, AIG, AXA & Liberty<br><strong>Class of 85</strong></p>
 
 ***
 
