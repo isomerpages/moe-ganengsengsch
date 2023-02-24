@@ -24,7 +24,6 @@ img {
 <p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<br><strong>Class of 74</strong></p>
 
 
-<br>
 
 ***
 <h5 style="color:black" align="center">Vice President
@@ -156,6 +155,7 @@ img {
 <p style="text-align:center;"> <strong>Teo Kim Ching Casey</strong><br><em>Partner</em><br>WSS Marine Supplies P L<br><strong>Class of 80</strong></p>
 
 ***
+
 <h5 style="color:black" align="center">Committee Member
 </h5>
 <style>  
@@ -168,9 +168,8 @@ img {
 <body><img src="/images/Dennis%20Chua.jpg" alt="Mr-Dennis-Chua" style="width:25%;">   
 </body>
 
-
-<p style="text-align:center;"> <strong>Dennis Chua</strong><br><em>Freelance Trainer<br><strong>Class of 82</strong></p>
-
+<p style="text-align:center;"> <strong>Dennis Chua</strong><br>Freelance<br>Trainer<br><strong>Class of 82</strong></p>	
+	
 ***
 
 <h5 style="color:black" align="center">Committee Member
@@ -210,24 +209,22 @@ img {
 
 <h5 style="color:black" align="center">Committee Member</h5>
 
-<p style="text-align:center;"> <strong>Ravidran Nair
-</strong><br><em>Freelance Consultant<br><strong>Class of 74</strong></p>
-
+<p style="text-align:center;"> <strong>Ravindran Nair</strong><br>Freelance<br>Consultant<br><strong>Class of 74</strong></p>
+	
 ***
 
 <h5 style="color:black" align="center">Internal Auditors</h5>
 
-<p style="text-align:center;"> <strong>Lim Pang Yong Raymond<strong><BR><strong>Chui Siew Pun<strong>
-</p>
-
+<p style="text-align:center;"> <strong>Lim Pang Yong Raymond</strong><br><strong>Chui Siew Pun<br></strong></p>	
+	
 ***
 
 <h5 style="color:black" align="center">School Liaison Officer</h5>
 
-<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><em>Casey Teo Kim Ching</em><br>Lee Hay Keong<br></p>
-	
+<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><strong>Casey Teo Kim Ching<br>Lee Hay Keong<br></strong></p>
+
 ***
 
 <h5 style="color:black" align="left">Sub Committees</h5>
 
-<p style="text-align:left;"> <strong>GESSOSA Education Development Fund</strong><br><em>Fund Raising</em><br>Social<br>Membership<br>Policies & Constitutional Review<br>Public Relations<br>Student Welfare & Education<br></p>
+<p style="text-align:left;"> GESSOSA Education Development Fund<br>Fund Raising<br>Social<br>Membership<br>Policies & Constitutional Review<br>Public Relations<br>Student Welfare & Education<br></p>
