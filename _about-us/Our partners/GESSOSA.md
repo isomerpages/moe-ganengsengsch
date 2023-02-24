@@ -221,7 +221,7 @@ img {
 
 <h5 style="color:black" align="center">School Liaison Officer</h5>
 
-<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><em>Casey Teo Kim Ching</em><br>Lee Hay Keong<br><strong></strong></p>
+<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><strong>Casey Teo Kim Ching<br>Lee Hay Keong<br></strong></p>
 
 ***
 
