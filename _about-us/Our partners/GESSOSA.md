@@ -21,7 +21,7 @@ img {
 </body>
 
 
-<p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<br><strong>Year of Graduation: 1974</strong></p>
+<p style="text-align:center;"> <strong>Wong Peng Meng</strong><br><em>Head, Alumni Office</em><br>Singapore University of Technology and Design<br><strong>Class of 74</strong></p>
 
 
 <br>
@@ -41,7 +41,7 @@ img {
 </body>
 
 
-<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><em>Partner</em><br>Chang See Hiang & Partners<br><strong>Year of Graduation: 1985</strong></p>
+<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><em>Partner</em><br>Chang See Hiang & Partners<br><strong>Class of 85</strong></p>
 
 ***
 
@@ -60,7 +60,7 @@ img {
 </body>
 
 
-<p style="text-align:center;"> <strong>Teo Kim Ching Casey</strong><br><em>Partner</em><br>WSS Marine Supplies P L<br><strong>Year of Graduation: 1980</strong></p>
+<p style="text-align:center;"> <strong>Teo Kim Ching Casey</strong><br><em>Partner</em><br>WSS Marine Supplies P L<br><strong>Class of 80</strong></p>
 
 ***
 
@@ -78,12 +78,12 @@ img {
 </body>
 
 
-<p style="text-align:center;"> <strong>Ang Joon Ping Joshua</strong><br><em>Director</em><br>SingTel<br><strong>Year of Graduation: 1980</strong></p>
+<p style="text-align:center;"> <strong>Ang Joon Ping Joshua</strong><br><em>Director</em><br>SingTel<br><strong>Class of 80</strong></p>
 
 ***
 
 <h5 style="color:black" align="center">Honorary Assistant Secretary</h5>
-<p style="text-align:center;"> <strong>Mohamed Hamja Maricar</strong><br><em>Managing Director</em><br>Pixaknights Pte Ltd<br><strong>Year of Graduation: 2003</strong></p>
+<p style="text-align:center;"> <strong>Mohamed Hamja Maricar</strong><br><em>Managing Director</em><br>Pixaknights Pte Ltd<br><strong>Class of 03</strong></p>
 
 ***
 
@@ -102,7 +102,7 @@ img {
 
 <p style="text-align:center;"> <strong>Lee Hay Keong
 </strong><br><em>Senior Vice President
-</em><br>CPG consultants Pte Ltd<br><strong>Year of Graduation: 1974</strong></p>
+</em><br>CPG consultants Pte Ltd<br><strong>Class of 74</strong></p>
 
 ***
 
@@ -122,7 +122,7 @@ img {
 
 <p style="text-align:center;"> <strong>Yong Teck Ming
 </strong><br><em>Chartered Financial Consultant
-</em><br>representing Prudential, AIG, AXA & Liberty<br><strong>Year of Graduation: 1985</strong></p>
+</em><br>representing Prudential, AIG, AXA & Liberty<br><strong>Class of 85</strong></p>
 
 ***
 
@@ -139,7 +139,7 @@ img {
 </body>
 
 
-<p style="text-align:center;"> <strong>Wee Ren Chai Ronald</strong><br><em>Founder</em><br>Eudaemonia International<br><strong>Year of Graduation: 2004</strong></p>
+<p style="text-align:center;"> <strong>Wee Ren Chai Ronald</strong><br><em>Founder</em><br>Eudaemonia International<br><strong>Class of 04</strong></p>
 
 ***
 
@@ -157,7 +157,7 @@ img {
 
 
 <p style="text-align:center;"> <strong>Tang Chun Tuck</strong><br><em>Senior Managing Director
-</em><br>ERA Realty Network Pte Ltd<br><strong>Year of Graduation: 1969 & 1971</strong></p>
+</em><br>ERA Realty Network Pte Ltd<br><strong>Class of 69 & 71</strong></p>
 
 ***
 
@@ -173,17 +173,17 @@ img {
 <body><img src="/images/Mr-Steven-Lee-Kiang-Sing-1.jpeg" alt="Mr-Steven-Lee-Kiang-Sing" style="width:25%;">  
   
 </body>
-<p style="text-align:center;"> <strong>Steven Lee Kiang Sing</strong><br><em>Tour Manager</em><br>Chan Brothers Travel<br><strong>Year of Graduation: 1985</strong></p>
+<p style="text-align:center;"> <strong>Steven Lee Kiang Sing</strong><br><em>Tour Manager</em><br>Chan Brothers Travel<br><strong>Class of 85</strong></p>
 
 ***
 
 <h5 style="color:black" align="center">Committee Member</h5>
 
 <p style="text-align:center;"> <strong>Edwin Chong
-</strong><br><em>Senior Vice President (Equities & Capital Markets)</em><br>UOB Kay Hian<br><strong>Year of Graduation: 1991</strong></p>
+</strong><br><em>Senior Vice President (Equities & Capital Markets)</em><br>UOB Kay Hian<br><strong>Class of 91</strong></p>
 
 ***
 
 <h5 style="color:black" align="center">Committee Member</h5>
 
-<p style="text-align:center;"> <strong>Benjamin Lau Chang Xun</strong><br><em>Research Assistant (Credit Research)</em><br>GIC<br><strong>Year of Graduation: 2009</strong></p>
+<p style="text-align:center;"> <strong>Benjamin Lau Chang Xun</strong><br><em>Research Assistant (Credit Research)</em><br>GIC<br><strong>Class of 09</strong></p>
