@@ -30,7 +30,7 @@ sections:
       button: READ MORE
       url: /resources/announcements/permalink/Term12023/
   - infobar:
-      title: "Green Wave Environmental Care Project "
+      title: 2023 GCE N(T)/N(A)/O-Level Registration Matters
       button: READ MORE
-      url: /resources/proud-moments/permalink/greenwave2022/
+      url: /resources/announcements/permalink/2023GCERegistration/
 ---
