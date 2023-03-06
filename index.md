@@ -26,11 +26,11 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
+      title: 2023 GCE N(T)/N(A)/O-Level Registration Matters
+      button: READ MORE
+      url: /resources/announcements/permalink/2023GCERegistration/
+  - infobar:
       title: Letter to parents (Term 1 2023)
       button: READ MORE
       url: /resources/announcements/permalink/Term12023/
-  - infobar:
-      title: "Green Wave Environmental Care Project "
-      button: READ MORE
-      url: /resources/proud-moments/permalink/greenwave2022/
 ---
