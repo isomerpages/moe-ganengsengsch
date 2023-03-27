@@ -26,10 +26,6 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: 2023 GCE N(T)/N(A)/O-Level Registration Matters
-      button: READ MORE
-      url: /resources/announcements/permalink/2023GCERegistration/
-  - infobar:
       title: Letter to parents (Term 2 2023)
       button: READ MORE
       url: /resources/announcements/permalink/term22023/
