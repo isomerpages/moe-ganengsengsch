@@ -1,5 +1,5 @@
 ---
-title: Drama (Boys & Girls)
+title: Drama (Boys &amp; Girls)
 permalink: /cca/performing-arts/drama/
 description: ""
 third_nav_title: CCAs   Performing Arts
@@ -11,9 +11,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Drama-1.jpeg" alt="Drama (Boys & Girls)" style="width:55%;">  
+<img src="/images/Drama-1.jpeg" alt="Drama (Boys &amp; Girls)" style="width:55%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -23,9 +23,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Drama-2.jpeg" alt="Drama (Boys & Girls)" style="width:55%;">  
+<img src="/images/Drama-2.jpeg" alt="Drama (Boys &amp; Girls)" style="width:55%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -35,9 +35,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Drama-3.jpeg" alt="Drama (Boys & Girls)" style="width:55%;">  
+<img src="/images/Drama-3.jpeg" alt="Drama (Boys &amp; Girls)" style="width:55%;">  
   
-</body>
+
 <br>
 
 <style type="text/css">
@@ -64,7 +64,7 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr. Lim Wei Yi<br>Ms. Kymn Yee<br>Mr. Nandabalan<br>Ms. Siti Mariam</td>
+    <td class="tg-tsok">Mr. Lim Wei Yi<br>Ms. Siti Mariam<br>Ms. Audrey Tee</td>
     <td class="tg-tsok">Thespian Lab Pte. Ltd.</td>
     <td class="tg-tsok">President:<br>S DURGA VALLI<br>Vice-Presidents<br>KIRRTHANA PREM KUMAR K<br>SANKAR THARUN GOPAL</td>
   </tr>
