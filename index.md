@@ -26,7 +26,7 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Follow up for Sec 2 Meet Parent Session 2023
+      title: Sec 2 Meet Parent Session 2023
       button: READ MORE
       url: /resources/announcements/permalink/sec2mps/
   - infobar:
