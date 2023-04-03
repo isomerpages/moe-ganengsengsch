@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+Dear parents/guardians,
+
+Thank you for the overwhelming response to our Sec 2 Meet-Parent-Session on 31 Mar 2023. We hope you found the session useful. Here are the slides shared by the respective presenters:
+
