@@ -7,7 +7,6 @@ description: ""
 image: ""
 ---
 GESS is happy to announce that our dance CCA
-
 has achieved the Accomplishment award. The students, teachers and the instructors put in their best and their performance at UCC was impressive. Thank you for the great effort and team work. Onward!
 
 ![](/images/dance%201.jpg)
