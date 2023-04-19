@@ -33,4 +33,8 @@ sections:
       title: Letter to parents (Term 2 2023)
       button: READ MORE
       url: /resources/announcements/permalink/term22023/
+  - infobar:
+      title: Direct School Admission (DSA)
+      button: READ MORE
+      url: /school-information/school-admission/
 ---
