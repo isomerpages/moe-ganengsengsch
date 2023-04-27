@@ -35,7 +35,7 @@ third_nav_title: CCAs   Sports & Games
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Tan Yong Geng<br>Mr Lim Bun<br>Mr Eugene Teo<br>Mrs Nalyn Chan<br>Ms Chong Chi</td>
+    <td class="tg-tsok">Mr Tan Yong Geng<br>Mr Lim Bun<br>Mrs Nalyn Chan<br>Ms Chong Chee<br>Mr Seah Cheng</td>
     <td class="tg-tsok">Mr Lim Bun<br>Mr Tan Yong Geng<br></td>
     <td class="tg-tsok">Captain:<br>Eng Kang Sheng (3-6)<br>Vice-captains:<br>Natalie Nah Zi Xuan (3-6)<br>Vishal Vijayachelvan (3-7)</td>
   </tr>
