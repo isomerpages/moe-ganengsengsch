@@ -4,40 +4,11 @@ permalink: /cca/sports/cross-country/
 description: ""
 third_nav_title: CCAs   Sports & Games
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Cross-Country-2.jpeg" alt="Cross Country (Boys & Girls)" style="width:70%;">  
-  
-</body>
+![](/images/c%20division%20boys%20team%20emerged%202nd%20in%20the%20nsg%20cross%20country.JPG)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Cross-Country-3.jpeg" alt="Cross Country (Boys & Girls)" style="width:55%;">  
-  
-</body>
+![](/images/4x400m%20relay%20teams.JPG)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Cross-Country-1.jpeg" alt="Cross Country (Boys & Girls)" style="width:70%;">  
-  
-</body>
+![](/images/team%20photo%202023.JPG)
 <br>
 
 <style type="text/css">
