@@ -52,6 +52,6 @@ Students are also given the opportunity to deepen their learning of both the wri
 
 **English Language and Literature Teaching Syllabuses**
 
-*   [English Language Ordinary and Normal (Academic) Level](https://ganengsengsch.moe.edu.sg/nurturegess/academic/english/o%09https:/www.moe.gov.sg/-/media/files/secondary/syllabuses/eng/sec_exp-na_els-2020_syllabus-(1).pdf) 
+*   [English Language Ordinary and Normal (Academic) Level](https://www.moe.gov.sg/-/media/files/secondary/syllabuses/eng/sec_exp-na_els-2020_syllabus-(1).pdf)
 *   [English Language Normal (Technical) Level](https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/eng/felnt_els-2020_syllabus.pdf?la=en&hash=283F97E95137AB1E3D920142CF4580EFBAA63EBF)
 *   [Literature in English Ordinary Level](https://www.moe.gov.sg/-/media/files/secondary/syllabuses/eng/2019literatureinenglishsyllabusloweranduppersecondary.pdf?la=en&hash=C5756A2A2E90E1391931ABD4AD445081A5DBFE5B)
