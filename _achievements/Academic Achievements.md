@@ -7,8 +7,9 @@ description: ""
     ----
     
     <table style="border-color: #fcb100; width: 100%; height: 1024px;" border="20"><tbody><tr style="height: 406px;"><td style="width: 23.375%; height: 406px;"><strong>Ngee Ann Polytechnic Mathematics Challenge 2023 <br>- Math Quiz Segment<br></strong></td><td style="width: 70.875%; height: 406px;"><strong>Gold Award</strong><p>POON YOK LENG, TIFFANY (4-5)<br>RAIYAN LEONG MING XI (4-5)<br>KIRRTHANA PREM KUMAR K (4-5)<br>WU JUN YU (4-5)<br>GOH PING FONG, MURPHY (4-5)<br>HANSINI (4-5)<br>NG YI LER (4-5)<br>WEE KIOKO (4-5)</p><p><strong>Silver Award</strong></p><p>LAU ZHER WING (4-5)<br>WANG RUI CHEN (4-5)<br>CHEW YAN CHEUNG, DYLAN (4-7)<br>ETHAN COONG WEN-YI (4-8)<br>REANNE QUEK (4-8)<br>LIM WEI XIANG (4-6)<br>CHLOE TAN SI XUAN (4-5)<br>TAN XIN YI (4-6)</p></td></tr></tbody></table>
-    
+
 <br><br><br>
+
 *   2022
     ----
     
