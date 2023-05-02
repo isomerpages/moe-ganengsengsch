@@ -37,7 +37,7 @@ third_nav_title: CCAs   Sports & Games
   <tr>
     <td class="tg-tsok">Mr Jeffrey Phua<br>Mr Wong Chin Yeow<br>Ms Wong Hiew Min</td>
     <td class="tg-tsok">Chen JianEr<br>Goh Tian Lai</td>
-    <td class="tg-tsok">Captain:<br>Leanne Tan Xinyan (3-6)<br><br>Vice Captains:<br>Sharma Anoushka Parikshit (3-7),<br>Ong Qian Yi Candice (3-7)</td>
+    <td class="tg-tsok">Captain:<br>Inez Teo Kit Yin (3-2)<br><br>Vice Captains:<br>Sharma Anoushka Parikshit (3-7),<br>Ong Qian Yi Candice (3-7)</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="3">Our Table Tennis Team was formed to provide girls with an opportunity to experience the sport of table tennis at a competitive level. Since its establishment, our team has competed in many external competitions and in particular, the annual South zone and National Inter-schools Table Tennis Championships. Our CCA participates in a number of enriching activities such as:<br><br>●        Skill based training<br>●        Orientation &amp; home-coming camp<br>●        Inter-school competitions<br>●        External competitions<br>●        Bonding activities<br>●        Value-in-Action (ViA)<br><br>For the past two years (2021 and 2022), our girls table tennis team attained the bronze medal at the National School Games (NSG) South Zone championships.</td>
