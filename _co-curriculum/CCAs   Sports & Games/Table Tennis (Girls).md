@@ -4,40 +4,11 @@ permalink: /cca/sports/table-tennis/
 description: ""
 third_nav_title: CCAs   Sports & Games
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/tabletennis1.jpg" alt="Table Tennis (Girls)" style="width:60%;">  
-  
-
+![](/images/tabletennis1.jpg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/tabletennis2.jpg" alt="Table Tennis (Girls)" style="width:60%;">  
-  
-
+![](/images/tabletennis2.jpg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/tabletennis3.jpg" alt="Table Tennis (Girls)" style="width:60%;">  
-  
-
+![](/images/tabletennis3.jpg)
 <br>
 
 <style type="text/css">
@@ -64,8 +35,8 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Jeffrey Phua<br>Mr Wong Chin Yeow<br>Ms Audrey Tee</td>
-    <td class="tg-tsok">CHEN JIANER<br>GOH TIAN LAI</td>
+    <td class="tg-tsok">Mr Jeffrey Phua<br>Mr Wong Chin Yeow<br>Ms Wong Hiew Min</td>
+    <td class="tg-tsok">Chen JianEr<br>Goh Tian Lai</td>
     <td class="tg-tsok">Captain:<br>Leanne Tan Xinyan (3-6)<br><br>Vice Captains:<br>Sharma Anoushka Parikshit (3-7),<br>Ong Qian Yi Candice (3-7)</td>
   </tr>
   <tr>
