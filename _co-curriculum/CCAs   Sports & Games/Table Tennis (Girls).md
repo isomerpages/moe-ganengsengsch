@@ -42,8 +42,14 @@ third_nav_title: CCAs   Sports & Games
 		<td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday<br>2.30pm-5.30pm<br><br>Venue:<br>ISH Upper Deck</td>
   </tr>
   <tr>
-    <td class="tg-h5mn" colspan="4">Our Table Tennis Team was formed to provide girls with an opportunity to experience the sport of table tennis at a competitive level. Since its establishment, our team has competed in many external competitions and in particular, the annual South zone and National Inter-schools Table Tennis Championships.<br><br>Achievements<br>
-For the past two years (2021 and 2022), our girls table tennis team attained the bronze medal at the National School Games (NSG) South Zone championships.</td>
+    <td class="tg-h5mn" colspan="4">Our Table Tennis Team was formed to provide girls with an opportunity to experience the sport of table tennis at a competitive level. Since its establishment, our team has competed in many external competitions and in particular, the annual South zone and National Inter-schools Table Tennis Championships.<br><br>Achievements<br><br>
+2022: South Zone inter-school championships ‘B’ Division girl(team) - Bronze
+<br><br>
+2021: South Zone inter-school championships ‘B’ Division girl(team) - Bronze
+<br>
+‘C’ Division girl(team) is cancelled due to COVID-19 tightened measures in Term 3
+<br><br>
+2020: South zone inter-school championships (2019) – No NSG in 2020&nbsp;due to COVID-19</td>
   </tr>
 </tbody>
 </table>
