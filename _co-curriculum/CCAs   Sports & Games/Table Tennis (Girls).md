@@ -4,28 +4,11 @@ permalink: /cca/sports/table-tennis/
 description: ""
 third_nav_title: CCAs   Sports & Games
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Table-Tennis-1.jpeg" alt="Table Tennis (Girls)" style="width:60%;">  
-  
-</body>
+![](/images/tabletennis1.jpg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Table-Tennis-2.jpeg" alt="Table Tennis (Girls)" style="width:60%;">  
-  
-</body>
+![](/images/tabletennis2.jpg)
+<br>
+![](/images/tabletennis3.jpg)
 <br>
 
 <style type="text/css">
@@ -50,14 +33,23 @@ img {
     <td class="tg-h5mn">Teachers-in-charge:</td>
     <td class="tg-h5mn">Coaches:</td>
     <td class="tg-h5mn">Student Leaders:</td>
+		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Jeffrey Phua<br>Mr Wong Chin Yeow<br>Ms Audrey Tee</td>
-    <td class="tg-tsok">CHEN JIANER<br>GOH TIAN LAI</td>
-    <td class="tg-tsok">Captain:<br>Leanne Tan Xinyan (3-6)<br><br>Vice Captains:<br>Sharma Anoushka Parikshit (3-7),<br>Ong Qian Yi Candice (3-7)</td>
+    <td class="tg-tsok">Mr Jeffrey Phua<br>Mr Wong Chin Yeow<br>Ms Wong Hiew Min</td>
+    <td class="tg-tsok">Chen JianEr<br>Goh Tian Lai</td>
+    <td class="tg-tsok">Captain:<br>Inez Teo Kit Yin (3-2)<br><br>Vice Captains:<br>Janelle Ow Shi Qi (3-7),<br>Vicky Lee Sze Ning (3-5)</td>
+		<td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday<br>2.30pm-5.30pm<br><br>Venue:<br>ISH Upper Deck</td>
   </tr>
   <tr>
-    <td class="tg-h5mn" colspan="3">Our Table Tennis Team was formed to provide girls with an opportunity to experience the sport of table tennis at a competitive level. Since its establishment, our team has competed in many external competitions and in particular, the annual South zone and National Inter-schools Table Tennis Championships. Our CCA participates in a number of enriching activities such as:<br><br>●        Skill based training<br>●        Orientation &amp; home-coming camp<br>●        Inter-school competitions<br>●        External competitions<br>●        Bonding activities<br>●        Value-in-Action (ViA)<br><br>For the past two years (2021 and 2022), our girls table tennis team attained the bronze medal at the National School Games (NSG) South Zone championships.</td>
+    <td class="tg-h5mn" colspan="4">Our Table Tennis Team was formed to provide girls with an opportunity to experience the sport of table tennis at a competitive level. Since its establishment, our team has competed in many external competitions and in particular, the annual South zone and National Inter-schools Table Tennis Championships.<br><br>Achievements<br><br>
+2022: South Zone inter-school championships ‘B’ Division girl(team) - Bronze
+<br><br>
+2021: South Zone inter-school championships ‘B’ Division girl(team) - Bronze
+<br>
+‘C’ Division girl(team) is cancelled due to COVID-19 tightened measures in Term 3
+<br><br>
+2020: South zone inter-school championships (2019) – No NSG in 2020&nbsp;due to COVID-19</td>
   </tr>
 </tbody>
 </table>
