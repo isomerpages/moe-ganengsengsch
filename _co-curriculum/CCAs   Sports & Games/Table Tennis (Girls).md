@@ -11,9 +11,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Table-Tennis-1.jpeg" alt="Table Tennis (Girls)" style="width:60%;">  
+<img src="/images/tabletennis1.jpg" alt="Table Tennis (Girls)" style="width:60%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -23,9 +23,21 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Table-Tennis-2.jpeg" alt="Table Tennis (Girls)" style="width:60%;">  
+<img src="/images/tabletennis2.jpg" alt="Table Tennis (Girls)" style="width:60%;">  
   
-</body>
+
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/tabletennis3.jpg" alt="Table Tennis (Girls)" style="width:60%;">  
+  
+
 <br>
 
 <style type="text/css">
