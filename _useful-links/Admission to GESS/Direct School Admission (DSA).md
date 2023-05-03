@@ -23,6 +23,11 @@ The following categories are open for DSA application for the 2024 intake:
 *   Marching Band
 *   Modern Dance
 
+<br>
+For more information on DSA-Sec exercise, please refer to below attachment
+<br>
+[DSA GESS 2023 Exercise](/files/dsa_gess_2023%20for%20sch%20site%20upload_final.pdf)
+<br>
 
 For more information and application, please refer to:
 
@@ -30,7 +35,7 @@ For more information and application, please refer to:
 *   Contact Us (MOE) :[https://www.moe.gov.sg/contact-us](https://www.moe.gov.sg/contact-us)
 
 <br>
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+
 
 Yours faithfully,
 
