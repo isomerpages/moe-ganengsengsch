@@ -36,7 +36,7 @@ third_nav_title: CCAs   Uniformed Groups
 <tbody>
   <tr>
     <td class="tg-h5mn">Teachers-in-charge:</td>
-    <td class="tg-h5mn">Volunteer Adult Leaders:</td>
+    <td class="tg-h5mn">Cadet Officers:</td>
     <td class="tg-h5mn">Student Leaders:</td>
 		    <td class="tg-h5mn">CCA Days:</td>
   </tr>
