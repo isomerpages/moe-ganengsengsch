@@ -38,7 +38,7 @@ third_nav_title: CCAs   Sports & Games
 		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Sathis Kumar<br>Mr Qaleelullah</td>
+    <td class="tg-tsok">Mr Sathis Kumar<br>Mr Qaleelullah<br>Mr Chee Fook Sing</td>
     <td class="tg-tsok">Mr Nordin B Abdul Mannan</td>
     <td class="tg-tsok">Captain<br>Sheldon Ng Wei Le (3-5)<br>Vice-Captain<br>Mustaq Ahmad Bin Sikkandar (3-1)</td>
   </tr>
