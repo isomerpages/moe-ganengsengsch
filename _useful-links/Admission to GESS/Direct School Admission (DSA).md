@@ -26,7 +26,7 @@ The following categories are open for DSA application for the 2024 intake:
 <br>
 For more information on DSA-Sec exercise, please refer to below attachment
 <br>
-[DSA_GESS_2023 Exercise]()
+[DSA GESS 2023 Exercise]([DSA GESS 2023 Exercise](/files/dsa_gess_2023%20for%20sch%20site%20upload_final.pdf))
 <br>
 
 For more information and application, please refer to:
