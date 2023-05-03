@@ -42,7 +42,7 @@ third_nav_title: CCAs   Uniformed Groups
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">CPT (NCC) Lin-Phua Hui Shi</span><br><span style="font-weight:bold"> </span><br>CPT Ang Boon Bin<br>2LT (NCC) Yohan Fendy<br>Mr. Subramanian S/O Annamalai</td>
-    <td class="tg-tsok">C/LTA Suffian Bin Abdullah<br>C/Offr Nur Ilhan Shafeez Bin Karim<br>Brandon Lee Wei Quan</td>
+    <td class="tg-tsok">C/LTA (NCC) Suffian Bin Abdullah<br>C/Offr (NCC) Nur Ilhan Shafeez Bin Karim<br>C/Offr (NCC) Aneesh Rai<br>MSG (NCC)  Brandon Lee Wei Quan<br>MSG (NCC) John Lim</td>
     <td class="tg-1ppo">1SG (NCC) Aden Tei Yi Xue (3-1 2022, Unit Sergeant Major)<br>1SG (NCC) Wee Jyun Lee (3-4 2022, Assistant Sergeant Major)<br>1SG (NCC) Choy Xu Ren, Sherman (3-8 2022, Company Admin Sergeant)<br>1SG (NCC) Paramanandam Barath (3-7 2022, Platoon Sergeant)<br>1SG (NCC) Imam Tu Bin Ab Wahab (3-3 2022, Platoon Sergeant)<br>1SG (NCC) Mohamed Shameer Sham Mikhail (3-2 2022, Platoon Sergeant)</td>
   </tr>
   <tr>
