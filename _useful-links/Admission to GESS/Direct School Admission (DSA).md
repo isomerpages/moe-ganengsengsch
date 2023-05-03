@@ -24,7 +24,7 @@ The following categories are open for DSA application for the 2024 intake:
 *   Modern Dance
 
 <br>
-For more information on DSA-Sec exercise, please refer to below attachment
+For more information on DSA-Sec exercise, please refer to the attachment below
 <br>
 [DSA GESS 2023 Exercise](/files/dsa_gess_2023%20for%20sch%20site%20upload_final.pdf)
 <br>
