@@ -4,52 +4,13 @@ permalink: /cca/sports/football/
 description: ""
 third_nav_title: CCAs   Sports & Games
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Football-4.jpeg" alt="Football (Boys)" style="width:70%;">  
-  
-</body>
+![](/images/b%20division%20boys.jpeg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Football-1%20.jpeg" alt="Football (Boys)" style="width:70%;">  
-  
-</body>
+![](/images/c%20division%20boys.jpeg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Football-2.jpeg" alt="Football (Boys)" style="width:70%;">  
-  
-</body>
+![](/images/celebrations%20with%20the%20graduating%20cohort.jpeg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Football-3.jpeg" alt="Football (Boys)" style="width:70%;">  
-  
-</body>
+![](/images/nsg%20fair%20play%20award.jpeg)
 <br>
 
 <style type="text/css">
@@ -74,6 +35,7 @@ img {
     <td class="tg-h5mn">Teachers-in-charge:</td>
     <td class="tg-h5mn">Coaches:</td>
     <td class="tg-h5mn">Student Leader:</td>
+		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
     <td class="tg-tsok">Mr Sathis Kumar<br>Mr Qaleelullah</td>
