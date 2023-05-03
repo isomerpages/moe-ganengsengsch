@@ -38,7 +38,7 @@ third_nav_title: CCAs   Uniformed Groups
     <td class="tg-h5mn">Teachers-in-charge:</td>
     <td class="tg-h5mn">Cadet Officers:</td>
     <td class="tg-h5mn">Student Leaders:</td>
-		    <td class="tg-h5mn">CCA Days:</td>
+		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">CPT (NCC) Lin-Phua Hui Shi</span><br><span style="font-weight:bold"> </span><br>CPT Ang Boon Bin<br>2LT (NCC) Yohan Fendy<br>Mr. Subramanian S/O Annamalai</td>
