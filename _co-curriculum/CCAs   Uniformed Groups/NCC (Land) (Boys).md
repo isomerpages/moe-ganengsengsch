@@ -6,53 +6,15 @@ third_nav_title: CCAs   Uniformed Groups
 ---
 #### **National Cadet Corps (Land)**
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/GESS-NCC-Main-Picture.png" alt="NCC (Land) (Boys)" style="width:60%;">  
-  
-</body>
+![](/images/GESS-NCC-Main-Picture.png)
+<br>
+![](/images/NCC-2.jpeg)
+<br>
+![](/images/NCC-3.jpeg)
+<br>
+![](/images/NCC-4.jpeg)
 <br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/NCC-2.jpeg" alt="NCC (Land) (Boys)" style="width:60%;">  
-  
-</body>
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/NCC-3.jpeg" alt="NCC (Land) (Boys)" style="width:60%;">  
-  
-</body>
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/NCC-4.jpeg" alt="NCC (Land) (Boys)" style="width:60%;">  
-  
-</body>
-<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
