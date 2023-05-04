@@ -37,7 +37,7 @@ third_nav_title: CCAs   Performing Arts
   <tr>
     <td class="tg-tsok">Mr. Lim Wei Yi<br>Ms. Siti Mariam<br>Ms. Audrey Tee</td>
     <td class="tg-tsok">Thespian Lab Pte. Ltd.</td>
-    <td class="tg-tsok">President:<br>S DURGA VALLI<br>Vice-Presidents<br>KIRRTHANA PREM KUMAR K<br>SANKAR THARUN GOPAL</td>
+    <td class="tg-tsok">President:<br>Nathen Phua Mushang (3-4)<br>Vice-President 1<br>Kim Too Ri (3-2)<br>Vice-President 2<br>Kaveri Cassandra Anito Shankar (3-3)</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="3">The Drama Club Of Gan Eng Seng School fosters creativity and freedom of expression amongst its members. Members are trained in different dramatic forms and skills. Our members are encouraged to explore their creativity and write their own scripts, direct their own plays and conduct their own camps. <br><br>In 2022, the GESS Drama Club participated in the International Science Drama Competition and achieved two Merit Awards. This comes after we clinched a Certificate of Distinction in the 2021 Singapore Youth Festival (SYF), and a Merit Award in the 2021 International Science Drama Competition. We are now training hard to put up yet another stellar performance at the end of the year. We also conduct the following activities for our students:<br><br>●        Physical and Vocal Training for Acting<br>●        Backstage Crew Training Workshops<br>●        Annual Drama Camps<br>●        Exposure to Theatre<br>●        Guest Theatre Workshops<br>●        End-of-Year Performances</td>
