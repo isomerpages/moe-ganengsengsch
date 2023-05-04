@@ -1,43 +1,14 @@
 ---
-title: Drama (Boys &amp; Girls)
+title: Drama (Boys & Girls)
 permalink: /cca/performing-arts/drama/
 description: ""
 third_nav_title: CCAs   Performing Arts
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Drama-1.jpeg" alt="Drama (Boys &amp; Girls)" style="width:55%;">  
-  
-
+![](/images/Drama-1.jpeg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Drama-2.jpeg" alt="Drama (Boys &amp; Girls)" style="width:55%;">  
-  
-
+![](/images/Drama-2.jpeg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Drama-3.jpeg" alt="Drama (Boys &amp; Girls)" style="width:55%;">  
-  
-
+![](/images/Drama-3.jpeg)
 <br>
 
 <style type="text/css">
