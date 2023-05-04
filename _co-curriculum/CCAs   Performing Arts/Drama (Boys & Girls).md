@@ -33,6 +33,7 @@ third_nav_title: CCAs   Performing Arts
     <td class="tg-h5mn">Teachers-in-charge:</td>
     <td class="tg-h5mn">Instructors:</td>
     <td class="tg-h5mn">Student Leaders:</td>
+		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
     <td class="tg-tsok">Mr. Lim Wei Yi<br>Ms. Siti Mariam<br>Ms. Audrey Tee</td>
