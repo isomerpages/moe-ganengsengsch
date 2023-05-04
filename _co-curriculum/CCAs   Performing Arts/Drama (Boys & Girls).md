@@ -1,43 +1,14 @@
 ---
-title: Drama (Boys &amp; Girls)
+title: Drama (Boys & Girls)
 permalink: /cca/performing-arts/drama/
 description: ""
 third_nav_title: CCAs   Performing Arts
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Drama-1.jpeg" alt="Drama (Boys &amp; Girls)" style="width:55%;">  
-  
-
+![](/images/Drama-1.jpeg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Drama-2.jpeg" alt="Drama (Boys &amp; Girls)" style="width:55%;">  
-  
-
+![](/images/Drama-2.jpeg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Drama-3.jpeg" alt="Drama (Boys &amp; Girls)" style="width:55%;">  
-  
-
+![](/images/Drama-3.jpeg)
 <br>
 
 <style type="text/css">
@@ -62,14 +33,16 @@ img {
     <td class="tg-h5mn">Teachers-in-charge:</td>
     <td class="tg-h5mn">Instructors:</td>
     <td class="tg-h5mn">Student Leaders:</td>
+		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
     <td class="tg-tsok">Mr. Lim Wei Yi<br>Ms. Siti Mariam<br>Ms. Audrey Tee</td>
     <td class="tg-tsok">Thespian Lab Pte. Ltd.</td>
-    <td class="tg-tsok">President:<br>S DURGA VALLI<br>Vice-Presidents<br>KIRRTHANA PREM KUMAR K<br>SANKAR THARUN GOPAL</td>
+    <td class="tg-tsok">President:<br>Nathen Phua Mushang (3-4)<br>Vice-President 1:<br>Kim Too Ri (3-2)<br>Vice-President 2:<br>Kaveri Cassandra Anito Shankar (3-3)</td>
+<td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday:<br>2pm-5.30pm<br><br>Venue:<br>AVA Room</td>
   </tr>
   <tr>
-    <td class="tg-h5mn" colspan="3">The Drama Club Of Gan Eng Seng School fosters creativity and freedom of expression amongst its members. Members are trained in different dramatic forms and skills. Our members are encouraged to explore their creativity and write their own scripts, direct their own plays and conduct their own camps. <br><br>In 2022, the GESS Drama Club participated in the International Science Drama Competition and achieved two Merit Awards. This comes after we clinched a Certificate of Distinction in the 2021 Singapore Youth Festival (SYF), and a Merit Award in the 2021 International Science Drama Competition. We are now training hard to put up yet another stellar performance at the end of the year. We also conduct the following activities for our students:<br><br>●        Physical and Vocal Training for Acting<br>●        Backstage Crew Training Workshops<br>●        Annual Drama Camps<br>●        Exposure to Theatre<br>●        Guest Theatre Workshops<br>●        End-of-Year Performances</td>
+    <td class="tg-h5mn" colspan="4">The Drama Club Of Gan Eng Seng School fosters creativity and freedom of expression amongst its members. Members are trained in different dramatic forms and skills. Our members are encouraged to explore their creativity and write their own scripts, direct their own plays and conduct their own camps. <br><br>In 2022, the GESS Drama Club participated in the International Science Drama Competition and achieved two Merit Awards. This comes after we clinched a Certificate of Distinction in the 2021 Singapore Youth Festival (SYF), and a Merit Award in the 2021 International Science Drama Competition. We are now training hard to put up yet another stellar performance at the end of the year. We also conduct the following activities for our students:<br><br>●        Physical and Vocal Training for Acting<br>●        Backstage Crew Training Workshops<br>●        Annual Drama Camps<br>●        Exposure to Theatre<br>●        Guest Theatre Workshops<br>●        End-of-Year Performances</td>
   </tr>
 </tbody>
 </table>
