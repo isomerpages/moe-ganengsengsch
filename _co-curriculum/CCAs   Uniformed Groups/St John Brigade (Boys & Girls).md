@@ -43,7 +43,7 @@ third_nav_title: CCAs   Uniformed Groups
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Ms Chan Yi Tsun<br>Mr Calvin Tan<br>Ms Geetha Muthu<br>Ms Deborah Tan<br>Ms Lee Yuan Ching</td>
+    <td class="tg-tsok">Ms Chan Yi Tsun<br>Mr Calvin Tan<br>Ms Thng Lay Keng</td>
     <td class="tg-tsok">CSO Foo Lin Xuan<br>CSO Ayisath Farhana D/O Zahir Hussain</td>
     <td class="tg-l2bf"><span style="font-weight:bold">Corps Sergeant Major (CSM):</span><br>Bevan Tan Fang Wu, 3-5<br><span style="font-weight:bold">Deputy Corps Sergeant Major (DyCSM):</span><br>Kelly Tan Yi Ting, 3-6</td>
   </tr>
