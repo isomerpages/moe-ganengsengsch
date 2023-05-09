@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Canteen Advertisement.md
       - Admission to GESS/.keep
       - Admission to GESS/Transferring to GESS.md
       - Admission to GESS/Direct School Admission (DSA).md
