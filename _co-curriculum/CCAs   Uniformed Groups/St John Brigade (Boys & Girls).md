@@ -6,56 +6,17 @@ third_nav_title: CCAs   Uniformed Groups
 ---
 #### **St. John Brigade (SJB)**
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/St-John-1.jpeg" alt="St John Brigade (Boys & Girls)" style="width:60%;">  
-  
-</body>
+![](/images/sjb%20one.jpeg)
+<br>
+![](/images/sjb%20two.jpeg)
+<br>
+![](/images/sjb%20three.jpeg)
+<br>
+![](/images/sjb%20four.jpeg)
+<br>
+![](/images/sjb%20five.jpeg)
 <br>
 
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/St-John-3.jpeg" alt="St John Brigade (Boys & Girls)" style="width:60%;">  
-  
-</body>
-<br>
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/St-John-4.jpeg" alt="St John Brigade (Boys & Girls)" style="width:60%;">  
-  
-</body>
-<br>
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/St-John-5.jpeg" alt="St John Brigade (Boys & Girls)" style="width:60%;">  
-  
-</body>
-<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
