@@ -2,8 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - School Bus Advertisement.md
-      - Canteen Advertisement.md
       - Admission to GESS/.keep
       - Admission to GESS/Transferring to GESS.md
       - Admission to GESS/Direct School Admission (DSA).md
@@ -18,6 +16,8 @@ collections:
       - Key School Events.md
       - School Bookshop and Booklists.md
       - Purchase of School Uniform.md
+      - Canteen Advertisement.md
+      - School Bus Advertisement.md
       - Quick Links/.keep
       - Quick Links/SchoolBag.md
       - Quick Links/GESS Library.md
