@@ -11,6 +11,9 @@ NSG Canoeing Championship 2023 held from 10-13 April, our 'B' division girls ach
 Congratulations
 
 to our winning teams and thank you teachers and instructors for a job well-done!
+<br>
 
 <br>
 ![](/images/canoe%201.jpg)
+![](/images/canoe%202.
+jpg)
