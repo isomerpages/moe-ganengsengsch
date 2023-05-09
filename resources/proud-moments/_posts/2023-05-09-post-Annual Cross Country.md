@@ -10,6 +10,5 @@ GESS successfully completed its annual cross-country at Bishan-Ang Mo Kio Park o
 
 <br>
 <br>
-![](/images/sports%20day%201.jpg)
 <br>
 <br>
