@@ -16,4 +16,3 @@ image: ""
 <br>
 
 GESS successfully completed its annual cross-country at Bishan-Ang Mo Kio Park on Friday, 5 May 2025 after a 3 year break. The air was filled with excitement. GESS would like to thank the parents and PTA for their strong presence and support. Onward!!!
-
