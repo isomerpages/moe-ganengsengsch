@@ -4,6 +4,10 @@ permalink: /cca/performing-arts/band/
 description: ""
 third_nav_title: CCAs   Performing Arts
 ---
+![](/images/gess%20marching%20band%20(1).jpeg)
+<br>
+![](/images/gess%20marching%20band%20(2).jpeg)
+
 <style>  
 img {  
   display: block;  
@@ -11,9 +15,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Marching-Band-1.jpeg" alt="Marching Band (Boys & Girls)" style="width:60%;">  
+<img src="/images/Marching-Band-1.jpeg" alt="Marching Band (Boys &amp; Girls)" style="width:60%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -23,9 +27,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Matching-Band-2.jpeg" alt="Marching Band (Boys & Girls)" style="width:60%;">  
+<img src="/images/Matching-Band-2.jpeg" alt="Marching Band (Boys &amp; Girls)" style="width:60%;">  
   
-</body>
+
 <br>
 
 <style type="text/css">
