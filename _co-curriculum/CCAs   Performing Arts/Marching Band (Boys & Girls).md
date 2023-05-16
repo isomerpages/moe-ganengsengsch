@@ -4,28 +4,9 @@ permalink: /cca/performing-arts/band/
 description: ""
 third_nav_title: CCAs   Performing Arts
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Marching-Band-1.jpeg" alt="Marching Band (Boys & Girls)" style="width:60%;">  
-  
-</body>
+![](/images/gess%20marching%20band%20(1).jpeg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Matching-Band-2.jpeg" alt="Marching Band (Boys & Girls)" style="width:60%;">  
-  
-</body>
+![](/images/gess%20marching%20band%20(2).jpeg)
 <br>
 
 <style type="text/css">
@@ -50,14 +31,16 @@ img {
     <td class="tg-h5mn">Teachers-in-charge:</td>
     <td class="tg-h5mn">Instructors:</td>
     <td class="tg-h5mn">Student Leaders:</td>
+    <td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Ms Vino Selveindran<br>Ms Herianti Samsudin<br>Mr Tan Kay Chuan<br>Mdm Siti Zuraidah</td>
-    <td class="tg-tsok">Mr Er Wee San<br>Ms Ng Yan Xin Jasmine</td>
-    <td class="tg-tsok">Drum Major: Huang Miao Li (3-7)<br>Band Major: Zayden Poh Jia Yu (3-5)<br>Asst Drum Major: Emmanuel Tan Jian An (3-4)</td>
+    <td class="tg-tsok">Ms Herianti Samsudin<br>Mr Tan Kay Chuan<br>Ms Jamie Toh<br>Ms Vino Selveindran<br></td>
+    <td class="tg-tsok">Mr Vincent Lee Rui Xiong</td>
+    <td class="tg-tsok">Band Major: Jenise Koh Shin Yen (S3-5)<br>Drum Major: Chiu Ri Sen (Zhou Rui Cheng) (S3-5)<br>Asst Drum Major: Poenar Viviana Artemisa Jiaying (S3-5)</td>
+    <td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday:<br>2pm-5.30pm<br><br>Venue:<br>Music Room</td>
   </tr>
   <tr>
-    <td class="tg-h5mn" colspan="3">The GESS Marching Band was formed in 1965 after the official launch of school bands by the Ministry of Education. In the 57 years of our history, we have grown from a fledgling brass band of 20 to the current strength of 65 members today.<br><br>The Marching Band programme challenges students to cultivate a deeper appreciation of music and to share this with the wider school community through our performances. As an ensemble, the Marching Band is committed in the pursuit of excellence so as to realize our vision of One Band, One Sound, One Mission.<br><br>Our band members conduct and participate in the following activities:<br>– Physical Conditioning<br>– Technique Development<br>– Sectional Training<br>– Whole Ensemble Training<br>– Annual Band Camp<br>– Performances (School Celebrations, National Day Parade, Open House)<br>– Singapore Youth Festival Arts Presentation<br><br>We are proud to announce that we have been awarded the Certificate of Distinction during the 2017 and 2019 Singapore Youth Festival (SYF) Arts Presentation, and a Certificate of Accomplishment during the 2021 iteration of the same competition.</td>
+    <td class="tg-h5mn" colspan="4">The GESS Marching Band was formed in 1965 after the official launch of school bands by the Ministry of Education. In the 58 years of our history, we have grown from a fledgling brass band of 20 to the current strength of 64 members today.<br><br>The Marching Band programme challenges students to cultivate a deeper appreciation of music and to share this with the wider school community through our performances. As an ensemble, the Marching Band is committed in the pursuit of excellence so as to realize our vision of One Band, One Sound, One Mission.<br><br>Our band members conduct and participate in the following activities:<br>– Physical Conditioning<br>– Technique Development<br>– Sectional Training<br>– Whole Ensemble Training<br>– Annual Band Camp<br>– Performances (School Celebrations, National Day Parade, Open House)<br>– Singapore Youth Festival Arts Presentation<br><br>We are proud to announce that we have been awarded the Certificate of Distinction during 2019 Singapore Youth Festival (SYF) Arts Presentation, and a Certificate of Accomplishment during the 2021 and 2023 iteration of the same competition.</td>
   </tr>
 </tbody>
 </table>
