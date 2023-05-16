@@ -31,6 +31,7 @@ third_nav_title: CCAs   Performing Arts
     <td class="tg-h5mn">Teachers-in-charge:</td>
     <td class="tg-h5mn">Instructors:</td>
     <td class="tg-h5mn">Student Leaders:</td>
+    <td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
     <td class="tg-tsok">Ms Herianti Samsudin<br>Mr Tan Kay Chuan<br>Ms Jamie Toh<br>Ms Vino Selveindran<br></td>
