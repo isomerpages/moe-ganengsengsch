@@ -30,9 +30,9 @@ sections:
       button: READ MORE
       url: /school-information/school-admission/
   - infobar:
-      title: Sec 3 Meet Parent Session 2023
+      title: Early Dismissal  on 25 May & Parent-Teacher Conf on 26 May
       button: READ MORE
-      url: /resources/announcements/permalink/sec3mps/
+      url: /resources/announcements/permalink/earlydismissal25may/
   - infobar:
       title: Letter to parents (Term 2 2023)
       button: READ MORE
