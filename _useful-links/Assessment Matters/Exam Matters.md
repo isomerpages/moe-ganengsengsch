@@ -35,7 +35,7 @@ third_nav_title: Assessment Matters
 *   **[Sec 3 Normal Technical](/files/EYE_TT_22-_3NT-3.pdf)**
 
 
-<h5 style="color:black">Final Examination Format & Topics 2022</h5>
+<h5 style="color:black">Final Examination Format &amp; Topics 2022</h5>
 
 *   **[Sec 1 Express](/files/Gan-Eng-Seng-School_SEC-1EXP-1.pdf)**
 *   **[Sec 1 Normal Academic](/files/Gan-Eng-Seng-School_SEC-1NA-1.pdf)**
@@ -46,3 +46,12 @@ third_nav_title: Assessment Matters
 *   **[Sec 3 Express](/files/Gan-Eng-Seng-School_3EXPRESS.pdf)**
 *   **[Sec 3 Normal Academic](/files/Gan-Eng-Seng-School_3NA-1.pdf)**
 *   **[Sec 3 Normal Technical](/files/GAN-ENG-SENG_3NT.pdf)**
+
+<br>
+<br>
+<h5 style="color:black">Preliminary Examination  Format &amp; Topics 2023</h5>
+
+*   **[Sec 1 Express](/files/Gan-Eng-Seng-School_SEC-1EXP-1.pdf)**
+*   **[Sec 1 Normal Academic](/files/Gan-Eng-Seng-School_SEC-1NA-1.pdf)**
+*   **[Sec 1 Normal Technical](/files/Gan-Eng-Seng-School_1NT-1.pdf)**
+*   **[Sec 2 Express](/files/GAN-ENG-SENG_2-EXPRESS.pdf)**
