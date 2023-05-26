@@ -17,14 +17,6 @@ third_nav_title: Assessment Matters
 [List of Dictionaries for Examination](/files/list_of_dictionaries_for_examination.pdf)
 
 
-
-<h5 style="color:black">Preliminary Examination Timetable 2022</h5>
-
-*   **[Sec 4 Express Prelim 2022](/files/S4Exp-Prelim-TT-22-1.pdf)**
-*   **[Sec 4 Normal Academic Prelim 2022](/files/S4NA-Prelim-TT-22-1.pdf)**
-*   **[Sec 4 Normal Technical Prelim 2022](/files/S4NT-Prelim-TT-22.pdf)**
-*   **[Sec 5 Normal Academic Prelim 2022](/files/Sec-5-NA-Prelim-TT-22-1.pdf)**
-
 <h5 style="color:black">End of Year Examination Timetable 2022
 </h5>
 
