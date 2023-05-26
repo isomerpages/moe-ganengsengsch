@@ -7,11 +7,11 @@ third_nav_title: Assessment Matters
 ##### Weighted Assessment (WA) Schedule 2023
 
 <br>
-[[Sec 1G1 WA 2023]](/files/1g1%20wa%202023%20ca%2025%20%20may.pdf)
+[Sec 1G1 WA 2023](/files/1g1%20wa%202023%20ca%2025%20%20may.pdf)
 <br>
-[[Sec 1G2 WA 2023]](/files/1g2%20wa%202023%20ca%2025%20may.pdf)
+[Sec 1G2 WA 2023](/files/1g2%20wa%202023%20ca%2025%20may.pdf)
 <br>
-[[Sec 1G3 WA 2023]](/files/1g3%20wa%202023%20ca%2025%20may.pdf)
+[Sec 1G3 WA 2023](/files/1g3%20wa%202023%20ca%2025%20may.pdf)
 <br>
 [Sec 2G1 WA 2023](/files/2G1%20WA%202023.pdf)
 <br>
