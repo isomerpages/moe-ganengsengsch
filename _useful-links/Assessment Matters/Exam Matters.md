@@ -51,7 +51,7 @@ third_nav_title: Assessment Matters
 <br>
 <h5 style="color:black">Preliminary Examination  Format &amp; Topics 2023</h5>
 
-*   **[Sec 1 Express](/files/Gan-Eng-Seng-School_SEC-1EXP-1.pdf)**
-*   **[Sec 1 Normal Academic](/files/Gan-Eng-Seng-School_SEC-1NA-1.pdf)**
-*   **[Sec 1 Normal Technical](/files/Gan-Eng-Seng-School_1NT-1.pdf)**
-*   **[Sec 2 Express](/files/GAN-ENG-SENG_2-EXPRESS.pdf)**
+*   **[Sec 4 Express](/files/Gan-Eng-Seng-School_SEC-1EXP-1.pdf)**
+*   **[Sec 4 Normal Academic](/files/Gan-Eng-Seng-School_SEC-1NA-1.pdf)**
+*   **[Sec 4 Normal Technical](/files/Gan-Eng-Seng-School_1NT-1.pdf)**
+*   **[Sec 5 Normal Academic](/files/GAN-ENG-SENG_2-EXPRESS.pdf)**
