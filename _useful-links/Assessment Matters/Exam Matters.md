@@ -53,5 +53,5 @@ third_nav_title: Assessment Matters
 
 *   **[Sec 4 Express](/files/4e%20prelim%20topic%20&amp;%20format%2023.pdf)**
 *   **[Sec 4 Normal Academic](/files/4na%20prelm%20topic%20and%20format%2023.pdf)**
-*   **[Sec 4 Normal Technical](/files/Gan-Eng-Seng-School_1NT-1.pdf)**
-*   **[Sec 5 Normal Academic](/files/GAN-ENG-SENG_2-EXPRESS.pdf)**
+*   **[Sec 4 Normal Technical](/files/4nt%20prelim%20%20topic%20and%20format%2023.pdf)**
+*   **[Sec 5 Normal Academic](/files/5na%20prelim%20topic%20and%20format%2023.pdf)**
