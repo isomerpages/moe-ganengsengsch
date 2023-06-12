@@ -3,25 +3,25 @@ title: ICT and Computer Applications
 permalink: /nurturegess/academic/technology/
 description: ""
 ---
-![ICT & Computer Applications](/images/infocomm%20technology%20department%20i.jpg)
-<BR>
+![ICT &amp; Computer Applications](/images/infocomm%20technology%20department%20i.jpg)
+<br>
 \------------------------------\------------------------------\------------------------------\------------------------------\------------------------------
 ### **Personalised Digital Literacy Programme (PDLP)**
 
-At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (**“NDLP”**) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (**“PDLP”**) which places in the hands of secondary school students, a school-prescribed Personal Learning Device (**“PLD”**) by end-2021. 
+At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (**“NDLP”**) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (**“PDLP”**) which places in the hands of secondary school students, a school-prescribed Personal Learning Device (**“PLD”**) by end-2021.&nbsp;
 
   
 
-The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (**“SLS”**) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world. 
+The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (**“SLS”**) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.&nbsp;
 
   
 
-For more information on PDLP Journey in Gan Eng Seng School, please refer to the following website : 
+For more information on PDLP Journey in Gan Eng Seng School, please refer to the following website :&nbsp;
 
 **[https://go.gov.sg/gesspdlp](https://go.gov.sg/gesspdlp)**
 
-\------------------------------\------------------------------\------------------------------\------------------------------\------------------------------
-<BR>
+\------------------------------\------------------------------\------------------------------\------------------------------\--------------------
+<br>
 
 ### **Vision**
 
@@ -39,9 +39,16 @@ A landmark programme under the ICT department’s charge continues to be the rol
 Under the ICT Department also takes charge in organising the the yearly Code For Fun enrichment programme that aims to promote computational thinking among the Secondary 1s.
 
 
-<img src="/images/44fdc71d-a58c-4190-8f2e-7d5ea1e36246-1-768x719.jpeg"  
-style="width:60%">
+<img src="/images/44fdc71d-a58c-4190-8f2e-7d5ea1e36246-1-768x719.jpeg" style="width:60%">
 
   
-<img src="/images/dbc93878-ca24-4485-93c3-ebb81f04c16a-1.jpeg"  
-style="width:60%">
+<img src="/images/dbc93878-ca24-4485-93c3-ebb81f04c16a-1.jpeg" style="width:60%">
+
+<br>
+<br>
+**Loss of PLDs**
+<br>
+
+![](/images/loss%20of%20plds.jpg)
+
+<br>
