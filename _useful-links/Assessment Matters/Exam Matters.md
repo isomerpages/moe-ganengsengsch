@@ -10,11 +10,11 @@ third_nav_title: Assessment Matters
 
 <h5 style="color:black">Approved Calculator List</h5>
 
-[Guidelines for Calculators](/files/guidelines_calculators.pdf)
+[Guidelines for Calculators](https://www.seab.gov.sg/)
 
 <h5 style="color:black">Approved Dictionaries</h5>
 
-[List of Dictionaries for Examination](/files/list_of_dictionaries_for_examination.pdf)
+[List of Dictionaries for Examination](https://www.seab.gov.sg/)
 
 
 <h5 style="color:black">Preliminary Examination Timetable 2023
@@ -22,7 +22,7 @@ third_nav_title: Assessment Matters
 
 *   **[Sec 4 Express](/files/4e%20prelim%20tt%2023.pdf)**
 *   **[Sec 4 Normal Academic](/files/4na%20prelim%20tt%2023.pdf)**
-*   **[Sec 4 Normal Technical](/files/4nt%20prelim%20tt%2023.pdf)**
+*   **[[Sec 4 Normal Technical]](/files/4nt%20prelim%20tt%2023%20(1).pdf)**
 *   **[Sec 5 Normal Academic](/files/5na%20prelim%20tt%2023.pdf)**
 
 
