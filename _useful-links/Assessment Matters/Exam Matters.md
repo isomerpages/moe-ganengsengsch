@@ -6,7 +6,7 @@ third_nav_title: Assessment Matters
 ---
 <h5 style="color:black">Exam Rules and Regulations</h5>
 
-[Examination Rules And Regulations](/files/Examination-Rules-And-Regulations.pdf)
+[Examination Rules And Regulations](/files/examination%20rules%20and%20regulations%202023.pdf)
 
 <h5 style="color:black">Approved Calculator List</h5>
 
