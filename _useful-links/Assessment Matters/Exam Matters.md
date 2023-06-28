@@ -10,11 +10,11 @@ third_nav_title: Assessment Matters
 
 <h5 style="color:black">Approved Calculator List</h5>
 
-[Guidelines for Calculators](/files/guidelines_calculators.pdf)
+[Guidelines for Calculators](https://www.seab.gov.sg/)
 
 <h5 style="color:black">Approved Dictionaries</h5>
 
-[List of Dictionaries for Examination](/files/list_of_dictionaries_for_examination.pdf)
+[List of Dictionaries for Examination](https://www.seab.gov.sg/)
 
 
 <h5 style="color:black">Preliminary Examination Timetable 2023
