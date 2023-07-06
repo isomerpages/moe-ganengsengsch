@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Dear Parent/Guardian,
 
 We ended semester 1 on a high note with the Annual Cross-Country, Sec 1 learning festival, Sec 3 camp and aesthetics programme for all. It was an enriching and eventful semester made possible only through the support of our key partners like PTA, SAC and GESSOSA.
@@ -19,4 +18,4 @@ Mrs Selva
 
 VP
 
-[Term 3 letter to parents (2023) ]()
+[Term 3 Letter to Parents (2023)](/files/term%203%20letter%20to%20parents%20(2023)%20v2.pdf)
