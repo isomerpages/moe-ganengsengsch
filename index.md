@@ -26,15 +26,11 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Early Dismissal  on 25 May & Parent-Teacher Conf on 26 May
+      title: Letter to parents (Term 3 2023)
       button: READ MORE
-      url: /resources/announcements/permalink/earlydismissal25may/
+      url: /resources/announcements/permalink/term32023/
   - infobar:
       title: Direct School Admission (DSA)
       button: READ MORE
       url: /school-information/school-admission/
-  - infobar:
-      title: Letter to parents (Term 2 2023)
-      button: READ MORE
-      url: /resources/announcements/permalink/term22023/
 ---
