@@ -40,7 +40,7 @@ third_nav_title: CCAs   Uniformed Groups
   <tr>
     <td class="tg-tsok">Ms Sandra Wee (OIC)<br>Ms Leong Sok Yee (2IC)</td>
     <td class="tg-tsok">Captain Elsie Tan<br>Lieutenant Lydia Tan</td>
-    <td class="tg-tsok">Kimmi Kho<br>(NCO Chairperson)<br>Hanni D/O Ramesh<br>(NCO Chairperson)<br>Teo Vera<br>(NCO Vice Chairpersons)<br>Alicia Wee Jie Min<br>(Exco-Quartermaster)<br>Pang Kay Yan Eden<br>Exco-PTI</td>
+    <td class="tg-tsok">Kimmi Kho<br>(NCO Chairperson)<br>Hanni D/O Ramesh<br>(NCO Chairperson)<br>Teo Vera<br>(NCO Vice Chairpersons)<br>Alicia Wee Jie Min<br>(Exco-Quartermaster)<br>Pang Kay Yan Eden<br>(Exco-PTI)<br><br>Squad Leaders<br>Caelyn Choo Zhe Lin<br>Cayley Yong Si Qin<br>Chong Zi Leng<br>Neo Xuhan<br>Ng Yu Yan<br>Wong Jing Ning</td>
     <td class="tg-tsok">Tuesday<br>3pm-5.30pm<br>Friday<br>2pm-5.30pm<br><br>Venue<br>Block H Level 4 Classrooms</td>
 	</tr>
   <tr>
