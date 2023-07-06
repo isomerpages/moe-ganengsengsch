@@ -28,7 +28,7 @@ third_nav_title: CCAs   Uniformed Groups
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Ms Sandra Wee<br>Mdm Wong Hiew Min</td>
+    <td class="tg-tsok">Ms Sandra Wee (OIC)<br>Ms Leong Sok Yee (2IC)</td>
     <td class="tg-tsok">Captain Elsie Tan<br>Lieutenant Lydia Tan</td>
     <td class="tg-tsok">– SGT Lee Hui Xin Sarah 3-6<br>(NCO Chairperson)<br>– SGT Cheng Wei Xuan 3-7 and<br>SGT Saravananapandian Jaya 3-6<br>(NCO Vice Chairpersons)</td>
   </tr>
