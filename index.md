@@ -34,7 +34,7 @@ sections:
       button: READ MORE
       url: /school-information/school-admission/
   - infobar:
-      title: Letter to parents (Term 2 2023)
+      title: Letter to parents (Term 3 2023)
       button: READ MORE
-      url: /resources/announcements/permalink/term22023/
+      url: /resources/announcements/permalink/term32023/
 ---
