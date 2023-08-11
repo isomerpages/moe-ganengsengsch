@@ -45,15 +45,3 @@ third_nav_title: Assessment Matters
 *   **[Sec 3 Normal Technical](/files/s3nt%20eye%2023.pdf)**
 
 
-
-<h5 style="color:black">End Of Year Examination  Format &amp; Topics 2023</h5>
-
-*   **[Sec 1 Express](/files/s1e%20eye%20topic%20and%20format%2023.pdf)**
-*   **[Sec 1 Normal Academic](/files/s1na%20eye%20topic%20and%20format%2023.pdf)**
-*   **[Sec 1 Normal Technical](/files/s1nt%20exam%20topic%20and%20format%2023.pdf)**
-*   **[Sec 2 Express](/files/s2e%20eye%20topic%20and%20format%2023.pdf)**
-*   **[Sec 2 Normal Academic](/files/s2na%20exam%20topic%20and%20format%2023.pdf)**
-*   **[Sec 2 Normal Technical](/files/s2nt%20eye%20topic%20and%20format%2023.pdf)**
-*   **[Sec 3 Express](/files/s3e%20eye%20topic%20and%20format%2023.pdf)**
-*   **[Sec 3 Normal Academic](/files/s3na%20exam%20topic%20and%20format%2023.pdf)**
-*   **[Sec 3 Normal Technical](/files/s3nt%20eye%20topic%20and%20format%202023.pdf)**
