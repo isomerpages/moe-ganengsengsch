@@ -57,5 +57,3 @@ third_nav_title: Assessment Matters
 *   **[Sec 3 Express](/files/s3e%20eye%20topic%20and%20format%2023.pdf)**
 *   **[Sec 3 Normal Academic](/files/s3na%20exam%20topic%20and%20format%2023.pdf)**
 *   **[Sec 3 Normal Technical](/files/s3nt%20eye%20topic%20and%20format%202023.pdf)**
-
-
