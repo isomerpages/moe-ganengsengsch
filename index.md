@@ -33,4 +33,10 @@ sections:
       title: Direct School Admission (DSA)
       button: READ MORE
       url: /school-information/school-admission/
+  - infobar:
+      title: Exam Matters
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: READ MORE
+      url: /school-information/exam-matters/
 ---
