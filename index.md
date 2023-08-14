@@ -26,6 +26,10 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
+      title: Exam Matters
+      button: READ MORE
+      url: /school-information/exam-matters/
+  - infobar:
       title: Letter to parents (Term 3 2023)
       button: READ MORE
       url: /resources/announcements/permalink/term32023/
