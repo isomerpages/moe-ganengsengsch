@@ -38,10 +38,10 @@ third_nav_title: Assessment Matters
 <h5 style="color:black">End Of Year Examination Timetable 2023
 </h5>
 
-*   **[Sec 1](/files/sec%201%20eye%20tt%2023.pdf)**
+*   **[Sec 1](/files/sec%201%20eye%20tt%2023%20(1).pdf)**
 *   **[Sec 2](/files/sec%202%20eye%20tt%2023.pdf)**
-*   **[Sec 3 Express](/files/s3e%20eye%20tt%2023.pdf)**
-*   **[Sec 3 Normal Academic](/files/s3na%20eye%20%20tt%2023.pdf)**
+*   **[Sec 3 Express](/files/s3e%20eye%20tt%2023%20(1).pdf)**
+*   **[Sec 3 Normal Academic](/files/s3na%20eye%20%20tt%2023%20(1).pdf)**
 *   **[Sec 3 Normal Technical](/files/s3nt%20eye%2023.pdf)**
 
 
@@ -56,3 +56,6 @@ third_nav_title: Assessment Matters
 *   **[Sec 3 Express](/files/3e%20eye%20topic%20and%20format%2023.pdf)**
 *   **[Sec 3 Normal Academic](/files/3na%20eye%20topic%20format%2023.pdf)**
 *   **[Sec 3 Normal Technical](/files/s3nt%20eye%20topic%20and%20format%2023.pdf)**
+
+
+
