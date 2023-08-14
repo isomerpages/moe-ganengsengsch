@@ -47,7 +47,8 @@ third_nav_title: Assessment Matters
 
 <h5 style="color:black">End Of Year Examination  Format &amp; Topics 2023</h5>
 
-*   **[Sec 1 Express](/files/4e%20prelim%20topic%20&amp;%20format%2023.pdf)**
-*   **[Sec 1 Normal Academic](/files/4na%20prelm%20topic%20and%20format%2023.pdf)**
-*   **[Sec 1 Normal Technical](/files/4nt%20prelim%20%20topic%20and%20format%2023.pdf)**
+*   **[Sec 1 Express](/files/s1%20e%20eye%20topic%20and%20format%20%2023.pdf)**
+*   **[Sec 1 Normal Academic](/files/s1na%20eye%20topic%20and%20format%20%2023.pdf)**
+*   **[Sec 1 Normal Technical](/files/s1nt%20eye%20topic%20and%20format%2023.pdf)**
+
 
