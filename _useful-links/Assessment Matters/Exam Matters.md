@@ -20,10 +20,10 @@ third_nav_title: Assessment Matters
 <h5 style="color:black">Preliminary Examination Timetable 2023
 </h5>
 
-*   **[Sec 4 Express](/files/4e%20prelim%20tt%2023%20v2.pdf)**
+*   **[Sec 4 Express](/files/4e%20prelim%20tt%2023%20v3.pdf)**
 *   **[Sec 4 Normal Academic](/files/4na%20prelim%20tt%2023%20v2.pdf)**
 *   **[Sec 4 Normal Technical](/files/4nt%20prelim%20tt%2023%20v2.pdf)**
-*   **[Sec 5 Normal Academic](/files/5na%20prelim%20tt%2023%20v2.pdf)**
+*   **[Sec 5 Normal Academic](/files/5na%20prelim%20tt%2023%20v3.pdf)**
 
 
 
@@ -56,6 +56,3 @@ third_nav_title: Assessment Matters
 *   **[Sec 3 Express](/files/3e%20eye%20topic%20and%20format%2023.pdf)**
 *   **[Sec 3 Normal Academic](/files/3na%20eye%20topic%20format%2023.pdf)**
 *   **[Sec 3 Normal Technical](/files/s3nt%20eye%20topic%20and%20format%2023.pdf)**
-
-
-
