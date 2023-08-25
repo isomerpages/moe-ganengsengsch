@@ -40,5 +40,5 @@ sections:
   - infobar:
       title: Message for Alumni for Teachers’ Day 2023
       button: READ MORE
-      url: /resources/announcements/permalink/teachersday2023
+      url: /resources/announcements/permalink/teachersday2023/
 ---
