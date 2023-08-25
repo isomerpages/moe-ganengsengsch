@@ -37,4 +37,8 @@ sections:
       title: Direct School Admission (DSA)
       button: READ MORE
       url: /school-information/school-admission/
+  - infobar:
+      title: Message for Alumni for Teachers’ Day 2023
+      button: READ MORE
+      url: /resources/announcements/permalink/teachersday2023
 ---
