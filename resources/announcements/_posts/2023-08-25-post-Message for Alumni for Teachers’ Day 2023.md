@@ -6,20 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
-    html { background-color: #000; } 
-    body {
-        min-height: 100vh;
-        max-width: 400px;
-        background-color: papayawhip; 
-        margin: 0 auto;
-    }
-		
-		
-		
-		![](/images/teachersday2023.jpg)
-		
-		
-		
-		
-		
 
+![](/images/teachersday2023.jpg)
