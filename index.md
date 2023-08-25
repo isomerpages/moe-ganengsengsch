@@ -26,6 +26,10 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
+      title: Message for Alumni for Teachers’ Day 2023
+      button: READ MORE
+      url: /resources/announcements/permalink/teachersday2023/
+  - infobar:
       title: Exam Matters
       button: READ MORE
       url: /school-information/exam-matters/
