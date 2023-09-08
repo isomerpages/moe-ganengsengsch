@@ -30,9 +30,9 @@ sections:
       button: READ MORE
       url: /school-information/exam-matters/
   - infobar:
-      title: Letter to parents (Term 3 2023)
+      title: Letter to parents (Term 4 2023)
       button: READ MORE
-      url: /resources/announcements/permalink/term32023/
+      url: /resources/announcements/permalink/term42023/
   - infobar:
       title: Direct School Admission (DSA)
       button: READ MORE
