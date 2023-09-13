@@ -106,7 +106,7 @@ img {
 <img src="/images/lee%20hay%20keong%20new.jpg" alt="Mr-Lee-Hay-Keong" style="width:25%;">  
   
 
-<p style="text-align:center;"> <strong>Lee Hay Keong
+<p style="text-align:center;"> <strong>Lee Hay Keong, PBM
 </strong><br><em>Senior Director
 </em><br>PM Link (CPG Corporation)<br><strong>Class of 74</strong></p>
 
