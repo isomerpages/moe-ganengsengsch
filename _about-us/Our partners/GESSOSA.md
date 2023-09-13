@@ -108,7 +108,7 @@ img {
 
 <p style="text-align:center;"> <strong>Lee Hay Keong, PBM
 </strong><br><em>Senior Director
-</em><br>PM Link (CPG Corporation)<br><strong>Class of 74</strong></p>
+</em><br>PM Link Pte Ltd<br><strong>Class of 74</strong></p>
 
 ***
 
