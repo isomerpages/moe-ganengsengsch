@@ -228,10 +228,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Mr-Steven-Lee-Kiang-Sing-1.jpeg" alt="Mr-Steven-Lee-Kiang-Sing" style="width:25%;">  
+<img src="/images/alex%20wang.jpg" alt="Mr-Alex-Wang" style="width:25%;">  
   
 
-<p style="text-align:center;"> <strong>Steven Lee Kiang Sing</strong><br><em>Tour Manager</em><br>Chan Brothers Travel<br><strong>Class of 85</strong></p>
+<p style="text-align:center;"> <strong>Alex Wang</strong><br><em>Officer</em><br>Mindef<br><strong>Class of 96</strong></p>
 
 ***
 
