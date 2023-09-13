@@ -19,7 +19,7 @@ img {
 <img src="/images/shahrin%20bin%20abdul%20salam.jpg" alt="Mr-Shahrin Bin Abdul Salam" style="width:25%;">  
 
 
-<p style="text-align:center;"> <strong>Shahrin Bin Abdul Salam</strong><br><em>Managing Director SMRT TEL &amp; <br>Snr Vice President (Strategic Relations)<br> SMRT Corporation</em><br><strong>Class of 89</strong></p>
+<p style="text-align:center;"> <strong>Shahrin Bin Abdul Salam, PBM</strong><br><em>Managing Director SMRT TEL &amp; <br>Snr Vice President (Strategic Relations)<br> SMRT Corporation</em><br><strong>Class of 89</strong></p>
 
 
 
