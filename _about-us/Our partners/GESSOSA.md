@@ -193,10 +193,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/dennis%20chua%20new.jpg" alt="Mr-Dennis-Chua" style="width:25%;">   
+<img src="/images/edwin%20pang%20chung%20jie.jpg" alt="Mr-Edwin-Pang-Chung-Jie" style="width:25%;">   
 
 
-<p style="text-align:center;"> <strong>Dennis Chua</strong><br>Associate Trainer<br>First Aid / CPRAED<br><strong>Class of 82</strong></p>	
+<p style="text-align:center;"> <strong>Edwin Pang Chung Jie</strong><br><strong>Class of 96</strong></p>	
 	
 ***
 
@@ -209,14 +209,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/yong-teck-ming-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:25%;">  
+<img src="/images/yong-teck-ming-1.jpeg" alt="Mr-Yong-Teck-Ming" style="width:25%;">  
   
 
 
 
 <p style="text-align:center;"> <strong>Yong Teck Ming
 </strong><br><em>Chartered Financial Consultant
-</em><br>representing Prudential, AIG, AXA &amp; Liberty<br><strong>Class of 85</strong></p>
+</em><br><strong>Class of 85</strong></p>
 
 ***
 
