@@ -177,6 +177,38 @@ img {
   margin-right: auto;  
 }  
 </style>  
+<img src="/images/eddy%20laurence%20ho%20heng%20mun.jpg" alt="Mr-Eddy-Laurence-Ho-Heng-Mun" style="width:25%;">   
+
+
+<p style="text-align:center;"> <strong>Eddy Laurence Ho Heng Mun</strong><br>Director<br>Hilandas Property &amp; Facility Management P/L<br><strong>Class of 81</strong></p>	
+	
+***
+
+<h5 style="color:black" align="center">Exco Member
+</h5>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/dennis%20chua%20new.jpg" alt="Mr-Dennis-Chua" style="width:25%;">   
+
+
+<p style="text-align:center;"> <strong>Dennis Chua</strong><br>Associate Trainer<br>First Aid / CPRAED<br><strong>Class of 82</strong></p>	
+	
+***
+
+<h5 style="color:black" align="center">Exco Member
+</h5>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
 <img src="/images/yong-teck-ming-1.jpeg" alt="Mr-Wong-Peng-Meng" style="width:25%;">  
   
 
