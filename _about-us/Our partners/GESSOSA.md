@@ -103,9 +103,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Mr-Lee-Hay-Keong-1.jpeg" alt="Mr-Lee-Hay-Keong" style="width:25%;">  
+<img src="/images/lee%20hay%20keong%20new.jpg" alt="Mr-Lee-Hay-Keong" style="width:25%;">  
   
-
 
 <p style="text-align:center;"> <strong>Lee Hay Keong
 </strong><br><em>Senior Director
