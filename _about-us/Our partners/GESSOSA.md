@@ -89,7 +89,7 @@ img {
 <img src="/images/chan%20ramli%20new.jpg" alt="Mr-Ramli-Chan" style="width:25%;">  
 
 
-<p style="text-align:center;"> <strong>Ramli Chan
+<p style="text-align:center;"> <strong>Chan Ramli
 </strong><br><em>Sales Director
 </em><br>GME Chemicals (S) Pte Ltd (A member of the Biesterfeld Group)<br><strong>Class of 96</strong></p>
 
