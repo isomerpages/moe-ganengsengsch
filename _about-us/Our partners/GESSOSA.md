@@ -234,25 +234,3 @@ img {
 <p style="text-align:center;"> <strong>Alex Wang</strong><br><em>Officer</em><br>Mindef<br><strong>Class of 96</strong></p>
 
 ***
-
-<h5 style="color:black" align="center">Exco Member</h5>
-
-<p style="text-align:center;"> <strong>Ravindran Nair</strong><br>Freelance<br>Consultant<br><strong>Class of 74</strong></p>
-	
-***
-
-<h5 style="color:black" align="center">Internal Auditors</h5>
-
-<p style="text-align:center;"> <strong>Lim Pang Yong Raymond</strong><br><strong>Chui Siew Pun<br></strong></p>	
-	
-***
-
-<h5 style="color:black" align="center">School Liaison Officer</h5>
-
-<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><strong>Casey Teo Kim Ching<br>Lee Hay Keong<br></strong></p>
-
-***
-
-<h5 style="color:black" align="left">Sub Committees</h5>
-
-<p style="text-align:left;"> GESSOSA Education Development Fund<br>Fund Raising<br>Social<br>Membership<br>Policies &amp; Constitutional Review<br>Public Relations<br>Student Welfare &amp; Education<br></p>
