@@ -213,7 +213,7 @@ img {
 
 
 
-<p style="text-align:center;"> <strong>Yong Teck Ming
+<p style="text-align:center;"> <strong>Yong Teck Ming. PBM
 </strong><br><em>Chartered Financial Consultant
 </em><br><strong>Class of 85</strong></p>
 
