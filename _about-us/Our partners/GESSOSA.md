@@ -161,28 +161,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/teo-kim-ching-1.jpeg" alt="teo-kim-ching" style="width:25%;">  
-  
+<img src="/images/dennis%20chua%20new.jpg" alt="Mr-Dennis-Chua" style="width:25%;">   
 
 
-
-<p style="text-align:center;"> <strong>Teo Kim Ching Casey</strong><br><em>Partner</em><br>WSS Marine Supplies P L<br><strong>Class of 80</strong></p>
-
-***
-
-<h5 style="color:black" align="center">Exco Member
-</h5>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Dennis%20Chua.jpg" alt="Mr-Dennis-Chua" style="width:25%;">   
-
-
-<p style="text-align:center;"> <strong>Dennis Chua</strong><br>Freelance<br>Trainer<br><strong>Class of 82</strong></p>	
+<p style="text-align:center;"> <strong>Dennis Chua</strong><br>Associate Trainer<br>First Aid / CPRAED<br><strong>Class of 82</strong></p>	
 	
 ***
 
