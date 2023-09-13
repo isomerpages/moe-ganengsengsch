@@ -33,12 +33,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/tang-wai-loong-kenneth-1.jpeg" alt="tang-wai-loong-kenneth" style="width:25%;">  
-  
+<img src="/images/james%20chui%20siew%20pun.jpg" alt="Mr-James-Chui-Siew-Pun" style="width:25%;">  
 
 
 
-<p style="text-align:center;"> <strong>Tang Wai Loong Kenneth</strong><br><em>Partner</em><br>Chang See Hiang &amp; Partners<br><strong>Class of 85</strong></p>
+<p style="text-align:center;"> <strong>James Chui Siew Pun</strong><br><em>Senior Associate Sales Director</em><br>SRI Pte Ltd<br><strong>Class of 85</strong></p>
 
 ***
 
