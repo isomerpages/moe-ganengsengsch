@@ -69,13 +69,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Mr-Lee-Hay-Keong-1.jpeg" alt="Mr-Lee-Hay-Keong" style="width:25%;">  
-  
+<img src="/images/benjamin%20lau%20chang%20xun.jpg" alt="Mr-Benjamin-Lau-Chang-Xun" style="width:25%;">  
 
-
-<p style="text-align:center;"> <strong>Lee Hay Keong
-</strong><br><em>Senior Director
-</em><br>PM Link (CPG Corporation)<br><strong>Class of 74</strong></p>
+<p style="text-align:center;"> <strong>Benjamin Lau Chang Xun
+</strong><br><em>Relationship Management Assistant
+</em><br>Schroders Wealth Mgmt<br><strong>Class of 09</strong></p>
 
 ***
 <h5 style="color:black" align="center">Honorary Treasurer
