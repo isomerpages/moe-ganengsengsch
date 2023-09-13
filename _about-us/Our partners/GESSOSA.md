@@ -112,22 +112,7 @@ img {
 </em><br>PM Link (CPG Corporation)<br><strong>Class of 74</strong></p>
 
 ***
-<h5 style="color:black" align="center">Honorary Assistance Treasurer</h5>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Mr-Wee-Ren-Chai-Ronald-1.jpeg" alt="Mr-Wee-Ren-Chai-Ronald" style="width:25%;">  
-  
 
-
-
-<p style="text-align:center;"> <strong>Wee Ren Chai Ronald</strong><br><em>Founder</em><br>Apex Training &amp; Leadership<br><strong>Class of 04</strong></p>
-
-***
 
 <h5 style="color:black" align="center">Immediate Past President &amp; Exco Member</h5>
 
