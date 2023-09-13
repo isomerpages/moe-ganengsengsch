@@ -134,7 +134,7 @@ img {
 
 ***
 
-<h5 style="color:black" align="center">Committee Member</h5>
+<h5 style="color:black" align="center">Exco Member</h5>
 <style>  
 img {  
   display: block;  
@@ -152,7 +152,7 @@ img {
 
 ***
 
-<h5 style="color:black" align="center">Committee Member
+<h5 style="color:black" align="center">Exco Member
 </h5>
 <style>  
 img {  
@@ -170,7 +170,7 @@ img {
 
 ***
 
-<h5 style="color:black" align="center">Committee Member
+<h5 style="color:black" align="center">Exco Member
 </h5>
 <style>  
 img {  
@@ -186,7 +186,7 @@ img {
 	
 ***
 
-<h5 style="color:black" align="center">Committee Member
+<h5 style="color:black" align="center">Exco Member
 </h5>
 <style>  
 img {  
@@ -206,7 +206,7 @@ img {
 
 ***
 
-<h5 style="color:black" align="center">Committee Member</h5>
+<h5 style="color:black" align="center">Exco Member</h5>
 <style>  
 img {  
   display: block;  
@@ -221,7 +221,7 @@ img {
 
 ***
 
-<h5 style="color:black" align="center">Committee Member</h5>
+<h5 style="color:black" align="center">Exco Member</h5>
 
 <p style="text-align:center;"> <strong>Ravindran Nair</strong><br>Freelance<br>Consultant<br><strong>Class of 74</strong></p>
 	
