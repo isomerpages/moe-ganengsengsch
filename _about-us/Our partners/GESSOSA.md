@@ -163,7 +163,7 @@ img {
 <img src="/images/dennis%20chua%20new.jpg" alt="Mr-Dennis-Chua" style="width:25%;">   
 
 
-<p style="text-align:center;"> <strong>Dennis Chua</strong><br>Associate Trainer<br>First Aid / CPRAED<br><strong>Class of 82</strong></p>	
+<p style="text-align:center;"> <strong>Dennis Chua, PBM</strong><br>Associate Trainer<br>First Aid / CPRAED<br><strong>Class of 82</strong></p>	
 	
 ***
 
