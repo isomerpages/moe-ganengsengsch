@@ -97,7 +97,24 @@ img {
 </em><br>GME Chemicals (S) Pte Ltd<br><strong>Class of 93</strong></p>
 
 ***
+<h5 style="color:black" align="center">Honorary Assistant Treasurer
+</h5>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/Mr-Lee-Hay-Keong-1.jpeg" alt="Mr-Lee-Hay-Keong" style="width:25%;">  
+  
 
+
+<p style="text-align:center;"> <strong>Lee Hay Keong
+</strong><br><em>Senior Director
+</em><br>PM Link (CPG Corporation)<br><strong>Class of 74</strong></p>
+
+***
 <h5 style="color:black" align="center">Honorary Assistance Treasurer</h5>
 <style>  
 img {  
