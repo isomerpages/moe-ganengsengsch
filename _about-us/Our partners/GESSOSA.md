@@ -51,12 +51,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Mr-Ang-Joon-Ping-Joshua-1.jpeg" alt="Mr-Ang-Joon-Ping-Joshua" style="width:25%;">  
+<img src="/images/wee%20ren%20chai%20ronald%20new.jpg" alt="Mr-Wee-Ren-Chai-Ronald" style="width:25%;">  
   
 
 
-
-<p style="text-align:center;"> <strong>Ang Joon Ping Joshua</strong><br><em>Director</em><br>SingTel<br><strong>Class of 80</strong></p>
+<p style="text-align:center;"> <strong>Wee Ren Chai Ronald</strong><br><em>Founder</em><br>Apex Training &amp; Leadership Academy<br><strong>Class of 04</strong></p>
 
 ***
 
