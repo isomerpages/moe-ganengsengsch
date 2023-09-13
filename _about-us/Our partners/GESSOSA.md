@@ -146,7 +146,7 @@ img {
 
 
 
-<p style="text-align:center;"> <strong>Tang Chun Tuck</strong><br><em>Senior Marketing Director
+<p style="text-align:center;"> <strong>Tang Chun Tuck, PB PBS</strong><br><em>Senior Marketing Director
 </em><br>ERA Realty Network Pte Ltd<br><strong>Class of 69 &amp; 71</strong></p>
 
 ***
