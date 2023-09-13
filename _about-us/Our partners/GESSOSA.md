@@ -86,13 +86,12 @@ img {
 }  
 </style>  
 
-<img src="/images/Chan%20Ramli.jpg" alt="Mr-Ramli-Chan" style="width:25%;">  
-
+<img src="/images/chan%20ramli%20new.jpg" alt="Mr-Ramli-Chan" style="width:25%;">  
 
 
 <p style="text-align:center;"> <strong>Ramli Chan
 </strong><br><em>Sales Director
-</em><br>GME Chemicals (S) Pte Ltd<br><strong>Class of 93</strong></p>
+</em><br>GME Chemicals (S) Pte Ltd (A member of the Biesterfeld Group)<br><strong>Class of 96</strong></p>
 
 ***
 <h5 style="color:black" align="center">Honorary Assistant Treasurer
