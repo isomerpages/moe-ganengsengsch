@@ -74,7 +74,11 @@ The PTA is committed towards promoting close co-operation and understanding betw
     <td class="tg-rs0e"><span style="font-weight:bold">7</span><br></td>
     <td class="tg-h5mn">EXCO members</td>
     <td class="tg-h5mn">Ms Mimi Marhaini Masri<br>Ms Mandy Morier<br>Mr James Teo Eng Kiat<br>Ms Tanya Prasad<br>Ms Anita Kaur<br>Ms Quincey Tan Kah Li<br>Ms Priyanka Mathur<br>Mr Shi Chunyan</td>
-  </tr><tr><td class="tg-l2bf"><span>8</span></td><td class="tg-1ppo">Auditor</td><td class="tg-1ppo">Mr Heng Shao Sheng</td></tr>
+  </tr>
+	<tr>
+		<td class="tg-l2bf"><span>8</span></td>
+		<td class="tg-1ppo">Auditor</td>
+		<td class="tg-1ppo">Mr Heng Shao Sheng</td></tr>
 </tbody>
 </table>
 
