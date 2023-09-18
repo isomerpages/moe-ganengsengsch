@@ -32,8 +32,8 @@ The PTA is committed towards promoting close co-operation and understanding betw
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
@@ -105,8 +105,8 @@ The PTA is committed towards promoting close co-operation and understanding betw
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
