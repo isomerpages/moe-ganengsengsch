@@ -43,7 +43,8 @@ The PTA is committed towards promoting close co-operation and understanding betw
  &nbsp; &nbsp;
  &nbsp; &nbsp;
  &nbsp; &nbsp;
- &nbsp;<table class="tg">
+ &nbsp;
+ <table class="tg">
 <thead>
   <tr>
     <th class="tg-4ufn"><span style="font-weight:bold">S/No</span></th>
