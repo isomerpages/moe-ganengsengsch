@@ -43,7 +43,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">2</span></td>
     <td class="tg-1ppo">Vice President</td>
-    <td class="tg-1ppo">Parikshit Jaidev Sharma</td>
+    <td class="tg-1ppo">Mr Parikshit Jaidev Sharma</td>
   </tr>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">3</span></td>
@@ -62,18 +62,13 @@ The PTA is committed towards promoting close co-operation and understanding betw
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">6</span></td>
-    <td class="tg-1ppo">Assistant Treasurer</td>
-    <td class="tg-1ppo">Mr Lee Wei Sheng Frankie</td>
+    <td class="tg-1ppo">EXCO Advisor</td>
+    <td class="tg-1ppo">Yap Chwee Feng</td>
   </tr>
   <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">7</span></td>
-    <td class="tg-h5mn">EXCO Advisor</td>
-    <td class="tg-h5mn">Yap Chwee Feng</td>
-  </tr>
-  <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">8</span><br></td>
-    <td class="tg-1ppo">EXCO members</td>
-    <td class="tg-1ppo">Ms Emily Yu Yi<br>Ms Mimi Marhaini Masri<br>Ms Shirely Tan<br>Ms Mandy Morier<br>Mr James Teo Eng Kiat<br>Ms Heng Wamg Cheng Alice<br>Ms Tanya Prasad<br>Ms Quincey Tan Kah Li<br>Mr Lee Siew Fei</td>
+    <td class="tg-rs0e"><span style="font-weight:bold">7</span><br></td>
+    <td class="tg-h5mn">EXCO members</td>
+    <td class="tg-h5mn">Ms Emily Yu Yi<br>Ms Mimi Marhaini Masri<br>Ms Shirely Tan<br>Ms Mandy Morier<br>Mr James Teo Eng Kiat<br>Ms Heng Wamg Cheng Alice<br>Ms Tanya Prasad<br>Ms Quincey Tan Kah Li<br>Mr Lee Siew Fei</td>
   </tr>
 </tbody>
 </table>
