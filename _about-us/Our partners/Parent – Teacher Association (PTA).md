@@ -144,10 +144,6 @@ The PTA is committed towards promoting close co-operation and understanding betw
 
 **Programmes**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Triple P programme**&nbsp;
-
-*   [Family Matters ( Triple P )](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Family-Matters-Triple-P-.pdf) ***FILE TOO BIG!***
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Learning Journey**&nbsp;
 
 *   [GESS EDUCATION TRIP TO THE RELIGIOUS REHABILITATION GROUP (RRG)](/files/GESS-EDUCATION-TRIP-TO-THE-RELIGIOUS-REHABILITATION-GROUP-RRG.pdf)
