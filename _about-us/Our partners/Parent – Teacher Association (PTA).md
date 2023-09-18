@@ -38,7 +38,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">1</span></td>
     <td class="tg-h5mn">President</td>
-    <td class="tg-h5mn">Eileen Quek Ee Lyn</td>
+    <td class="tg-h5mn">Ms Eileen Quek Ee Lyn</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">2</span></td>
