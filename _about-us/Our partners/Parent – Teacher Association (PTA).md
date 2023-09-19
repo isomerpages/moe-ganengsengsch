@@ -170,6 +170,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Meetings**
 
+*   [GESS-PTA AGM 2023 Minutes – 6 Apr 2023](/files/gess-pta-agm%202023%20minutes.pdf)
 *   [GESS-PTA AGM 2021 Minutes – 20 Mar 2021 vetted](/files/GESS-PTA-AGM-2021-Minutes-20-Mar-2021-vetted.pdf)
 *   [GESS-Miniutes of PTA Meeting held on 14 Oct 2020](/files/GESS-Miniutes-of-PTA-Meeting-held-on-14-Oct-2020-.pdf)
 *   [Minutes of GESS-PTA AGM 2018](/files/Minutes-of-GESS-PTA-AGM-2018.pdf)
