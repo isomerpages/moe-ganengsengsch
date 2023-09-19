@@ -4,7 +4,6 @@ permalink: /partners/parent-teacher-association/
 description: ""
 third_nav_title: Our partners
 ---
-
 ### Our Mission
 
 The PTA is committed towards promoting close co-operation and understanding between parents, principal and teachers and providing the necessary support to the school so as to create a conducive learning environment that will bring out the best in the students.
@@ -20,9 +19,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
 (d) to provide financial assistance to needy students.
 
 <br>
-<img src="/images/Group-1.jpeg" 
-         style="width:650px"
-	/>
+<img style="width:650px" src="/images/Group-1.jpeg">
 <br>
 
 
@@ -35,12 +32,19 @@ The PTA is committed towards promoting close co-operation and understanding betw
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+
+ &nbsp;
+ &nbsp; &nbsp;
+ &nbsp; &nbsp;
+ &nbsp; &nbsp;
+ &nbsp;
+ <table class="tg">
 <thead>
   <tr>
     <th class="tg-4ufn"><span style="font-weight:bold">S/No</span></th>
@@ -52,43 +56,42 @@ The PTA is committed towards promoting close co-operation and understanding betw
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">1</span></td>
     <td class="tg-h5mn">President</td>
-    <td class="tg-h5mn">Quek Ee Lyn Eileen</td>
+    <td class="tg-h5mn">Ms Eileen Quek Ee Lyn</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">2</span></td>
     <td class="tg-1ppo">Vice President</td>
-    <td class="tg-1ppo">Parikshit Jaidev Sharma</td>
+    <td class="tg-1ppo">Mr Parikshit Jaidev Sharma</td>
   </tr>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">3</span></td>
     <td class="tg-h5mn">Secretary</td>
-    <td class="tg-h5mn">Ms Quincey Tan Kah Li</td>
+    <td class="tg-h5mn">Ms Angela Oh</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">4</span></td>
     <td class="tg-1ppo">Assistant Secretary</td>
-    <td class="tg-1ppo">Ms Fion Farn Choy Hoong</td>
+    <td class="tg-1ppo">Ms Stefanie Chye</td>
   </tr>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">5</span></td>
     <td class="tg-h5mn">Treasurer</td>
-    <td class="tg-h5mn">Mr Heng Shao Sheng</td>
+    <td class="tg-h5mn">Ms Tan Xinhui</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">6</span></td>
-    <td class="tg-1ppo">Assistant Treasurer</td>
-    <td class="tg-1ppo">Mr Lee Wei Sheng Frankie</td>
+    <td class="tg-1ppo">EXCO Advisor</td>
+    <td class="tg-1ppo">Yap Chwee Feng</td>
   </tr>
   <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">7</span></td>
-    <td class="tg-h5mn">EXCO Advisor</td>
-    <td class="tg-h5mn">Yap Chwee Feng</td>
+    <td class="tg-rs0e"><span style="font-weight:bold">7</span><br></td>
+    <td class="tg-h5mn">EXCO members</td>
+    <td class="tg-h5mn">Ms Mimi Marhaini Masri<br>Ms Mandy Morier<br>Mr James Teo Eng Kiat<br>Ms Tanya Prasad<br>Ms Anita Kaur<br>Ms Quincey Tan Kah Li<br>Ms Priyanka Mathur<br>Mr Shi Chunyan</td>
   </tr>
-  <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">8</span><br></td>
-    <td class="tg-1ppo">EXCO members</td>
-    <td class="tg-1ppo">Ms Emily Yu Yi<br>Ms Mimi Marhaini Masri<br>Ms Shirely Tan<br>Ms Mandy Morier<br>Mr James Teo Eng Kiat<br>Ms Heng Wamg Cheng Alice<br>Ms Tanya Prasad<br>Mr Lee Siew Fei</td>
-  </tr>
+	<tr>
+		<td class="tg-l2bf"><span style="font-weight:bold">8</span></td>
+		<td class="tg-1ppo">Auditor</td>
+		<td class="tg-1ppo">Mr Heng Shao Sheng</td></tr>
 </tbody>
 </table>
 
@@ -102,8 +105,8 @@ The PTA is committed towards promoting close co-operation and understanding betw
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
@@ -133,19 +136,15 @@ The PTA is committed towards promoting close co-operation and understanding betw
 </tbody>
 </table>
 
-[Click here](https://www.facebook.com/PTA.GESS) to visit our Facebook page.
+[Click here](https://www.facebook.com/PTA.GESS)&nbsp;to visit our Facebook page.
 
-[Click here](/files/Constitution-of-Gan-Eng-Seng-School-Parents-Teacher-Association-Singapore.pdf) to access PTA Constitution
+[Click here](/files/Constitution-of-Gan-Eng-Seng-School-Parents-Teacher-Association-Singapore.pdf)&nbsp;to access PTA Constitution
 
 ***
 
 **Programmes**
 
-          **Triple P programme** 
-
-*   [Family Matters ( Triple P )](https://ganengsengsch.moe.edu.sg/wp-content/uploads/2021/09/Family-Matters-Triple-P-.pdf) ***FILE TOO BIG!***
-
-          **Learning Journey** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Learning Journey**&nbsp;
 
 *   [GESS EDUCATION TRIP TO THE RELIGIOUS REHABILITATION GROUP (RRG)](/files/GESS-EDUCATION-TRIP-TO-THE-RELIGIOUS-REHABILITATION-GROUP-RRG.pdf)
 *   [Reflection on counter terrorism learning journey – 2F\_ Lee M J](/files/Reflection-on-counter-terrorism-learning-journey-2F_-Lee-M-J.pdf)
@@ -154,23 +153,24 @@ The PTA is committed towards promoting close co-operation and understanding betw
 *   [Reflection on Pulau Semakau -11th May -James 1G](/files/Reflection-on-Pulau-Semakau-11th-May-James-1G.pdf)
 *   [Reflection – Learning Journey to Marina Barrage](/files/Reflection-Learning-Journey-to-Marina-Barrage.pdf)
 
-          **Parent Child Bonding Session**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Parent Child Bonding Session**
 
-          **Parenting Workshops** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Parenting Workshops**&nbsp;
 
 *   [Igniting Potential, Building a Future](/files/Igniting-Potential-Building-a-Future.pdf)
 *   [Be Cyber Smart – Learn best practices for parenting in the digital age](/files/Be-Cyber-Smart-Learn-best-practices-for-parenting-in-the-digital-age.pdf)
 
-**Annual** **General Meetings**
+**Annual**&nbsp;**General Meetings**
 
-          **Notices**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Notices**
 
 *   [AGM-Notice-2021\_1](/files/AGM-Notice-2021_1.pdf)
 *   [AGM Notice 2020](/files/AGM-Notice-2020.pdf)
 *   [AGM Notice 2019](/files/AGM-Notice-2019.pdf)
 
-          **Meetings**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Meetings**
 
+*   [GESS-PTA AGM 2023 Minutes – 6 Apr 2023](/files/gess-pta-agm%202023%20minutes.pdf)
 *   [GESS-PTA AGM 2021 Minutes – 20 Mar 2021 vetted](/files/GESS-PTA-AGM-2021-Minutes-20-Mar-2021-vetted.pdf)
 *   [GESS-Miniutes of PTA Meeting held on 14 Oct 2020](/files/GESS-Miniutes-of-PTA-Meeting-held-on-14-Oct-2020-.pdf)
 *   [Minutes of GESS-PTA AGM 2018](/files/Minutes-of-GESS-PTA-AGM-2018.pdf)
@@ -181,7 +181,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
     *   You will be automatically be enrolled as a member of PTA as long as your child is pursing education in Gan Eng Seng School.
 
 *   **HOW DO I JOIN THE PTA Whatsapp chat group?**
-    *   Upon completion of google form given at the beginning of the Sec 1 registration, you will be admitted into the respective year and class group. If you need further assistance, please send an email to Mr. Subra, [subramanian\_annamalai@moe.edu.sg](mailto:subramanian_annamalai@moe.edu.sg).
+    *   Upon completion of google form given at the beginning of the Sec 1 registration, you will be admitted into the respective year and class group. If you need further assistance, please send an email to Mr. Subra,&nbsp;[subramanian\_annamalai@moe.edu.sg](mailto:subramanian_annamalai@moe.edu.sg).
 
 *   **IS IT COMPULSORY TO JOIN THE PTA Whatsapp chat group?**
     *   While it’s not compulsory to join, parents are strongly encouraged as it serves as a supplementary communication channel to Parents Gateway Portal.
