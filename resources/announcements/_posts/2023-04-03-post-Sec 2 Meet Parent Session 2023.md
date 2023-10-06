@@ -17,4 +17,3 @@ Thank you for the overwhelming response to our Sec 2 Meet-Parent-Session on 31 M
 [Subject Combinations 2024 Talk (for 2NT)](/files/subject%20combinations%202024%20talk%20(for%202nt).pdf)
 <br><br>
 For updated Subject Combinations 2024, please refer to the announcement dated 6 Oct 2023
-
