@@ -34,7 +34,7 @@ sections:
       button: READ MORE
       url: /resources/announcements/permalink/term42023/
   - infobar:
-      title: Direct School Admission (DSA)
+      title: Updated 2024 Sec 3 Subject Combinations
       button: READ MORE
-      url: /school-information/school-admission/
+      url: /resources/announcements/permalink/2024sec3subjectcombinations/
 ---
