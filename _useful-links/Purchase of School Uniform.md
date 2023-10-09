@@ -20,20 +20,20 @@ Students who are granted MOE Financial Assistance Scheme will receive a letter f
 **Addresses and dates of sale of school uniform:**
 <br>
 **a.** **BIBI &amp; BABA Private Limited**
-&nbsp; &nbsp; &nbsp; &nbsp; Address: Far East Shopping Centre, 545 Orchard Road #02-28
-&nbsp; &nbsp; &nbsp; &nbsp; Singapore 238882&nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; Tel: 6732 7022&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Operating Hours
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mon – Sat:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10 am to 7 pm
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sun:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10 am to 6 pm
+Address: Far East Shopping Centre, 545 Orchard Road #02-28
+Singapore 238882
+Operating Hours
+10 am to 7 pm
+10 am to 6 pm
 <br>
-**b**. **Purchase and Made to Measure Order @ Henderson Factory&nbsp;**
-&nbsp; &nbsp; &nbsp; &nbsp; Address: 213 Henderson Road #01-12 Singapore 159553
-&nbsp; &nbsp; &nbsp; &nbsp; Tel: 6271 9248
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Operating Hours
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mon – Fri:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;9 am to 6 pm
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sat:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;9 am to 1 pm
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunday &amp; Public Holidays: &nbsp;&nbsp; CLOSED.&nbsp;&nbsp;&nbsp;&nbsp;
+**b**. **Purchase and Made to Measure Order @ Henderson Factory**
+Address: 213 Henderson Road #01-12 Singapore 159553
+Tel: 6271 9248
+Operating Hours
+Mon – Fri: 9 am to 6 pm
+9 am to 1 pm
+Sunday &amp; 
+Public Holidays:  CLOSED.
 
 
 We strongly recommend that you purchase your child’s/ward’s school attire via any of the **<u>three</u>** options given below:
