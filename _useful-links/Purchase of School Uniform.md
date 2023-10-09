@@ -6,7 +6,7 @@ description: ""
 **SALE OF SCHOOL UNIFORM FOR GAN ENG SENG SCHOOL 2023**
 <br><br>
 Dear Parents/ Guardians,
-<br>
+<br><br>
 This is to inform the details of the sale of school uniform by Gan Eng Seng School’s appointed supplier BIBI&amp;BABA.
 <br>
 The sale of school uniform will be held at BIBI&amp;BABA’s outlets. Please note the following: 
