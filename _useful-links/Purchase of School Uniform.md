@@ -14,17 +14,17 @@ The sale of school uniform will be held at BIBI&amp;BABA’s outlets. Please not
 1. There will be no physical trying of school uniform at the outlets.
 2. Each student with one accompanying adult is allowed at the outlet.
 3. Purchase online - via [https://www.gess.schooluniforms.sg](https://www.gess.schooluniforms.sg)
-
+<br><br>
 Students who are granted MOE Financial Assistance Scheme will receive a letter from the school. <br>Please present the letter at the outlet to receive your uniform.
 <br>
 **Addresses and dates of sale of school uniform:**
 <br>
 **a.** **BIBI &amp; BABA Private Limited**
-Address: Far East Shopping Centre, 545 Orchard Road #02-28
-Singapore 238882
-Operating Hours
-10 am to 7 pm
-10 am to 6 pm
+**Address: Far East Shopping Centre, 545 Orchard Road #02-28 Singapore 238882**
+<br>
+<u>Operating Hours</u><br>
+Mon - Sat : 10 am to 7 pm<br>
+Sun : 10 am to 6 pm<br>
 <br>
 **b**. **Purchase and Made to Measure Order @ Henderson Factory**
 Address: 213 Henderson Road #01-12 Singapore 159553
