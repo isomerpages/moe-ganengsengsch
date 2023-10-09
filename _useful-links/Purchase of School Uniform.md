@@ -15,6 +15,7 @@ The sale of school uniform will be held at BIBI&amp;BABA’s outlets. Please not
 2. Each student with one accompanying adult is allowed at the outlet.
 3. Purchase online - via [https://www.gess.schooluniforms.sg](https://www.gess.schooluniforms.sg)
 <br><br>
+
 Students who are granted MOE Financial Assistance Scheme will receive a letter from the school. <br>Please present the letter at the outlet to receive your uniform.
 <br>
 **Addresses and dates of sale of school uniform:**
