@@ -17,7 +17,7 @@ The sale of school uniform will be held at BIBI&amp;BABA’s outlets. Please not
 
 <br>
 Students who are granted MOE Financial Assistance Scheme will receive a letter from the school. <br>Please present the letter at the outlet to receive your uniform.
-<br><br>
+<br>
 
 **Addresses and dates of sale of school uniform:**
 <br>
