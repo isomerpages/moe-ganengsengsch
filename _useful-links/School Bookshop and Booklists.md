@@ -5,15 +5,14 @@ description: ""
 ---
 Dear Parents/Guardians,
 
-**<u>Sale and Collection of Textbooks / Stationeries for year 2023</u>** 
+**<u>Sale and Collection of Textbooks / Stationeries for year 2024 (Sec 2 - 5)</u>** 
 <br>
-** (for Sec 1 only) **
 
-Please be informed that the window period for online ordering of textbooks for use in year 2023 will start from 16 December 2022 to 27 December 2022.
+Please be informed that the window period for online ordering of textbooks for use in year 2024 will start from 6 November 2023 to 15 December 2023.
 
-Purchases through online orders can be either delivered to your residence or self -collected at the school bookshop at [www.pacificbookstores.com](http://www.pacificbookstores.com/) with options for home delivery (Fixed delivery Charge of $13.80 applies) or self-collection in school premises.
+Purchases through online orders can be either delivered to your residence or self -collected at the school bookshop at&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)&nbsp;with options for home delivery (Fixed delivery Charge of $13.80 applies) or self-collection in school premises.
 
-Mode of payment: Master/Visa/Pay now (Scan & Pay)
+Mode of payment: Master/Visa/Pay now (Scan &amp; Pay)
 
 Self-collection: if you opt for self-collection, you will have to choose a date and time to do so. Please check the collection date/time below for details.
 
