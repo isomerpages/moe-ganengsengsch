@@ -14,7 +14,7 @@ Please be informed that the window period for online ordering of textbooks for u
 
 2)	**GOODS SOLD ARE NOT REFUNDABLE.** Please produce invoice for online orders or the booklist (OFFICIAL RECEIPT) for any exchange within 7 days of receipt/purchase. Exchange items must be in original condition. Books with name written on it will not be accepted. Digitized Textbook/eBook login details will be given EITHER in a sealed envelope OR a sticker inside the textbook, items are **NON-EXHANGABLE/REFUNDABL**E once open. 
 
-3)	**For enquiries, please email to bookshop@asencio.com.sg**
+3)	**For enquiries, please email to <u>bookshop@asencio.com.sg</u>**
 
 4)	NFY= Price not Fixed Yet
 
