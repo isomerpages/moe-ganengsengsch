@@ -246,25 +246,25 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
   <tr>
     <td class="tg-a3j2">26 Dec</td>
     <td class="tg-a3j2">Tue</td>
-    <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-a3j2">Self-Collection for Sec 1 - 5 online orders</td>
     <td class="tg-a3j2">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-gj5f">27 Dec</td>
     <td class="tg-gj5f">Wed</td>
-    <td class="tg-gj5f">Self-Collection for sec 1 online orders</td>
+    <td class="tg-gj5f">Self-Collection for Sec 1 - 5 online orders</td>
     <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-a3j2">28 Dec</td>
     <td class="tg-a3j2">Thur</td>
-    <td class="tg-a3j2">Self-Collection for sec 1 online orders</td>
+    <td class="tg-a3j2">Self-Collection for Sec 1 - 5 online orders</td>
     <td class="tg-a3j2">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-gj5f">29 Dec</td>
     <td class="tg-gj5f">Fri</td>
-    <td class="tg-gj5f">Self-Collection for sec 1 online orders</td>
+    <td class="tg-gj5f">Self-Collection for Sec 1 - 5 online orders</td>
     <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
