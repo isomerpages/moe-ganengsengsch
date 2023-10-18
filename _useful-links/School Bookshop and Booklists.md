@@ -60,7 +60,7 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pr30">0 Nov</td>
+    <td class="tg-pr30">20 Nov</td>
     <td class="tg-pr30">Mon</td>
     <td class="tg-pr30">Self-Collection for Sec 2 - 5 online orders</td>
     <td class="tg-gj5f">0900 – 1500 hrs</td>
