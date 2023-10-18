@@ -263,42 +263,6 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
     <td class="tg-4ufn"><span style="font-weight:bold">CLOSED</span></td>
     <td class="tg-a3j2"></td>
   </tr>
-  <tr>
-    <td class="tg-pr30"><span style="font-weight:bold">26 Dec</span></td>
-    <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
-    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
-    <td class="tg-gj5f"></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2">27 Dec</td>
-    <td class="tg-a3j2">Tue</td>
-    <td class="tg-a3j2">Self-Collection for sec 1 - 5 online orders</td>
-    <td class="tg-a3j2">0900 – 1500 hrs</td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">28 Dec</td>
-    <td class="tg-gj5f">Wed</td>
-    <td class="tg-gj5f">Self-Collection for sec 1 - 5 online orders</td>
-    <td class="tg-gj5f">0900 – 1500 hrs</td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2">29 Dec</td>
-    <td class="tg-a3j2">Thur</td>
-    <td class="tg-a3j2">Self-Collection for sec 1 - 5 online orders</td>
-    <td class="tg-a3j2">0900 – 1500 hrs</td>
-  </tr>
-  <tr>
-    <td class="tg-pr30"><span style="font-weight:bold">30 Dec</span></td>
-    <td class="tg-pr30"><span style="font-weight:bold">Fri</span></td>
-    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
-    <td class="tg-gj5f"></td>
-  </tr>
-  <tr>
-    <td class="tg-4ufn"><span style="font-weight:bold">31 Dec</span></td>
-    <td class="tg-4ufn"><span style="font-weight:bold">Sat</span></td>
-    <td class="tg-4ufn"><span style="font-weight:bold">CLOSED</span></td>
-    <td class="tg-0lax"></td>
-  </tr>
 </tbody>
 </table>
 
