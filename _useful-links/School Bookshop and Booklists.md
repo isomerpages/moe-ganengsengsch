@@ -126,10 +126,10 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
     <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
-    <td class="tg-a3j2">2 Dec</td>
-    <td class="tg-a3j2">Sat</td>
+		<td class="tg-a3j2"><span style="font-weight:bold">2 Dec</span></td>
+		<td class="tg-a3j2"><span style="font-weight:bold">Sat</span></td>
     <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
-    <td class="tg-a3j2">0900 -1200 hrs</td>
+		<td class="tg-a3j2"><span style="font-weight:bold">0900 -1200 hrs</span></td>
   </tr>
   <tr>
     <td class="tg-pr30"><span style="font-weight:bold">4 Dec</span></td>
