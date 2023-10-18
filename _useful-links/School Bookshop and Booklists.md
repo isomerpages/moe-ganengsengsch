@@ -168,7 +168,7 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
 		<td class="tg-a3j2"><span style="font-weight:bold">0900 -1200 hrs</span></td>
   </tr>
   <tr>
-    <td class="tg-pr30">1 Dec</td>
+    <td class="tg-pr30">11 Dec</td>
     <td class="tg-pr30">Mon</td>
     <td class="tg-pr30">Walk in for Sec 2 - 5 MOE FAS and School - Based FAS only</td>
     <td class="tg-gj5f">0900 – 1500 hrs</td>
