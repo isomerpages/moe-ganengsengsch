@@ -210,8 +210,8 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
     <td class="tg-gj5f"></td>
   </tr>
   <tr>
-    <td class="tg-a3j2">19 Dec</td>
-    <td class="tg-a3j2">Tue</td>
+		<td class="tg-a3j2"><span style="font-weight:bold">19 Dec</span></td>
+		<td class="tg-a3j2"><span style="font-weight:bold">Tue</span></td>
 		<td class="tg-a3j2"><span style="font-weight:bold">CLOSED</span></td>
     <td class="tg-a3j2"></td>
   </tr>
