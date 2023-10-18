@@ -78,10 +78,10 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
     <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
-    <td class="tg-a3j2">**25 Nov**</td>
-    <td class="tg-a3j2">**Sat**</td>
+    <td class="tg-a3j2">25 Nov</td>
+    <td class="tg-a3j2">Sat</td>
     <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
-    <td class="tg-a3j2">**0900 – 1200 hrs**</td>
+    <td class="tg-a3j2">0900 – 1200 hrs</td>
   </tr>
   <tr>
     <td class="tg-pr30"><span style="font-weight:bold">27 Nov</span></td>
@@ -114,10 +114,10 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
     <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
-    <td class="tg-a3j2">**2 Dec**</td>
-    <td class="tg-a3j2">**Sat**</td>
+    <td class="tg-a3j2">2 Dec</td>
+    <td class="tg-a3j2">Sat</td>
     <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
-    <td class="tg-a3j2">**0900 -1200 hrs**</td>
+    <td class="tg-a3j2">0900 -1200 hrs</td>
   </tr>
   <tr>
     <td class="tg-pr30"><span style="font-weight:bold">4 Dec</span></td>
@@ -150,58 +150,58 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
     <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
-    <td class="tg-a3j2">**9 Dec**</td>
-    <td class="tg-a3j2">**Sat**</td>
-    <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
-    <td class="tg-a3j2">**0900 -1200 hrs**</td>
-  </tr>
-  <tr>
-    <td class="tg-pr30"><span style="font-weight:bold">5 Dec</span></td>
-    <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
-    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
-    <td class="tg-gj5f"></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2">6 Dec</td>
-    <td class="tg-a3j2">Tue</td>
-    <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
-    <td class="tg-a3j2">0900 – 1500 hrs</td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">7 Dec</td>
-    <td class="tg-gj5f">Wed</td>
-    <td class="tg-gj5f">Self-Collection for sec 2 - 5 online orders</td>
-    <td class="tg-gj5f">0900 – 1500 hrs</td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2">8 Dec</td>
-    <td class="tg-a3j2">Thur</td>
-    <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
-    <td class="tg-a3j2">0900 – 1500 hrs</td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f">9 Dec</td>
-    <td class="tg-gj5f">Fri</td>
-    <td class="tg-gj5f">Self-Collection for sec 2 - 5 online orders</td>
-    <td class="tg-gj5f">0900 – 1500 hrs</td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2">10 Dec</td>
+    <td class="tg-a3j2">9 Dec</td>
     <td class="tg-a3j2">Sat</td>
     <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
     <td class="tg-a3j2">0900 -1200 hrs</td>
   </tr>
   <tr>
-    <td class="tg-pr30"><span style="font-weight:bold">12 Dec</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">11 Dec</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
+    <td class="tg-pr30"><span style="font-weight:bold">0900 – 1500 hrs</span></td>
+    <td class="tg-gj5f"></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">12 Dec</td>
+    <td class="tg-a3j2">Tue</td>
+    <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">13 Dec</td>
+    <td class="tg-gj5f">Wed</td>
+    <td class="tg-gj5f">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">14 Dec</td>
+    <td class="tg-a3j2">Thur</td>
+    <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-a3j2">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f">15 Dec</td>
+    <td class="tg-gj5f">Fri</td>
+    <td class="tg-gj5f">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">16 Dec</td>
+    <td class="tg-a3j2">Sat</td>
+    <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-a3j2">0900 -1200 hrs</td>
+  </tr>
+  <tr>
+    <td class="tg-pr30"><span style="font-weight:bold">18 Dec</span></td>
     <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
     <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
     <td class="tg-gj5f"></td>
   </tr>
   <tr>
-    <td class="tg-a3j2">13 Dec</td>
-    <td class="tg-a3j2">Tue</td>
-    <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
-    <td class="tg-a3j2">0900 – 1500 hrs</td>
+    <td class="tg-a3j2"><span style="font-weight:bold">19 Dec</span></td>
+    <td class="tg-a3j2"><span style="font-weight:bold">Tue</span></td>
+    <td class="tg-a3j2"><span style="font-weight:bold">CLOSED</span></td>
+    <td class="tg-a3j2"></td>
   </tr>
   <tr>
     <td class="tg-gj5f">14 Dec</td>
