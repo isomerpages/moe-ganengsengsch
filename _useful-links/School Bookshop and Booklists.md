@@ -37,6 +37,16 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+
+
+
+* * *
+
+#### Booklist
+* [Gan Eng Seng School Booklist 2024 - Sec 2](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%202.pdf)
+* [Gan Eng Seng School Booklist 2024 - Sec 3](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%203.pdf)
+* [Gan Eng Seng School Booklist 2024 - Sec 4](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%204.pdf)
+* [Gan Eng Seng School Booklist 2024 - Sec 5](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%205.pdf)
 <table class="tg">
 <thead>
   <tr>
@@ -78,16 +88,16 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
     <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
-    <td class="tg-a3j2">25 Nov</td>
-    <td class="tg-a3j2">Sat</td>
+		<td class="tg-a3j2"><span style="font-weight:bold">25 Nov</span></td>
+		<td class="tg-a3j2"><span style="font-weight:bold">Sat</span></td>
     <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
-    <td class="tg-a3j2">0900 – 1200 hrs</td>
+		<td class="tg-a3j2"><span style="font-weight:bold">0900 – 1200 hrs</span></td>
   </tr>
   <tr>
-    <td class="tg-pr30"><span style="font-weight:bold">27 Nov</span></td>
-    <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
-    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
-    <td class="tg-gj5f"></td>
+    <td class="tg-pr30">27 Nov</td>
+    <td class="tg-pr30">Mon</td>
+    <td class="tg-pr30">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-a3j2">28 Nov</td>
@@ -122,8 +132,8 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
   <tr>
     <td class="tg-pr30"><span style="font-weight:bold">4 Dec</span></td>
     <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
-    <td class="tg-pr30"><span style="font-weight:bold">CLOSED</span></td>
-    <td class="tg-gj5f"></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Self-Collection for sec 2 - 5 online orders</span></td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-a3j2">5 Dec</td>
@@ -158,37 +168,37 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
   <tr>
     <td class="tg-pr30"><span style="font-weight:bold">11 Dec</span></td>
     <td class="tg-pr30"><span style="font-weight:bold">Mon</span></td>
-    <td class="tg-pr30"><span style="font-weight:bold">0900 – 1500 hrs</span></td>
-    <td class="tg-gj5f"></td>
+    <td class="tg-pr30"><span style="font-weight:bold">Walk in for Sec 2 - 5 MOE FAS and School - Based FAS only</span></td>
+    <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-a3j2">12 Dec</td>
     <td class="tg-a3j2">Tue</td>
-    <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-a3j2">Walk in for Sec 2 - 5 MOE FAS and School - Based FAS only</td>
     <td class="tg-a3j2">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-gj5f">13 Dec</td>
     <td class="tg-gj5f">Wed</td>
-    <td class="tg-gj5f">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-gj5f">Walk in for Sec 2 - 5 MOE FAS and School - Based FAS only</td>
     <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-a3j2">14 Dec</td>
     <td class="tg-a3j2">Thur</td>
-    <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-a3j2">Walk in for Sec 2 - 5 MOE FAS and School - Based FAS only</td>
     <td class="tg-a3j2">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-gj5f">15 Dec</td>
     <td class="tg-gj5f">Fri</td>
-    <td class="tg-gj5f">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-gj5f">Walk in for Sec 2 - 5 MOE FAS and School - Based FAS only</td>
     <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-a3j2">16 Dec</td>
     <td class="tg-a3j2">Sat</td>
-    <td class="tg-a3j2">Self-Collection for sec 2 - 5 online orders</td>
+    <td class="tg-a3j2">Walk in for Sec 2 - 5 MOE FAS and School - Based FAS only</td>
     <td class="tg-a3j2">0900 -1200 hrs</td>
   </tr>
   <tr>
@@ -206,25 +216,25 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
   <tr>
     <td class="tg-gj5f">20 Dec</td>
     <td class="tg-gj5f">Wed</td>
-    <td class="tg-gj5f">Walk in for Sec 2 - 5 MOE FAS and School- Based FAS only</td>
+    <td class="tg-gj5f">Self-Collection for Sec 1 online orders</td>
     <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-a3j2">21 Dec</td>
     <td class="tg-a3j2">Thur</td>
-    <td class="tg-a3j2">Walk in for Sec 2 - 5 MOE FAS and School- Based FAS only</td>
+    <td class="tg-a3j2">Self-Collection for Sec 1 online orders</td>
     <td class="tg-a3j2">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-gj5f">22 Dec</td>
     <td class="tg-gj5f">Fri</td>
-    <td class="tg-gj5f">Walk in for Sec 2 - 5 MOE FAS and School- Based FAS only</td>
+    <td class="tg-gj5f">Self-Collection for Sec 1 online orders</td>
     <td class="tg-gj5f">0900 – 1500 hrs</td>
   </tr>
   <tr>
     <td class="tg-a3j2">23 Dec</td>
     <td class="tg-a3j2">Sat</td>
-    <td class="tg-a3j2">Walk in for Sec 2 - 5 MOE FAS and School- Based FAS only</td>
+    <td class="tg-a3j2">Self-Collection for Sec 1 online orders</td>
     <td class="tg-a3j2">0900 -1200 hrs</td>
   </tr>
   <tr>
@@ -262,25 +272,4 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
     <td class="tg-4ufn"><span style="font-weight:bold">Sat</span></td>
     <td class="tg-4ufn"><span style="font-weight:bold">CLOSED</span></td>
     <td class="tg-a3j2"></td>
-  </tr>
-</tbody>
-</table>
-
-
-
-* * *
-
-#### Booklist
-* [Gan Eng Seng School Secondary 1 (Express) Booklist For Year 2023](/files/GESS%20S1E.pdf)
-* [Gan Eng Seng School Secondary 1 (Normal Academic) Booklist For Year 2023](/files/GESS%20S1NA.pdf)
-* [Gan Eng Seng School Secondary 1 (Normal Technical) Booklist For Year 2023](/files/GESS%20S1NT.pdf)
-* [Gan Eng Seng School Secondary 2 (Express) Booklist For Year 2023](/files/GESS%20S2E.pdf)
-* [Gan Eng Seng School Secondary 2 (Normal Academic) Booklist For Year 2023](/files/GESS%20S2NA.pdf)
-* [Gan Eng Seng School Secondary 2 (Normal Technical) Booklist For Year 2023](/files/GESS%20S2NT.pdf)
-* [Gan Eng Seng School Secondary 3 (Express) Booklist For Year 2023](/files/GESS%20S3EXP.pdf)
-* [Gan Eng Seng School Secondary 3 (Normal Academic) Booklist For Year 2023](/files/GESS%20S3NA.pdf)
-* [Gan Eng Seng School Secondary 3 (Normal Technical) Booklist For Year 2023](/files/GESS%20S3NT.pdf)
-* [Gan Eng Seng School Secondary 4 (Express) Booklist For Year 2023](/files/GESS%20S4EXP.pdf)
-* [Gan Eng Seng School Secondary 4 (Normal Academic) Booklist For Year 2023](/files/GESS%20S4NA.pdf)
-* [Gan Eng Seng School Secondary 4 (Normal Technical) Booklist For Year 2023](/files/GESS%20S4NT.pdf)
-* [Gan Eng Seng School Secondary 5 (Normal Academic) Booklist For Year 2023](/files/GESS%20S5NA.pdf)
+  </tr></tbody></table>
