@@ -10,21 +10,18 @@ Dear Parents/Guardians,
 
 Please be informed that the window period for online ordering of textbooks for use in year 2024 will start from 6 November 2023 to 15 December 2023.
 
-1)	To ensure that the correct editions of the books have been purchased, parents are strongly encouraged to purchase them through the **school bookshop via ASENCIO ONLINE PORTAL: [asenciobookshop.sg](https://asenciobookshop.sg/) with options for home delivery (Fixed delivery Charge of $10.80 applies) or self-collection in school premises.** You are required to register an account before proceeding with your online purchase. **Parents who make online purchases by 23 December 2023 will be able to receive their textbooks before school starts in 2024.**
+1)	To ensure that the correct editions of the books have been purchased, parents are strongly encouraged to purchase them through the **school bookshop via ASENCIO ONLINE PORTAL: [asenciobookshop.sg](https://asenciobookshop.sg/) with options for home delivery (Fixed delivery Charge of $10.80 applies) or self-collection in school premises.** You are required to register an account before proceeding with your online purchase. 
 
-2)	**GOODS SOLD ARE NOT REFUNDABLE.** Please produce invoice for online orders or the booklist (OFFICIAL RECEIPT) for any exchange within 7 days of receipt/purchase. Exchange items must be in original condition. Books with name written on it will not be accepted. Digitized Textbook/eBook login details will be given EITHER in a sealed envelope OR a sticker inside the textbook, items are **NON-EXHANGABLE/REFUNDABL**E once open. 
+2)	**GOODS SOLD ARE NOT REFUNDABLE.** Please produce invoice for online orders or the booklist (OFFICIAL RECEIPT) for any exchange within 7 days of receipt/purchase. Exchange items must be in original condition. Books with name written on it will not be accepted. Digitized Textbook/eBook login details will be given EITHER in a sealed envelope OR a sticker inside the textbook, items are **NON-EXHANGABLE/REFUNDABLE** once open. 
 
-3)	**For enquiries, please email to <u>bookshop@asencio.com.sg</u>**
+3)	**For enquiries, please email to <u>gess@asencio.com.sg</u>**
 
-4)	NFY= Price not Fixed Yet
-
-5)	Price will be revised to reflect 9% GST in January 2024
-
+<br>
 Self-collection: if you opt for self-collection, you will have to choose a date and time to do so. Please check the collection date/time below for details.
 
 
 
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -38,15 +35,15 @@ Self-collection: if you opt for self-collection, you will have to choose a date 
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 
-
+<br>
 
 * * *
 
 #### Booklist
-* [Gan Eng Seng School Booklist 2024 - Sec 2](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%202.pdf)
-* [Gan Eng Seng School Booklist 2024 - Sec 3](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%203.pdf)
-* [Gan Eng Seng School Booklist 2024 - Sec 4](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%204.pdf)
-* [Gan Eng Seng School Booklist 2024 - Sec 5](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%205.pdf)
+* [Gan Eng Seng School Booklist 2024 - Sec 2](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%202%20-.pdf)
+* [Gan Eng Seng School Booklist 2024 - Sec 3](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%203%20-.pdf)
+* [Gan Eng Seng School Booklist 2024 - Sec 4](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%204%20-.pdf)
+* [Gan Eng Seng School Booklist 2024 - Sec 5](/files/gan%20eng%20seng%20school%20booklist%202024%20final%20sec%205%20-.pdf)
 
 <br>
 <table class="tg">
