@@ -3,6 +3,7 @@ title: NPCC (Boys)
 permalink: /cca/uniformed-group/npcc/
 description: ""
 third_nav_title: CCAs   Uniformed Groups
+variant: markdown
 ---
 #### **National Police Cadet Corps**
 
@@ -13,9 +14,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NPCC%201.jpeg" alt="NPCC (Boys)" style="width:55%;">  
+<img src="/images/NPCC%201.jpeg" alt="NPCC (Boys)" style="width:55%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -25,9 +26,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NPCC%202.jpeg" alt="NPCC (Boys)" style="width:55%;">  
+<img src="/images/NPCC%202.jpeg" alt="NPCC (Boys)" style="width:55%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -37,9 +38,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NPCC%203.jpeg" alt="NPCC (Boys)" style="width:55%;">  
+<img src="/images/NPCC%203.jpeg" alt="NPCC (Boys)" style="width:55%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -49,9 +50,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NPCC%204.jpeg" alt="NPCC (Boys)" style="width:55%;">  
+<img src="/images/NPCC%204.jpeg" alt="NPCC (Boys)" style="width:55%;">  
   
-</body>
+
 <br>
 
 <style type="text/css">
@@ -84,7 +85,7 @@ img {
     <td class="tg-tsok"><span style="font-weight:bold">Chief Field Instructor:</span><br>SGT Goh Yong Ping Murphy (3-5)<br><br><span style="font-weight:bold">Chief Operations Officer:</span><br>SGT Tang Wei Zheng Caden (3-6)<br><br><span style="font-weight:bold">Chief Drill Instructor:</span><br>SGT Guai Tzer Ray (3-6)</td>
   </tr>
   <tr>
-    <td class="tg-h5mn" colspan="3">The GESS NPCC Unit was established in 1969. Our objectives are to complement the cadets academic education by providing the cadets with healthy group interaction and activities to develop their mental alertness, physical bearing, fitness, discipline and a more rounded personality. At the end of 4/5 years of education, we aim to develop in the cadets the qualities of leadership, self-reliance, resilience, public spiritedness, sense of responsibility and good character.<br><br>Our mission is to develop our members to be active and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.<br><br>Our vision is to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.<br><br>Our activities include:<br><br>●     Foot drills<br>●     Campcraft<br>●     Classification Shoot<br>●     Crime Scene Investigation<br>●     Unarmed Tactics<br>●     Anti-drug Abuse Training<br>●     Community Safety &amp; Security Programme<br>●     Police Youth Ambassador Programme<br>●     Adventure Training Camp<br>●     Hiking<br>●     Outdoor Survival<br>●     Navigation<br>●     Pioneering<br>●     NPCC Annual Parade<br>●     National Day Parade<br><br><span style="font-weight:bold">Unit Overall Proficiency Awards (UOPA) GOLD:</span><br>1989, 1991, 2002, 2003, 2005, 2008, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021.<br><br><span style="font-weight:bold">Inter Unit E-Crime Scene Investigation Competition 2022 (National)</span><br>Top 10</td>
+    <td class="tg-h5mn" colspan="3">The GESS NPCC Unit was established in 1969. Our objectives are to complement the cadets academic education by providing the cadets with healthy group interaction and activities to develop their mental alertness, physical bearing, fitness, discipline and a more rounded personality. At the end of 4/5 years of education, we aim to develop in the cadets the qualities of leadership, self-reliance, resilience, public spiritedness, sense of responsibility and good character.<br><br>Our mission is to develop our members to be active and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.<br><br>Our vision is to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.<br><br>Our activities include:<br><br>●     Foot drills<br>●     Campcraft<br>●     Classification Shoot<br>●     Crime Scene Investigation<br>●     Unarmed Tactics<br>●     Anti-drug Abuse Training<br>●     Community Safety &amp; Security Programme<br>●     Police Youth Ambassador Programme<br>●     Adventure Training Camp<br>●     Hiking<br>●     Outdoor Survival<br>●     Navigation<br>●     Pioneering<br>●     NPCC Annual Parade<br>●     National Day Parade<br><br><span style="font-weight:bold">Unit Overall Proficiency Awards (UOPA) GOLD:</span><br>1989, 1991, 2002, 2003, 2005, 2008, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023.<br><br><span style="font-weight:bold">Inter Unit E-Crime Scene Investigation Competition 2022 (National)</span><br>Top 10</td>
   </tr>
   <tr>
     <td class="tg-1ppo">Other Links:</td>
