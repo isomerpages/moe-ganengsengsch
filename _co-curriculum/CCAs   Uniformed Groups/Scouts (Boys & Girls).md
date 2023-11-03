@@ -14,67 +14,6 @@ variant: markdown
 <br>![](/images/scout%205.jpg)
 
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/scout%201.jpg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
-  
-
-<br>
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/scout%202.jpg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
-  
-
-<br>
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/scout%203.jpg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
-  
-
-<br>
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/scout%204.jpg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/scout%205.jpg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
-  
-
 <br>
 
 <style type="text/css">
