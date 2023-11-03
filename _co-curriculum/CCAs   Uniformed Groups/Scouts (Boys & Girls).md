@@ -7,6 +7,13 @@ variant: markdown
 ---
 #### **Dragon Scouts (est since 1922)**
 
+![](/images/scout%201.jpg)
+<br>![](/images/scout%202.jpg)
+<br>![](/images/scout%203.jpg)
+<br>![](/images/scout%204.jpg)
+<br>![](/images/scout%205.jpg)
+
+
 <style>  
 img {  
   display: block;  
@@ -14,7 +21,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Scout-1.jpeg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
+<img src="/images/scout%201.jpg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
   
 
 <br>
@@ -27,7 +34,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Scout-2.jpeg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
+<img src="/images/scout%202.jpg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
   
 
 <br>
@@ -40,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Scout-3.jpeg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
+<img src="/images/scout%203.jpg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
   
 
 <br>
@@ -53,7 +60,19 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Scout-4.jpeg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
+<img src="/images/scout%204.jpg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
+  
+
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/scout%205.jpg" alt="Scouts (Boys &amp; Girls)" style="width:55%;">  
   
 
 <br>
