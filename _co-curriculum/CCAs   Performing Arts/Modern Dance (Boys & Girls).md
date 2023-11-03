@@ -65,7 +65,7 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mdm Asnur Mursalin<br>Mrs Jacqueline Yeo<br>Miss Shirley Tan Li Hoon<br>Miss Geetha Muthu</td>
+    <td class="tg-tsok">Mdm Asnur Mursalin<br>Miss Shirley Tan Li Hoon<br>Ms Geetha Muthu</td>
     <td class="tg-tsok">Mr Teh Boon Kiat (Robin)<br><br>Ms Seah Li Ling (Orange)</td>
     <td class="tg-l2bf"><span style="font-weight:bold">President:</span><br>Lai Yan Yu Shannon (3-6)<br><span style="font-weight:bold">Vice Presidents:</span><br>Jody Anne Tay Hui Wen (3-7)<br>Desiree Tan Le Tong (3-3)</td>
   </tr>
