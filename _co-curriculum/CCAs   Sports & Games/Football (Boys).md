@@ -3,6 +3,7 @@ title: Football (Boys)
 permalink: /cca/sports/football/
 description: ""
 third_nav_title: CCAs   Sports & Games
+variant: markdown
 ---
 ![](/images/b%20division%20boys.jpeg)
 <br>
@@ -49,6 +50,8 @@ third_nav_title: CCAs   Sports & Games
 Achievements
 			<br>
 2023 - League 2 NSG B Division Football Qualifiers
+			<br>
+2023 - League 3 NSG C Division Football Qualifiers
 		</td>
   </tr>
 </tbody>
