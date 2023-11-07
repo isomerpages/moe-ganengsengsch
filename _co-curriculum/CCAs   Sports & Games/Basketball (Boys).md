@@ -43,9 +43,9 @@ variant: markdown
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Tay Chew Woo<br>Chee Fook Sing<br>Ang Zhao Liang</td>
-    <td class="tg-tsok">Ms Lee Si Yi</td>
-    <td class="tg-tsok">Lim Wei Kang Alfred 3-8<br>Chua MingJun 3-6</td>
+    <td class="tg-tsok">Mr Tay Chew Woo<br>Ms Umamageswari Sathiaseelan<br>Mr Niu Zi Bin</td>
+    <td class="tg-tsok">Ms Lee Si Yi (2023)<br>Mr Rick Ng (2024)</td>
+    <td class="tg-tsok">Zarmin Ravi 3-4<br>Bradley Samuelson Chang Ding Jie 3-2</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="3">Basketball is a highly sought-after CCA in GESS. At GESS Basketball, we trained together diligently to improve our skills and teamwork. We train hard to compete in, and win, competitions. Our aims are to attain the top 4 positions in the National inter-school South Zone basketball competitions.<br><br>Beyond competitions, we believe getting medals and winning is not all there is to this sport. We also achieve success when we develop our basketball skills, and learn to enjoy the game better as a team.<br><br>GESS Basketball participates in both the ‘B’ and ‘C’ Division National School Games annually. DSA for Basketball is also offered to aspiring basketballers. We conduct selection trials for interested Secondary One students to ensure our basketballers have basic competencies in the sport.<br><br>Whenever possible, we arrange for friendlies with other schools, and organise mini competitions with other schools. Such friendlies allow all our basketballers opportunities to represent GESS. This instils a sense of pride and motivates our basketballers further to dream of representing GESS Basketball in National School Games.<br><br>For our eCCAs, we incorporate film studies of basketball matches at National School Games, as well as technical aspects of basketball skills in all our players. Fitness training is also an essential aspect of our weekly training sessions.</td>
