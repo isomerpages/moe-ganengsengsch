@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCAs   Sports & Games
 variant: markdown
 ---
-
 ![](/images/basketball-10.jpeg)
 <br>
 ![](/images/basketball-20.jpeg)
@@ -19,55 +18,6 @@ variant: markdown
 ![](/images/basketball%2060.jpeg)
 <br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Basketball-1.png" alt="Basketball (Boys)" style="width:60%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Basketball-2.png" alt="Basketball (Boys)" style="width:60%;">  
-  
-
-<br>
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Basketball-3.png" alt="Basketball (Boys)" style="width:60%;">  
-  
-
-<br>
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Basketball-4.png" alt="Basketball (Boys)" style="width:60%;">  
-  
-
-<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
