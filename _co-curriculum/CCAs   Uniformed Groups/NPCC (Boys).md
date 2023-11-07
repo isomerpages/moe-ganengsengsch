@@ -7,53 +7,17 @@ variant: markdown
 ---
 #### **National Police Cadet Corps**
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/NPCC%201.jpeg" alt="NPCC (Boys)" style="width:55%;">  
-  
-
+![](/images/npcc%2010.jpg)
+<br>
+![](/images/npcc%2020.jpg)
+<br>
+![](/images/npcc%2030.jpg)
+<br>
+![](/images/npcc%2040.jpg)
+<br>
+![](/images/npcc%20500.jpeg)
 <br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/NPCC%202.jpeg" alt="NPCC (Boys)" style="width:55%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/NPCC%203.jpeg" alt="NPCC (Boys)" style="width:55%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/NPCC%204.jpeg" alt="NPCC (Boys)" style="width:55%;">  
-  
-
-<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -80,12 +44,23 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">ASP Ngoh Cher Tian Jenny (OC)<br>INSP Kelvin Kwok Tzih-Yeung (Dy OC)<br>ASP Tay Yian Ling<br>INSP Emerson Foo Meng Juan</td>
-    <td class="tg-tsok"><span style="font-weight:bold">Honorary Officers:</span><br>Mr Ronald Wee Ren Chai<br>Mr Shoorya Prakash<br><br><span style="font-weight:bold">Senior Cadet Inspectors:</span><br>Mr Lock Chan Hong<br>Mr Bryan Chai Siong Yi<br>Mr Clemen Kok Yu Shan<br><br><span style="font-weight:bold">Cadet Inspectors:</span><br>Mr Dave Ng Si Jie<br>Mr Jared Xin Ern Terredano<br>Mr Shahul Hameed Ashik Ahmad<br>Mr Au Yong Cheng Jun<br>Mr Tan Jun Ming<br>Mr Sam Jun En</td>
-    <td class="tg-tsok"><span style="font-weight:bold">Chief Field Instructor:</span><br>SGT Goh Yong Ping Murphy (3-5)<br><br><span style="font-weight:bold">Chief Operations Officer:</span><br>SGT Tang Wei Zheng Caden (3-6)<br><br><span style="font-weight:bold">Chief Drill Instructor:</span><br>SGT Guai Tzer Ray (3-6)</td>
+    <td class="tg-tsok">ASP Ngoh Cher Tian Jenny (OC)<br>INSP Kelvin Kwok Tzih-Yeung (Dy OC)<br>INSP Emerson Foo Meng Juan<br>ASP Tay Yian Ling</td>
+    <td class="tg-tsok"><span style="font-weight:bold">Honorary Officers:</span><br>Mr Ronald Wee Ren Chai<br>Mr Shoorya Prakash<br>Mr Lock Chan Hong<br>Mr Bryan Chai Siong Yi<br><br><span style="font-weight:bold">Senior Cadet Inspectors:</span><br>Mr Dave Ng Si Jie<br>Mr Jared Xin Ern Terredano<br>Mr Au Yong Cheng Jun<br><br><span style="font-weight:bold">Cadet Inspectors:</span><br>Mr Shahul Hameed Ashik Ahmad<br>Mr Tan Jun Ming<br>Mr Sam Jun En<br>Mr Guai Tzer Ray<br>Mr Tan Javier</td>
+    <td class="tg-tsok"><span style="font-weight:bold">Chief Field Instructor:</span><br>SGT Guan Jia Jian Jonathan (3-1)<br><br><span style="font-weight:bold">Chief Operations Officer:</span><br>SGT Dong Jia An (3-2)<br><br><span style="font-weight:bold">Chief Drill Instructor:</span><br>SGT Jacob Louis Teo (3-2)</td>
   </tr>
   <tr>
-    <td class="tg-h5mn" colspan="3">The GESS NPCC Unit was established in 1969. Our objectives are to complement the cadets academic education by providing the cadets with healthy group interaction and activities to develop their mental alertness, physical bearing, fitness, discipline and a more rounded personality. At the end of 4/5 years of education, we aim to develop in the cadets the qualities of leadership, self-reliance, resilience, public spiritedness, sense of responsibility and good character.<br><br>Our mission is to develop our members to be active and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.<br><br>Our vision is to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.<br><br>Our activities include:<br><br>●     Foot drills<br>●     Campcraft<br>●     Classification Shoot<br>●     Crime Scene Investigation<br>●     Unarmed Tactics<br>●     Anti-drug Abuse Training<br>●     Community Safety &amp; Security Programme<br>●     Police Youth Ambassador Programme<br>●     Adventure Training Camp<br>●     Hiking<br>●     Outdoor Survival<br>●     Navigation<br>●     Pioneering<br>●     NPCC Annual Parade<br>●     National Day Parade<br><br><span style="font-weight:bold">Unit Overall Proficiency Awards (UOPA) GOLD:</span><br>1989, 1991, 2002, 2003, 2005, 2008, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023.<br><br><span style="font-weight:bold">Inter Unit E-Crime Scene Investigation Competition 2022 (National)</span><br>Top 10</td>
+    <td class="tg-h5mn" colspan="3">The GESS NPCC Unit was established in 1969. Our objectives are to complement the cadets academic education by providing the cadets with healthy group interaction and activities to develop their mental alertness, physical bearing, fitness, discipline and a more rounded personality. At the end of 4/5 years of education, we aim to develop in the cadets the qualities of leadership, self-reliance, resilience, public spiritedness, sense of responsibility and good character.<br><br>Our mission is to develop our members to be active and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.<br><br>Our vision is to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.<br><br>Our activities include:<br><br>●     Foot drills<br>●     Campcraft<br>●     Classification Shoot<br>●     Crime Scene Investigation<br>●     Unarmed Tactics<br>●     Anti-drug Abuse Training<br>●     Community Safety &amp; Security Programme<br>●     Police Youth Ambassador Programme<br>●     Adventure Training Camp<br>●     Hiking<br>●     Outdoor Survival<br>●     Navigation<br>●     Pioneering<br>●     NPCC Annual Parade<br>●     National Day Parade<br><br>GESS NPCC has achieved many accolades over the years (to name a few below) with the effort of all our cadets and officers. We will continue to strive for even greater heights in future.<br><br><span style="font-weight:bold">Unit Overall Proficiency Awards (UOPA) GOLD:</span><br>1989, 1991, 2002, 2003, 2005, 2008, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023.<br><br><span style="font-weight:bold">Inter Unit E-Crime Scene Investigation Competition 2022 (National)</span><br>Top 10
+<br>
+<br>
+SPF-NPCC Badge Award 2022<br>
+SI Tan Javier<br>
+SI Davis Zhang Wei<br>		
+<br>
+SPF- NPCC Badge Award 2023<br>
+SI Goh Ping Fong Murphy<br>
+SI Tang Wei Zheng Caden<br>
+<br>
+	</td>
   </tr>
   <tr>
     <td class="tg-1ppo">Other Links:</td>
