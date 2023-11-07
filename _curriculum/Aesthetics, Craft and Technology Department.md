@@ -2,47 +2,28 @@
 title: Aesthetics, Craft and Technology Department
 permalink: /nurturegess/academic/aesthetics/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 ![](/images/aesthetics%20department%20i.jpg)
 
+
 ### Vision
 
-To develop passion for the Arts in all GESSians
+Every GESSIAN An Artist and A Creator
 
 ### Mission
 
-To provide opportunities for all GESSians to Appreciate, Contribute to, and Experience the Arts
+To provide opportunities for all GESSians to exhibit creativity through the arts, craft and technology.
 
 ### About
 
-The GESS Aesthetics Department seeks to promote GESSians’ strong participation and development of knowledge, skills and attitudes in a diversity of forms of art, music, lifestyles and consumer trends.
+The GESS Aesthetics, Craft and Technology Department aims to unleash the creativity in our GESSians through the arts, craft and technology subjects. The approach to the teaching and learning of aesthetics, craft and technology subjects involves infusing and translating concepts and theories that the students learn during lessons into new design ideas and projects.
 
-In&nbsp;**Art**, students learn to perceive, communicate and appreciate Art through thematic projects. They hone their artistic dispositions and explore means of expressing themselves using a variety of media such as drawing, painting and digital photography. Beyond making art, students learnt from artists and artworks through learning journeys to art exhibitions. During the Aesthetics Week, students also get the opportunity to showcase their artworks.
+In&nbsp;**Art**, students learn to perceive, communicate and appreciate Art through thematic projects. They hone their artistic dispositions and explore means of expressing themselves using a variety of media such as drawing, painting and digital photography. Beyond making art, students learnt from artists and artworks through learning journeys to art exhibitions. 
 
-In&nbsp;**Music**, students develop musical capacities through a variety of activities and repertoire. Through inclusive pedagogies such as informal learning, students are given the opportunity to create, listen and perform collaboratively within curriculum time. Our school-wide talent development initiative, GESS Got Talent, provides a platform for students to further hone their musicality and performance skills. Newly introduced in 2021, GESS Playlist is an initiative to expose our students to different genres of music during the Morning Assembly programme.
+In&nbsp;**Music**, students develop musical capacities through a variety of activities and repertoire. Through inclusive pedagogies such as informal learning, students are given the opportunity to create, listen and perform collaboratively within curriculum time. Our music programme provides a platform for students to further hone their musicality and performance skills. 
 
 In&nbsp;**Nutrition and Food Science**, we focus on the importance of the diet in promoting&nbsp;&nbsp;overall health. The topics covered will enable students to better appreciate and develop the understanding of not just a holistic diet but also how food is an important part of multicultural literacy in the global context. To prepare students for the 21st Century, we use inquiry-based learning where the hands-on approach in an authentic learning context allows students to relate and apply the knowledge gained in real-life situations.
 
-<br>
-<img src="/images/Aesthetics_1_Sec-3-Art-Critique-768x576.jpeg" style="width:400px">
-<p style="text-align: center">Sec 3 Art students engaging in a critique&nbsp;session</p>
+In&nbsp;**Design and Technology**, we focus on the importance of embracing complexities, and develop critical and creative thinking skills. This is all done via various design-and-make activities in its curriculum. Our lessons provide opportunities for students to be sensitive to the needs, and desires, of ordinary people in their daily lives. Students practice divergent and convergent thinking through formulating mock-ups of ideas designed to address real-world issues. They will then construct prototypes in the workshop with various materials.
 
-<br>
-<img src="/images/Aesthetics_2_Sec-1-Watercolour-Painting-768x576.jpeg" style="width:400px">
-
-<p style="text-align: center">Sec 1 student working on her watercolour painting</p>
-
-<br>
-<img src="/images/Aesthetics_3_Sec-1-Ukulele-Lessons-768x576.jpeg" style="width:400px">
-
-<p style="text-align: center">Sec 1 students learning to play the&nbsp;ukulele</p>
-
-<br>
-<img src="/images/Aesthetics_4_Safe-Distanced-Sec-2-Band.jpeg" style="width:400px">
-
-<p style="text-align: center">Sec 2 students playing as a band with safe distancing</p>
-<br>
-<img src="/images/Aesthetics_5_NFS_Working-in-Pairs-768x576.jpeg" style="width:400px">
-
-<p style="text-align: center">Students working in pairs during&nbsp;a NFS lesson</p>
