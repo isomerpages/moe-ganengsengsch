@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Aesthetics.md
+      - Aesthetics, Craft and Technology Department.md
       - English Language and Literature.md
       - Humanities.md
       - ICT and Computer Applications.md
