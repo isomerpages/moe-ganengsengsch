@@ -3,6 +3,6 @@ title: MOE Financial Assistance Scheme (FAS)
 permalink: /moe-financial-assistance-scheme/
 description: ""
 third_nav_title: Quick Links
-variant: tiptap
+variant: markdown
 ---
-Click  [here](https://schoolibrary.moe.edu.sg/ganengseng/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) to access GESS Library!
+Click [HERE](https://www.moe.gov.sg/financial-matters/financial-assistance) to access MOE Financial Assistance Scheme (FAS).
