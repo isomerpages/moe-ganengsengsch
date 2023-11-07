@@ -52,11 +52,12 @@ variant: markdown
     <td class="tg-h5mn" colspan="3">The GESS NPCC Unit was established in 1969. Our objectives are to complement the cadets academic education by providing the cadets with healthy group interaction and activities to develop their mental alertness, physical bearing, fitness, discipline and a more rounded personality. At the end of 4/5 years of education, we aim to develop in the cadets the qualities of leadership, self-reliance, resilience, public spiritedness, sense of responsibility and good character.<br><br>Our mission is to develop our members to be active and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.<br><br>Our vision is to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.<br><br>Our activities include:<br><br>●     Foot drills<br>●     Campcraft<br>●     Classification Shoot<br>●     Crime Scene Investigation<br>●     Unarmed Tactics<br>●     Anti-drug Abuse Training<br>●     Community Safety &amp; Security Programme<br>●     Police Youth Ambassador Programme<br>●     Adventure Training Camp<br>●     Hiking<br>●     Outdoor Survival<br>●     Navigation<br>●     Pioneering<br>●     NPCC Annual Parade<br>●     National Day Parade<br><br>GESS NPCC has achieved many accolades over the years (to name a few below) with the effort of all our cadets and officers. We will continue to strive for even greater heights in future.<br><br><span style="font-weight:bold">Unit Overall Proficiency Awards (UOPA) GOLD:</span><br>1989, 1991, 2002, 2003, 2005, 2008, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023.<br><br><span style="font-weight:bold">Inter Unit E-Crime Scene Investigation Competition 2022 (National)</span><br>Top 10
 <br>
 <br>
-SPF-NPCC Badge Award 2022<br>
+<span style="font-weight:bold">SPF-NPCC Badge Award 2022</span><br>
 SI Tan Javier<br>
 SI Davis Zhang Wei<br>		
 <br>
-SPF- NPCC Badge Award 2023<br>
+<span style="font-weight:bold">
+SPF- NPCC Badge Award 2023</span><br>
 SI Goh Ping Fong Murphy<br>
 SI Tang Wei Zheng Caden<br>
 <br>
