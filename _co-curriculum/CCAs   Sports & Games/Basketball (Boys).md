@@ -3,17 +3,20 @@ title: Basketball (Boys)
 permalink: /cca/sports/basketball/
 description: ""
 third_nav_title: CCAs   Sports & Games
+variant: markdown
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Basketball-1.png" alt="Basketball (Boys)" style="width:60%;">  
-  
-</body>
+
+![](/images/basketball-10.jpeg)
+<br>
+![](/images/basketball-20.jpeg)
+<br>
+![](/images/basketball-30.jpeg)
+<br>
+![](/images/bssketball-40.jpeg)
+<br>
+![](/images/basketball%2050.jpeg)
+<br>
+![](/images/basketball%2060.jpeg)
 <br>
 
 <style>  
@@ -23,9 +26,21 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Basketball-2.png" alt="Basketball (Boys)" style="width:60%;">  
+<img src="/images/Basketball-1.png" alt="Basketball (Boys)" style="width:60%;">  
   
-</body>
+
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/Basketball-2.png" alt="Basketball (Boys)" style="width:60%;">  
+  
+
 <br>
 
 
@@ -36,9 +51,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Basketball-3.png" alt="Basketball (Boys)" style="width:60%;">  
+<img src="/images/Basketball-3.png" alt="Basketball (Boys)" style="width:60%;">  
   
-</body>
+
 <br>
 
 
@@ -49,9 +64,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Basketball-4.png" alt="Basketball (Boys)" style="width:60%;">  
+<img src="/images/Basketball-4.png" alt="Basketball (Boys)" style="width:60%;">  
   
-</body>
+
 <br>
 
 <style type="text/css">
