@@ -45,8 +45,8 @@ variant: markdown
 		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Ms Chan Yi Tsun<br>Mr Calvin Tan<br>Ms Thng Lay Keng</td>
-    <td class="tg-tsok">CSO Foo Lin Xuan<br>CSO Ayisath Farhana<br> D/O Zahir Hussain</td>
+    <td class="tg-tsok">Ms Chan Yi Tsun<br>Ms Ong Jing Xuan Jamie<br>Mr Calvin Tan</td>
+    <td class="tg-tsok">3OFFR Hilary Leong En Hui<br>3OFFR Lee Cheok Yuen<br> SSS Trenyce Tay Xin Pin<br>SSS Wong Bao Lin Jolin</td>
     <td class="tg-l2bf"><span style="font-weight:bold">Corps Sergeant Major (CSM):</span><br>Tay Chun Yong Jarrett 3-2<br><span style="font-weight:bold">Deputy Corps Sergeant Major (DyCSM):</span><br>Liu Jiayi 3-6</td>
 		 <td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday:<br>2pm-5.30pm<br>Selected Saturday:*<br><br>Venue:<br>GESS Arena or SJB HQ*</td>
   </tr>
