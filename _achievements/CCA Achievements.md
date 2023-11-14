@@ -2,6 +2,7 @@
 title: CCA Achievements
 permalink: /achievements/cca/
 description: ""
+variant: markdown
 ---
 2022
 ----
@@ -113,7 +114,7 @@ description: ""
     <td class="tg-1ppo">Girls’ Brigade</td>
     <td class="tg-a3j2">The Girls’ Brigade Company Award</td>
     <td class="tg-1ppo">Unit</td>
-    <td class="tg-1ppo">Silver</td>
+    <td class="tg-1ppo">Gold</td>
   </tr>
 </tbody>
 </table>
@@ -585,6 +586,39 @@ description: ""
   <tr>
     <td class="tg-h5mn">Cross Country</td>
     <td class="tg-h5mn">National Inter-school Cross Country Championship</td>
+  </tr>
+</tbody>
+</table>
+
+**Uniformed Groups**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ex7v{background-color:#FCB100;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ex7v"><span style="font-weight:bold">CCA</span></th>
+    <th class="tg-ex7v"><span style="font-weight:bold">Event</span></th>
+    <th class="tg-ex7v"><span style="font-weight:bold">Category</span></th>
+    <th class="tg-ex7v"><span style="font-weight:bold">Results</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo">Girls’ Brigade</td>
+    <td class="tg-a3j2">The Girls’ Brigade Company Award</td>
+    <td class="tg-1ppo">Unit</td>
+    <td class="tg-1ppo">Silver</td>
   </tr>
 </tbody>
 </table>
