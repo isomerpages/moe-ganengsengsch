@@ -5,40 +5,11 @@ description: ""
 third_nav_title: CCAs   Sports & Games
 variant: markdown
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Canoe-2.png" alt="Canoeing (Boys &amp; Girls)" style="width:70%;">  
-  
-
+![](/images/canoe%201.jpg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Canoe-1.png" alt="Canoeing (Boys &amp; Girls)" style="width:70%;">  
-  
-
+![](/images/canoe%202.jpg)	
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Canoe-1%20(1).png" alt="Canoeing (Boys &amp; Girls)" style="width:70%;">  
-  
-
+![](/images/Canoe-1%20(1).png)	
 <br>
 
 <style type="text/css">
@@ -65,7 +36,7 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Ms Charmaine Chu<br>Mr Evan Ling<br>Mr Johann Lim<br>Mdm Marhaidah<br>Mr Muhammad Faris<br>Mr Sultan Karimshah</td>
+    <td class="tg-tsok">Mr Lok Junli<br>Mr Evan Ling<br>Mdm Marhaidah Abdul Hamid<br>Mr Wong Chong Tuck<br>Mrs Chithra Thanigaivel<br>Mr Ling Yang Cong</td>
     <td class="tg-tsok">Ms Ong Kai Wen<br>Mr Alvin Siew</td>
     <td class="tg-tsok">Male Captain:<br>Boon Jian Kai<br>Female Captain:<br>Saloni Sinha<br>Male Vice Captain:<br>Raiyan Leong Ming Xi</td>
   </tr>
