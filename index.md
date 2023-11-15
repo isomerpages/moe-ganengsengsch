@@ -26,7 +26,7 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Gan Eng Seng School Open House 2023 18 Nov 23 0830 to 1330pm
+      title: "Gan Eng Seng School Open House 2023 "
       button: READ MORE
       url: /resources/announcements/permalink/openhouse2023/
   - infobar:
