@@ -36,7 +36,7 @@ variant: markdown
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Lok Junli<br>Mr Evan Ling<br>Mdm Marhaidah Abdul Hamid<br>Mr Wong Chong Tuck<br>Mrs Chithra Thanigaivel<br>Mr Ling Yang Cong</td>
+    <td class="tg-tsok">Mr Lok Junli<br>Mdm Marhaidah Abdul Hamid<br>Mr Wong Chong Tuck<br>Mrs Chithra Thanigaivel<br>Mr Ling Yang Cong</td>
     <td class="tg-tsok">Ms Ong Kai Wen<br>Mr Alvin Siew</td>
     <td class="tg-tsok">Male Captain:<br>Muhammad Aqil Bin Mohd Fared<br>Female Captain:<br>Megan Loo Mei En<br>Male Vice Captain:<br>Tan Yi Kai<br>Female Vice Captain:<br>Yap Yi Xuan Shanice</td>
   </tr>
