@@ -5,40 +5,11 @@ description: ""
 third_nav_title: CCAs   Sports & Games
 variant: markdown
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Canoe-2.png" alt="Canoeing (Boys &amp; Girls)" style="width:70%;">  
-  
-
+![](/images/canoe%201.jpg)
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Canoe-1.png" alt="Canoeing (Boys &amp; Girls)" style="width:70%;">  
-  
-
+![](/images/canoe%202.jpg)	
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Canoe-1%20(1).png" alt="Canoeing (Boys &amp; Girls)" style="width:70%;">  
-  
-
+![](/images/Canoe-1%20(1).png)	
 <br>
 
 <style type="text/css">
@@ -65,12 +36,27 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Ms Charmaine Chu<br>Mr Evan Ling<br>Mr Johann Lim<br>Mdm Marhaidah<br>Mr Muhammad Faris<br>Mr Sultan Karimshah</td>
+    <td class="tg-tsok">Mr Lok Junli<br>Mdm Marhaidah Abdul Hamid<br>Mr Wong Chong Tuck<br>Mrs Chithra Thanigaivel<br>Mr Ling Yang Cong</td>
     <td class="tg-tsok">Ms Ong Kai Wen<br>Mr Alvin Siew</td>
-    <td class="tg-tsok">Male Captain:<br>Boon Jian Kai<br>Female Captain:<br>Saloni Sinha<br>Male Vice Captain:<br>Raiyan Leong Ming Xi</td>
+    <td class="tg-tsok">Male Captain:<br>Muhammad Aqil Bin Mohd Fared<br>Female Captain:<br>Megan Loo Mei En<br>Male Vice Captain:<br>Tan Yi Kai<br>Female Vice Captain:<br>Yap Yi Xuan Shanice</td>
   </tr>
   <tr>
-    <td class="tg-h5mn" colspan="3">On top of the weekly water trainings to build up water confidence and individual skills in preparation for competitions, all members of the GESS Canoeing team will also need to undergo the One Star Kayaking Course certified by the Singapore Canoe Federation, to equip themselves with the necessary basic knowledge and ability to handle the sport. A training camp is also conducted in Semester One to foster leadership qualities, team bonding and discipline among the team members.<br><br>The GESS canoeing team has had much success over the years, with achievements that include:<br><br><span style="font-weight:bold">2023 National School Games</span><br><br>C-Girls (6th Position)<br>B-Girls (3rd Position)<br>C-Boys (9th Position)<br>B-Boys (6th Position)<br><br><span style="font-weight:bold">2022 National School Games</span><br><br>C-Girls JK2-500m (2nd Position)<br>C-Girls K4-500m (3rd Position)<br>C-Boys K4-500m (4th Position)<br>B-Girls JK1-500m (3rd Position)<br>B-Girls K1-500m (3rd Position)<br>B-Girls K1-1000m (2nd Position)<br>B-Girls K2-1000m (4th Position)<br>B-Girls K4-500m (4th Position)<br><br>Overall, our ‘C’ Division boys finished in 6th position in the 2022 National School Games Canoeing Championship and our ‘B’ Division girls finished in 3rd position.<br><br>You can follow us at our official Instagram account @gess.canoeists</td>
+    <td class="tg-h5mn" colspan="3">The GESS Canoeing team goes to MacRitchie Reservoir for their weekly water trainings to build up water confidence and individual skills in preparation for competitions. Additionally, all members will undergo the One Star Kayaking Course certified by the Singapore Canoe Federation, to equip themselves with the necessary knowledge and ability to handle the sport. Through the regular trainings, competitions, and Values-in-Action experiences, the CCA seeks to foster leadership qualities, team bonding and discipline among the team members.  
+<br><br>  
+The GESS Canoeing team has had much success over the years, and are proud to share the achievements in 2023 that include:<br><br><span style="font-weight:bold">2023 National School Games</span><br><br>
+B-Boys K4-500m (5th Position)<br>
+B-Boys K4-1000m (5th Position)<br>  
+B-Girls K1-500m (1st Position)<br>  
+B-Girls K1-1000m (1st Position)<br>
+B-Girls K4-500m (4th Position)<br>
+B-Girls K4-1000m (4th Position)<br>
+C-Girls K1-500m (4th Position)<br>
+C-Girls K1-1000m (4th Position)<br>
+C-Girls K4-500m (4th Position)<br>
+<br>  
+Overall, our ‘C’ Division boys finished in 6th position and our ‘B’ Division girls finished in 3rd position in the 2023 National School Games Canoeing Championship.  
+  
+You can follow us at our official Instagram account @gess.canoeists</td>
   </tr>
 </tbody>
 </table>
