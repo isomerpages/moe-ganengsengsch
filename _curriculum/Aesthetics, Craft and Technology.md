@@ -1,12 +1,12 @@
 ---
-title: Aesthetics, Craft and Technology Department
+title: Aesthetics, Craft and Technology
 permalink: /nurturegess/academic/aesthetics/
 description: ""
 variant: markdown
 ---
-![](/images/aesthetics%20department%20i.jpg)
+![](/images/Aesthetics.JPG)
 <br>
-![](/images/design%20and%20technology%20department%20i%20-%20copy.jpg)
+
 
 ### Vision
 
