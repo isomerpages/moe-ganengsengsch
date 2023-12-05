@@ -26,15 +26,15 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: "Gan Eng Seng School Open House 2023 "
+      title: Transferring to GESS
       button: READ MORE
-      url: /resources/announcements/permalink/openhouse2023/
-  - infobar:
-      title: Exam Matters
-      button: READ MORE
-      url: /school-information/exam-matters/
+      url: /school-information/school-admission-2/
   - infobar:
       title: Updated 2024 Sec 3 Subject Combinations
       button: READ MORE
       url: /resources/announcements/permalink/2024sec3subjectcombinations/
+  - infobar:
+      title: Gan Eng Seng School Open House 2023
+      button: READ MORE
+      url: /resources/announcements/permalink/openhouse2023/
 ---
