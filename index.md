@@ -26,6 +26,10 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
+      title: Release of 2023 GCE N(A) & N(T) Level results on 18 Dec 2023
+      button: READ MORE
+      url: /resources/announcements/permalink/gcenlevel2023/
+  - infobar:
       title: Transferring to GESS
       button: READ MORE
       url: /school-information/school-admission-2/
@@ -33,8 +37,4 @@ sections:
       title: Updated 2024 Sec 3 Subject Combinations
       button: READ MORE
       url: /resources/announcements/permalink/2024sec3subjectcombinations/
-  - infobar:
-      title: Gan Eng Seng School Open House 2023
-      button: READ MORE
-      url: /resources/announcements/permalink/openhouse2023/
 ---
