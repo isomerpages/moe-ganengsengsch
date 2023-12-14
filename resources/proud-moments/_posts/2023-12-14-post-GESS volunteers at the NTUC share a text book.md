@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>GESS volunteers at the NTUC share a text book. </p><p>Thank you for making a difference to others!</p><p></p><p></p><p>images/NTUC_1.jpg</p><p>images/NTUC_2.jpg</p><p>images/NTUC_3.jpg</p><p>images/NTUC_4.jpg</p><p>images/NTUC_5.jpg</p>
+<p>GESS volunteers at the NTUC share a text book.</p><p>Thank you for making a difference to others!</p><p></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NTUC_1.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NTUC_2.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NTUC_3.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NTUC_4.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NTUC_5.jpg"></div><p></p>
