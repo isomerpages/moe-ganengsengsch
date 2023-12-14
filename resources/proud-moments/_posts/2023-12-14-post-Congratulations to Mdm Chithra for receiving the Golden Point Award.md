@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Mdm Chithra for receiving the Golden Point Award
-permalink: /resources/proud-moments/permalink/
+permalink: /resources/proud-moments/permalink/chitraaward/
 date: 2023-12-14
 layout: post
 description: ""

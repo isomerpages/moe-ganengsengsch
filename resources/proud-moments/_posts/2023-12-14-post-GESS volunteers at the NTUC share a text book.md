@@ -1,6 +1,6 @@
 ---
 title: GESS volunteers at the NTUC share a text book
-permalink: /resources/proud-moments/permalink/
+permalink: /resources/proud-moments/permalink/ntuc2023/
 date: 2023-12-14
 layout: post
 description: ""
