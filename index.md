@@ -42,4 +42,9 @@ sections:
       title: Updated 2024 Sec 3 Subject Combinations
       button: READ MORE
       url: /resources/announcements/permalink/2024sec3subjectcombinations/
+  - infobar:
+      title: GESS Sec 1 (2024) Webinar and Class Allocation
+      id: infobar
+      button: READ MORE
+      url: /permalink/sec1webinar2024/
 ---
