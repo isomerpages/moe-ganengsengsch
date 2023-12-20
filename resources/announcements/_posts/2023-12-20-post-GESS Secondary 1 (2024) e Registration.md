@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>On behalf of all staff and students, we welcome you and your child to our Gessian family! Your child is now part of a well-established school that has produced Gessians of Excellence, Standing and Significance.</p><p>We have uploaded all the relevant information for the Secondary 1 (2024) e-Registration on this webpage. Please refer to the attached document.</p><p></p><p><a href="/files/3__Sec_1__2024__e_Registration_Website__Final____For_Upload.pdf" rel="noopener noreferrer nofollow" target="_blank">3. Sec 1 (2024) e-Registration Website (Final) - For Upload</a></p>
