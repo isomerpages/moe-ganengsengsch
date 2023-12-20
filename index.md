@@ -26,18 +26,23 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
+      title: GESS Sec 1 (2024) Webinar and Class Allocation
+      id: infobar
+      button: READ MORE
+      url: /permalink/sec1webinar2024/
+  - infobar:
       title: GESS Secondary 1 (2024) e-Registration
       id: infobar
       button: READ MORE
       url: /resources/announcements/permalink/2024sec1/
   - infobar:
-      title: Briefing slides & information on 2024 Joint Intake Exercises
-      button: READ MORE
-      url: /resources/announcements/permalink/2024jie/
-  - infobar:
       title: Transferring to GESS
       button: READ MORE
       url: /school-information/school-admission-2/
+  - infobar:
+      title: Briefing slides & information on 2024 Joint Intake Exercises
+      button: READ MORE
+      url: /resources/announcements/permalink/2024jie/
   - infobar:
       title: Updated 2024 Sec 3 Subject Combinations
       button: READ MORE
