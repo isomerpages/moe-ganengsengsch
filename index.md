@@ -27,9 +27,7 @@ sections:
           url: /about-us/vision-mission-values/
   - infobar:
       title: GESS Secondary 1 (2024) e-Registration Webpage
-      subtitle: Add informational text
       id: infobar
-      description: Infobar description
       button: READ MORE
       url: /resources/announcements/permalink/2024sec1/
   - infobar:
