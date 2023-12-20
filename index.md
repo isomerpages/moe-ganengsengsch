@@ -37,4 +37,11 @@ sections:
       title: Updated 2024 Sec 3 Subject Combinations
       button: READ MORE
       url: /resources/announcements/permalink/2024sec3subjectcombinations/
+  - infobar:
+      title: GESS Secondary 1 (2024) e-Registration Webpage
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: READ MORE
+      url: /resources/announcements/permalink/2024sec1/
 ---
