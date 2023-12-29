@@ -40,9 +40,9 @@ sections:
       button: READ MORE
       url: /school-information/school-admission-2/
   - infobar:
-      title: Briefing slides & information on 2024 Joint Intake Exercises
+      title: Information for Students for 1st Day of School (2 Jan 2024)
       button: READ MORE
-      url: /resources/announcements/permalink/2024jie/
+      url: /resources/announcements/permalink/2024firstdayofschool/
   - infobar:
       title: Updated 2024 Sec 3 Subject Combinations
       button: READ MORE
