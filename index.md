@@ -26,6 +26,10 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
+      title: Information for Students for 1st Day of School (2 Jan 2024)
+      button: READ MORE
+      url: /resources/announcements/permalink/2024firstdayofschool/
+  - infobar:
       title: GESS Sec 1 (2024) Webinar and Class Allocation
       id: infobar
       button: READ MORE
@@ -39,10 +43,6 @@ sections:
       title: Transferring to GESS
       button: READ MORE
       url: /school-information/school-admission-2/
-  - infobar:
-      title: Briefing slides & information on 2024 Joint Intake Exercises
-      button: READ MORE
-      url: /resources/announcements/permalink/2024jie/
   - infobar:
       title: Updated 2024 Sec 3 Subject Combinations
       button: READ MORE
