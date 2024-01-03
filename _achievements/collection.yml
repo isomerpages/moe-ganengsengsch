@@ -1,0 +1,6 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Academic Achievements.md
+      - CCA Achievements.md

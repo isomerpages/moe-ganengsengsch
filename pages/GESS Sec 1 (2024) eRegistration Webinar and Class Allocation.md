@@ -1,0 +1,7 @@
+---
+title: GESS Sec 1 (2024) eRegistration Webinar and Class Allocation
+permalink: /permalink/sec1webinar2024/
+variant: tiptap
+description: ""
+---
+<p><strong><u>GESS Sec 1 (2024) e-Registration Webinar and Class Allocation</u></strong><br>Dear Parents,<br>Please take note of the following with regards to the Secondary 1 (2024) e-Registration on 21 December 2023:</p><p><strong><u>Secondary 1 (2024) e-Registration Webinar</u></strong><br>To share with you some of the key information about the school and administrative matters pertaining to the registration process, we will be conducting a Zoom Webinar at <strong>8.30 am on 21 December 2023</strong>. Details of the webinar are as follow:</p><p><strong>Title: GESS Secondary 1 (2024) e-Registration</strong><br><strong>Time: 8.30 am to 9.30 am</strong><br><strong>Webinar Link: <a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/89306576597</a></strong><br><strong>Webinar Passcode: GESS2024</strong><br>Please log in 5 to 10 minutes before the commencement of our webinar.</p><p><strong><u>Secondary 1 (2024) Class Allocation</u></strong><br>Please refer to the following link for your child’s/ward’s class allocation.<br><a href="https://drive.google.com/file/d/1pzZzCe3ris_p87Qe1YIDuvzcS2MQVcXK/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Class Allocation</a></p><p>Looking forward to meeting all of you soon.<br>Have a great day ahead!</p><p>Yours sincerely,<br>Mrs Selva<br>Vice-principal</p>
