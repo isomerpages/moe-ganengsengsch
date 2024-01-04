@@ -26,9 +26,9 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Information for Students for 1st Day of School (2 Jan 2024)
+      title: Release of 2023 GCE O Level Examination Results
       button: READ MORE
-      url: /resources/announcements/permalink/2024firstdayofschool/
+      url: /resources/announcements/permalink/2023olevel/
   - infobar:
       title: GESS Sec 1 (2024) Webinar and Class Allocation
       id: infobar
