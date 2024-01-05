@@ -26,14 +26,14 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
+      title: Letter to parents (Term 1 2024)
+      id: infobar
+      button: READ MORE
+      url: /resources/announcements/permalink/2024t1letter/
+  - infobar:
       title: Release of 2023 GCE O Level Examination Results
       button: READ MORE
       url: /resources/announcements/permalink/2023olevel/
-  - infobar:
-      title: GESS Sec 1 (2024) Webinar and Class Allocation
-      id: infobar
-      button: READ MORE
-      url: /permalink/sec1webinar2024/
   - infobar:
       title: GESS Secondary 1 (2024) e-Registration
       id: infobar
