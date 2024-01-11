@@ -26,7 +26,7 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: "2024 Joint Admissions Exercise & other relevant information "
+      title: 2024 Joint Admissions Exercise & other relevant information
       button: READ MORE
       url: /resources/announcements/permalink/2024jae/
   - infobar:
