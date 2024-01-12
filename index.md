@@ -35,10 +35,10 @@ sections:
       button: READ MORE
       url: /resources/announcements/permalink/2024t1letter/
   - infobar:
-      title: GESS Secondary 1 (2024) e-Registration
+      title: Sec 1 Meet-Parent-Session Briefing Slides
       id: infobar
       button: READ MORE
-      url: /resources/announcements/permalink/2024sec1/
+      url: /resources/announcements/permalink/2024sec1mtp/
   - infobar:
       title: Transferring to GESS
       button: READ MORE
