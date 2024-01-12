@@ -35,7 +35,7 @@ sections:
       button: READ MORE
       url: /resources/announcements/permalink/2024t1letter/
   - infobar:
-      title: "Sec 1 Meet-Parent-Session Briefing Slides "
+      title: Sec 1 Meet-Parent-Session Briefing Slides
       id: infobar
       button: READ MORE
       url: /resources/announcements/permalink/2024sec1mtp/
