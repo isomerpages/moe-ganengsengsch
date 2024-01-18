@@ -2,19 +2,6 @@
 title: Contact Information
 permalink: /about-us/contact-us/
 description: ""
+variant: tiptap
 ---
-
-**Address:**&nbsp;1 Henderson Road, Singapore 159561  
-**Tel:**&nbsp;6474 5594  
-**Fax:**&nbsp;6473 2479  
-**E-mail:**&nbsp;[gess@moe.edu.sg](mailto:gess@moe.edu.sg)
-
-**Office Hour:**&nbsp;Monday – Friday, 8.00 AM – 5.30 PM
-
-**Getting here:**  
-MRT : Tiong Bahru Station, Redhill Station  
-Buses : 14, 16, 32, 33, 51, 63, 64, 65, 120, 122, 132, 139, 145, 186, 851, 970
-
-**Location map:**
-
-<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31328.760888359164!2d103.823753!3d1.289594!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa67e1a87cf576f43!2sGan%20Eng%20Seng%20School!5e1!3m2!1sen!2sus!4v1661060922680!5m2!1sen!2sus"></iframe>
+<p><strong>Address:</strong>&nbsp;1 Henderson Road, Singapore 159561<br><strong>Tel:</strong>&nbsp;6474 5594<br><strong>Fax:</strong>&nbsp;6473 2479<br><strong>E-mail:</strong>&nbsp;<a href="mailto:gess@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gess@moe.edu.sg</a></p><p><strong>Office Hour:</strong>&nbsp;Monday – Friday, 8.00 AM – 5.30 PM</p><table><tbody><tr><td rowspan="1" colspan="1"><p>The operation hours for the turnstile gate at the rear and the side (bus-stop) of the school are as followed:</p><p><strong><u>REAR GATE</u></strong></p><p><strong><u>OPERATING HOURS</u></strong></p><p><strong>MONDAY</strong></p><p>Entry : 7.40 AM-8.41 AM</p><p>EXIT&nbsp;&nbsp; : 3.00 PM-6.30PM</p><p><strong>TUESDAY and FRIDAY :</strong></p><p>Entry : 6.30 AM-7.41 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 5.30 PM-6.30 PM</p><p><strong>WEDNESDAY</strong></p><p>Entry : 6.30 AM-7.41 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 1.20 PM-6.30 PM</p><p><strong>THURSDAY</strong></p><p>Entry : 6.30 AM-7.41 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 3.00 PM-6.30PM</p><p><strong><u>BUS-STOP GATE</u></strong></p><p><strong><u>OPERATING HOURS</u></strong></p><p><strong>MONDAY</strong></p><p>Entry : 7.40 AM-8.46 AM</p><p>EXIT&nbsp; : 3.00 PM-6.30 PM</p><p><strong>TUESDAY and FRIDAY :</strong></p><p>Entry : 6.30 AM-7.46 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 5.30 PM-6.30 PM</p><p><strong>WEDNESDAY</strong></p><p>Entry : 6.30 AM-7.46 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 1.20 PM-6.30 PM</p><p><strong>THURSDAY</strong></p><p>Entry : 6.30 AM-7.46 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 3.00 PM-6.30 PM</p></td></tr></tbody></table><p>Muslims, who need to go for prayer meeting on Friday, will need to exit from the main gate on Friday.</p><p><strong>Getting here:</strong><br>MRT : Tiong Bahru Station, Redhill Station<br>Buses : 14, 16, 32, 33, 51, 63, 64, 65, 120, 122, 132, 139, 145, 186, 851, 970</p><p><strong>Location map:</strong></p><div class="iframe-wrapper"><iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31328.760888359164!2d103.823753!3d1.289594!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa67e1a87cf576f43!2sGan%20Eng%20Seng%20School!5e1!3m2!1sen!2sus!4v1661060922680!5m2!1sen!2sus"></iframe></div><p></p>
