@@ -28,4 +28,3 @@ Onward Gessians!
 Ms Tan Hwee Pin
 
 Principal
-Principal
