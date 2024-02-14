@@ -3,10 +3,14 @@ title: Girls’ Brigade (Girls)
 permalink: /cca/uniformed-group/girls-brigade/
 description: ""
 third_nav_title: CCAs   Uniformed Groups
+variant: markdown
 ---
 #### **The Girls’ Brigade 71st Company**
+
 ![](/images/girls%20brigade%201.jpg)
+
 ![](/images/girls%20brigade%202.jpg)
+
 ![](/images/girls%20brigade%203.jpg)
 
 
@@ -40,8 +44,8 @@ third_nav_title: CCAs   Uniformed Groups
   <tr>
     <td class="tg-tsok">Ms Sandra Wee (OIC)<br>Ms Leong Sok Yee (2IC)</td>
     <td class="tg-tsok">Captain Elsie Tan<br>Lieutenant Lydia Tan</td>
-    <td class="tg-tsok">Kimmi Kho<br>(NCO Chairperson)<br>Hanni D/O Ramesh<br>(NCO Chairperson)<br>Teo Vera<br>(NCO Vice Chairpersons)<br>Alicia Wee Jie Min<br>(Exco-Quartermaster)<br>Pang Kay Yan Eden<br>(Exco-PTI)<br><br>Squad Leaders<br>Caelyn Choo Zhe Lin<br>Cayley Yong Si Qin<br>Chong Zi Leng<br>Neo Xuhan<br>Ng Yu Yan<br>Wong Jing Ning</td>
-    <td class="tg-tsok">Tuesday<br>3pm-5.30pm<br>Friday<br>2pm-5.30pm<br><br>Venue<br>Block H Level 4 Classrooms</td>
+    <td class="tg-tsok">Kimmi Kho 4-4<br>(NCO Chairperson)<br>Hanni D/O Ramesh 4-6<br>(NCO Chairperson)<br>Teo Vera 4-6<br>(NCO Vice Chairpersons)<br>Alicia Wee Jie Min 4-1<br>(Exco-Quartermaster)<br>Pang Kay Yan Eden 4-4<br>(Exco-PTI)<br><br>Squad Leaders<br>Caelyn Choo Zhe Lin 4-2<br>Cayley Yong Si Qin 4-3<br>Chong Zi Leng 4-3<br>Li Yuting Rachel 4-7<br>Neo Xuhan 4-4<br>Ng Yu Yan 4-2<br>Wong Jing Ning 4-1</td>
+    <td class="tg-tsok">Tuesday<br>3pm-5.30pm<br>Friday<br>2pm-5.30pm<br><br>Venue<br>Block G Level 3 Classrooms</td>
 	</tr>
   <tr>
     <td class="tg-h5mn" colspan="4">The Girls’ Brigade is a value-driven uniformed group that teaches Girls to lead and serve by example – to put others before self. Here in the 71st Company, we are committed to develop each Girl to her fullest potential by equipping and enabling every Girl to be a leader ever since the CCA started in 2004.<br><br>Our Company organizes a variety of fun and enriching activities to cultivate the various interests in our Girls and help them learn and enjoy new skills, as well as develop their potential. While they work together to achieve a common goal, our Girls build new friendships and forge strong bonds with one another. Together, they are empowered to contribute greater value to the community and change the world as they grow and mature in the years to come.<br><br>Our activities include:<br><br>●     GB HQ Activities<br>●     GB Badgework<br>●     Devotion<br>●     Drill &amp; physical training<br>●     Annual events such as GB Day, annual camp, National Day Parade and hikes<br>●     Life skills courses and workshops<br>●     Service to the school and community<br><br>We have won the Girls’ Brigade Singapore Company Award (Gold) every year since 2008 to 2021, and in 2023. At the same time, we also won a Silver and Bronze award in the in the GB National Drill Competition in March 2023.</td>
