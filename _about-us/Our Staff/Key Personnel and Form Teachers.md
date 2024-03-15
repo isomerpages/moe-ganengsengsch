@@ -868,11 +868,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Chan Hui (HCH)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Ho_Chan_Hui@hq.moe.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
