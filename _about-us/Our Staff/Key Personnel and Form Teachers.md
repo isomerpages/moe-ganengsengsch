@@ -471,7 +471,7 @@ variant: tiptap
 <p>Ms Claire Wong (WKI)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:claire_wong_kail@hq.moe.gov.sg" rel="noopener noreferrer" target="_blank">claire_wong_kail@hq.moe.gov.sg</a>
+<p><a href="mailto:Claire_Wong_Kaii@schools.gov.sg" rel="noopener noreferrer" target="_blank">claire_wong_kail@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -868,11 +868,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Chan Hui (HCH)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Ho_Chan_Hui@hq.moe.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
