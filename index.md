@@ -26,10 +26,10 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Letter to parents (Term 1 2024)
+      title: Letter to parents (Term 2 2024)
       id: infobar
       button: READ MORE
-      url: /resources/announcements/permalink/2024t1letter/
+      url: /resources/announcements/permalink/term22024
   - infobar:
       title: Updated 2024 Sec 3 Subject Combinations
       button: READ MORE
