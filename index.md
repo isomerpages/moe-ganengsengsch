@@ -30,8 +30,4 @@ sections:
       id: infobar
       button: READ MORE
       url: /resources/announcements/permalink/term22024
-  - infobar:
-      title: Updated 2024 Sec 3 Subject Combinations
-      button: READ MORE
-      url: /resources/announcements/permalink/2024sec3subjectcombinations/
 ---
