@@ -26,25 +26,8 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: 2024 Joint Admissions Exercise & other relevant information
-      button: READ MORE
-      url: /resources/announcements/permalink/2024jae/
-  - infobar:
-      title: Letter to parents (Term 1 2024)
+      title: Letter to parents (Term 2 2024)
       id: infobar
       button: READ MORE
-      url: /resources/announcements/permalink/2024t1letter/
-  - infobar:
-      title: Sec 1 Meet-Parent-Session Briefing Slides
-      id: infobar
-      button: READ MORE
-      url: /resources/announcements/permalink/2024sec1mtp/
-  - infobar:
-      title: Transferring to GESS
-      button: READ MORE
-      url: /school-information/school-admission-2/
-  - infobar:
-      title: Updated 2024 Sec 3 Subject Combinations
-      button: READ MORE
-      url: /resources/announcements/permalink/2024sec3subjectcombinations/
+      url: /resources/announcements/permalink/term22024
 ---
