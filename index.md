@@ -30,4 +30,9 @@ sections:
       id: infobar
       button: READ MORE
       url: /resources/announcements/permalink/term22024
+  - infobar:
+      title: 2023 GESS School Magazine
+      id: infobar
+      button: READ MORE
+      url: /resources/announcements/permalink/2023gessschoolmagazine
 ---
