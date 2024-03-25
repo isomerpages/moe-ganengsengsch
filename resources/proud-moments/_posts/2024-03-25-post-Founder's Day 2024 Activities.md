@@ -12,12 +12,17 @@ with APSN Tanglin, Adopt an MRT project and prize giving segments. Thank
 you, Mr Philip Gan, President of Gan Clan Singapore, for gracing this occasion.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founders_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/APSN_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founders_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/APSN_2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/APSN_3.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
