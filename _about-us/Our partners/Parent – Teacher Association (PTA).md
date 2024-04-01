@@ -92,7 +92,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
 	<tr>
 		<td class="tg-l2bf"><span style="font-weight:bold">8</span></td>
 		<td class="tg-1ppo">Auditor</td>
-		<td class="tg-1ppo">Mr Heng Shao Sheng</td></tr>
+		<td class="tg-1ppo">Anita Kaur</td></tr>
 </tbody>
 </table>
 
