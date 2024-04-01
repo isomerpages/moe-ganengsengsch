@@ -67,7 +67,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">3</span></td>
     <td class="tg-h5mn">Secretary</td>
-    <td class="tg-h5mn">Ms Angela Oh</td>
+    <td class="tg-h5mn">Chia Wei Shee</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">4</span></td>
