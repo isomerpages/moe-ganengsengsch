@@ -77,7 +77,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">5</span></td>
     <td class="tg-h5mn">Treasurer</td>
-    <td class="tg-h5mn">Ms Tan Xinhui</td>
+    <td class="tg-h5mn">Lau Bik Huat</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">6</span></td>
