@@ -72,7 +72,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">4</span></td>
     <td class="tg-1ppo">Assistant Secretary</td>
-    <td class="tg-1ppo">Ms Stefanie Chye</td>
+    <td class="tg-1ppo">Stefanie Chye Yen Leng</td>
   </tr>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">5</span></td>
