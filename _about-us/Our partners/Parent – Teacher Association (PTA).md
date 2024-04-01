@@ -86,9 +86,9 @@ The PTA is committed towards promoting close co-operation and understanding betw
 </td>
   </tr>
 	<tr>
-		<td class="tg-l2bf"><span style="font-weight:bold">7</span></td>
-		<td class="tg-1ppo">Auditor</td>
-		<td class="tg-1ppo">Anita Kaur</td></tr>
+		<td class="tg-rs0e"><span style="font-weight:bold">7</span></td>
+		<td class="tg-h5mn">Auditor</td>
+		<td class="tg-h5mn">Anita Kaur</td></tr>
 </tbody>
 </table>
 
