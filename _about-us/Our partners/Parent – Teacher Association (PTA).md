@@ -118,13 +118,13 @@ The PTA is committed towards promoting close co-operation and understanding betw
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">9</span></td>
+    <td class="tg-rs0e"><span style="font-weight:bold">8</span></td>
     <td class="tg-h5mn">EXCO-School Rep</td>
     <td class="tg-h5mn"> Mdm Foo Lee Lian</td>
     <td class="tg-h5mn"> Teacher</td>
   </tr>
   <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">10</span></td>
+    <td class="tg-l2bf"><span style="font-weight:bold">9</span></td>
     <td class="tg-1ppo">EXCO-School Rep</td>
     <td class="tg-tsok"><span style="color:#000"> Mr</span> Subramanian Annamalai</td>
     <td class="tg-1ppo"> Teacher</td>
