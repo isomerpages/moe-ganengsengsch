@@ -3,6 +3,7 @@ title: Parent – Teacher Association (PTA)
 permalink: /partners/parent-teacher-association/
 description: ""
 third_nav_title: Our partners
+variant: markdown
 ---
 ### Our Mission
 
@@ -19,9 +20,8 @@ The PTA is committed towards promoting close co-operation and understanding betw
 (d) to provide financial assistance to needy students.
 
 <br>
-<img style="width:650px" src="/images/Group-1.jpeg">
+<img style="width:650px" src="/images/PTA_2024_1.png">
 <br>
-
 
 
 <style type="text/css">
@@ -56,42 +56,38 @@ The PTA is committed towards promoting close co-operation and understanding betw
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">1</span></td>
     <td class="tg-h5mn">President</td>
-    <td class="tg-h5mn">Ms Eileen Quek Ee Lyn</td>
+    <td class="tg-h5mn">Heng Shao Sheng </td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">2</span></td>
     <td class="tg-1ppo">Vice President</td>
-    <td class="tg-1ppo">Mr Parikshit Jaidev Sharma</td>
+    <td class="tg-1ppo">Priyanka Mathur</td>
   </tr>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">3</span></td>
     <td class="tg-h5mn">Secretary</td>
-    <td class="tg-h5mn">Ms Angela Oh</td>
+    <td class="tg-h5mn">Chia Wei Shee</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">4</span></td>
     <td class="tg-1ppo">Assistant Secretary</td>
-    <td class="tg-1ppo">Ms Stefanie Chye</td>
+    <td class="tg-1ppo">Stefanie Chye Yen Leng</td>
   </tr>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">5</span></td>
     <td class="tg-h5mn">Treasurer</td>
-    <td class="tg-h5mn">Ms Tan Xinhui</td>
+    <td class="tg-h5mn">Lau Bik Huat</td>
   </tr>
-  <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">6</span></td>
-    <td class="tg-1ppo">EXCO Advisor</td>
-    <td class="tg-1ppo">Yap Chwee Feng</td>
-  </tr>
-  <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">7</span><br></td>
-    <td class="tg-h5mn">EXCO members</td>
-    <td class="tg-h5mn">Ms Mimi Marhaini Masri<br>Ms Mandy Morier<br>Mr James Teo Eng Kiat<br>Ms Tanya Prasad<br>Ms Anita Kaur<br>Ms Quincey Tan Kah Li<br>Ms Priyanka Mathur<br>Ms Fion Farn</td>
+    <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">6</span><br></td>
+    <td class="tg-1ppo">EXCO members</td>
+    <td class="tg-1ppo">Fong Ching Hwa<br>See Wei Ling<br>Shakinah Begam Binte Mohamed Ibrahim<br>Chia Puay Kee Angelia<br>Hajirah Banu<br>Anita kaur<br>Lee Eng Ming<br>Sher-May Liew<br>Sherine
+</td>
   </tr>
 	<tr>
-		<td class="tg-l2bf"><span style="font-weight:bold">8</span></td>
-		<td class="tg-1ppo">Auditor</td>
-		<td class="tg-1ppo">Mr Heng Shao Sheng</td></tr>
+		<td class="tg-rs0e"><span style="font-weight:bold">7</span></td>
+		<td class="tg-h5mn">Auditor</td>
+		<td class="tg-h5mn">Anita Kaur</td></tr>
 </tbody>
 </table>
 
@@ -122,15 +118,15 @@ The PTA is committed towards promoting close co-operation and understanding betw
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">9</span></td>
+    <td class="tg-rs0e"><span style="font-weight:bold">8</span></td>
     <td class="tg-h5mn">EXCO-School Rep</td>
-    <td class="tg-h5mn"> Mdm Foo Lee Lian</td>
+    <td class="tg-h5mn"> Mr Subramanian Annamalai</td>
     <td class="tg-h5mn"> Teacher</td>
   </tr>
   <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">10</span></td>
+    <td class="tg-l2bf"><span style="font-weight:bold">9</span></td>
     <td class="tg-1ppo">EXCO-School Rep</td>
-    <td class="tg-tsok"><span style="color:#000"> Mr</span> Subramanian Annamalai</td>
+    <td class="tg-tsok"><span style="color:#000"> Mdm</span> Foo Lee Lian</td>
     <td class="tg-1ppo"> Teacher</td>
   </tr>
 </tbody>
