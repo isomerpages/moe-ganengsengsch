@@ -3,6 +3,7 @@ title: Parent – Teacher Association (PTA)
 permalink: /partners/parent-teacher-association/
 description: ""
 third_nav_title: Our partners
+variant: markdown
 ---
 ### Our Mission
 
@@ -19,7 +20,7 @@ The PTA is committed towards promoting close co-operation and understanding betw
 (d) to provide financial assistance to needy students.
 
 <br>
-<img style="width:650px" src="/images/Group-1.jpeg">
+<img style="width:650px" src="/images/PTA_2024_1.png">
 <br>
 
 
