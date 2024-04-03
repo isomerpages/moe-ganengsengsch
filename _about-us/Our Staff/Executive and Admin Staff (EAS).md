@@ -3,7 +3,189 @@ title: Executive and Admin Staff (EAS)
 permalink: /about-us/Our-Staff/executive-and-admin-staff/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-![Executive &amp; Admin Staff (EAS)](/images/EAS-1024x731.jpeg)
-
-<table style="width: 71.1669%; height: 600px;" border="1"><tbody><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Ms Tan Hwee Pin</td><td style="width: 332px; text-align: left; height: 24px;">Principal</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mdm Sarawathy D/O Varadaraju</td><td style="width: 332px; text-align: left; height: 24px;">Vice-Principal</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mr Tan Tze Jwee Glynn</td><td style="width: 332px; text-align: left; height: 24px;">Vice-Principal</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mr Lim Swee Chye</td><td style="width: 332px; text-align: left; height: 24px;">Operations Manager</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mr Sim Kwang Mong</td><td style="width: 332px; text-align: left; height: 24px;">Senior School Counsellor</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Ms Gina Tan Lay Bee</td><td style="width: 332px; text-align: left; height: 24px;">Education and Career Guidance Counsellor</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mrs Yap (Goh Hwee Ting)</td><td style="width: 332px; text-align: left; height: 24px;">Special Needs Educational Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Ms Ong Lay Peng</td><td style="width: 332px; text-align: left; height: 24px;">Administrative Executive</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Ms&nbsp;Hanitah Binte Musa</td><td style="width: 332px; text-align: left; height: 24px;">Administrative Executive</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Ms&nbsp;Ngo Law Kah Miriam</td><td style="width: 332px; text-align: left; height: 24px;">Corporate Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Ms Jacqueline Tham</td><td style="width: 332px; text-align: left; height: 24px;">Corporate Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mdm Sapura Bte Md Noor</td><td style="width: 332px; text-align: left; height: 24px;">Technical Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mdm Nio Puay Hoon</td><td style="width: 332px; text-align: left; height: 24px;">Technical Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mr Jimmy Hsu</td><td style="width: 332px; text-align: left; height: 24px;">Technical Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mr Ang Kok Kim</td><td style="width: 332px; text-align: left; height: 24px;">Technical Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Ms Betty Chew</td><td style="width: 332px; text-align: left; height: 24px;">Operations Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mdm Nirmala Devi</td><td style="width: 332px; text-align: left; height: 24px;">Operations Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Ms Munah Bte Pardi</td><td style="width: 332px; text-align: left; height: 24px;">Operations Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Ms Koh Ah Chuan</td><td style="width: 332px; text-align: left; height: 24px;">Operations Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mr Cheong Chee Khei</td><td style="width: 332px; text-align: left; height: 24px;">Operations Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mdm Vasanthi Manikam</td><td style="width: 332px; text-align: left; height: 24px;">Operations Support Officer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mr&nbsp;Soh Woon Peng</td><td style="width: 332px; text-align: left; height: 24px;">ICT Manager</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mr Kelvin Yap</td><td style="width: 332px; text-align: left; height: 24px;">Desktop Engineer</td></tr><tr style="height: 24px;"><td style="width: 247px; text-align: left; height: 24px;">Mr Tan Kok Wei</td><td style="width: 332px; text-align: left; height: 24px;">Desktop Engineer</td></tr></tbody></table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Executive  Admin Staff (EAS)" src="/images/EAS-1024x731.jpeg">
+</div>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Hwee Pin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sarawathy D/O Varadaraju</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Tze Jwee Glynn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Swee Chye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Kwang Mong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gina Tan Lay Bee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education and Career Guidance Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Yap (Goh Hwee Ting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Needs Educational Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms&nbsp;Hanitah Binte Musa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms&nbsp;Ngo Law Kah Miriam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jacqueline Tham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sapura Bte Md Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jimmy Hsu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Kok Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Betty Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nirmala Devi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Munah Bte Pardi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Ah Chuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Cheong Chee Khei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vasanthi Manikam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Soh Woon Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kok Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
