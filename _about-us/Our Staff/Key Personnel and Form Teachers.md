@@ -151,7 +151,7 @@ variant: tiptap
 <p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Kok Keong (TTK)</p>
+<p>Mr Teo Kok Keong (TKK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_kok_keong@schools.gov.sg" rel="noopener noreferrer" target="_blank">teo_kok_keong@schools.gov.sg</a>
@@ -546,18 +546,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2-1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Evan Ling (LYC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ling_yang_cong@schools.gov.sg" rel="noopener noreferrer" target="_blank">ling_yang_cong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Si Ying (TSY)</p>
 </td>
