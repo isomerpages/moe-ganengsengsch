@@ -35,4 +35,9 @@ sections:
       id: infobar
       button: READ MORE
       url: /resources/announcements/permalink/2023gessschoolmagazine
+  - infobar:
+      title: Sec 2 & 3 Meet Parent Session 2024 Briefing Slides
+      id: infobar
+      button: READ MORE
+      url: /sec-2-3-meet-parent-session-2024-briefing-slides/
 ---
