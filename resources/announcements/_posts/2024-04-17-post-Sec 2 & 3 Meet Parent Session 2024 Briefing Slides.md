@@ -11,7 +11,7 @@ variant: tiptap
 <p>Thank you for the overwhelming response to our Sec 2 &amp; 3 Meet-Parent-Session
 on 12 Apr 2024. We hope you found the session useful. Here are the slides
 shared by the respective presenters:</p>
-<p><a href="/files/Subject_Combinations_2024_Talk__for_2EXP____For_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combinations 2024 Talk (for 2EXP) </a>
+<p><a href="/files/Subject_Combinations_2024_Talk__for_2EXP____For_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combinations 2024 Talk (for 2EXP)</a>
 </p>
 <p><a href="/files/Subject_Combinations_2024_Talk__for_2NA___For_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combinations 2024 Talk (for 2NA)</a>
 </p>
