@@ -25,7 +25,7 @@ The following categories are open for DSA application for the 2025 intake:
 *   Modern Dance (Boys and Girls)
 
 <br>
-The selection criteria and process for the talent areas will be updated from early-May.
+The selection criteria and process for the talent areas will be updated from early-May 2024.
 <br>
 
 For more information on DSA-Sec, please refer to:
