@@ -28,7 +28,7 @@ The following categories are open for DSA application for the 2025 intake:
 The selection criteria and process for the talent areas will be updated from early-May.
 <br>
 
-For more information on DBA-Sec, please refer to:
+For more information on DSA-Sec, please refer to:
 
 *   MOE DSA-Sec webpage:&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 *   Contact Us (MOE) :[https://www.moe.gov.sg/contact-us](https://www.moe.gov.sg/contact-us)
