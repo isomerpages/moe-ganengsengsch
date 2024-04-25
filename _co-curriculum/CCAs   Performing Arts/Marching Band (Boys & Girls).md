@@ -3,6 +3,7 @@ title: Marching Band (Boys & Girls)
 permalink: /cca/performing-arts/band/
 description: ""
 third_nav_title: CCAs   Performing Arts
+variant: markdown
 ---
 ![](/images/gess%20marching%20band%20(1).jpeg)
 <br>
@@ -34,7 +35,7 @@ third_nav_title: CCAs   Performing Arts
     <td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Ms Herianti Samsudin<br>Mr Tan Kay Chuan<br>Ms Jamie Toh<br>Ms Vino Selveindran<br></td>
+    <td class="tg-tsok">Ms Herianti Samsudin<br>Ms Jamie Toh<br></td>
     <td class="tg-tsok">Mr Vincent Lee Rui Xiong</td>
     <td class="tg-tsok">Band Major: Jenise Koh Shin Yen (S3-5)<br>Drum Major: Chiu Ri Sen (Zhou Rui Cheng) (S3-5)<br>Asst Drum Major: Poenar Viviana Artemisa Jiaying (S3-5)</td>
     <td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday:<br>2pm-5.30pm<br><br>Venue:<br>Music Room</td>
