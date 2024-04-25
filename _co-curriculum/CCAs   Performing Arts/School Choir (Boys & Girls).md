@@ -3,6 +3,7 @@ title: School Choir (Boys & Girls)
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: CCAs   Performing Arts
+variant: markdown
 ---
 <style>  
 img {  
@@ -11,9 +12,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Choir%201.jpeg" alt="School Choir (Boys & Girls)" style="width:60%;">  
+<img src="/images/Choir%201.jpeg" alt="School Choir (Boys &amp; Girls)" style="width:60%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -23,9 +24,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Choir%202.jpeg" alt="School Choir (Boys & Girls)" style="width:60%;">  
+<img src="/images/Choir%202.jpeg" alt="School Choir (Boys &amp; Girls)" style="width:60%;">  
   
-</body>
+
 <br>
 
 <style type="text/css">
@@ -52,7 +53,7 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Chandrima Roy<br>Tang Siew Kong<br>Thng Lay Kheng<br>Jamie Toh Su Lin</td>
+    <td class="tg-tsok">Chandrima Roy<br>Tang Siew Kong<br>Jamie Toh Su Lin</td>
     <td class="tg-tsok">Manning Music Centre Pvt. Ltd</td>
     <td class="tg-tsok">President –<br>Yap Jia Yin<br>Vice-Presidents -<br>Yiar Reii and Lee Ain</td>
   </tr>
