@@ -3,6 +3,7 @@ title: Infocomm Club (Boys & Girls)
 permalink: /cca/clubs/infocomm-club/
 description: ""
 third_nav_title: CCAs   Clubs & Societies
+variant: markdown
 ---
 <style>  
 img {  
@@ -11,9 +12,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Infocomm-1.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:60%;">  
+<img src="/images/Infocomm-1.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:60%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -23,9 +24,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Infocomm-2.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:60%;">  
+<img src="/images/Infocomm-2.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:60%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -35,9 +36,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Infocomm-3.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:60%;">  
+<img src="/images/Infocomm-3.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:60%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -47,9 +48,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Infocomm-4.jpeg" alt="Infocomm Club (Boys & Girls)" style="width:70%;">  
+<img src="/images/Infocomm-4.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style type="text/css">
@@ -75,7 +76,7 @@ img {
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Jeffrey Sui<br>Mr Niu Zi Bin</td>
+    <td class="tg-tsok">Mr Jansen Tan<br>Mr Johnathan Beh</td>
     <td class="tg-tsok">President: JUDE YONG HO YAN (3-4)<br>Vice-President: OSKAR LOY CHENG JUN (3-5)<br>Vice-President: BRANSON LIM KENG SENG (3-6)<br>EXCO Member: TITUS TEOH CHENG JING (3-5)<br>EXCO Member: LAM YONG XUAN (3-5)<br>EXCO Member: ZHAO HOUZAI (3-7)</td>
   </tr>
   <tr>
