@@ -43,7 +43,7 @@ variant: markdown
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Tay Chew Woo<br>Ms Umamageswari Sathiaseelan<br>Mr Niu Zi Bin</td>
+    <td class="tg-tsok">Mr Tay Chew Woo<br>Ms Umamageswari Sathiaseelan<br></td>
     <td class="tg-tsok">Ms Lee Si Yi (2023)<br>Mr Rick Ng (2024)</td>
     <td class="tg-tsok">Zarmin Ravi 3-4<br>Bradley Samuelson Chang Ding Jie 3-2</td>
   </tr>
