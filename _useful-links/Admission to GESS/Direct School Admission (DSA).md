@@ -25,6 +25,11 @@ The following categories are open for DSA application for the 2025 intake:
 *   Modern Dance (Boys and Girls)
 
 <br>
+Please refer to  [DSA_GESS_2024 (For School Portal)](/files/DSA_GESS_2024__For_School_Portal_.pdf)
+<br><br>
+Applicants who do not have prior experience may also apply
+The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants
+<br><br>
 The selection criteria and process for the talent areas will be updated from early-May 2024.
 <br>
 
