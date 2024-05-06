@@ -31,6 +31,10 @@ sections:
       button: READ MORE
       url: /school-information/school-admission/
   - infobar:
+      title: Information Note on 2024 DSA-JC for Sec 4E and 5NA students
+      id: infobar
+      button: Button Text
+  - infobar:
       title: Letter to parents (Term 2 2024)
       id: infobar
       button: READ MORE
