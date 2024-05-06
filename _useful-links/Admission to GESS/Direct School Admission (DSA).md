@@ -30,8 +30,7 @@ Please refer to  [DSA_GESS_2024 (For School Portal)](/files/DSA_GESS_2024__For_S
 Applicants who do not have prior experience may also apply
 <br>
 The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants
-<br><br>
-
+<br>
 
 For more information on DSA-Sec, please refer to:
 
