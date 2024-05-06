@@ -15,7 +15,7 @@ examination.</p>
 <p>Please refer to the attachment for information and broad timeline of 2024
 DSA-JC</p>
 <p></p>
-<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">MOE DSA-JC Website</a>
+<p><a href="https://www.moe.gov.sg/dsa-jc" rel="noopener noreferrer nofollow" target="_blank">MOE DSA-JC Website</a>
 </p>
 <p></p>
 <p><a href="/files/Information_Note_on_2024_DSA_JC.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Note on 2024 DSA-JC</a>
