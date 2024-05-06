@@ -26,10 +26,10 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
   - infobar:
-      title: Sec 2 & 3 Meet Parent Session 2024 Briefing Slides
+      title: Direct School Admission (DSA)
       id: infobar
       button: READ MORE
-      url: /sec-2-3-meet-parent-session-2024-briefing-slides/
+      url: /school-information/school-admission/
   - infobar:
       title: Letter to parents (Term 2 2024)
       id: infobar
