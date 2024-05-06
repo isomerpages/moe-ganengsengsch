@@ -33,7 +33,8 @@ sections:
   - infobar:
       title: Information Note on 2024 DSA-JC for Sec 4E and 5NA students
       id: infobar
-      button: Button Text
+      button: READ MORE
+      url: /information-note-on-2024-dsa-jc-for-sec-4e-and-5na-students/
   - infobar:
       title: Letter to parents (Term 2 2024)
       id: infobar
