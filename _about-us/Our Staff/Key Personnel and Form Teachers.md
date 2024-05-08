@@ -12,7 +12,12 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -244,18 +249,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lok Junli (LJL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lok_junli@schools.gov.sg" rel="noopener noreferrer" target="_blank">lok_junli@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head / Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -354,7 +347,12 @@ variant: tiptap
 </table>
 <h2>Year 2024 Form Teachers</h2>
 <h3>Secondary 1 (2024)</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -529,7 +527,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Secondary 2 (2024)</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -571,11 +574,10 @@ variant: tiptap
 <p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lok Junli (LJL)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lok_junli@schools.gov.sg" rel="noopener noreferrer" target="_blank">lok_junli@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -694,7 +696,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Secondary 3 (2024)</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -868,7 +875,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Secondary 4 (2024)</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1034,7 +1046,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Secondary 5 (2024)</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1065,7 +1082,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Flexi Adjunct Teachers (FAJT)</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
