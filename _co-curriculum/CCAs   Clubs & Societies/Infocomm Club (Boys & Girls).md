@@ -66,7 +66,6 @@ img {
 <img src="/images/2024_IFC_10.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
   
 *Team bonding sessions and reflection on learning experiences*
-
 <br><br>
 
 <style type="text/css">
