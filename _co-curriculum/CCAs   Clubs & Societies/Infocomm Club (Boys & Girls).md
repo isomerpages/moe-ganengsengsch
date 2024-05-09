@@ -44,7 +44,6 @@ img {
 <img src="/images/2024_IFC_8.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
   
 *Developing an artistic perspective and self-expression through photo stories*
-
 <br>
 <style>  
 img {  
@@ -56,7 +55,6 @@ img {
 <img src="/images/2024_IFC_9.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
   
 *Engaging the elderly with activities at Henderson Crescent RC*
-
 <br>
 <style>  
 img {  
