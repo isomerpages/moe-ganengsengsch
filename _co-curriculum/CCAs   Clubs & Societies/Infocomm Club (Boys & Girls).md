@@ -5,16 +5,22 @@ description: ""
 third_nav_title: CCAs   Clubs & Societies
 variant: markdown
 ---
+<img src="/images/2024_IFC_1.jpg" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
+
+<br><br>
+
 <style>  
 img {  
   display: block;  
   margin-left: auto;  
   margin-right: auto;  
 }  
+	
 </style>  
-<img src="/images/Infocomm-1.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:60%;">  
-  
+<img src="/images/2024_IFC_6.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
 
+*Learning the basics of sound engineering using the Behringer X32 Digital Mixer*
+	
 <br>
 
 <style>  
@@ -24,9 +30,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Infocomm-2.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:60%;">  
+<img src="/images/2024_IFC_7.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
   
-
+*Setting up a livestream for Student Leaders Appointment Ceremony*
 <br>
 
 <style>  
@@ -36,11 +42,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Infocomm-3.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:60%;">  
+<img src="/images/2024_IFC_8.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
   
+*Developing an artistic perspective and self-expression through photo stories*
 
 <br>
-
 <style>  
 img {  
   display: block;  
@@ -48,10 +54,23 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Infocomm-4.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:70%;">  
+<img src="/images/2024_IFC_9.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
   
+*Engaging the elderly with activities at Henderson Crescent RC*
 
 <br>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/2024_IFC_10.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
+  
+*Team bonding sessions and reflection on learning experiences*
+
+<br><br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -77,10 +96,19 @@ img {
   </tr>
   <tr>
     <td class="tg-tsok">Mr Jansen Tan<br>Mr Johnathan Beh</td>
-    <td class="tg-tsok">President: JUDE YONG HO YAN (3-4)<br>Vice-President: OSKAR LOY CHENG JUN (3-5)<br>Vice-President: BRANSON LIM KENG SENG (3-6)<br>EXCO Member: TITUS TEOH CHENG JING (3-5)<br>EXCO Member: LAM YONG XUAN (3-5)<br>EXCO Member: ZHAO HOUZAI (3-7)</td>
+    <td class="tg-tsok">President: Arianna Mira Singh (3-3)<br>Vice-President: Javier Tham Juk Coeng (3-3)<br>Vice-President: Yang Xiuqi (3-4)
+<br></td>
   </tr>
   <tr>
-    <td class="tg-h5mn" colspan="2">The Infocomm Club @ GESS aims to deepen students’ passion for by equipping them with ICT knowledge and skills, and to develop them to be responsible and respectful members who are confident and competent in handling challenging tasks to ensure smooth running of school events.<br><br>Strong friendships and a deep sense of camaraderie among members are forged in the collaborative process of serving the school together.<br><br>The three areas of focus for the Infocomm Club are: <br>Live Sound Reinforcement, Event Photography and Video Production.<br><br>Members have attended courses on handling PA equipment, using DSLR, photo editing and videography. They are also actively involved in providing audio-visual, photography and video support at various school events, assemblies and ceremonies.</td>
+    <td class="tg-h5mn" colspan="2">**Lights, Sound, Camera, Action!** <br><br>
+The Infocomm Club @ GESS aims to fuel students’ passion for audio-visual production and develop them to be responsible members with the ability to adapt to change and think on their feet to provide smooth AV support for live events.
+<br><br>
+Students will be equipped with technical expertise in areas such as photography, live sound, live streaming and video production. Coupled with the artistic and creative aspects of audio-visual production, students will have opportunities to present their captivating narratives through their own lenses. 
+<br><br>
+Students will pick up skills in event management and coordination as they work together as a team on projects and support morning assemblies and school events throughout the year. Strong friendships and a sense of camaraderie among members are forged in the collaborative process of serving the school together.
+<br><br>
+Join Infocomm Club @ GESS and turn your passion for audio-visual production into a valuable contribution to the school community!
+</td>
   </tr>
 </tbody>
 </table>
