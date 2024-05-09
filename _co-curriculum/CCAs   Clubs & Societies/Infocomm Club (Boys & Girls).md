@@ -22,7 +22,6 @@ img {
 *Learning the basics of sound engineering using the Behringer X32 Digital Mixer*
 	
 <br>
-
 <style>  
 img {  
   display: block;  
