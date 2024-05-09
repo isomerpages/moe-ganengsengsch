@@ -5,10 +5,9 @@ description: ""
 third_nav_title: CCAs   Clubs & Societies
 variant: markdown
 ---
-  
 <img src="/images/2024_IFC_1.jpg" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
 
-<br>
+<br><br>
 
 <style>  
 img {  
@@ -19,7 +18,7 @@ img {
 	
 </style>  
 <img src="/images/2024_IFC_6.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
-	
+
 *Learning the basics of sound engineering using the Behringer X32 Digital Mixer*
 	
 <br>
@@ -36,7 +35,43 @@ img {
 *Setting up a livestream for Student Leaders Appointment Ceremony*
 <br>
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/2024_IFC_8.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
+  
+*Developing an artistic perspective and self-expression through photo stories*
 
+<br>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/2024_IFC_9.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
+  
+*Engaging the elderly with activities at Henderson Crescent RC*
+
+<br>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/2024_IFC_10.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
+  
+*Team bonding sessions and reflection on learning experiences*
+
+<br>
+<br>
 
 <br>
 
