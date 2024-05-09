@@ -5,15 +5,8 @@ description: ""
 third_nav_title: CCAs   Clubs & Societies
 variant: markdown
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Infocomm-1.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:60%;">  
   
+<img src="/images/2024_IFC_1.jpg" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
 
 <br>
 
@@ -23,10 +16,12 @@ img {
   margin-left: auto;  
   margin-right: auto;  
 }  
+	
 </style>  
-<img src="/images/Infocomm-2.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:60%;">  
-  
-
+<img src="/images/2024_IFC_6.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
+	
+*Learning the basics of sound engineering using the Behringer X32 Digital Mixer*
+	
 <br>
 
 <style>  
@@ -36,20 +31,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Infocomm-3.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:60%;">  
+<img src="/images/2024_IFC_7.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
   
-
+*Setting up a livestream for Student Leaders Appointment Ceremony*
 <br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Infocomm-4.jpeg" alt="Infocomm Club (Boys &amp; Girls)" style="width:70%;">  
-  
+
 
 <br>
 
