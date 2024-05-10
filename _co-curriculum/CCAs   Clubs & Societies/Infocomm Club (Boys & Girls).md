@@ -7,7 +7,7 @@ variant: markdown
 ---
 <img src="/images/2024_IFC_1.jpg" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
 
-<br><br>
+<br>
 
 <style>  
 img {  
