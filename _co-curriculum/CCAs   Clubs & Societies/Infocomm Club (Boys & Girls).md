@@ -20,7 +20,6 @@ img {
 <img src="/images/2024_IFC_6.png" alt="Infocomm Club (Boys &amp; Girls)" style="width:100%;">  
 
 *Learning the basics of sound engineering using the Behringer X32 Digital Mixer*
-	
 <br>
 <style>  
 img {  
