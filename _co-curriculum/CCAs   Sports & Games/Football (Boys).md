@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/b%20division%20boys.jpeg)
 <br>
-![](/images/c%20division%20boys.jpeg)
+![](/images/C_Boys_2024.jpg)
 <br>
 ![](/images/celebrations%20with%20the%20graduating%20cohort.jpeg)
 <br>
@@ -39,9 +39,10 @@ variant: markdown
 		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Sathis Kumar<br>Mr Qaleelullah<br>Mr Chee Fook Sing</td>
-    <td class="tg-tsok">Mr Nordin B Abdul Mannan</td>
-    <td class="tg-tsok">Captain<br>Adib Azfar Bin Harun Al-Rashid (3-2)<br>Vice-Captain<br>William Leong Jian Min (3-4)</td>
+    <td class="tg-tsok">Mr Qaleelullah<br>Mr Chee Fook Sing<br>Mr Sathis Kumar</td>
+    <td class="tg-tsok">Mr Jaiprakash S/O Sankar Ram</td>
+    <td class="tg-tsok">Captain<br>Rishaan Dev Dayananthan (3-6)<br>Vice-Captain<br>Mohamed Sirajudeen Arshad Maqsood (3-4)
+</td>
     <td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday:<br>2pm-5.30pm<br><br>Venue:<br>School Field</td>
   </tr>
   <tr>
