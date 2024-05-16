@@ -469,7 +469,7 @@ variant: tiptap
 <p>Ms Ngoh Cher Tian Jenny (NCT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Claire_Wong_Kaii@schools.gov.sg" rel="noopener noreferrer" target="_blank">claire_wong_kail@schools.gov.sg</a>
+<p><a href="mailto:ngoh_cher_tian_jenny@schools.gov.sg" rel="noopener noreferrer" target="_blank">ngoh_cher_tian_jenny@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1073,10 +1073,10 @@ variant: tiptap
 <p>5-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ngoh Cher Tian Jenny (NCT)</p>
+<p>Mr Jeffrey Phua (PJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ngoh_cher_tian_jenny@schools.gov.sg" rel="noopener noreferrer" target="_blank">ngoh_cher_tian_jenny@schools.gov.sg</a>
+<p><a href="mailto:phua_jeffrey@schools.gov.sg" rel="noopener noreferrer" target="_blank">phua_jeffrey@schools.gov.sg</a>
 </p>
 </td>
 </tr>
