@@ -594,10 +594,11 @@ variant: tiptap
 <p>2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Claire Wong (WKI)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Claire_Wong_Kaii@schools.gov.sg" rel="noopener noreferrer" target="_blank">claire_wong_kail@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
