@@ -8,7 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Executive  Admin Staff (EAS)" src="/images/EAS-1024x731.jpeg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -149,14 +153,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Cheong Chee Khei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Vasanthi Manikam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
