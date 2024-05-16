@@ -1076,7 +1076,7 @@ variant: tiptap
 <p>Mr Jeffrey Phua (PJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ngoh_cher_tian_jenny@schools.gov.sg" rel="noopener noreferrer" target="_blank">ngoh_cher_tian_jenny@schools.gov.sg</a>
+<p><a href="mailto:phua_jeffrey@schools.gov.sg" rel="noopener noreferrer" target="_blank">phua_jeffrey@schools.gov.sg</a>
 </p>
 </td>
 </tr>
