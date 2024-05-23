@@ -25,6 +25,12 @@ sections:
         - title: School Values
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
+  - infopic:
+      title: 140 Good Deeds @GESS
+      id: infopic
+      description: March 2024 to March 2025
+      image: /images/140_Logo_Final.jpg
+      alt: Image alt text
   - infobar:
       title: Direct School Admission (DSA)
       id: infobar
@@ -45,10 +51,4 @@ sections:
       id: infobar
       button: READ MORE
       url: /resources/announcements/permalink/2023gessschoolmagazine
-  - infopic:
-      title: 140 Good Deed
-      id: infopic
-      description: March 2024 to March 2025
-      image: /images/140_Logo_Final.jpg
-      alt: Image alt text
 ---
