@@ -25,7 +25,7 @@ value-add to the students’ educational and socio-emotional development.
 These partnerships enhance the holistic development of the students and
 prepare them well for the 21st century.
 <br>
-<br><strong>140 Good Deeds</strong>
+<br><strong>140 Good Deeds</strong> 
 <br>The entire school community, including staff, pupils, parents, alumni,
 and stakeholders, collaborates by contributing time and resources to carry
 out 140 good deeds. These acts of kindness encompass a variety of initiatives,
