@@ -31,6 +31,8 @@ sections:
       description: March 2024 to March 2025
       image: /images/140_Logo_Final.jpg
       alt: Image alt text
+      url: https://ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
+      button: GESS 140th anniversary
   - infobar:
       title: Direct School Admission (DSA)
       id: infobar
