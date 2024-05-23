@@ -28,7 +28,10 @@ sections:
   - infopic:
       title: 140 Good Deeds @GESS
       id: infopic
-      description: March 2024 to March 2025
+      description: |-
+        
+
+        March 2024 to March 2025
       image: /images/140_Logo_Final_v2.jpg
       alt: Image alt text
       url: https://ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
