@@ -47,9 +47,8 @@ sections:
       url: /resources/announcements/permalink/2023gessschoolmagazine
   - infopic:
       title: 140 Good Deed
-      subtitle: March 2024 to March 2025
       id: infopic
-      description: GESS Celebrates 140th Anniversary in 2025
+      description: March 2024 to March 2025
       image: /images/140_Logo_Final.jpg
       alt: Image alt text
 ---
