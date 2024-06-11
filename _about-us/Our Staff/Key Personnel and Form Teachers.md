@@ -473,7 +473,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -491,14 +491,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sathis_kumar_niana_sekaran@schools.gov.sg" rel="noopener noreferrer" target="_blank">sathis_kumar_niana_sekaran@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1035,11 +1027,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Hiew Min (WHM)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hiew_min@schools.gov.sg" rel="noopener noreferrer" target="_blank">wong_hiew_min@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
