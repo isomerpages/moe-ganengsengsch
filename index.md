@@ -25,6 +25,14 @@ sections:
         - title: School Values
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
+  - infopic:
+      title: 140 Good Deeds @GESS
+      id: infopic
+      description: March 2024 to March 2025
+      image: /images/140_Logo_Final_v2.jpg
+      alt: GESS 140
+      url: https://ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
+      button: GESS 140th anniversary
   - infobar:
       title: Direct School Admission (DSA)
       id: infobar
