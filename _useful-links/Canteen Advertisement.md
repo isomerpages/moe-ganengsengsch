@@ -4,7 +4,6 @@ permalink: /useful-links/permalink/canteenadvertisement/
 description: ""
 variant: markdown
 ---
-
 **School Canteen Advertisement**
 
 <table style="width:467.5pt;border-collapse:collapse;mso-yfti-tbllook:1184;
@@ -67,7 +66,7 @@ variant: markdown
 
 *   Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant(s).
 *   Able to provide good service and variety of quality food with prices determined in consultation with the school.
-*   Able to provide cooked food and fruits that meet the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see&nbsp;[link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+*   Able to provide cooked food and fruits that meet the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see&nbsp;[link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme))
 *   Able to maintain high standard of food safety and personal hygiene.
 *   Healthy and fit to operate the stall.
 *   Able to operate stall personally during school operations hours and special events.
