@@ -457,11 +457,10 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Lee Lian (FLL)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_lee_lian@schools.gov.sg" rel="noopener noreferrer" target="_blank">foo_lee_lian@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -496,11 +495,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Tan (TXH)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Xianheng_Bryan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Xianheng_Bryan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
