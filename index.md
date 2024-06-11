@@ -34,6 +34,11 @@ sections:
       url: https://ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
       button: GESS 140th anniversary
   - infobar:
+      title: Sec 4 & 5 Meet Parent Session 2024 Briefing Slides
+      id: infobar
+      button: READ MORE
+      url: /sec-4-5-meet-parent-session-2024-briefing-slides/
+  - infobar:
       title: Direct School Admission (DSA)
       id: infobar
       button: READ MORE
