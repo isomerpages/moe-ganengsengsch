@@ -43,7 +43,7 @@ variant: markdown
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-*   [Application Form](file:///C:/Users/S7839719E/Documents/Contracts/2024/Canteen%20FormBF7%20(2018).pdf)
+*   [Application Form](/files/Canteen_FormBF7__2018_.pdf)
 
 2\. Attach the following documents together with the application form:
 
