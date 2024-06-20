@@ -108,10 +108,22 @@ variant: tiptap
 <p>HOD / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Clarence Loh (LCY)</p>
+<p>Mdm Laura Lim Hwee Mean (LHM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_choon_yang@schools.gov.sg" rel="noopener" target="_blank">loh_choon_yang@schools.gov.sg</a>
+<p><a href="mailto:lim_hwee_mean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_mean@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Yuh Mein (GYM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_yuh_mein@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yuh_mein@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -328,6 +340,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sui_siang_wey@schools.gov.sg" rel="noopener noreferrer" target="_blank">sui_siang_wey@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Kam Chuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_kam_chuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kam_chuen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
