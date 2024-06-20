@@ -41,7 +41,7 @@ variant: markdown
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Chan Hoong Leong<br>Ms Lee Pei Ying<br>Mr Kevin Kung Sion Onn<br>Ms Tan Siying<br>Ms Khadijah</td>
+    <td class="tg-tsok">Mr Chan Hoong Leong<br>Ms Lee Pei Ying<br>Mr Kevin Kung Sion Onn<br>Ms Khadijah</td>
     <td class="tg-tsok">Law Teck Chong<br>Alexandra Lee<br>Darly Ke<br>Carissa Wong<br>Colette Chan<br>Andres Chow<br>Timothy Lee</td>
     <td class="tg-tsok"><span style="font-weight:bold">SENIOR PATROL LEADER</span><br>THONG DENG NGAI ORION (3-3)<br>JADE LIM PUI SUAN (3-5)<br><span style="font-weight:bold">ASSISTANT SENIOR PATROL LEADER</span><br>NGUYEN BAO ANH HOANG (3-4)<br><span style="font-weight:bold">PATROL LEADERS</span><br>ISKANDAR ADRIAN BIN KHAIRUDIN LAMB (3-1)<br>RACHEL TAN ZHUANG XUAN 3-5)<br>THNG KHAI YEE CHLOE (3-5)<br>TAN JIN YI (3-7)<br>ANDRE AMANI VOLKENING (3-7)<br></td>
   </tr>
