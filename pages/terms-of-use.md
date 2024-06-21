@@ -25,7 +25,7 @@ forms of proprietary rights. All rights, title and interest in the Contents
 are owned by, licensed to or controlled by Gan Eng Seng School.</p>
 <p><strong>Privacy Policy</strong>
 </p>
-<p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://www.ganengsengsch.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 review this Web Site Privacy Statement.</p>
 <p><strong>Restrictions on Use of Materials</strong>
 </p>
