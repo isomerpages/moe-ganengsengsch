@@ -418,10 +418,10 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Sci’on (HSO)</p>
+<p>Ms Dawn Loh (LYX)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_scion@schools.gov.sg" rel="noopener noreferrer" target="_blank">ho_scion@schools.gov.sg</a>
+<p><a href="mailto:dawn_loh_yu_xin@schools.gov.sg" rel="noopener noreferrer" target="_blank">dawn_loh_yu_xin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
