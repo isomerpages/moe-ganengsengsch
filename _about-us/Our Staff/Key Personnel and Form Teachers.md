@@ -348,7 +348,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kam Chuen</p>
+<p>Mr Lee Kam Chuen (LKC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_kam_chuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kam_chuen@schools.gov.sg</a>
