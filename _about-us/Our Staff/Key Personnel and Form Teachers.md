@@ -598,7 +598,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chloe Tan (TEH)</p>
+<p>Ms Chloe Tan (TEH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Tan_Euhsuan_Chloe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Euhsuan_Chloe@schools.gov.sg</a>
