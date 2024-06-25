@@ -481,10 +481,11 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Amirrudin (MAA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Muhammad_Amiruddin_Aman_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Amiruddin_Aman_A@schools.gov.sg </a>
+</p>
 </td>
 </tr>
 <tr>
@@ -567,19 +568,19 @@ variant: tiptap
 <p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Si Ying (TSY)</p>
+<p>Ms Amanda Chong Chi (CC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sI_ying@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_sI_ying@schools.gov.sg</a>
+<p><a href="mailto:chong_chi@schools.gov.sg" rel="noopener noreferrer" target="_blank">chong_chi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Chong Chi (CC)</p>
+<p>Jermine Pang (JP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_chi@schools.gov.sg" rel="noopener noreferrer" target="_blank">chong_chi@schools.gov.sg</a>
+<p><a href="mailto:Pang_Jermine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pang_Jermine@schools.gov.sg </a>
 </p>
 </td>
 </tr>
