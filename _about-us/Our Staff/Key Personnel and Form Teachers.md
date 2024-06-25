@@ -484,7 +484,7 @@ variant: tiptap
 <p>Amirrudin (MAA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Muhammad_Amiruddin_Aman_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Amiruddin_Aman_A@schools.gov.sg </a>
+<p><a href="mailto:Muhammad_Amiruddin_Aman_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Amiruddin_Aman_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -580,7 +580,7 @@ variant: tiptap
 <p>Jermine Pang (JP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Pang_Jermine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pang_Jermine@schools.gov.sg </a>
+<p><a href="mailto:Pang_Jermine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pang_Jermine@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -589,18 +589,19 @@ variant: tiptap
 <p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chan Yi Tsun (CYT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_yi_tsun@schools.gov.sg" rel="noopener noreferrer" target="_blank">chan_yi_tsun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chloe Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Euhsuan_Chloe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Euhsuan_Chloe@schools.gov.sg</a>
 </p>
 </td>
 </tr>
