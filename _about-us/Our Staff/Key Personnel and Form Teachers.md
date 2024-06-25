@@ -648,7 +648,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2-5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -656,6 +656,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wei_yi_a@schools.gov.sg" rel="noopener" target="_blank">lim_wei_yi_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Liu Xudan (LXD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_Xudan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_Xudan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
