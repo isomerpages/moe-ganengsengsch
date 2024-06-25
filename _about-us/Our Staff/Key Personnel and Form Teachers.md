@@ -348,7 +348,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kam Chuen</p>
+<p>Mr Lee Kam Chuen (LKC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_kam_chuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kam_chuen@schools.gov.sg</a>
@@ -418,10 +418,10 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Sci’on (HSO)</p>
+<p>Ms Dawn Loh (LYX)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_scion@schools.gov.sg" rel="noopener noreferrer" target="_blank">ho_scion@schools.gov.sg</a>
+<p><a href="mailto:dawn_loh_yu_xin@schools.gov.sg" rel="noopener noreferrer" target="_blank">dawn_loh_yu_xin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -481,10 +481,11 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Amirrudin (MAA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Muhammad_Amiruddin_Aman_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Amiruddin_Aman_A@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -567,15 +568,6 @@ variant: tiptap
 <p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Si Ying (TSY)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sI_ying@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_sI_ying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Amanda Chong Chi (CC)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -584,22 +576,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>2-2</p>
+<td rowspan="1" colspan="1">
+<p>Ms Jermine Pang (JP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Pang_Jermine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pang_Jermine@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>2-2</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Yi Tsun (CYT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_yi_tsun@schools.gov.sg" rel="noopener noreferrer" target="_blank">chan_yi_tsun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chloe Tan (TEH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Euhsuan_Chloe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Euhsuan_Chloe@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -646,7 +648,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2-5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -654,6 +656,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wei_yi_a@schools.gov.sg" rel="noopener" target="_blank">lim_wei_yi_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Liu Xudan (LXD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_Xudan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_Xudan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
