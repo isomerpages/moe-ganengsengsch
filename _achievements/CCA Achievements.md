@@ -4,6 +4,352 @@ permalink: /achievements/cca/
 description: ""
 variant: tiptap
 ---
+<h2>2024</h2>
+<p><strong>Physical Sports</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Results</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Zone Inter-School Table Tennis Championship (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>National Inter-school Football Championship (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 4 qualifiers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 3 qualifiers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Cross Country</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>National Inter-school Cross Country Championship (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Inter-school Cross Country Championship (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Canoeing</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>National Inter-school Canoeing Championship (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Inter-school Canoeing Championship (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9<sup>th</sup>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;Uniformed Groups</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Results</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC (Land)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys’ Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>J M Fraser Award Excellence Honour Roll Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls’ Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Girls’ Brigade Company Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dragon Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SJB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corps Achievement Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Visual and Performing Arts</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Results</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asia Pacific Band Festival 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31st Spring in the City 2024, Singapore International Choral Cantat organised
+by The Singapore-China Cultural and Educational Exchange Center</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Science Drama Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist and awarded Outstanding Performer Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h2>2023</h2>
 <p><strong>Physical Sports</strong>
 </p>
