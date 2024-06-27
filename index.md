@@ -7,7 +7,7 @@ description: Gan Eng Seng School (GESS) is a co-educational government secondary
   community in Singapore and is one of the oldest schools in the country.
 image: /images/GESS_Crest_Transparent_V2.png
 permalink: /
-notification: Gan Eng Seng School is turning 140!
+notification: ""
 sections:
   - hero:
       background: /images/gess_homepage_140.gif
