@@ -10,7 +10,7 @@ permalink: /
 notification: Gan Eng Seng School is turning 140!
 sections:
   - hero:
-      background: /images/gess homepage new.gif
+      background: /images/gess_homepage_140.gif
       key_highlights:
         - title: The Gessian Portrait
           description: Principled Leader | Engaged Learner | Reflective & Innovative
@@ -25,9 +25,7 @@ sections:
         - title: School Values
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
-      title: ""
       variant: center
-      subtitle: ""
   - infopic:
       title: 140 Good Deeds @GESS
       id: infopic
