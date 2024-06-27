@@ -25,6 +25,9 @@ sections:
         - title: School Values
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
+      title: ""
+      variant: center
+      subtitle: ""
   - infopic:
       title: 140 Good Deeds @GESS
       id: infopic
