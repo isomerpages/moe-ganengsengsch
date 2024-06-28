@@ -38,7 +38,7 @@ sections:
       title: Letter to parents (Term 3 2024)
       id: infobar
       button: READ MORE
-      url: https://ganengsengsch.moe.edu.sg/letter-to-parents-term-3-2024/
+      url: /letter-to-parents-term-3-2024/
   - infobar:
       title: Sec 4 & 5 Meet Parent Session 2024 Briefing Slides
       id: infobar
