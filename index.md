@@ -50,7 +50,7 @@ sections:
       button: READ MORE
       url: /information-note-on-2024-dsa-jc-for-sec-4e-and-5na-students/
   - infobar:
-      title: Letter to parents (Term 2 2024)
+      title: Letter to parents (Term 3 2024)
       id: infobar
       button: READ MORE
       url: /resources/announcements/permalink/term22024
