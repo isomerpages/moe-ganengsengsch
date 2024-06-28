@@ -53,7 +53,7 @@ sections:
       title: Letter to parents (Term 3 2024)
       id: infobar
       button: READ MORE
-      url: /resources/announcements/permalink/term22024
+      url: https://ganengsengsch.moe.edu.sg/letter-to-parents-term-3-2024/
   - infobar:
       title: 2023 GESS School Magazine
       id: infobar
