@@ -29,7 +29,3 @@ variant: markdown
 
 
 <h5 style="color:black">Preliminary Examination  Format &amp; Topics 2024</h5>
-
-
-
-
