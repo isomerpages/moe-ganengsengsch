@@ -54,9 +54,4 @@ sections:
       id: infobar
       button: READ MORE
       url: /information-note-on-2024-dsa-jc-for-sec-4e-and-5na-students/
-  - infobar:
-      title: 2023 GESS School Magazine
-      id: infobar
-      button: READ MORE
-      url: /resources/announcements/permalink/2023gessschoolmagazine
 ---
