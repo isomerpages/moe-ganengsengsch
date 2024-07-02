@@ -34,5 +34,3 @@ variant: markdown
 *   **[Sec 4 Normal Academic](/files/Prelim_Format___Topics_2024___4NA.pdf)**
 *   **[Sec 4 Normal Technical](/files/Prelim_Format___Topics_2024___4NT.pdf)**
 *   **[Sec 5 Normal Academic](/files/Prelim_Format___Topics_2024___5NA.pdf)**
-
-
