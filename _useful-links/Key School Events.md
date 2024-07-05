@@ -5,310 +5,209 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p><strong>School Events Term 2 2024 (Published on 19 March 2024)</strong>
+<p><strong>School Events Term 3 2024 (Published on 5 July 2024)</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="37" colspan="1">
-<p>Term 2</p>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Dates</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Code For Fun (CFF)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 Mar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>d’Arts For Sec 4/5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21 Mar</p>
+<p><strong>Event</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Learning Festival</p>
+<p>28 June (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25-27 Mar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 2 &amp; 3 GESS Camps</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25-27 Mar</p>
+<p>Annual Sports Fiesta (2.30 pm to 6 pm)</p>
+<p>Venue: GESS</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 Gessian Experience Week</p>
+<p><strong>1 July (Mon)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25-27 Mar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL Fortnight &amp; Cultural Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 Mar</p>
+<p><strong>Youth Day (School Holiday)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Virtual Parent-Teacher Association AGM</p>
+<p>2 July (Mon) – 4 July (Thur)</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Mar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Good Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>29 Mar</p>
+<p>Applied Learning Module for 3-1 and 4-1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Election of Head Prefect</p>
+<p>3 July (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Apr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>International Friendship Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Apr</p>
+<p>GCE ‘O’ Level MTL Listening Comprehension Examination</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 cohort Museum-Learning – Classes 2-2, 2-4, 2-7</p>
+<p>4 July (Thur) -26 July (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Apr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Breakfast with Parents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 April</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Puasa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 Apr</p>
+<p><strong>National Exams:</strong>
+</p>
+<p><strong>GCE 'N' Level</strong>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 22 Jul- 26 Jul: EL Oral Exam</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 23 Jul-26 Jul: CL/ML/BCL/BML/BTL
+oral exam</p>
+<p><strong>GCE 'O' Level</strong>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4 Jul - 12 Jul: MT Oral Exam</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 22 Jul- 26 Jul: EL Oral Exam</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 23 Jul -26 Jul: HCL, HML &amp; HTL
+Oral Exam</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Leaders Appointment Ceremony Rehearsal 1</p>
+<p>10 July (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Apr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 2 Meet-Parent-Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 Apr</p>
+<p>Sec 3 Express EL Oral Exam</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Meet-Parent-Session</p>
+<p>19 July (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Apr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 2 cohort Museum-Learning – Classes 2-1, 2-5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17 Apr</p>
+<p>Racial Harmony Day Commemoration</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SS 4Exp5NA LJ to ISD</p>
+<p>2 Aug (Fri)- 7</p>
+<p>Aug (Wed) &amp;</p>
+<p>12 Aug (Mon) to 15 Aug (Thur)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Apr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Leaders Appointment Ceremony Rehearsal 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 Apr</p>
+<p>4NA/4NT Prelim Examination</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Annual Cross Country Race at Jurong Lake</p>
+<p>5 Aug (Mon) – 9 Sep (Mon)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 Apr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 and 2 Health Screening</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 Apr – 30 Apr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Last CCA Training for Sec 4&amp;5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 Apr</p>
+<p><strong>4Exp/5NA Prelim Examination</strong>
+</p>
+<p>5 Aug (Mon)- Chemistry Practical (PM)</p>
+<p>12 Aug (Mon)- Physics Practical (PM)</p>
+<p>14 Aug (Wed)- Science (Phy/Chem) &amp; Science (Chem/Bio) Practical (PM)</p>
+<p>14 Aug (Wed) -Biology Practical (PM)</p>
+<p>&nbsp;</p>
+<p>20 Aug (Tue) – 9 (Mon) Sept: Written and Listening Comprehension papers</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HBL Day</p>
+<p>7 Aug (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Apr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SS 4Exp5NA LJ to ISD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24 Apr</p>
+<p>Sec 3NA &amp; 3NT EL Oral Exam</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Labour Day</p>
+<p>8 Aug (Thur)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL Mock Exam for Sec 4&amp;5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 May (PM)</p>
+<p>National Day School Celebrations</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4E5N EL Oral #2 (AM)</p>
+<p>9 Aug (Fri)</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HBL Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 May</p>
+<p>National Day holiday</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tourism GI Pure Geo - 3Exp</p>
+<p>14 Aug (Wed)-20 Aug (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 May (PM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4NANT EL Oral #2 (PM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 May</p>
+<p>Sec 2 Oral MTL Oral Exam</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MTL Intensive Programme</p>
+<p>29 Aug (Thu)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 to 24 May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PABL for sec 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14 May (PM)</p>
+<p>Teachers' and Support Staff Day Celebrations</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NRIC Registration for Sec 3</p>
+<p>30 Aug (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Experience &amp; Cultural Immersion To Thailand</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20-23 May</p>
+<p>Teachers' Day - School Holiday</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vesak Day</p>
+<p>31 Aug (Sat) to 8 Sept (Sun)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mid-year Parent-Teacher Conference for all levels (Whole Day)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 – 24 May</p>
+<p>September Holidays</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sem 1 Holiday</p>
+<p>9 Sept (Mon)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 May to 23 Jun</p>
+<p><strong>Start of Term 4</strong>
+</p>
+<p>Students are to report to school at 8.30 am</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
+<p></p>
