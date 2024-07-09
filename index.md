@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/download__3_.gif
+      background: /images/download__6_.gif
       key_highlights:
         - title: The Gessian Portrait
           description: Principled Leader | Engaged Learner | Reflective & Innovative
