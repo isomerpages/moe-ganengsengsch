@@ -51,7 +51,6 @@ among the Secondary 1s.</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dbc93878-ca24-4485-93c3-ebb81f04c16a-1.jpeg">
 </div>
 <p>
-<br>
 <br>Loss of PLD
 <br>
 </p>
