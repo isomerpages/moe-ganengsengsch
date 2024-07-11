@@ -52,7 +52,7 @@ among the Secondary 1s.</p>
 </div>
 <p>
 <br>
-<br>Lost of PLD
+<br>Loss of PLD
 <br>
 </p>
 <div class="isomer-image-wrapper">
