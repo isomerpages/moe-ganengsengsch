@@ -16,7 +16,7 @@ nation in their own capacity. The value of compassion and the strong desire
 to reach out to people are what make our students truly Gessians.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/National_Day_banner_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/National_Day_banner_1.jpg">
 </div>
 <p><strong><em>140 Good Deeds</em></strong>
 </p>
