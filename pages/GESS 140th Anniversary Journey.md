@@ -25,9 +25,6 @@ the 140 Good Deeds Initiative. Starting 8 March 2024 and ending on 14 March
 2025 (Founder’s Day), the school will do a count down of all the good deeds
 done by our staff, students and partners. Let the count down begin!!!</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Graduation_photo_collage.jpg">
 </div>
