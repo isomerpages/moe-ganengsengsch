@@ -55,4 +55,22 @@ sections:
       id: infobar
       button: READ MORE
       url: /information-note-on-2024-dsa-jc-for-sec-4e-and-5na-students/
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
