@@ -26,10 +26,10 @@ the 140 Good Deeds Initiative. Starting 8 March 2024 and ending on 14 March
 done by our staff, students and partners. Let the count down begin!!!</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Beige_Minimalist_Mood_Photo_Collage__1_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Beige_Minimalist_Mood_Photo_Collage__2_.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
