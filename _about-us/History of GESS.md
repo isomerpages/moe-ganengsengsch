@@ -2,6 +2,7 @@
 title: History of GESS
 permalink: /about-us/history/gess-history/
 description: ""
+variant: markdown
 ---
 ![](/images/First%20School%20Site.jpg)
 <style>  
@@ -37,7 +38,7 @@ Finally, in May 1947, the school succeeded in getting the Japanese School buildi
 
 In 1986, Gan Eng Seng School moved to a new site at Raeburn Park. The school’s founding site at Telok Ayer Street was designated as a national historical site by the National Heritage Board in 1997.
 
-In 2001, the school relocated to its present site at 1 Henderson Road. Recent years have seen it launch its inaugural Founders’ Day (2012) and the GESSOSA Student Development Fund (2015). It even made the Singapore Book of Records in 2019 by completing 102,000 squats in 5 minutes, and was chosen as one of only 27 pilot schools to undergo the Full Subject Based Banding (FSBB) trial in 2020.
+In 2001, the school relocated to its present site at 1 Henderson Road. Recent years have seen it launch its inaugural Founders’ Day (2012) and the GESSOSA Student Development Fund (2015). It even made the Singapore Book of Records in 2019 by completing 102,000 squats in 5 minutes, and was chosen as one of only 28 pilot schools to undergo the Full Subject Based Banding (FSBB) trial in 2020.
 
 <style>  
 img {  
@@ -46,11 +47,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/History%20of%20GESS%201.jpg" alt="Our current building at 1 Henderson Road" style="width:57%;">  
+<img src="/images/History%20of%20GESS%201.jpg" alt="Our current building at 1 Henderson Road" style="width:57%;">  
   
-</body>
 
-<!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"Source Sans Pro"; mso-font-alt:Arial; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1610613495 33554433 0 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-fareast-font-family:Calibri; mso-hansi-font-family:Calibri; mso-bidi-font-family:Calibri;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+
 
 <p style="text-align:center;"> <strong>Our current building at 1 Henderson Road</strong></p>
 
