@@ -27,10 +27,10 @@ done by our staff, students and partners. Let the count down begin!!!</p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Beige_Minimalist_Mood_Photo_Collage__2_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Graduation_photo_collage.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
