@@ -33,7 +33,8 @@ sections:
       image: /images/140_Logo_Editted_resized.png
       alt: GESS 140
       url: https://ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
-      button: GESS 140th anniversary
+      button: Click HERE TO FIND OUT MORE
+      subtitle: GESS 140tH CELEBRATIONS
   - infobar:
       title: Exam Matters
       id: infobar
