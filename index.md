@@ -67,4 +67,8 @@ sections:
           description: An overnight relay to cycle 140 km around Singapore.
           linktext: Coming soon
           url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
+        - title: Founder's Day Dinner
+          description: A homecoming for all Gessians
+          linktext: Coming soon
+          url: https://www.ganengsengsch.moe.edu.sg/
 ---
