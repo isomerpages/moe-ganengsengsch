@@ -60,7 +60,7 @@ sections:
           linktext: Learn more
           url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
         - title: GESS 140 Record Breaking
-          description: An attempt to have the highest number of participants forming '140'
+          description: An attempt to have the largest human formation of '140'
           linktext: Coming soon
           url: https://www.ganengsengsch.moe.edu.sg/
         - title: GESS 140 Cycle
