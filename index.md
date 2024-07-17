@@ -61,10 +61,10 @@ sections:
           url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
         - title: GESS 140 Record Breaking
           description: An attempt to have the highest number of participants forming '140'.
-          linktext: Learn more
-          url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
+          linktext: Coming soon
+          url: https://www.ganengsengsch.moe.edu.sg/
         - title: GESS 140 Cycle
           description: An overnight relay to cycle 140 km around Singapore.
-          linktext: Learn more
+          linktext: Coming soon
           url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
 ---
