@@ -26,33 +26,49 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
       variant: center
-  - infopic:
-      title: 140 Good Deeds @GESS
-      id: infopic
-      description: March 2024 to March 2025
-      image: /images/140_Logo_Editted_resized.png
-      alt: GESS 140
-      url: https://ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
-      button: Click HERE TO FIND OUT MORE
-      subtitle: GESS 140tH CELEBRATIONS
-  - infobar:
-      title: Exam Matters
-      id: infobar
-      button: READ MORE
-      url: /school-information/exam-matters/
-  - infobar:
-      title: Letter to parents (Term 3 2024)
-      id: infobar
-      button: READ MORE
-      url: /letter-to-parents-term-3-2024/
-  - infobar:
-      title: Direct School Admission (DSA)
-      id: infobar
-      button: READ MORE
-      url: /school-information/school-admission/
-  - infobar:
-      title: Information Note on 2024 DSA-JC for Sec 4E and 5NA students
-      id: infobar
-      button: READ MORE
-      url: /information-note-on-2024-dsa-jc-for-sec-4e-and-5na-students/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Exam Matters
+          date: 17 July 2024
+          announcement: Prelim Exam Timetable for Secondary 4 and 5.
+          link_text: READ MORE
+          link_url: https://www.ganengsengsch.moe.edu.sg/school-information/exam-matters/
+        - title: Letter to parents
+          date: 02 July 2024
+          announcement: Term Letter (Term 3 2024)
+          link_text: READ MORE
+          link_url: https://www.ganengsengsch.moe.edu.sg/letter-to-parents-term-3-2024/
+        - title: Direct School Admission (DSA)
+          date: 17 July 2024
+          announcement: Direct School Admission (DSA-Sec) Exercise for 2025.
+          link_text: READ MORE
+          link_url: https://www.ganengsengsch.moe.edu.sg/school-information/school-admission/
+        - title: DSA-JC 2024
+          date: 17 July 2024
+          announcement: Information and Timeline
+          link_text: READ MORE
+          link_url: https://www.ganengsengsch.moe.edu.sg/information-note-on-2024-dsa-jc-for-sec-4e-and-5na-students/
+  - textcards:
+      title: GESS 140th Anniversary Celebration
+      subtitle: commermorative event
+      id: textcards
+      cards:
+        - title: GESS 140 Good Deeds
+          description: A combined effort by the GESS Family to contribute to the community
+          linktext: Learn more
+          url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
+        - title: GESS 140 Record Breaking
+          description: An attempt to have the highest number of participants forming '140'
+          linktext: Coming soon
+          url: https://www.ganengsengsch.moe.edu.sg/
+        - title: GESS 140 Cycle
+          description: An overnight relay to cycle 140 km around Singapore
+          linktext: Coming soon
+          url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
+        - title: Founder's Day Dinner
+          description: A homecoming for all Gessians
+          linktext: Coming soon
+          url: https://www.ganengsengsch.moe.edu.sg/
 ---
