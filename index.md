@@ -45,8 +45,8 @@ sections:
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/school-information/exam-matters/
         - title: Letter to parents
-          date: 24 June 2024
-          announcement: Term Letter (Term 3, 2024)
+          date: 02 July 2024
+          announcement: Term Letter (Term 3 2024)
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/letter-to-parents-term-3-2024/
         - title: Direct School Admission (DSA)
