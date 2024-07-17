@@ -59,4 +59,21 @@ sections:
           announcement: Information and Timeline
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/information-note-on-2024-dsa-jc-for-sec-4e-and-5na-students/
+  - textcards:
+      title: GESS 140th Anniversary Celebration
+      subtitle: commermorative event
+      id: textcards
+      cards:
+        - title: GESS 140 Good Deeds
+          description: A combined effort by the GESS Family to contribute to the community.
+          linktext: Learn more
+          url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
+        - title: GESS 140 Record Breaking
+          description: An attempt to have the highest number of participants forming '140'.
+          linktext: Learn more
+          url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
+        - title: GESS 140 Cycle
+          description: An overnight relay to cycle 140 km around Singapore.
+          linktext: Learn more
+          url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
 ---
