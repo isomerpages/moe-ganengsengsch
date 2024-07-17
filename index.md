@@ -52,7 +52,7 @@ sections:
           link_url: https://www.ganengsengsch.moe.edu.sg/information-note-on-2024-dsa-jc-for-sec-4e-and-5na-students/
   - textcards:
       title: GESS 140th Anniversary Celebration
-      subtitle: commermorative event
+      subtitle: commemorative event
       id: textcards
       cards:
         - title: GESS 140 Good Deeds
