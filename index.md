@@ -41,27 +41,22 @@ sections:
       announcement_items:
         - title: Exam Matters
           date: 17 July 2024
-          announcement: Please click the link below for the latest Exam Timetable for
-            Secondary 4 and 5.
+          announcement: Prelim Exam Timetable for Secondary 4 and 5.
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/school-information/exam-matters/
         - title: Letter to parents
           date: 24 June 2024
-          announcement: Please see attached for term 3 2024 letter to parents which will
-            provide key information on programmes and activities planned for
-            this term.
+          announcement: Term Letter (Term 3, 2024)
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/letter-to-parents-term-3-2024/
         - title: Direct School Admission (DSA)
           date: 17 July 2024
-          announcement: Gan Eng Seng School 2024 Direct School Admission (DSA-Sec)
-            Exercise for Admission to Secondary 1 in 2025.
+          announcement: Direct School Admission (DSA-Sec) Exercise for 2025.
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/school-information/school-admission/
-        - title: Information Note on 2024 DSA-JC
+        - title: DSA-JC 2024
           date: 17 July 2024
-          announcement: Please refer to the attachment for information and broad timeline
-            of 2024 DSA-JC for Sec 4E and 5NA students.
+          announcement: Information and Timeline
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/information-note-on-2024-dsa-jc-for-sec-4e-and-5na-students/
 ---
