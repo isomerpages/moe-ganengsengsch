@@ -45,9 +45,9 @@ sections:
             Secondary 4 and 5.
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/school-information/exam-matters/
-        - title: Letter to parents (Term 3 2024)
+        - title: Letter to parents
           date: 24 June 2024
-          announcement: Please see attached for term 3 letter to parents which will
+          announcement: Please see attached for term 3 2024 letter to parents which will
             provide key information on programmes and activities planned for
             this term.
           link_text: READ MORE
@@ -58,10 +58,10 @@ sections:
             Exercise for Admission to Secondary 1 in 2025.
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/school-information/school-admission/
-        - title: Information Note on 2024 DSA-JC for Sec 4E and 5NA students
+        - title: Information Note on 2024 DSA-JC
           date: 17 July 2024
           announcement: Please refer to the attachment for information and broad timeline
-            of 2024 DSA-JC.
+            of 2024 DSA-JC for Sec 4E and 5NA students.
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/information-note-on-2024-dsa-jc-for-sec-4e-and-5na-students/
 ---
