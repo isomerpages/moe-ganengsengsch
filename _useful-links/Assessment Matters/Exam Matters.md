@@ -21,9 +21,9 @@ variant: markdown
 <h5 style="color:black">Preliminary Examination Timetable 2024
 </h5>
 
-*   **[Sec 4 Express](/files/4E_Prelim_TT_24_v6_230724.pdf)**
-*   **[Sec 4 Normal Academic](/files/4NA_TT_24_v7_240724.pdf)**
-*   **[Sec 4 Normal Technical](/files/4NT_TT_24_v6.pdf)**
+*   **[Sec 4 Express](/files/4E_Prelim_TT_24_v7_5_Aug_2024.pdf)**
+*   **[Sec 4 Normal Academic](/files/4NA_TT_24_v8_050824.pdf)**
+*   **[Sec 4 Normal Technical](/files/4NT_TT_24_v7_050824.pdf)**
 *   **[Sec 5 Normal Academic](/files/5NA_Prelim_TT_24_v5_230724.pdf)**
 
 
