@@ -18,6 +18,17 @@ variant: markdown
 [List of Dictionaries for Examination](https://www.seab.gov.sg/)
 
 
+<h5 style="color:black">End of Year Examination Timetable 2024
+</h5> 
+
+* **[Sec 1](/files/sec_1_EYE_TT_2024.pdf)**
+* **[Sec 2](/files/sec_2_EYE_TT_2024.pdf)**
+* **[Sec 3 Express](/files/sec_3EXP_EYE_TT_2024.pdf)**
+* **[Sec 3 Normal Academic](/files/sec_3NA_EYE_TT_2024.pdf)**
+* **[Sec 3 Normal Technical](/files/sec_3NT_EYE_TT_2024.pdf)**
+
+
+
 <h5 style="color:black">Preliminary Examination Timetable 2024
 </h5>
 
