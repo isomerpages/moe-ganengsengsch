@@ -35,7 +35,7 @@ variant: markdown
 *   **[Sec 4 Express](/files/4E_Prelim_TT_24_v7_5_Aug_2024.pdf)**
 *   **[Sec 4 Normal Academic](/files/4NA_TT_24_v8_050824.pdf)**
 *   **[Sec 4 Normal Technical](/files/4NT_TT_24_v7_050824.pdf)**
-*   **[Sec 5 Normal Academic](/files/5NA_Prelim_TT_24_v6_080824.pdf)**
+*   **[Sec 5 Normal Academic](/files/5NA_Prelim_TT_24_v7_200824.pdf)**
 
 
 
