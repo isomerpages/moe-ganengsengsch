@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCAs   Performing Arts
 variant: markdown
 ---
-
 ![](/images/Drama_Photo_1.jpg)
 <br>
 
@@ -34,7 +33,7 @@ variant: markdown
 		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr. Lim Wei Yi<br>Ms. Siti Mariam</td>
+    <td class="tg-tsok">Ms. Siti Mariam</td>
     <td class="tg-tsok">Ms. Aishwariya Shanmuganathan.</td>
     <td class="tg-tsok">President:<br>Naomi Jean Ong Xuanhui (3-5)<br>Vice-President 1:<br>Poh Sing Siang (3-4)<br>Vice-President 2:<br>Chew Yu Tong Constance (3-5)</td>
 <td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday:<br>2pm-5.30pm<br><br>Venue:<br>AVA Room</td>
