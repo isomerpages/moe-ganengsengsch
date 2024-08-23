@@ -648,18 +648,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2-5</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Wei Yi (LWY)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_wei_yi_a@schools.gov.sg" rel="noopener" target="_blank">lim_wei_yi_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Liu Xudan (LXD)</p>
 </td>
@@ -673,7 +664,7 @@ variant: tiptap
 <p>Mr Johnathan Beh (BGT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:beh_guanting_johnathan@schools.gov.sg" rel="noopener" target="_blank">beh_guanting_johnathan@schools.gov.sg&gt;</a>
+<p><a href="mailto:beh_guanting_johnathan@schools.gov.sg" rel="noopener" target="_blank">beh_guanting_johnathan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
