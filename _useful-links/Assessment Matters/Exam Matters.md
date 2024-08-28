@@ -35,9 +35,9 @@ variant: markdown
 * **[Sec 2 Express](/files/EYE_2024_Format___Topics___2EXP.pdf)**
 * **[Sec 2 Normal Academic](/files/EYE_2024_Format___Topics___2NA.pdf)**
 * **[Sec 2 Normal Technical](/files/EYE_2024_Format___Topics___2NT.pdf)**
-* **[Sec 3 Express](/files/sec_3EXP_EYE_TT_2024.pdf)**
-* **[Sec 3 Normal Academic](/files/sec_3NA_EYE_TT_2024.pdf)**
-* **[Sec 3 Normal Technical](/files/sec_3NT_EYE_TT_2024.pdf)**
+* **[Sec 3 Express](/files/EYE_2024_Format___Topics___3EXP.pdf)**
+* **[Sec 3 Normal Academic](/files/EYE_2024_Format___Topics___3NA.pdf)**
+* **[Sec 3 Normal Technical](/files/EYE_2024_Format___Topics___3NT.pdf)**
 
 
 
