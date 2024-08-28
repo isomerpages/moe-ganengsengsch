@@ -27,6 +27,18 @@ variant: markdown
 * **[Sec 3 Normal Academic](/files/sec_3NA_EYE_TT_2024.pdf)**
 * **[Sec 3 Normal Technical](/files/sec_3NT_EYE_TT_2024.pdf)**
 
+<h5 style="color:black">End of Year Examination  Format &amp; Topics 2024</h5>
+
+* **[Sec 1G1](/files/EYE_2024_Format___Topics___1G1.pdf)**
+* **[Sec 1G2](/files/EYE_2024_Format___Topics___1G2.pdf)**
+* **[Sec 1G3](/files/EYE_2024_Format___Topics___1G3.pdf)**
+* **[Sec 2 Express](/files/EYE_2024_Format___Topics___2EXP.pdf)**
+* **[Sec 2 Normal Academic](/files/EYE_2024_Format___Topics___2NA.pdf)**
+* **[Sec 2 Normal Technical](/files/EYE_2024_Format___Topics___2NT.pdf)**
+* **[Sec 3 Express](/files/EYE_2024_Format___Topics___3EXP.pdf)**
+* **[Sec 3 Normal Academic](/files/EYE_2024_Format___Topics___3NA.pdf)**
+* **[Sec 3 Normal Technical](/files/EYE_2024_Format___Topics___3NT.pdf)**
+
 
 
 <h5 style="color:black">Preliminary Examination Timetable 2024
