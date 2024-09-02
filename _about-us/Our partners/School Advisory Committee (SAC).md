@@ -133,7 +133,7 @@ VUCA world.</p>
 <img style="width:33%;" height="auto" width="100%" alt="Mr-Sam-Liew" src="/images/Mr-Sam-Liew.jpeg">
 </div>
 <h4><center>Mr Sam Liew<br>Class of 1989</center></h4>
-<p>Mr Sam Liew is a Managing Partner, Government Strategic Business Group
+<p>Mr Sam Liew is the Chief Executive, Government Strategic Business Group
 at Singtel NCS Group.&nbsp; Sam is also the Board Member at Gardens by
 the Bay and Vice President at the Singapore Computer Society.&nbsp; He
 also serves on the Boards of SMU School of Computing and Information Systems
