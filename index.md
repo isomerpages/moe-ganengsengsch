@@ -35,21 +35,16 @@ sections:
           announcement: Term Letter (Term 4 2024)
           link_text: READ MORE
           link_url: https://ganengsengsch.moe.edu.sg/letter-to-parents-term-4-2024/
+        - title: 2025 Sec 3 Subject Combination
+          date: 10 September 2024
+          announcement: Updates on 2025 Sec 3 Subject Combination
+          link_text: READ MORE
+          link_url: https://ganengsengsch.moe.edu.sg/updates-on-2025-sec-3-subject-combination/
         - title: Exam Matters
           date: 28 August 2024
           announcement: Prelim Exam Timetable for Secondary 4 and 5.
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/school-information/exam-matters/
-        - title: Direct School Admission (DSA)
-          date: 17 July 2024
-          announcement: Direct School Admission (DSA-Sec) Exercise for 2025.
-          link_text: READ MORE
-          link_url: https://www.ganengsengsch.moe.edu.sg/school-information/school-admission/
-        - title: DSA-JC 2024
-          date: 17 July 2024
-          announcement: Information and Timeline
-          link_text: READ MORE
-          link_url: https://www.ganengsengsch.moe.edu.sg/information-note-on-2024-dsa-jc-for-sec-4e-and-5na-students/
   - textcards:
       title: GESS 140th Anniversary Celebration
       subtitle: commemorative event
