@@ -12,5 +12,5 @@ variant: tiptap
 subject-specific cut offs is now available for viewing. There have been
 changes to what was shared on 12 April 2024.</p>
 <p>Thank you.</p>
-<p><a href="/files/2025_Sec_3_Subject_Combination_100924.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Subject Combination </a>
+<p><a href="/files/2025_Sec_3_Subject_Combination_100924.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Subject Combination</a>
 </p>
