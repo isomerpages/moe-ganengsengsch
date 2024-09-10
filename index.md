@@ -30,16 +30,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Letter to parents
+          date: 10 September 2024
+          announcement: Term Letter (Term 4 2024)
+          link_text: READ MORE
+          link_url: https://ganengsengsch.moe.edu.sg/letter-to-parents-term-4-2024/
         - title: Exam Matters
-          date: 17 July 2024
+          date: 28 August 2024
           announcement: Prelim Exam Timetable for Secondary 4 and 5.
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/school-information/exam-matters/
-        - title: Letter to parents
-          date: 02 July 2024
-          announcement: Term Letter (Term 3 2024)
-          link_text: READ MORE
-          link_url: https://www.ganengsengsch.moe.edu.sg/letter-to-parents-term-3-2024/
         - title: Direct School Admission (DSA)
           date: 17 July 2024
           announcement: Direct School Admission (DSA-Sec) Exercise for 2025.
