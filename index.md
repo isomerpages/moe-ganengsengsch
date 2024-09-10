@@ -41,8 +41,8 @@ sections:
           link_text: READ MORE
           link_url: https://ganengsengsch.moe.edu.sg/updates-on-2025-sec-3-subject-combination/
         - title: Exam Matters
-          date: 28 August 2024
-          announcement: Prelim Exam Timetable for Secondary 4 and 5.
+          date: 10 September 2024
+          announcement: End of Year Examination Timetable 2024
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/school-information/exam-matters/
   - textcards:
