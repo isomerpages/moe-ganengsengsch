@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Exam Matters
+          date: 17 September 2024
+          announcement: End of Year Examination Timetable 2024
+          link_text: READ MORE
+          link_url: https://www.ganengsengsch.moe.edu.sg/school-information/exam-matters/
         - title: Letter to parents
           date: 10 September 2024
           announcement: Term Letter (Term 4 2024)
@@ -40,11 +45,6 @@ sections:
           announcement: Updates on 2025 Sec 3 Subject Combination
           link_text: READ MORE
           link_url: https://ganengsengsch.moe.edu.sg/updates-on-2025-sec-3-subject-combination/
-        - title: Exam Matters
-          date: 10 September 2024
-          announcement: End of Year Examination Timetable 2024
-          link_text: READ MORE
-          link_url: https://www.ganengsengsch.moe.edu.sg/school-information/exam-matters/
   - textcards:
       title: GESS 140th Anniversary Celebration
       subtitle: commemorative event
