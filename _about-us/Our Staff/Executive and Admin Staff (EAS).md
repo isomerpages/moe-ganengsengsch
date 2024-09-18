@@ -48,6 +48,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lim Seow Ching Charissa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lim Swee Chye</p>
 </td>
 <td rowspan="1" colspan="1">
