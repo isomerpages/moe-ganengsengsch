@@ -28,9 +28,9 @@ done by our staff, students and partners. Let the count down begin!!!</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Graduation_photo_collage.jpg">
 </div>
 <p></p>
-<p><strong><em>GESS 140 Record Breaking</em></strong>
+<p><strong><em>GESS140 Record Breaking</em></strong>
 <br>As part of the series of events marking Gan Eng Seng School's 140th anniversary,
-we aims to set a new record with a groundbreaking exercise on 3 January
+we aim to set a new record with a groundbreaking exercise on 3 January
 2025: creating the largest human formation of the number "140." This ambitious
 project will involve students, staff, SAC, GESSOSA, and members of the
 PTA (Parent-Teacher Association) coming together to form the symbolic figure
