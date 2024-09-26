@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Department_reduced.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/info_communication_technology_department_2.jpg">
+</div>
 <h3><strong>Personalised Digital Literacy Programme (PDLP)</strong></h3>
 <p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
 Digital Literacy Programme (<strong>“NDLP”</strong>) for our schools and
