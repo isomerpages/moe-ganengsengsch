@@ -55,7 +55,7 @@ the school's dedication to making a positive impact on the community.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Registration link" src="/images/QR_Code_cycling.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Registration link" src="/images/QR_Code_cycling.png">
 </div>
 <p>
 <br>
