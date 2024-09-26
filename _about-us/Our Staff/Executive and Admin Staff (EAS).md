@@ -5,9 +5,12 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Executive  Admin Staff (EAS)" src="/images/EAS-1024x731.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/executive_and_administrative_staff_2.jpg">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -115,7 +118,15 @@ variant: tiptap
 <p>Mdm Sapura Bte Md Noor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Laboratory)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Erma Nur Azura</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +134,7 @@ variant: tiptap
 <p>Mr Jimmy Hsu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +142,7 @@ variant: tiptap
 <p>Mr Ang Kok Kim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
