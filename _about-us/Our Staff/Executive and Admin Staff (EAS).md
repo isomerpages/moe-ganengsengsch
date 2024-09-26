@@ -118,7 +118,15 @@ variant: tiptap
 <p>Mdm Sapura Bte Md Noor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Laboratory)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Erma Nur Azura</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +134,7 @@ variant: tiptap
 <p>Mr Jimmy Hsu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +142,7 @@ variant: tiptap
 <p>Mr Ang Kok Kim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
