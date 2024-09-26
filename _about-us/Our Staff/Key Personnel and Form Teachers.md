@@ -6,8 +6,9 @@ third_nav_title: Our Staff
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Management Team 2023" src="/images/School_Management_Team_reduced_edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_management_team_1.jpg">
 </div>
 <p>
 <br>
