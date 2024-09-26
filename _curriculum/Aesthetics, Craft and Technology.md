@@ -4,8 +4,9 @@ permalink: /nurturegess/academic/aesthetics/
 description: ""
 variant: markdown
 ---
-![](/images/Aesthetics.JPG)
-<br>
+
+
+![](/images/aesthetics__craft___technology_department_2.jpg)
 
 
 ### Vision
