@@ -51,7 +51,7 @@ the school's alumni association, and the PTA (Parent-Teacher Association).
 This relay not only honors &nbsp;our Founder Gan Eng Seng's legacy but
 also fosters unity among the school and its key partners, highlighting
 the school's dedication to making a positive impact on the community.
-<br>Link to the registration would be as follows: <a href="https://go.gov.sg/gess140" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gess140</a>
+<br>Link to the registration would be as follows : <a href="https://go.gov.sg/gess140" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gess140</a>
 <br>
 </p>
 <div class="isomer-image-wrapper">
