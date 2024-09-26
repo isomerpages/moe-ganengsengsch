@@ -56,11 +56,11 @@ sections:
           url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
         - title: GESS 140 Record Breaking
           description: An attempt to have the largest human formation of '140'
-          linktext: Coming soon
-          url: https://www.ganengsengsch.moe.edu.sg/
+          linktext: Learn more
+          url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
         - title: GESS 140 Cycle
           description: An overnight relay to cycle 140 km around Singapore
-          linktext: Coming soon
+          linktext: Learn more
           url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
         - title: Founder's Day Dinner
           description: A homecoming for all Gessians

@@ -19,8 +19,7 @@ to reach out to people are what make our students truly Gessians.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/National_Day_banner_1.jpg">
 </div>
 <p><strong><em>140 Good Deeds</em></strong>
-</p>
-<p>As part of our 140<sup>th</sup> anniversary celebrations, GESS has initiated
+<br>As part of our 140<sup>th</sup> anniversary celebrations, GESS has initiated
 the 140 Good Deeds Initiative. Starting 8 March 2024 and ending on 14 March
 2025 (Founder’s Day), the school will do a count down of all the good deeds
 done by our staff, students and partners. Let the count down begin!!!</p>
@@ -29,5 +28,37 @@ done by our staff, students and partners. Let the count down begin!!!</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Graduation_photo_collage.jpg">
 </div>
 <p></p>
-<p></p>
+<p><strong><em>GESS140 Record Breaking</em></strong>
+<br>As part of the series of events marking Gan Eng Seng School's 140th anniversary,
+we aim to set a new record with a groundbreaking exercise on 3 January
+2025: creating the largest human formation of the number "140." This ambitious
+project will involve students, staff, SAC, GESSOSA, and members of the
+PTA (Parent-Teacher Association) coming together to form the symbolic figure
+on the very school arena. The event not only showcases the school's commitment
+to unity and community spirit but also serves as a vivid tribute to Gan
+Eng Seng's enduring legacy and the values of discipline, resilience, and
+progress encapsulated in the school motto, "Onward."
+<br>
+<br><strong><em>GESS140 Cycle for a Cause</em><br></strong>Gan Eng Seng School's
+140th anniversary will be celebrated with a special "Cycle for a Cause"
+event from 13 March 2025 to 14<sup>th</sup> March 2025. This overnight event
+aims to promote health, community spirit, and philanthropy while embodying
+the school's core values of discipline and resilience. Each cyclist will
+cycle a designated route in teams, raising funds for Singapore Disability
+Sports Council and demonstrating their commitment to the school's motto,
+"Onward." The event will see the active participation of SAC, GESSOSA,
+the school's alumni association, and the PTA (Parent-Teacher Association).
+This relay not only honors &nbsp;our Founder Gan Eng Seng's legacy but
+also fosters unity among the school and its key partners, highlighting
+the school's dedication to making a positive impact on the community.
+<br>Link to the registration would be as follows : <a href="https://go.gov.sg/gess140" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gess140</a>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Registration link" src="/images/QR_Code_cycling.png">
+</div>
+<p>
+<br>
+<br>
+</p>
 <p></p>
