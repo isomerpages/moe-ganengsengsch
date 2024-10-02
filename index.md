@@ -31,7 +31,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Exam Matters
-          date: 17 September 2024
+          date: 02 October 2024
           announcement: End of Year Examination Timetable 2024
           link_text: READ MORE
           link_url: https://www.ganengsengsch.moe.edu.sg/school-information/exam-matters/
