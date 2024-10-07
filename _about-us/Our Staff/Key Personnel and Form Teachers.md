@@ -109,7 +109,7 @@ variant: tiptap
 <p>HOD / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Laura Lim Hwee Mean (LHM)</p>
+<p>Ms Laura Lim Hwee Mean (LHM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_hwee_mean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_mean@schools.gov.sg</a>
