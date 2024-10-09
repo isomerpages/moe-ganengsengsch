@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: "Notification : Dismissal Time"
+          date: 09 October 2024
+          announcement: Updates on Dismissal Time for Sec 1-3 Students
+          link_text: READ MORE
+          link_url: https://ganengsengsch.moe.edu.sg/notification-dismissal-time/
         - title: Exam Matters
           date: 02 October 2024
           announcement: End of Year Examination Timetable 2024
@@ -45,11 +50,6 @@ sections:
           announcement: Updates on 2025 Sec 3 Subject Combination
           link_text: READ MORE
           link_url: https://ganengsengsch.moe.edu.sg/updates-on-2025-sec-3-subject-combination/
-        - title: "Notification : Dismissal Time"
-          date: 09 October 2024
-          announcement: Updates on Dismissal Time for Sec 1-3 Students
-          link_text: READ MORE
-          link_url: https://ganengsengsch.moe.edu.sg/notification-dismissal-time/
   - textcards:
       title: GESS 140th Anniversary Celebration
       subtitle: commemorative event
