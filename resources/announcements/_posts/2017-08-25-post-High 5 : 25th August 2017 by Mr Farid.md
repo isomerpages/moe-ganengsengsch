@@ -4,6 +4,7 @@ permalink: /lp-news/take-5-24th-august-2017-by-mr-farid/
 date: 2017-08-25
 layout: post
 description: ""
+variant: markdown
 ---
 Good morning Madam Tan, Mr Lee, Mr Chung, Teachers and Gessians,
 
@@ -35,6 +36,3 @@ Before I end my speech, I shall quote some inspirational words from Steve Jobs: 
 
 Thank you.
 
-Bibliography:  
-1. [http://www.channelnewsasia.com/news/singapore/posb-launches-digital-watch-that-teaches-students-to-manage-9127520](http://www.channelnewsasia.com/news/singapore/posb-launches-digital-watch-that-teaches-students-to-manage-9127520)  
-2. [http://www.straitstimes.com/singapore/3-key-topics-for-national-day-rally-2017-pre-schools-diabetes-and-smart-nation](http://www.straitstimes.com/singapore/3-key-topics-for-national-day-rally-2017-pre-schools-diabetes-and-smart-nation)
