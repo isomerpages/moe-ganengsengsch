@@ -4,6 +4,7 @@ permalink: /lp-news/take-5-08-january-2018-by-mdm-goh-yuh-mein/
 date: 2018-01-08
 layout: post
 description: ""
+variant: markdown
 ---
 Good morning Mdm Tan, Mr Chung, Mrs Selva and Gessians, today I am here to share with you two stories on integrity.
 
@@ -25,13 +26,13 @@ The student said the person who got that money should just keep it.
 
 He then asked what about the tellers who might lose their job with a drawer that is $600 short at the end of their working day. The student said: “that is too bad…they should not have made the mistake…that it was their problem…”too bad so sad”…he said.
 
-He then told the student that the story he just told him actually happened. The student was surprised. Mr Kirk continued stating that the person who was given that mistaken $600 gave it right back letting the teller know they had made a mistake. The student’s response…“what fool would do that to give back $600 _free_ money.”
+He then told the student that the story he just told him actually happened. The student was surprised. Mr Kirk continued stating that the person who was given that mistaken $600 gave it right back letting the teller know they had made a mistake. The student’s response…“what fool would do that to give back $600&nbsp;_free_&nbsp;money.”
 
 Mr Kirk responded…“I did.”
 
 His point to the student was that even though many of his peers make the same choice of not returning lost items, the student should always have the courage to make the right choice guided by his integrity.
 
-Nearer to home, In Singapore, there is a good story of integrity which I would like to share with you. In 2016, Jonathon Chua, a Raffles Institution football striker had rejected a penalty after which he was fouled in the penalty box. The game was played on Friday, April 22. RI were trailing 1–2 against Anglo-Chinese Junior College and the penalty was given with 12 minutes to go in a National Schools A Division Football Championship Round 2 match. RI could have levelled the score at 2–2 through the penalty. Instead, in a display of integrity, Jonathan successfully persuaded the referee to retract the penalty decision because he said the defender did not touch him. [RI went on to lose the game 1–3.](https://www.redsports.sg/2016/04/24/national-a-div-football-acjc-ri/)
+Nearer to home, In Singapore, there is a good story of integrity which I would like to share with you. In 2016, Jonathon Chua, a Raffles Institution football striker had rejected a penalty after which he was fouled in the penalty box. The game was played on Friday, April 22. RI were trailing 1–2 against Anglo-Chinese Junior College and the penalty was given with 12 minutes to go in a National Schools A Division Football Championship Round 2 match. RI could have levelled the score at 2–2 through the penalty. Instead, in a display of integrity, Jonathan successfully persuaded the referee to retract the penalty decision because he said the defender did not touch him
 
 According to Mr Melvin Tan, who is RI’s track and field head coach and who also coached football at Catholic Junior College and Victoria Junior College, it is no surprise that the story has struck a chord with many people.
 
@@ -45,7 +46,3 @@ In conclusion, Gessians I would like you to ponder through these questions
 *   What would you do when you find something that is not yours? Why?
 *   Even if no one is looking, why is it important to follow the school rules?
 
-References:<br>
-[http://www.chicagonow.com/the-athletes-sports-experience-making-a-difference/2013/05/a-sports-story-of-character-and-integrity/](http://www.chicagonow.com/the-athletes-sports-experience-making-a-difference/2013/05/a-sports-story-of-character-and-integrity/)
-
-[https://www.redsports.sg/2016/04/29/jonathan-chua-ri/](https://www.redsports.sg/2016/04/29/jonathan-chua-ri/)

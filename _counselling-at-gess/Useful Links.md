@@ -2,9 +2,8 @@
 title: Useful Links
 permalink: /useful-links/
 description: ""
+variant: markdown
 ---
-
-
 **Helplines**
 
 [https://www.ncss.gov.sg/NCSS/media/NCSS-Documents-and-Forms/NCSS%20Internal%20Documents/LIST-OF-HELPLINES.pdf](https://www.ncss.gov.sg/NCSS/media/NCSS-Documents-and-Forms/NCSS%20Internal%20Documents/LIST-OF-HELPLINES.pdf)
@@ -48,7 +47,3 @@ description: ""
 [https://www.comeback.world/blog/](https://www.comeback.world/blog/)
 
 [https://www.nams.sg/helpseekers/internet-and-gaming/Pages/default.aspx](https://www.nams.sg/helpseekers/internet-and-gaming/Pages/default.aspx)
-
-[https://www.greenmountaintreatmentcenter.com/resources/](https://www.greenmountaintreatmentcenter.com/resources/)
-
-[https://firstcityrecoverycenter.com/resources/parents/](https://firstcityrecoverycenter.com/resources/parents/)
