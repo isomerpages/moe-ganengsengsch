@@ -4,6 +4,7 @@ permalink: /lp-news/take-5-21st-september-2015-by-ms-syarifah-hafizah/
 date: 2015-09-21
 layout: post
 description: ""
+variant: markdown
 ---
 **Hari Raya Haji & Graduation Day**
 
@@ -26,5 +27,3 @@ As you forge through the battleground that is you ‘N’ or ‘O’ levels, and
 2\. You owe your success to the community. So, keep giving back for only in giving, do we receive.  
 With that, all the best for your examinations and beyond and Happy Graduation!
 
-Reference:  
-[http://www.bbc.co.uk/schools/religion/islam/eid\_haj.shtml](http://www.bbc.co.uk/schools/religion/islam/eid_haj.shtml)
