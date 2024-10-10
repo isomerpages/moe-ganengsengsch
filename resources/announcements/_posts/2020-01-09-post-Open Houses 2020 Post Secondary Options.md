@@ -91,4 +91,3 @@ Time &nbsp; : &nbsp; 9am to 5pm (Weekdays)
 Venue&nbsp; : &nbsp; #01-04, 51 Grange Road, Singapore 249564  
 Email&nbsp; : &nbsp; MOE_ECG@moe.gov.sg  
 Hotline&nbsp; : &nbsp; +65 6831 1420
-
