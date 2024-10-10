@@ -35,4 +35,3 @@ Third, growth mindset is a key to success. We need to open our minds, to drive m
 Before I end my speech, I shall quote some inspirational words from Steve Jobs: “Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.” Let’s hope every Gessians will grow to be an Innovative Thinker. Onward, Gessians.
 
 Thank you.
-
