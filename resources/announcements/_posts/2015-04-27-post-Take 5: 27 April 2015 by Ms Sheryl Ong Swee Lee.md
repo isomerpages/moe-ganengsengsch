@@ -4,10 +4,10 @@ permalink: /lp-news/take-5-27-april-2015-by-ms-sheryl-ong-swee-lee/
 date: 2015-04-27
 layout: post
 description: ""
+variant: markdown
 ---
 Good morning school. For today’s Take 5, I would like to share with you a story about the importance of integrity. It is a story about a carpenter and the last house that he built.
 
-The Carpenter’s House (from [inspirationpeak.com](http://inspirationpeak.com/))  
 An elderly carpenter was ready to retire. He told his employer, who was a contractor, of his plans to leave the house building business and live a more leisurely life with his wife enjoying his extended family.
 
 He would miss the paycheck, but he needed to retire. They could get by. The contractor was sorry to see his good worker go and asked if he could build just one more house as a personal favor. The carpenter said yes, but in time it was easy to see that his heart was not in his work. He resorted to shoddy workmanship and used inferior materials. It was an unfortunate way to end his career.
