@@ -358,18 +358,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Seow Ching Charissa (LSC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Seow_Ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seow_ching@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
