@@ -32,4 +32,11 @@ in our school and get the most up-to-date news about our Open House!
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Map of School" src="/images/Your_paragraph_text.png">
 </div>
+<p><strong>Getting here:</strong>
+<br>MRT : Tiong Bahru Station, Redhill Station
+<br>Buses : 14, 16, 32, 33, 51, 63, 64, 65, 120, 122, 132, 139, 145, 186,
+851, 970</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
