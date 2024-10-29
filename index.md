@@ -34,7 +34,7 @@ sections:
           date: 16 November 2024
           announcement: Information on GESS Open House 2024
           link_text: READ MORE
-          link_url: https://ganengsengsch.moe.edu.sg/gess-open-house/
+          link_url: https://ganengsengsch.moe.edu.sg/gess-open-house-2024/
         - title: Exam Matters
           date: 02 October 2024
           announcement: End of Year Examination Timetable 2024
