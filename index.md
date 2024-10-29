@@ -31,7 +31,7 @@ sections:
       id: announcements
       announcement_items:
         - title: GESS Open House 2024
-          date: 16 November 2024
+          date: 29 October 2024
           announcement: Information on GESS Open House 2024
           link_text: READ MORE
           link_url: https://ganengsengsch.moe.edu.sg/gess-open-house-2024/
