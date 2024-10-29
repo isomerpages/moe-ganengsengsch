@@ -31,7 +31,6 @@ in our school and get the most up-to-date news about our Open House!
 <p><strong>Getting here:</strong>
 <br>MRT : Tiong Bahru Station, Redhill Station
 <br>Buses : 14, 16, 32, 33, 51, 63, 64, 65, 120, 122, 132, 139, 145, 186,
-851, 970</p>
-<p>
+851, 970
 <br>
 </p>
