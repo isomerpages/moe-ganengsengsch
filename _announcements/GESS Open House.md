@@ -26,10 +26,10 @@ in our school and get the most up-to-date news about our Open House!
 <br>Instagram:&nbsp;<a href="https://www.instagram.com/theofficialgess/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@theofficialgess</a>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Map of School" src="/images/Your_paragraph_text.png">
+<img style="width: 100%" height="auto" width="100%" alt="School Map" src="/images/Your_paragraph_text__1_.png">
 </div>
+<p></p>
 <p>
 <br>
 </p>
