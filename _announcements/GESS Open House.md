@@ -25,8 +25,9 @@ in our school and get the most up-to-date news about our Open House!
 <br>Facebook:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/SG.GESS</a>
 <br>Instagram:&nbsp;<a href="https://www.instagram.com/theofficialgess/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@theofficialgess=</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Map" src="/images/Map.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Map.png">
 </div>
 <p><strong>Getting here:</strong>
 <br>MRT : Tiong Bahru Station, Redhill Station
