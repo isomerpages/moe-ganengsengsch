@@ -30,11 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: "Notification : Dismissal Time"
-          date: 09 October 2024
-          announcement: Updates on Dismissal Time for Sec 1-3 Students
+        - title: GESS Open House 2024
+          date: 16 November 2024
+          announcement: Information on GESS Open House
           link_text: READ MORE
-          link_url: https://ganengsengsch.moe.edu.sg/notification-dismissal-time/
+          link_url: https://ganengsengsch.moe.edu.sg/gess-open-house
         - title: Exam Matters
           date: 02 October 2024
           announcement: End of Year Examination Timetable 2024
