@@ -23,9 +23,8 @@ website at: <a rel="noopener noreferrer nofollow" target="_blank">https://www.ga
 <p>Do follow our social media pages as well to find out the latest happenings
 in our school and get the most up-to-date news about our Open House!
 <br>Facebook:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/SG.GESS</a>
-<br>Instagram:&nbsp;<a href="https://www.instagram.com/theofficialgess/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@theofficialgess</a>
+<br>Instagram:&nbsp;<a href="https://www.instagram.com/theofficialgess/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@theofficialgess=</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Map" src="/images/Map.png">
 </div>
