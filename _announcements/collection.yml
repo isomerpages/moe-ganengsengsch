@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - GESS Open House.md
       - GESS Sec 1 (2024) eRegistration Webinar and Class Allocation.md
       - Founder’s Day 2022.md
       - Personalised Digital Learning Programme.md
