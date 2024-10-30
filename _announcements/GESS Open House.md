@@ -18,11 +18,11 @@ Gessians family! You will be enriched by a guided tour exploring our distinctive
 programs, interactive academic booths, and CCAs. We look forward to seeing
 you here on <strong>16 November 2024, 8.30am to 12.30pm.</strong>
 <br>For more detailed information about our school, please visit our main
-website at: <a href="https://www.ganengsengsch.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/</a>
+website at: <a href="https://www.ganengsengsch.moe.edu.sg/" rel="noopener nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/</a>
 </p>
 <p>Do follow our social media pages as well to find out the latest happenings
 in our school and get the most up-to-date news about our Open House!
-<br>Facebook:&nbsp;<a href="https://www.facebook.com/SG.GESS" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/SG.GESS</a>
+<br>Facebook: <a href="https://www.facebook.com/SG.GESS" rel="noopener nofollow" target="_blank">https://www.facebook.com/SG.GESS</a>
 <br>Instagram:&nbsp;<a href="https://www.instagram.com/theofficialgess/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@theofficialgess=</a>
 </p>
 <p></p>
