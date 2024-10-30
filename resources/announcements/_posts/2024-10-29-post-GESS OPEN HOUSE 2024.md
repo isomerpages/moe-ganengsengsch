@@ -23,7 +23,8 @@ you here on <strong>16 November 2024, 8.30am to 12.30pm.</strong>
 website at: <a href="https://www.ganengsengsch.moe.edu.sg/" rel="noopener nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/</a>
 </p>
 <p>Do follow our social media pages as well to find out the latest happenings
-in our school and get the most up-to-date news about our Open House!
+in our school and get the most up-to-date news about our Open House!</p>
+<p>
 <br>Facebook:&nbsp;<a href="https://www.facebook.com/SG.GESS" rel="noopener nofollow" target="_blank">https://www.facebook.com/SG.GESS</a>
 </p>
 <p>Instagram:&nbsp;<a href="https://www.instagram.com/theofficialgess/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@theofficialgess</a>
