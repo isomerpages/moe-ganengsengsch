@@ -1149,18 +1149,6 @@ variant: tiptap
 <p>FAJT (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Siew Cheng (LSC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_cheng_A@schools.gov.sg" rel="noopener noreferrer" target="_blank">lee_siew_cheng_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (CL)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Feng Bozhe (FBZ)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1189,18 +1177,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_geok_leng_A@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_geok_leng_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (Counsellor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wendy Shiao Ai Choo (SAC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shiao_ai_choo@schools.gov.sg" rel="noopener noreferrer" target="_blank">shiao_ai_choo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
