@@ -8,6 +8,10 @@ image: /images/GESS_140_Dinner.jpg
 variant: tiptap
 ---
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_140_Dinner.jpg">
+</div>
 <p>Calling all senior Gessians!!! GESS is celebrating its 140th anniversary
 next year. We would like to invite our senior Gessians to join us for dinner
 organised by GESSOSA. Book your tables fast through this link:
