@@ -69,6 +69,6 @@ sections:
           url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
         - title: Founder's Day Dinner
           description: A homecoming for all Gessians
-          linktext: Coming soon
-          url: https://www.ganengsengsch.moe.edu.sg/
+          linktext: READ MORE
+          url: https://ganengsengsch.moe.edu.sg/gess-140-founders-day-dinner/
 ---
