@@ -74,24 +74,27 @@ non-exchangeable/refundable once unsealed or unwrapped.</p>
 <p>Booklist</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><u>Gan Eng Seng School Booklist 2025 - Sec 1</u>
+<p><a href="/files/S1_Booklist__2025__Combined.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gan Eng Seng School Booklist 2025 - Sec 1</u></a>
 </p>
 </li>
 <li>
-<p><u>Gan Eng Seng School Booklist 2025 - Sec 2</u>
+<p><a href="/files/S2_Booklist__2025__Combined.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gan Eng Seng School Booklist 2025 - Sec 2</u></a>
 </p>
 </li>
 <li>
-<p><u>Gan Eng Seng School Booklist 2025 - Sec 3</u>
+<p><a href="/files/S3_Booklist__2025__Combined.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gan Eng Seng School Booklist 2025 - Sec 3</u></a>
 </p>
 </li>
 <li>
-<p><u>Gan Eng Seng School Booklist 2025 - Sec 4</u>
+<p><a href="/files/S4_Booklist__2025__Combined.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gan Eng Seng School Booklist 2025 - Sec 4</u></a>
 </p>
 </li>
 <li>
-<p><u>Gan Eng Seng School Booklist 2025 - Sec 5</u>
+<p><a href="/files/S5_Booklist__2025__Combined.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gan Eng Seng School Booklist 2025 - Sec 5</u></a>
 </p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
