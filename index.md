@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: School Bookshop and Booklists
+          date: 04 November 2024
+          announcement: Bookshop Information and Booklists for 2025
+          link_text: READ MORE
+          link_url: /school-information/school-bookshop-and-booklists/
         - title: GESS OPEN HOUSE 2024
           date: 16 November 2024
           announcement: Information on GESS OPEN HOUSE 2024
