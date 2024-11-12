@@ -14,7 +14,6 @@ the needs of the senior citizens in the Henderson- Dawson area. It is heartening
 to see that even upon graduating from GESS, many continue to serve the
 nation in their own capacity. The value of compassion and the strong desire
 to reach out to people are what make our students truly Gessians.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/National_Day_banner_1.jpg">
 </div>
@@ -22,7 +21,9 @@ to reach out to people are what make our students truly Gessians.</p>
 <br>As part of our 140<sup>th</sup> anniversary celebrations, GESS has initiated
 the 140 Good Deeds Initiative. Starting 8 March 2024 and ending on 14 March
 2025 (Founder’s Day), the school will do a count down of all the good deeds
-done by our staff, students and partners. Let the count down begin!!!</p>
+done by our staff, students and partners. Let the count down begin!!!
+<br><a href="https://docs.google.com/document/d/1AVfHC58iGLvj23ybP4eveugZlc0Hr33-uLTVrT63tHM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Click here</a> to
+see more activities participated by our partners, staff and students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Graduation_photo_collage.jpg">
