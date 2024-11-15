@@ -16,7 +16,6 @@ variant: markdown
 
 [https://www.passiton.org.sg/vwo-list](https://www.passiton.org.sg/vwo-list)
 
-[https://ppis.sg/family-services/ppis-family-service-centres/](https://ppis.sg/family-services/ppis-family-service-centres/)
 
 **Resources**
 
