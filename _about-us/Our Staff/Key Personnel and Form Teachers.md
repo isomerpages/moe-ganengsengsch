@@ -1134,18 +1134,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT (EL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Siew Yee Kit (SYK)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siew_yee_kit@schools.gov.sg" rel="noopener noreferrer" target="_blank">siew_yee_kit@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>FAJT (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
