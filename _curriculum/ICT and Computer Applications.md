@@ -30,8 +30,8 @@ learning.[1]
 to bring up a new generation of responsible and ethical learners</p>
 <p><strong>About</strong>
 <br>With the firm belief that ICT should be part of quality teaching and learning,
-the Technology department takes the initiative to collaborate with all
-departments to design and enact an ICT-enriched curriculum in GESS.</p>
+the ICT department takes the initiative to collaborate with all departments
+to design and enact an ICT-enriched curriculum in GESS.</p>
 <p>A landmark programme under the ICT department’s charge continues to be
 the rollout of the Personalised Digital Learning Programme (PDLP). Since
 its onset in 2021, the department has taken care of it every step of the
