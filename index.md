@@ -30,26 +30,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Purchase of School Uniform
+          date: 29 November 2024
+          announcement: School Uniform Information for 2025
+          link_text: READ MORE
+          link_url: /school-information/school-uniform-supplier/
         - title: School Bookshop and Booklists
           date: 04 November 2024
           announcement: Bookshop Information and Booklists for 2025
           link_text: READ MORE
           link_url: /school-information/school-bookshop-and-booklists/
-        - title: GESS OPEN HOUSE 2024
-          date: 16 November 2024
-          announcement: Information on GESS OPEN HOUSE 2024
-          link_text: READ MORE
-          link_url: https://ganengsengsch.moe.edu.sg/gess-open-house-2024/
-        - title: Exam Matters
-          date: 02 October 2024
-          announcement: End of Year Examination Timetable 2024
-          link_text: READ MORE
-          link_url: https://www.ganengsengsch.moe.edu.sg/school-information/exam-matters/
-        - title: Letter to parents
-          date: 10 September 2024
-          announcement: Term Letter (Term 4 2024)
-          link_text: READ MORE
-          link_url: https://ganengsengsch.moe.edu.sg/letter-to-parents-term-4-2024/
         - title: 2025 Sec 3 Subject Combination
           date: 10 September 2024
           announcement: Updates on 2025 Sec 3 Subject Combination
