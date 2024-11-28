@@ -120,8 +120,6 @@ accurate fitting by:</p>
 </p>
 <p><strong>Tel: +65 6732 7022</strong>
 </p>
-<p><strong>SMS: +65 9234 1033</strong>
-</p>
 <p><strong>&nbsp;</strong>
 </p>
 </td>
