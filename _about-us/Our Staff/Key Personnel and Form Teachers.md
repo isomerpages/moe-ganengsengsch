@@ -61,7 +61,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Thye Heng</p>
+<p>Mr Goh Thye Heng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_thye_heng@schools.gov.sg" rel="noopener" target="_blank">goh_thye_heng@schools.gov.sg</a>
