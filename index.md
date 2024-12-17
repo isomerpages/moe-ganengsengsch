@@ -30,6 +30,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Briefing slides and information on 2025 Joint Intake Exercises
+          date: 17 December 2024
+          announcement: 2025 Joint Intake Exercises
+          link_text: READ MORE
+          link_url: https://ganengsengsch.moe.edu.sg/briefing-slides-and-information-on-2025-joint-intake-exercises/
+        - title: 2024 GESS School Magazine
+          date: 17 December 2024
+          announcement: 2024 Year Book
+          link_text: READ MORE
+          link_url: https://ganengsengsch.moe.edu.sg/2024-gess-school-magazine/
         - title: Purchase of School Uniform
           date: 29 November 2024
           announcement: School Uniform Information for 2025
