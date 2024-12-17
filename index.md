@@ -34,7 +34,7 @@ sections:
           date: 17 December 2024
           announcement: Information on Secondary 1 (2025) e-Registration
           link_text: READ MORE
-          link_url: /lp-news/secondary-1-orientation-2-jan-2015/
+          link_url: /gess-secondary-1-2025-e-registration/
         - title: Briefing slides and information on 2025 Joint Intake Exercises
           date: 17 December 2024
           announcement: 2025 Joint Intake Exercises
