@@ -60,13 +60,13 @@ links for the necessary information:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of Books</p>
 <p>(a)&nbsp; Letter to Parents - Books&nbsp;&nbsp;<a href="/files/Textbook__Letter_for_Parents___Sec_1__2025__docx.pdf" rel="noopener nofollow" target="_blank">[Textbook] Letter for Parents - Sec 1 (2025)</a>
 </p>
-<p>(b)&nbsp; <a href="(b)	https://www.ganengsengsch.moe.edu.sg/school-information/school-bookshop-and-booklists/" rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-bookshop-and-booklists/</a>
+<p>(b)&nbsp; <a href="https://www.ganengsengsch.moe.edu.sg/school-information/school-bookshop-and-booklists/" rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-bookshop-and-booklists/</a>
 </p>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of School Uniform</p>
 <p>(a)&nbsp; Letter to Parents – School Uniform <a href="/files/Uniform__Letter_for_Parents___Sec_1__2025_.pdf" rel="noopener nofollow" target="_blank">[Uniform] Letter for Parents - Sec 1 (2025)</a>
 </p>
-<p>(b)&nbsp; <a href="(b)	https://www.ganengsengsch.moe.edu.sg/school-information/school-uniform-supplier/" rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-uniform-supplier/</a>
+<p>(b)&nbsp; <a href="https://www.ganengsengsch.moe.edu.sg/school-information/school-uniform-supplier/" rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-uniform-supplier/</a>
 </p>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For students who are
