@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: GESS Secondary 1 (2025) e-Registration
+          date: 17 December 2024
+          announcement: Information on Secondary 1 (2025) e-Registration
+          link_text: READ MORE
+          link_url: /gess-secondary-1-2025-e-registration/
         - title: Briefing slides and information on 2025 Joint Intake Exercises
           date: 17 December 2024
           announcement: 2025 Joint Intake Exercises
@@ -50,11 +55,6 @@ sections:
           announcement: Bookshop Information and Booklists for 2025
           link_text: READ MORE
           link_url: /school-information/school-bookshop-and-booklists/
-        - title: 2025 Sec 3 Subject Combination
-          date: 10 September 2024
-          announcement: Updates on 2025 Sec 3 Subject Combination
-          link_text: READ MORE
-          link_url: https://ganengsengsch.moe.edu.sg/updates-on-2025-sec-3-subject-combination/
   - textcards:
       title: GESS 140th Anniversary Celebration
       subtitle: commemorative event
