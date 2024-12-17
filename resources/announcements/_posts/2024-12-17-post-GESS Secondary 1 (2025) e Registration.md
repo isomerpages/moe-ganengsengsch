@@ -18,15 +18,14 @@ and links.</p>
 <p><strong><u>(1) Online Information Form</u></strong>
 </p>
 <p>Secondary 1 Registration will open at <strong>8:00 am on Thursday, 19 December 2024</strong>.&nbsp;
-You can access the link <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gesssec1registration2025</a> &nbsp;to
+You can access the link <a href="https://go.gov.sg/gesssec1registration2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gesssec1registration2025</a> &nbsp;to
 complete the Online Information Form to <strong>confirm your child’s/ward’s registration</strong> as
 a student of GESS.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>The online registration will <strong>close at 12pm the same day</strong>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec_1_Registration_QR_Code.png">
+</div>
+<p>&nbsp;The online registration will <strong>close at 12pm the same day</strong>.</p>
 <p>If you intend to transfer your child/ward to another school, you will
 still need to register him/her with us first by completing the Online Information
 Form. You may then proceed with the transfer process to another school.</p>
@@ -59,13 +58,15 @@ webinar.</p>
 <p>For the purchase of books and school uniform, please refer to the following
 links for the necessary information:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of Books</p>
-<p>(a)&nbsp; Letter to Parents - Books&nbsp;&nbsp;</p>
-<p>(b)&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-bookshop-and-booklists/</a>
+<p>(a)&nbsp; Letter to Parents - Books&nbsp;&nbsp;<a href="/files/Textbook__Letter_for_Parents___Sec_1__2025__docx.pdf" rel="noopener nofollow" target="_blank">[Textbook] Letter for Parents - Sec 1 (2025)</a>
+</p>
+<p>(b)&nbsp; <a href="(b)	https://www.ganengsengsch.moe.edu.sg/school-information/school-bookshop-and-booklists/" rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-bookshop-and-booklists/</a>
 </p>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of School Uniform</p>
-<p>(a)&nbsp; Letter to Parents – School Uniform</p>
-<p>(b)&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-uniform-supplier/</a>
+<p>(a)&nbsp; Letter to Parents – School Uniform <a href="/files/Uniform__Letter_for_Parents___Sec_1__2025_.pdf" rel="noopener nofollow" target="_blank">[Uniform] Letter for Parents - Sec 1 (2025)</a>
+</p>
+<p>(b)&nbsp; <a href="(b)	https://www.ganengsengsch.moe.edu.sg/school-information/school-uniform-supplier/" rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-uniform-supplier/</a>
 </p>
 <p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For students who are
@@ -93,7 +94,7 @@ Please submit the completed offer letter to the Form Teachers by <strong>3 Janua
 Languages, Ms Laura Lim, during the e-Registration webinar on 19 December
 2024. Slides will be uploaded to the school website after the briefing.</p>
 <p>For further queries pertaining to Mother Tongue Languages, please contact
-Ms Laura Lim via email at <a rel="noopener noreferrer nofollow" target="_blank">lim_hwee_mean@schools.gov.sg</a>.</p>
+Ms Laura Lim via email at <a href="mailto:lim_hwee_mean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_mean@schools.gov.sg</a>.</p>
 <p><strong><u>(7) First Day of School Programme</u></strong>
 </p>
 <p>All Secondary 1 students are to reach school and report to the Arena (school’
@@ -126,13 +127,15 @@ ensure that you update your child’s/ward’s medical condition and dietary
 restrictions (if any) through the Online Information Form.</p>
 <p>Please access the link below for more information on the Secondary 1 GESS
 Camp programme.</p>
-<p>2025 Secondary 1 GESS Camp Programme &nbsp;</p>
+<p>2025 Secondary 1 GESS Camp Programme &nbsp;<a href="/files/2025_Sec_1_GESS_Camp_Programme.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 GESS Camp Programme</a>
+</p>
 <p><strong><u>(9) CCA Orientation</u></strong>
 </p>
 <p>CCA Orientation will be conducted on <strong>10 January 2025, Friday, 1.30 pm to 4.30 pm</strong>.</p>
 <p>Please access the link below for more details on CCA Orientation and relevant
 schedules.</p>
-<p>2025 CCA Orientation Schedule</p>
+<p>2025 CCA Orientation Schedule <a href="/files/2025_CCA_Orientation_Package.pdf" rel="noopener nofollow" target="_blank">2025 CCA Orientation Package</a>
+</p>
 <p>&nbsp;</p>
 <p><strong><u>(10) Parent-Teacher Association (PTA) Membership</u></strong>
 </p>
@@ -148,48 +151,14 @@ he/she will only need to make a payment of $18.00 for the remaining three
 years in GESS for the younger child, i.e. for 2026 to 2028.)</p>
 <p>The school hopes to promote greater parental involvement in school activities
 as well as PTA related programmes. Kindly complete the PTA registration
-form via the link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gessptaregistration2025</a>
+form via the link: <a href="https://go.gov.sg/gessptaregistration2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gessptaregistration2025</a>
 </p>
 <p>Alternatively, you may scan the QR code below to access the registration
 form:</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="204" width="204" alt="A qr code on a white background
-
-Description automatically generated">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/PTA_Registration.png">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
 <p><strong><u>(11) Financial Assistance Scheme (FAS)</u></strong>
 </p>
 <p>For parents who have <strong>successfully applied for Financial Assistance Scheme (FAS) in the child’s primary school or if their child has siblings under FAS in another school</strong>,
@@ -201,12 +170,18 @@ FAS Brochure for more information on the criteria and benefits of the scheme.
 Parents can either download and complete the FAS Application Form as shared
 in the link below or come to the General Office during office hours to
 get the hardcopy form.</p>
-<p>a)&nbsp;&nbsp;&nbsp; Information on MOE FAS &nbsp;</p>
-<p>b)&nbsp;&nbsp;&nbsp; FAS Brochure (Chinese)</p>
-<p>c)&nbsp;&nbsp;&nbsp; FAS Brochure (English)</p>
-<p>d)&nbsp;&nbsp;&nbsp; FAS Brochure (Malay)</p>
-<p>e)&nbsp;&nbsp;&nbsp; FAS Brochure (Tamil)</p>
-<p>f)&nbsp;&nbsp;&nbsp;&nbsp; MOE FAS Application Form</p>
+<p>a)&nbsp;&nbsp;&nbsp; Information on MOE FAS <a href="/files/MOE_FAS_Annoucement_for_Sec1__For_2025_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Annoucement for Sec1 (For 2025)</a>
+</p>
+<p>b)&nbsp;&nbsp;&nbsp; FAS Brochure (Chinese) <a href="/files/MOE_FAS_pamphlet__CL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet (CL)</a>
+</p>
+<p>c)&nbsp;&nbsp;&nbsp; FAS Brochure (English) <a href="/files/MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet (EL)</a>
+</p>
+<p>d)&nbsp;&nbsp;&nbsp; FAS Brochure (Malay) <a href="/files/MOE_FAS_pamphlet__ML_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet (ML)</a>
+</p>
+<p>e)&nbsp;&nbsp;&nbsp; FAS Brochure (Tamil) <a href="/files/MOE_FAS_pamphlet__TL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet (TL)</a>
+</p>
+<p>f)&nbsp;&nbsp;&nbsp;&nbsp; MOE FAS Application Form <a href="/files/MOE_FAS_Application_Form__For_2025_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form (For 2025)</a>
+</p>
 <p>For <strong>Secondary 1</strong>  <strong>students who have older siblings currently in GESS under FAS</strong>,
 please check whether their names have been included in their older siblings’
 application form when they applied for FAS in GESS previously.</p>
@@ -223,9 +198,10 @@ will be notified of the outcome via phone call from the school.</p>
 </p>
 <p>Students who are interested in the Art or Music Elective Programme at
 an external centre may refer to the following link for more information:</p>
-<p></p>
+<p><a href="/files/2025_AEP_and_MEP_Centre_Briefing_Slides_GESS_Students.pdf" rel="noopener nofollow" target="_blank">2025 AEP and MEP Centre Briefing Slides_GESS Students</a>
+</p>
 <p>For further queries pertaining to AEP and MEP, please contact Mrs Clara
-Chua, HOD/Aesthetics, at <a rel="noopener noreferrer nofollow" target="_blank">teo_phin-phin_clara@schools.gov.sg</a>.</p>
+Chua, HOD/Aesthetics, at <a href="mailto:teo_phin-phin_clara@schools.gov.sg." rel="noopener noreferrer nofollow" target="_blank">teo_phin-phin_clara@schools.gov.sg</a>.</p>
 <p>&nbsp;</p>
 <p><strong><u>(13) Road Safety</u></strong>
 </p>
@@ -268,11 +244,13 @@ onboarding process.</p>
 </p>
 <p><a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank"><u>PG FAQs for Parents</u></a>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>(18) e-GIRO</u></a></strong>
+<p></p>
+<p><strong><u>(18) e-GIRO</u></strong>
 </p>
 <p>We would like to encourage parents/guardians to register for e-GIRO if
 you have not done so. Please click on the link below for more information:</p>
-<p>User Guide on e-GIRO application</p>
+<p>User Guide on e-GIRO application <a href="/files/User_Guide_on_eGIRO.pdf" rel="noopener nofollow" target="_blank">User Guide on eGIRO</a>
+</p>
 <p><strong><u>(19) GESS Student Handbook</u></strong>
 </p>
 <p>The GESS Student Handbook contains many useful information that a new
@@ -282,13 +260,12 @@ so that you know what to expect when your child/ward joins us.</p>
 <p><strong><u>(20) Frequently Asked Questions (FAQs)</u></strong>
 </p>
 <p>Please access the link below for FAQs pertaining to the Secondary 1 e-Registration.</p>
-<p>Frequently Asked Questions</p>
+<p>Frequently Asked Questions <a href="/files/Sec_1__2025__e_Registration_FAQs.pdf" rel="noopener nofollow" target="_blank">Sec 1 (2025) e-Registration FAQs</a>
+</p>
 <p>If you have further queries, you may contact Mr Clarence Loh (Year Head)
-via email at <a rel="noopener noreferrer nofollow" target="_blank">loh_choon_yang@schools.gov.sg</a>.</p>
+via email at <a href="mailto:loh_choon_yang@schools.gov.sg." rel="noopener noreferrer nofollow" target="_blank">loh_choon_yang@schools.gov.sg</a>.</p>
 <p>With the strong support of parents/guardians, we hope to see your child/ward
 transit well to GESS!</p>
 <p>ONWARD!</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p></p>
 <p></p>
