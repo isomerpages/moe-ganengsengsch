@@ -8,6 +8,6 @@ image: ""
 variant: tiptap
 ---
 <p>The GESS 2024 School Magazine is now ready for viewing</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://online.fliphtml5.com/obrr/sdwo/</a>
+<p><a href="https://online.fliphtml5.com/obrr/sdwo/" rel="noopener noreferrer nofollow" target="_blank">https://online.fliphtml5.com/obrr/sdwo/</a>
 </p>
 <p></p>
