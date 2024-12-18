@@ -93,9 +93,9 @@ Ms Laura Lim via email at <a href="mailto:lim_hwee_mean@schools.gov.sg" rel="noo
 parade square) by<strong> 7.30 am on 2 January 2025, Thursday</strong>.</p>
 <p>They are to engage in silent reading while waiting for the morning assembly
 to start.</p>
-<p>The reporting attire will be GESS PE T-shirt with white short / green
-skirt. Students who have yet to purchase their GESS school attire may report
-in their primary school uniform.</p>
+<p>The reporting attire will be school uniform with white short / green skirt.
+Students who have yet to purchase their GESS school attire may report in
+their primary school uniform.</p>
 <p>All students are to bring along the following items:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an appropriate story
 book for the Silent Reading Programme;</p>
@@ -234,7 +234,7 @@ Gessian needs to know. Please spend some time to read the Student Handbook
 so that you know what to expect when your child/ward joins us.</p>
 <h4>&nbsp;<strong><u>(20) Frequently Asked Questions (FAQs)</u></strong></h4>
 <p>Please access the link below for FAQs pertaining to the Secondary 1 e-Registration.</p>
-<p>Frequently Asked Questions <a href="/files/Sec_1__2025__e_Registration_FAQs.pdf" rel="noopener nofollow" target="_blank">Sec 1 (2025) e-Registration FAQs</a>
+<p>Frequently Asked Questions <a href="/files/Sec_1__2025__e_Registration_FAQs_Final.pdf" rel="noopener nofollow" target="_blank">Sec 1 (2025) e-Registration FAQs</a>
 </p>
 <p>If you have further queries, you may contact Mr Clarence Loh (Year Head)
 via email at <a href="mailto:loh_choon_yang@schools.gov.sg." rel="noopener noreferrer nofollow" target="_blank">loh_choon_yang@schools.gov.sg</a>.</p>
