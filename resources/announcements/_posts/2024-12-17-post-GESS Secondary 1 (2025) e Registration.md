@@ -240,6 +240,15 @@ so that you know what to expect when your child/ward joins us.</p>
 via email at <a href="mailto:loh_choon_yang@schools.gov.sg." rel="noopener noreferrer nofollow" target="_blank">loh_choon_yang@schools.gov.sg</a>.</p>
 <p>With the strong support of parents/guardians, we hope to see your child/ward
 transit well to GESS!</p>
+<h4>Webinar Materials</h4>
+<p><a href="/files/Webinar_Materials__Address_by_Vice_Principal_Mrs_Selva.pdf" rel="noopener nofollow" target="_blank">[Webinar Materials] Address by Vice-Principal Mrs Selva</a>
+</p>
+<p><a href="/files/Webinar_Materials__Sec_1__2025__e_Registration_Admin_Slides_by_Year_Head.pdf" rel="noopener nofollow" target="_blank">[Webinar Materials] Sec 1 (2025) e-Registration Admin Slides by Year Head</a>
+</p>
+<p><a href="/files/Webinar_Materials__Navigating_Transition.pdf" rel="noopener nofollow" target="_blank">(Webinar Materials) Navigating Transition</a>
+</p>
+<p><a href="/files/Webinar_Materials__Mother_Tongue_Information_for_Sec_1_Registration_2025_by_HOD_MTL.pdf" rel="noopener nofollow" target="_blank">[Webinar Materials] Mother Tongue Information for Sec 1 Registration 2025 by HOD MTL</a>
+</p>
 <p></p>
 <p><strong>ONWARD!</strong>
 </p>
