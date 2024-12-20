@@ -887,10 +887,10 @@ variant: tiptap
 <p>3-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Hoong Leong (CHL)</p>
+<p>Mr Marcus Quek Zhi Whui (QZW)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_hoong_leong@schools.gov.sg" rel="noopener" target="_blank">chan_hoong_leong@schools.gov.sg</a>
+<p><a href="mailto:quek_zhi_whui@schools.gov.sg" rel="noopener noreferrer" target="_blank">quek_zhi_whui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1024,20 +1024,19 @@ variant: tiptap
 <p>4-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Marcus Quek Zhi Whui (QZW)</p>
+<p>Ms Shirley Tan (TLH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quek_zhi_whui@schools.gov.sg" rel="noopener noreferrer" target="_blank">quek_zhi_whui@schools.gov.sg</a>
+<p><a href="mailto:tan_li_hoon_shirley@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_li_hoon_shirley@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jamie Ong (OJX)</p>
+<p>Ms Chua Ariella Elise (CAE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_jing_xuan_jamie@schools.gov.sg" rel="noopener" target="_blank">ong_jing_xuan_jamie@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
