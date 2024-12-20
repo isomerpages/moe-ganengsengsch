@@ -588,7 +588,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chitra (CHI)</p>
+<p>Mrs Chithra (CHI)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thanigaivel_chithra@schools.gov.sg" rel="noopener noreferrer" target="_blank">thanigaivel_chithra@schools.gov.sg</a>
