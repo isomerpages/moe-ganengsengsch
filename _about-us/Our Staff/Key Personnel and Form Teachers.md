@@ -419,7 +419,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Quek Xinyi (QXY)</p>
+<p>Ms Lynn Kwek Xinyi (kXY)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
