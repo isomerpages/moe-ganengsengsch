@@ -431,10 +431,10 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yohan Fendy (YF)</p>
+<p>Ms Sandra Wee (WPW)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yohan_fendy@schools.gov.sg" rel="noopener noreferrer" target="_blank">yohan_fendy@schools.gov.sg</a>
+<p><a href="mailto:wee_pey_woon@schools.gov.sg" rel="noopener noreferrer" target="_blank">wee_pey_woon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -481,11 +481,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jamie Toh (TSL)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jamie_toh_su_lin@schools.gov.sg" rel="noopener noreferrer" target="_blank">jamie_toh_su_lin@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -493,11 +492,10 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Amirrudin (MAA)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Muhammad_Amiruddin_Aman_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Amiruddin_Aman_A@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -510,7 +508,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -518,6 +516,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khadijah_bte_mustapah@schools.gov.sg" rel="noopener noreferrer" target="_blank">khadijah_bte_mustapah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Herianti Samsudin(HS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:herianti_samsudin@schools.gov.sg" rel="noopener noreferrer" target="_blank">herianti_samsudin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -601,10 +608,10 @@ variant: tiptap
 <p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Yi Tsun (CYT)</p>
+<p>Mr Yohan Fendy (YF)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_yi_tsun@schools.gov.sg" rel="noopener noreferrer" target="_blank">chan_yi_tsun@schools.gov.sg</a>
+<p><a href="mailto:yohan_fendy@schools.gov.sg" rel="noopener noreferrer" target="_blank">yohan_fendy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -664,11 +671,10 @@ variant: tiptap
 <p>2-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Xudan (LXD)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_Xudan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_Xudan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -751,10 +757,10 @@ variant: tiptap
 <p>3-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Herianti Samsudin(HS)</p>
+<p>Mr Tay Chew Woo (TCW)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:herianti_samsudin@schools.gov.sg" rel="noopener noreferrer" target="_blank">herianti_samsudin@schools.gov.sg</a>
+<p><a href="mailto:tay_chew_woo@schools.gov.sg" rel="noopener noreferrer" target="_blank">tay_chew_woo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -802,11 +808,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ashley Wong (WMJ)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_meijing_ashley_a@schools.gov.sg" rel="noopener noreferrer" target="_blank">wong_meijing_ashley_a@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -835,10 +840,11 @@ variant: tiptap
 <p>3-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chan Yi Tsun (CYT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chan_yi_tsun@schools.gov.sg" rel="noopener noreferrer" target="_blank">chan_yi_tsun@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -920,15 +926,6 @@ variant: tiptap
 <p>4-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Chew Woo (TCW)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_chew_woo@schools.gov.sg" rel="noopener noreferrer" target="_blank">tay_chew_woo@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Jeffrey Phua (PJ)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -937,14 +934,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sandra Wee (WPW)</p>
+<td rowspan="2" colspan="1">
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wee_pey_woon@schools.gov.sg" rel="noopener noreferrer" target="_blank">wee_pey_woon@schools.gov.sg</a>
-</p>
+<td rowspan="2" colspan="1">
+<p></p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>4-2</p>
