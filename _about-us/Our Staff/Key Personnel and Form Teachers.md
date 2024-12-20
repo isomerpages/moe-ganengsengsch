@@ -419,7 +419,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Kwek Xinyi (kXY)</p>
+<p>Ms Lynn Kwek Xinyi (KXY)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -588,7 +588,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chitra (CHI)</p>
+<p>Mrs Chithra (CHI)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thanigaivel_chithra@schools.gov.sg" rel="noopener noreferrer" target="_blank">thanigaivel_chithra@schools.gov.sg</a>
@@ -671,11 +671,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Johnathan Beh (BGT)</p>
+<p>Ms Tan Sze Jiin (TSJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:beh_guanting_johnathan@schools.gov.sg" rel="noopener" target="_blank">beh_guanting_johnathan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -758,10 +757,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Seah Cheng (SC)</p>
+<p>Ms Marhaidah Abdul Hamid (MAR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seah_cheng@schools.gov.sg" rel="noopener noreferrer" target="_blank">seah_cheng@schools.gov.sg</a>
+<p><a href="mailto:marhaidah_abdul_hamid@schools.gov.sg" rel="noopener nofollow" target="_blank">marhaidah_abdul_hamid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -990,7 +989,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Reshmi Menon (RM)</p>
+<p>Ms Reshmi Menon (RSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:reshmi_menon@schools.gov.sg" rel="noopener noreferrer" target="_blank">reshmi_menon@schools.gov.sg</a>
@@ -1031,7 +1030,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Harran Punithan (HP)</p>
+<p>Mr Harran Punithan (HPT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:harran_punithan@schools.gov.sg" rel="noopener noreferrer" target="_blank">harran_punithan@schools.gov.sg</a>
