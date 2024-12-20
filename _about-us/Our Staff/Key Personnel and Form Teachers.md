@@ -1045,10 +1045,10 @@ variant: tiptap
 <p>4-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Qaleelullah (QAL)</p>
+<p>Mr Ang Boon Bin Brandon (ABB)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:qaleelullah_mohamed_fahim@schools.gov.sg" rel="noopener noreferrer" target="_blank">qaleelullah_mohamed_fahim@schools.gov.sg</a>
+<p><a href="mailto:boon_bin_ang@schools.gov.sg" rel="noopener noreferrer" target="_blank">boon_bin_ang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
