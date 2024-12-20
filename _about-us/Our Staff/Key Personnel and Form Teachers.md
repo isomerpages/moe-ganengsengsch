@@ -989,7 +989,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Reshimi Menon (RSM)</p>
+<p>Ms Reshmi Menon (RSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:reshmi_menon@schools.gov.sg" rel="noopener noreferrer" target="_blank">reshmi_menon@schools.gov.sg</a>
