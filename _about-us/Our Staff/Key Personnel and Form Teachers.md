@@ -509,18 +509,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1-6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Khadijah (KHA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:khadijah_bte_mustapah@schools.gov.sg" rel="noopener noreferrer" target="_blank">khadijah_bte_mustapah@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Herianti Samsudin(HS)</p>
 </td>
@@ -531,10 +522,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sathis Kumar (SK)</p>
+<p>Mr Kelvin Kwok (KTY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sathis_kumar_niana_sekaran@schools.gov.sg" rel="noopener noreferrer" target="_blank">sathis_kumar_niana_sekaran@schools.gov.sg</a>
+<p><a href="mailto:kwok_tzih-yeung_kelvin@schools.gov.sg" rel="noopener" target="_blank">kwok_tzih-yeung_kelvin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -692,18 +683,19 @@ variant: tiptap
 <p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Khadijah (KHA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:khadijah_bte_mustapah@schools.gov.sg" rel="noopener noreferrer" target="_blank">khadijah_bte_mustapah@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Kwok (KTY)</p>
+<p>Mr Sathis Kumar (SK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwok_tzih-yeung_kelvin@schools.gov.sg" rel="noopener" target="_blank">kwok_tzih-yeung_kelvin@schools.gov.sg</a>
+<p><a href="mailto:sathis_kumar_niana_sekaran@schools.gov.sg" rel="noopener noreferrer" target="_blank">sathis_kumar_niana_sekaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
