@@ -660,10 +660,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Mariam (SM)</p>
+<p>Ms Ong Jing Xuan Jamie (OJX)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_mariam_abdul_hakeem@schools.gov.sg" rel="noopener noreferrer" target="_blank">siti_mariam_abdul_hakeem@schools.gov.sg</a>
+<p><a href="mailto:Ong_Jing_Xuan_Jamie@schools.gov.sg" rel="noopener noreferrer" target="_blank">ong_jing_xuan_jamie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
