@@ -460,10 +460,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lim Bun (LB)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_bun_stephen@schools.gov.sg" rel="noopener noreferrer" target="_blank">lim_bun_stephen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -798,6 +799,15 @@ variant: tiptap
 <p>3-3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Yong Geng (TYG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yong_geng@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_yong_geng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Keith Lim (LYT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -806,22 +816,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
 <p>3-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Bun (LB)</p>
+<p>Mr Jansen Tan (JAN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_bun_stephen@schools.gov.sg" rel="noopener noreferrer" target="_blank">lim_bun_stephen@schools.gov.sg</a>
+<p><a href="mailto:weiliang_jansen_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">weiliang_jansen_tan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -847,11 +849,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jansen Tan (JAN)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:weiliang_jansen_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">weiliang_jansen_tan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
