@@ -472,10 +472,10 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Siew Kwong (TSK)</p>
+<p>Mr Jeffrey Sui (SSW)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_siew_kwong@schools.gov.sg" rel="noopener noreferrer" target="_blank">tang_siew_kwong@schools.gov.sg</a>
+<p><a href="mailto:sui_siang_wey@schools.gov.sg" rel="noopener noreferrer" target="_blank">sui_siang_wey@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -502,11 +502,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ngoh Cher Tian Jenny (NCT)</p>
+<p>Ms Alysia Soon Ya (ASY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ngoh_cher_tian_jenny@schools.gov.sg" rel="noopener noreferrer" target="_blank">ngoh_cher_tian_jenny@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -651,10 +650,10 @@ variant: tiptap
 <p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeffrey Sui (SSW)</p>
+<p>Mr Tang Siew Kwong (TSK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sui_siang_wey@schools.gov.sg" rel="noopener noreferrer" target="_blank">sui_siang_wey@schools.gov.sg</a>
+<p><a href="mailto:tang_siew_kwong@schools.gov.sg" rel="noopener noreferrer" target="_blank">tang_siew_kwong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -672,10 +671,11 @@ variant: tiptap
 <p>2-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ngoh Cher Tian Jenny (NCT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ngoh_cher_tian_jenny@schools.gov.sg" rel="noopener noreferrer" target="_blank">ngoh_cher_tian_jenny@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
