@@ -927,7 +927,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4-1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -935,6 +935,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_chew_woo@schools.gov.sg" rel="noopener noreferrer" target="_blank">tay_chew_woo@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jeffrey Phua (PJ)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phua_jeffrey@schools.gov.sg" rel="noopener noreferrer" target="_blank">phua_jeffrey@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1057,19 +1066,20 @@ variant: tiptap
 <p>4-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Phua Jeffrey (PJ)</p>
+<p>Mr Chan Hoong Leong (CHL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:phua_jeffrey@schools.gov.sg" rel="noopener noreferrer" target="_blank">phua_jeffrey@schools.gov.sg</a>
+<p><a href="mailto:chan_hoong_leong@schools.gov.sg" rel="noopener" target="_blank">chan_hoong_leong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chen Xi (CX)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chen_xi_f@schools.gov.sg" rel="noopener" target="_blank">chen_xi_f@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1097,14 +1107,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeffrey Phua (PJ)</p>
+<p>Mr Chan Hoong Leong (CHL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:phua_jeffrey@schools.gov.sg" rel="noopener noreferrer" target="_blank">phua_jeffrey@schools.gov.sg</a>
+<p><a href="mailto:chan_hoong_leong@schools.gov.sg" rel="noopener" target="_blank">chan_hoong_leong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Xi (CX)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_xi_f@schools.gov.sg" rel="noopener" target="_blank">chen_xi_f@schools.gov.sg</a>
 </p>
 </td>
 </tr>
