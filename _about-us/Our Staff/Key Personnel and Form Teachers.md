@@ -492,10 +492,11 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Geetha (GEETHA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:geetha_muthu@schools.gov.sg" rel="noopener" target="_blank">geetha_muthu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -638,11 +639,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Umamageswari (UMA)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:umamageswari_sathiaseelan@schools.gov.sg" rel="noopener noreferrer" target="_blank">umamageswari_sathiaseelan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -691,11 +691,10 @@ variant: tiptap
 <p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Geetha (GEETHA)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:geetha_muthu@schools.gov.sg" rel="noopener" target="_blank">geetha_muthu@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
