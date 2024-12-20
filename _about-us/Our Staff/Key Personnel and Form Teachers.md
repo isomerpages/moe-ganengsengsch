@@ -981,19 +981,19 @@ variant: tiptap
 <p>4-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Asnur (ASN)</p>
+<p>Ms Phua Hui Shi (Mrs Lin) (PHS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:asnur_mursalin_aspar@schools.gov.sg" rel="noopener noreferrer" target="_blank">asnur_mursalin_aspar@schools.gov.sg</a>
+<p><a href="mailto:phua_hui_shi@schools.gov.sg" rel="noopener noreferrer" target="_blank">phua_hui_shi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Sok Yee (LSY)</p>
+<p>Ms Ashley Wong (WMJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_sok_yee_A@schools.gov.sg" rel="noopener noreferrer" target="_blank">leong_sok_yee_A@schools.gov.sg</a>
+<p><a href="mailto:wong_meijing_ashley_a@schools.gov.sg" rel="noopener noreferrer" target="_blank">wong_meijing_ashley_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
