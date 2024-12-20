@@ -6,7 +6,6 @@ variant: markdown
 ---
 **Helplines**
 
-[https://www.ncss.gov.sg/NCSS/media/NCSS-Documents-and-Forms/NCSS%20Internal%20Documents/LIST-OF-HELPLINES.pdf](https://www.ncss.gov.sg/NCSS/media/NCSS-Documents-and-Forms/NCSS%20Internal%20Documents/LIST-OF-HELPLINES.pdf)
 
 [https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support](https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support)
 
@@ -21,7 +20,6 @@ variant: markdown
 
 [https://www.msf.gov.sg/breakthesilence/Pages/Home.aspx](https://www.msf.gov.sg/breakthesilence/Pages/Home.aspx)
 
-[https://www.sgenable.sg/pages/content.aspx?path=/useful-links/family-service-centres/](https://www.sgenable.sg/pages/content.aspx?path=/useful-links/family-service-centres/)
 
 [http://www.scwo.org.sg/youcansayno/where-to-get-help/](http://www.scwo.org.sg/youcansayno/where-to-get-help/)
 
