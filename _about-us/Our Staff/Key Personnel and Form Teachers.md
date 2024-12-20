@@ -481,10 +481,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Kevin Kung (KSO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kung_sion_onn_kevin@schools.gov.sg" rel="noopener" target="_blank">kung_sion_onn_kevin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -639,11 +640,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Claire Wong (WKI)</p>
+<p>Ms Wong Jing Ning (WJN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Claire_Wong_Kaii@schools.gov.sg" rel="noopener noreferrer" target="_blank">claire_wong_kail@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -712,19 +712,19 @@ variant: tiptap
 <p>2-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yong Geng (TYG)</p>
+<p>Mr Lee Fook Yew (LFY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yong_geng@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_yong_geng@schools.gov.sg</a>
+<p><a href="mailto:lee_fook_yew@schools.gov.sg" rel="noopener noreferrer" target="_blank">lee_fook_yew@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Kung (KSO)</p>
+<p>Ms Claire Wong (WKI)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kung_sion_onn_kevin@schools.gov.sg" rel="noopener" target="_blank">kung_sion_onn_kevin@schools.gov.sg</a>
+<p><a href="mailto:Claire_Wong_Kaii@schools.gov.sg" rel="noopener noreferrer" target="_blank">claire_wong_kail@schools.gov.sg</a>
 </p>
 </td>
 </tr>
