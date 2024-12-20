@@ -543,11 +543,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Fook Yew (LFY)</p>
+<p>Mr Senthil Kumaran (STK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_fook_yew@schools.gov.sg" rel="noopener noreferrer" target="_blank">lee_fook_yew@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
