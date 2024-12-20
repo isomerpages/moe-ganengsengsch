@@ -546,7 +546,8 @@ variant: tiptap
 <p>Mr Senthil Kumaran (STK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:senthil_kumaran_kunasegaran@schools.gov.sg" rel="noopener nofollow" target="_blank">senthil kumaran kunasegaran@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
