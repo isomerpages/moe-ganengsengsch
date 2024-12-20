@@ -1054,10 +1054,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Marhaidah Abdul Hamid (MAR)</p>
+<p>Mr Harran Punithan (HP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marhaidah_abdul_hamid@schools.gov.sg" rel="noopener noreferrer" target="_blank">marhaidah_abdul_hamid@schools.gov.sg</a>
+<p><a href="mailto:harran_punithan@schools.gov.sg" rel="noopener noreferrer" target="_blank">harran_punithan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
