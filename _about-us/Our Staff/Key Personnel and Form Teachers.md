@@ -382,8 +382,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Year 2024 Form Teachers</h2>
-<h3>Secondary 1 (2024)</h3>
+<h2>Year 2025 Form Teachers</h2>
+<h3>Secondary 1 (2025)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -554,7 +554,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Secondary 2 (2024)</h3>
+<h3>Secondary 2 (2025)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -725,7 +725,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Secondary 3 (2024)</h3>
+<h3>Secondary 3 (2025)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -904,7 +904,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Secondary 4 (2024)</h3>
+<h3>Secondary 4 (2025)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1074,7 +1074,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Secondary 5 (2024)</h3>
+<h3>Secondary 5 (2025)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
