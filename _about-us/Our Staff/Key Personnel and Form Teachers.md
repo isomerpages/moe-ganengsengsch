@@ -536,10 +536,10 @@ variant: tiptap
 <p>1-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kay Yen (TKY)</p>
+<p>Mdm Asnur (ASN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kay_yen@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_kay_yen@schools.gov.sg</a>
+<p><a href="mailto:asnur_mursalin_aspar@schools.gov.sg" rel="noopener noreferrer" target="_blank">asnur_mursalin_aspar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -769,7 +769,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3-2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -777,6 +777,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chee_fook_sing@schools.gov.sg" rel="noopener noreferrer" target="_blank">chee_fook_sing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Leong Sok Yee (LSY)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_sok_yee_A@schools.gov.sg" rel="noopener noreferrer" target="_blank">leong_sok_yee_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
