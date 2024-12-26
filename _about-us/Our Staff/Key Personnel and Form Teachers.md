@@ -193,18 +193,6 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Peng Kee (TPK)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_peng_kee@schools.gov.sg" rel="noopener noreferrer" target="_blank">teo_peng_kee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Clarence Loh (LCY)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -634,7 +622,7 @@ variant: tiptap
 <p>Ms Wong Jing Ning (WJN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_jing_ning_b@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_jing_ning_b@schools.gov.sg </a>
+<p><a href="mailto:wong_jing_ning_b@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_jing_ning_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
