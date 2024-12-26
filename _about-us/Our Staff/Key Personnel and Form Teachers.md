@@ -505,7 +505,8 @@ variant: tiptap
 <p>Ms Alysia Soon Ya (ASY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:alysia_soon_ya@schools.gov.sg" rel="noopener nofollow" target="_blank">alysia_soon_ya@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
