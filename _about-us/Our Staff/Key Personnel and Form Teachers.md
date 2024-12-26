@@ -634,7 +634,8 @@ variant: tiptap
 <p>Ms Wong Jing Ning (WJN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wong_jing_ning_b@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_jing_ning_b@schools.gov.sg </a>
+</p>
 </td>
 </tr>
 <tr>
