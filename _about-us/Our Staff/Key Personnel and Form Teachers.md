@@ -1196,7 +1196,7 @@ variant: tiptap
 <p>Ms Carolyn Koh Leng Kim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Carolyn_Koh_Leng_Kim@schools.gov.sg" rel="noopener nofollow" target="_blank">Carolyn_Koh_Leng_Kim@schools.gov.sg </a>
+<p><a href="mailto:Carolyn_Koh_Leng_Kim@schools.gov.sg" rel="noopener nofollow" target="_blank">Carolyn_Koh_Leng_Kim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
