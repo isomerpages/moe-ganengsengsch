@@ -675,7 +675,8 @@ variant: tiptap
 <p>Ms Tan Sze Jiin (TSJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Tan_Sze_Jiin@schools.gov.sg" rel="noopener nofollow" target="_blank">Tan_Sze_Jiin@schools.gov.sg </a>
+</p>
 </td>
 </tr>
 <tr>
