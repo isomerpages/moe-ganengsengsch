@@ -1154,7 +1154,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT (Ma)</p>
+<p>FAJT (MA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Bun (LB)</p>
@@ -1185,6 +1185,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_kay_chuan@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_kay_chuan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT (EL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Carolyn Koh Leng Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Carolyn_Koh_Leng_Kim@schools.gov.sg" rel="noopener nofollow" target="_blank">Carolyn_Koh_Leng_Kim@schools.gov.sg </a>
 </p>
 </td>
 </tr>
