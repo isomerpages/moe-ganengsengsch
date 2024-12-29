@@ -35,11 +35,6 @@ sections:
           announcement: Information on Secondary 1 (2025) e-Registration
           link_text: READ MORE
           link_url: /gess-secondary-1-2025-e-registration/
-        - title: Briefing slides and information on 2025 Joint Intake Exercises
-          date: 17 December 2024
-          announcement: 2025 Joint Intake Exercises
-          link_text: READ MORE
-          link_url: https://ganengsengsch.moe.edu.sg/briefing-slides-and-information-on-2025-joint-intake-exercises/
         - title: 2024 GESS School Magazine
           date: 17 December 2024
           announcement: 2024 Year Book
