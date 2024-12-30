@@ -166,6 +166,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Deborah Tan (TWL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:deborah_tan_wei_ling@schools.gov.sg" rel="noopener" target="_blank">deborah_tan_wei_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD / Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -214,19 +226,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Deborah Tan (TWL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:deborah_tan_wei_ling@schools.gov.sg" rel="noopener" target="_blank">deborah_tan_wei_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head / Mathematics</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Marcus Quek Zhi Whui (QZW)</p>
@@ -366,6 +366,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_swee_chye@schools.gov.sg" rel="noopener noreferrer" target="_blank">lim_swee_chye@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Tuan Kiat Jimmy (NTK)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
