@@ -373,7 +373,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Tuan Kiat Jimmy</p>
+<p>Mr Ng Tuan Kiat Jimmy (NTK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
