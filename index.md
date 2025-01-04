@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Release of 2024 GCE O Level Examination Results
+          date: 04 January 2025
+          announcement: Information on release date for 2024 GCE O Level Examination Results
+          link_text: READ MORE
+          link_url: /release-of-2024-gce-o-level-examination-results/
         - title: GESS Secondary 1 (2025) e-Registration
           date: 17 December 2024
           announcement: Information on Secondary 1 (2025) e-Registration
