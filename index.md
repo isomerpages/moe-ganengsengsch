@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Briefing slides and information on 2025 Joint Admissions Exercise (JAE)
+          date: 10 January 2025
+          announcement: 2025 Joint Admissions Exercise and other relevant information
+          link_text: READ ME
+          link_url: /briefing-slides-and-information-on-2025-joint-admissions-exercise-jae/
         - title: Release of 2024 GCE O Level Examination Results
           date: 04 January 2025
           announcement: Information on release date for 2024 GCE O Level Examination Results
@@ -45,11 +50,6 @@ sections:
           announcement: 2024 Year Book
           link_text: READ MORE
           link_url: https://ganengsengsch.moe.edu.sg/2024-gess-school-magazine/
-        - title: Briefing slides and information on 2025 Joint Admissions Exercise (JAE)
-          date: 10 January 2025
-          announcement: 2025 Joint Admissions Exercise and other relevant information
-          link_text: READ ME
-          link_url: /briefing-slides-and-information-on-2025-joint-admissions-exercise-jae/
   - textcards:
       title: GESS 140th Anniversary Celebration
       subtitle: commemorative event
