@@ -7,3 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>2025 Joint Admissions Exercise and other relevant information</p>
+<p><a href="/files/2024_GCE_O_level_Results_JAE_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2024_GCE_O_level_Results_JAE_Briefing_Slides</a>
+</p>
+<p><a href="/files/2025_JAE_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">2025_JAE_Information_Sheet</a>
+</p>
+<p></p>
