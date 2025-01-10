@@ -45,16 +45,11 @@ sections:
           announcement: 2024 Year Book
           link_text: READ MORE
           link_url: https://ganengsengsch.moe.edu.sg/2024-gess-school-magazine/
-        - title: Purchase of School Uniform
-          date: 29 November 2024
-          announcement: School Uniform Information for 2025
-          link_text: READ MORE
-          link_url: /school-information/school-uniform-supplier/
-        - title: School Bookshop and Booklists
-          date: 04 November 2024
-          announcement: Bookshop Information and Booklists for 2025
-          link_text: READ MORE
-          link_url: /school-information/school-bookshop-and-booklists/
+        - title: Briefing slides and information on 2025 Joint Admissions Exercise (JAE)
+          date: 10 January 2025
+          announcement: 2025 Joint Admissions Exercise and other relevant information
+          link_text: READ ME
+          link_url: /briefing-slides-and-information-on-2025-joint-admissions-exercise-jae/
   - textcards:
       title: GESS 140th Anniversary Celebration
       subtitle: commemorative event
