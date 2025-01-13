@@ -3,193 +3,334 @@ title: Parent – Teacher Association (PTA)
 permalink: /partners/parent-teacher-association/
 description: ""
 third_nav_title: Our partners
-variant: markdown
+variant: tiptap
 ---
-### Our Mission
-
-The PTA is committed towards promoting close co-operation and understanding between parents, principal and teachers and providing the necessary support to the school so as to create a conducive learning environment that will bring out the best in the students.
-
-### Our Objectives
-
-(a) to promote close co-operation and understanding between parents, principal and teachers for the welfare of the students
-
-(b) to provide opportunities for discussion and explanation between the school and parents in matters relating to the education of the student
-
-(c) to promote social interaction and fellowship among parents and teachers; and
-
-(d) to provide financial assistance to needy students.
-
+<h3>Our Mission</h3>
+<p>The PTA is committed towards promoting close co-operation and understanding
+between parents, principal and teachers and providing the necessary support
+to the school so as to create a conducive learning environment that will
+bring out the best in the students.</p>
+<h3>Our Objectives</h3>
+<p>(a) to promote close co-operation and understanding between parents, principal
+and teachers for the welfare of the students</p>
+<p>(b) to provide opportunities for discussion and explanation between the
+school and parents in matters relating to the education of the student</p>
+<p>(c) to promote social interaction and fellowship among parents and teachers;
+and</p>
+<p>(d) to provide financial assistance to needy students.</p>
+<p>
 <br>
-<img style="width:650px" src="/images/PTA_2024_1.png">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:650px" height="auto" width="100%" src="/images/PTA_2024_1.png">
+</div>
+<p>
 <br>
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-</style>
-
- &nbsp;
- &nbsp; &nbsp;
- &nbsp; &nbsp;
- &nbsp; &nbsp;
- &nbsp;
- <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-4ufn"><span style="font-weight:bold">S/No</span></th>
-    <th class="tg-4ufn"><span style="font-weight:bold">Appointment</span></th>
-    <th class="tg-ykyb">Name</th>
-  </tr>
-</thead>
+</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">1</span></td>
-    <td class="tg-h5mn">President</td>
-    <td class="tg-h5mn">Heng Shao Sheng </td>
-  </tr>
-  <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">2</span></td>
-    <td class="tg-1ppo">Vice President</td>
-    <td class="tg-1ppo">Priyanka Mathur</td>
-  </tr>
-  <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">3</span></td>
-    <td class="tg-h5mn">Secretary</td>
-    <td class="tg-h5mn">Chia Wei Shee</td>
-  </tr>
-  <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">4</span></td>
-    <td class="tg-1ppo">Assistant Secretary</td>
-    <td class="tg-1ppo">Stefanie Chye Yen Leng</td>
-  </tr>
-  <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">5</span></td>
-    <td class="tg-h5mn">Treasurer</td>
-    <td class="tg-h5mn">Lau Bik Huat</td>
-  </tr>
-    <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">6</span><br></td>
-    <td class="tg-1ppo">EXCO members</td>
-    <td class="tg-1ppo">Fong Ching Hwa<br>See Wei Ling<br>Shakinah Begam Binte Mohamed Ibrahim<br>Chia Puay Kee Angelia<br>Hajirah Banu<br>Anita kaur<br>Lee Eng Ming<br>Sher-May Liew<br>Sherine
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>S/No</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
 </td>
-  </tr>
-	<tr>
-		<td class="tg-rs0e"><span style="font-weight:bold">7</span></td>
-		<td class="tg-h5mn">Auditor</td>
-		<td class="tg-h5mn">Anita Kaur</td></tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heng Shao Sheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Priyanka Mathur</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chia Wei Shee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stefanie Chye Yen Leng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lau Bik Huat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>6</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fong Ching Hwa
+<br>See Wei Ling
+<br>Shakinah Begam Binte Mohamed Ibrahim
+<br>Chia Puay Kee Angelia
+<br>Hajirah Banu
+<br>Anita kaur
+<br>Lee Eng Ming
+<br>Sher-May Liew
+<br>Sherine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anita Kaur</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### School Representative
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-4ufn"><span style="font-weight:bold">S/No</span></th>
-    <th class="tg-4ufn"><span style="font-weight:bold">Appointment</span></th>
-    <th class="tg-ykyb">Name</th>
-    <th class="tg-ykyb">Position</th>
-  </tr>
-</thead>
+<h3>School Representative</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">8</span></td>
-    <td class="tg-h5mn">EXCO-School Rep</td>
-    <td class="tg-h5mn"> Mr Subramanian Annamalai</td>
-    <td class="tg-h5mn"> Teacher</td>
-  </tr>
-  <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">9</span></td>
-    <td class="tg-1ppo">EXCO-School Rep</td>
-    <td class="tg-tsok"><span style="color:#000"> Mdm</span> Foo Lee Lian</td>
-    <td class="tg-1ppo"> Teacher</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>S/No</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO-School Rep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Chuan Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / PE &amp; CCA</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-[Click here](https://www.facebook.com/PTA.GESS)&nbsp;to visit our Facebook page.
-
-[Click here](/files/Constitution-of-Gan-Eng-Seng-School-Parents-Teacher-Association-Singapore.pdf)&nbsp;to access PTA Constitution
-
-***
-
-**Programmes**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Learning Journey**&nbsp;
-
-*   [GESS EDUCATION TRIP TO THE RELIGIOUS REHABILITATION GROUP (RRG)](/files/GESS-EDUCATION-TRIP-TO-THE-RELIGIOUS-REHABILITATION-GROUP-RRG.pdf)
-*   [Reflection on counter terrorism learning journey – 2F\_ Lee M J](/files/Reflection-on-counter-terrorism-learning-journey-2F_-Lee-M-J.pdf)
-*   [Learning Journey to RRC on 19 Nov 2019](/files/Learning-Journey-to-RRC-on-19-Nov-2019.pdf)
-*   [Learning Journey\_URA\_Reflection\_1Jun2019\_JoriusChuwa\_1G](/files/Learning-Journey_URA_Reflection_1Jun2019_JoriusChuwa_1G.pdf)
-*   [Reflection on Pulau Semakau -11th May -James 1G](/files/Reflection-on-Pulau-Semakau-11th-May-James-1G.pdf)
-*   [Reflection – Learning Journey to Marina Barrage](/files/Reflection-Learning-Journey-to-Marina-Barrage.pdf)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Parent Child Bonding Session**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Parenting Workshops**&nbsp;
-
-*   [Igniting Potential, Building a Future](/files/Igniting-Potential-Building-a-Future.pdf)
-*   [Be Cyber Smart – Learn best practices for parenting in the digital age](/files/Be-Cyber-Smart-Learn-best-practices-for-parenting-in-the-digital-age.pdf)
-
-**Annual**&nbsp;**General Meetings**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Notices**
-
-*   [AGM-Notice-2021\_1](/files/AGM-Notice-2021_1.pdf)
-*   [AGM Notice 2020](/files/AGM-Notice-2020.pdf)
-*   [AGM Notice 2019](/files/AGM-Notice-2019.pdf)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Meetings**
-
-*   [GESS-PTA AGM 2023 Minutes – 6 Apr 2023](/files/gess-pta-agm%202023%20minutes.pdf)
-*   [GESS-PTA AGM 2021 Minutes – 20 Mar 2021 vetted](/files/GESS-PTA-AGM-2021-Minutes-20-Mar-2021-vetted.pdf)
-*   [GESS-Miniutes of PTA Meeting held on 14 Oct 2020](/files/GESS-Miniutes-of-PTA-Meeting-held-on-14-Oct-2020-.pdf)
-*   [Minutes of GESS-PTA AGM 2018](/files/Minutes-of-GESS-PTA-AGM-2018.pdf)
-
-**FAQs**
-
-*   **HOW DO I JOIN THE PTA?**
-    *   You will be automatically be enrolled as a member of PTA as long as your child is pursing education in Gan Eng Seng School.
-
-*   **HOW DO I JOIN THE PTA Whatsapp chat group?**
-    *   Upon completion of google form given at the beginning of the Sec 1 registration, you will be admitted into the respective year and class group. If you need further assistance, please send an email to Mr. Subra,&nbsp;[subramanian\_annamalai@moe.edu.sg](mailto:subramanian_annamalai@moe.edu.sg).
-
-*   **IS IT COMPULSORY TO JOIN THE PTA Whatsapp chat group?**
-    *   While it’s not compulsory to join, parents are strongly encouraged as it serves as a supplementary communication channel to Parents Gateway Portal.
-
-*   **HOW CAN I HELP WITH THE PTA?**
-    *   You can volunteer your time /talents/ expertise with the PTA EXCO committee in coordinating and organising school based events.
-
-*   **WHEN ARE GESS PTA MEETINGS?**
-    *   General Meetings are held bi-monthly throughout the year for all members. Details are announced well ahead of time. The Annual General Meeting is usually held in March. The PTA EXCO Committee meets monthly to ensure the smooth management of GESS PTA.
-
-	*   monthly to ensure the smooth management of GESS PTA.
-
-**Other Link:**
-
-[Dadsforlife](https://sites.google.com/site/gessdadsforlife/)
+<p><a href="https://www.facebook.com/PTA.GESS" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to
+visit our Facebook page.</p>
+<p><a href="/files/Constitution-of-Gan-Eng-Seng-School-Parents-Teacher-Association-Singapore.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to
+access PTA Constitution</p>
+<hr>
+<p><strong>Programmes</strong>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Learning Journey</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/GESS-EDUCATION-TRIP-TO-THE-RELIGIOUS-REHABILITATION-GROUP-RRG.pdf" rel="noopener noreferrer nofollow" target="_blank">GESS EDUCATION TRIP TO THE RELIGIOUS REHABILITATION GROUP (RRG)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Reflection-on-counter-terrorism-learning-journey-2F_-Lee-M-J.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection on counter terrorism learning journey – 2F_ Lee M J</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Learning-Journey-to-RRC-on-19-Nov-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">Learning Journey to RRC on 19 Nov 2019</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Learning-Journey_URA_Reflection_1Jun2019_JoriusChuwa_1G.pdf" rel="noopener noreferrer nofollow" target="_blank">Learning Journey_URA_Reflection_1Jun2019_JoriusChuwa_1G</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Reflection-on-Pulau-Semakau-11th-May-James-1G.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection on Pulau Semakau -11th May -James 1G</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Reflection-Learning-Journey-to-Marina-Barrage.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection – Learning Journey to Marina Barrage</a>
+</p>
+</li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Parent Child Bonding Session</strong>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Parenting Workshops</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Igniting-Potential-Building-a-Future.pdf" rel="noopener noreferrer nofollow" target="_blank">Igniting Potential, Building a Future</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Be-Cyber-Smart-Learn-best-practices-for-parenting-in-the-digital-age.pdf" rel="noopener noreferrer nofollow" target="_blank">Be Cyber Smart – Learn best practices for parenting in the digital age</a>
+</p>
+</li>
+</ul>
+<p><strong>Annual</strong>&nbsp;<strong>General Meetings</strong>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Notices</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/AGM-Notice-2021_1.pdf" rel="noopener noreferrer nofollow" target="_blank">AGM-Notice-2021_1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/AGM-Notice-2020.pdf" rel="noopener noreferrer nofollow" target="_blank">AGM Notice 2020</a>
+</p>
+</li>
+<li>
+<p><a href="/files/AGM-Notice-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">AGM Notice 2019</a>
+</p>
+</li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Meetings</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/gess-pta-agm%202023%20minutes.pdf" rel="noopener noreferrer nofollow" target="_blank">GESS-PTA AGM 2023 Minutes – 6 Apr 2023</a>
+</p>
+</li>
+<li>
+<p><a href="/files/GESS-PTA-AGM-2021-Minutes-20-Mar-2021-vetted.pdf" rel="noopener noreferrer nofollow" target="_blank">GESS-PTA AGM 2021 Minutes – 20 Mar 2021 vetted</a>
+</p>
+</li>
+<li>
+<p><a href="/files/GESS-Miniutes-of-PTA-Meeting-held-on-14-Oct-2020-.pdf" rel="noopener noreferrer nofollow" target="_blank">GESS-Miniutes of PTA Meeting held on 14 Oct 2020</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Minutes-of-GESS-PTA-AGM-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Minutes of GESS-PTA AGM 2018</a>
+</p>
+</li>
+</ul>
+<p><strong>FAQs</strong>
+</p>
+<ul>
+<li>
+<p><strong>HOW DO I JOIN THE PTA?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You will be automatically be enrolled as a member of PTA as long as your
+child is pursing education in Gan Eng Seng School.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>HOW DO I JOIN THE PTA Whatsapp chat group?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Upon completion of google form given at the beginning of the Sec 1 registration,
+you will be admitted into the respective year and class group. If you need
+further assistance, please send an email to Mr. Subra,&nbsp;<a href="mailto:subramanian_annamalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subramanian_annamalai@moe.edu.sg</a>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>IS IT COMPULSORY TO JOIN THE PTA Whatsapp chat group?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>While it’s not compulsory to join, parents are strongly encouraged as
+it serves as a supplementary communication channel to Parents Gateway Portal.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>HOW CAN I HELP WITH THE PTA?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You can volunteer your time /talents/ expertise with the PTA EXCO committee
+in coordinating and organising school based events.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>WHEN ARE GESS PTA MEETINGS?</strong>
+</p>
+<ul>
+<li>
+<p>General Meetings are held bi-monthly throughout the year for all members.
+Details are announced well ahead of time. The Annual General Meeting is
+usually held in March. The PTA EXCO Committee meets monthly to ensure the
+smooth management of GESS PTA.</p>
+</li>
+<li>
+<p>monthly to ensure the smooth management of GESS PTA.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Other Link:</strong>
+</p>
+<p><a href="https://sites.google.com/site/gessdadsforlife/" rel="noopener noreferrer nofollow" target="_blank">Dadsforlife</a>
+</p>
