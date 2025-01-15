@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: WA Schedule 2025
+          date: 15 January 2025
+          announcement: Information on WA Schedule 2025
+          link_text: READ MORE
+          link_url: /weighted-assessment/
         - title: Briefing Materials for Sec 1 Meet Parent Session
           date: 15 January 2025
           announcement: Sec 1 Meet Parent Session 2024 Briefing Slides
@@ -40,11 +45,6 @@ sections:
           announcement: 2025 Joint Admissions Exercise and other relevant information
           link_text: READ ME
           link_url: /briefing-slides-and-information-on-2025-joint-admissions-exercise-jae/
-        - title: Release of 2024 GCE O Level Examination Results
-          date: 04 January 2025
-          announcement: Information on release date for 2024 GCE O Level Examination Results
-          link_text: READ MORE
-          link_url: /release-of-2024-gce-o-level-examination-results/
         - title: GESS Secondary 1 (2025) e-Registration
           date: 17 December 2024
           announcement: Information on Secondary 1 (2025) e-Registration

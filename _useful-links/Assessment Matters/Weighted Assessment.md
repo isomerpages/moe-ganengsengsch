@@ -5,32 +5,33 @@ description: ""
 third_nav_title: Assessment Matters
 variant: tiptap
 ---
-<h5>Weighted Assessment (WA) Schedule 2024</h5>
-<p><a href="/files/1G1_WA_Schedule_2024_GESS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1G1 WA 2024</a>
+<h5>Weighted Assessment (WA) Schedule 2025</h5>
+<p></p>
+<p><a href="/files/Sec1G1_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec1G1_WA</a>
 </p>
-<p><a href="/files/1G2_WA_Schedule_2024_GESS_caa4Apr24.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1G2 WA 2024</a>
+<p><a href="/files/Sec1G2_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec1G2_WA</a>
 </p>
-<p><a href="/files/1G3_WA_Schedule_2024_GESS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1G3 WA 2024</a>
+<p><a href="/files/Sec1G3_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec1G3_WA</a>
 </p>
-<p><a href="/files/2G1_WA_Schedule_2024_GESS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G1 WA 2024</a>
+<p><a href="/files/Sec2G1_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec2G1_WA</a>
 </p>
-<p><a href="/files/2G2_WA_Schedule_2024_GESS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G2 WA 2024</a>
+<p><a href="/files/Sec2G2_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec2G2_WA</a>
 </p>
-<p><a href="/files/2G3_WA_Schedule_2024_GESS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G3 WA 2024</a>
+<p><a href="/files/Sec2G3_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec2G3_WA</a>
 </p>
-<p><a href="/files/3G1_WA_Schedule_2024_GESS_updated_18Mar24.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3G1 WA 2024</a>
+<p><a href="/files/Sec3G1_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec3G1_WA</a>
 </p>
-<p><a href="/files/3G2_WA_Schedule_2024_GESS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3G2 WA 2024</a>
+<p><a href="/files/Sec3G2_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec3G2_WA</a>
 </p>
-<p><a href="/files/3G3_WA_Schedule_2024_GESS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3G3 WA 2024</a>
+<p><a href="/files/Sec3G3_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec3G3_WA</a>
 </p>
-<p><a href="/files/4G1_WA_Schedule_2024_GESS_caa4Apr24.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4G1 WA 2024</a>
+<p><a href="/files/Sec4G1_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec4G1_WA</a>
 </p>
-<p><a href="/files/4G2_WA_Schedule_2024_GESS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4G2 WA 2024</a>
+<p><a href="/files/Sec4G2_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec4G2_WA</a>
 </p>
-<p><a href="/files/4G3_WA_Schedule_2024_GESS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4G3 WA 2024</a>
+<p><a href="/files/Sec4G3_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec4G3_WA</a>
 </p>
-<p><a href="/files/5G2_WA_Schedule_2024_GESS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5G2 WA 2024</a>
+<p><a href="/files/Sec5G2_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec5G2_WA</a>
 </p>
 <p>
 <br>
