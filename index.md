@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Briefing Materials for Sec 1 Meet Parent Session
+          date: 15 January 2025
+          announcement: Sec 1 Meet Parent Session 2024 Briefing Slides
+          link_text: READ ME
+          link_url: /briefing-materials-for-sec-1-meet-parent-session/
         - title: Briefing slides and information on 2025 Joint Admissions Exercise (JAE)
           date: 10 January 2025
           announcement: 2025 Joint Admissions Exercise and other relevant information
