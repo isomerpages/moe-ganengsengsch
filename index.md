@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Term 1 letter to parents 2025
+          date: 16 January 2025
+          announcement: Term 1 letter 2025
+          link_text: READ MORE
+          link_url: /term-1-letter-to-parents-2025/
         - title: WA Schedule 2025
           date: 15 January 2025
           announcement: Information on WA Schedule 2025
@@ -45,11 +50,6 @@ sections:
           announcement: 2025 Joint Admissions Exercise and other relevant information
           link_text: READ ME
           link_url: /briefing-slides-and-information-on-2025-joint-admissions-exercise-jae/
-        - title: GESS Secondary 1 (2025) e-Registration
-          date: 17 December 2024
-          announcement: Information on Secondary 1 (2025) e-Registration
-          link_text: READ MORE
-          link_url: /gess-secondary-1-2025-e-registration/
         - title: 2024 GESS School Magazine
           date: 17 December 2024
           announcement: 2024 Year Book
