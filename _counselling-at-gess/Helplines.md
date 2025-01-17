@@ -613,6 +613,4 @@ problems.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/Mental-Health-Services-Directory.pdf" rel="noopener noreferrer nofollow" target="_blank">al Health Services Directory</a>
-<a href="/files/NCSS-List-of-Helplines.pdf" rel="noopener noreferrer nofollow" target="_blank">NCSS List of Helplines</a>
-</p>
+<p></p>
