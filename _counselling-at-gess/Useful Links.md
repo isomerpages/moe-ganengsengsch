@@ -18,9 +18,6 @@ variant: markdown
 
 **Resources**
 
-[https://www.msf.gov.sg/breakthesilence/Pages/Home.aspx](https://www.msf.gov.sg/breakthesilence/Pages/Home.aspx)
-
-
 [http://www.scwo.org.sg/youcansayno/where-to-get-help/](http://www.scwo.org.sg/youcansayno/where-to-get-help/)
 
 **Parenting Tips**
@@ -38,8 +35,6 @@ variant: markdown
 [https://www.psychologytools.com/self-help/a-guide-to-emotions/’](https://www.psychologytools.com/self-help/a-guide-to-emotions/)
 
 **Other Helpful Information related to Addiction for Parents**
-
-[https://visionsbypromises.com.sg/category/articles/](https://visionsbypromises.com.sg/category/articles/)
 
 [https://www.comeback.world/blog/](https://www.comeback.world/blog/)
 

@@ -4,6 +4,7 @@ permalink: /lp-news/talk-by-lawrence-on-motivation-14-july2018/
 date: 2018-06-26
 layout: post
 description: ""
+variant: markdown
 ---
 Dear Parents/Guardians of Gessians,
 
@@ -21,8 +22,6 @@ Details of the talk are as follows:
 (i)  Date                       :           Saturday, 14 July 2018  
 (ii) Time                       :           12.30 p.m. to 2p.m.  
 (iii) Venue                    :           AVA Studio
-
-Please ((BROKEN LINK)) [click here](https://drive.google.com/file/d/0BzeF8PXBxRevUXRxVDk4T3VISFlOMFVnbjhwNk1OcmhpWEpF/view?usp=sharing) to download the Reply Slip and return it to the respective Form-teacher by 9 July.
 
 We look forward to seeing all of you.
 
