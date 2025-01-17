@@ -4,6 +4,7 @@ permalink: /lp-news/health-talk-on-a-balanced-diet-ying-and-yang-food/
 date: 2018-07-21
 layout: post
 description: ""
+variant: markdown
 ---
 Dear Parents/Guardians of Gessians,
 
@@ -25,7 +26,6 @@ Details of the talks are as follows:
 (v) Cost : Free  
 Light refreshment will be served from 12 noon to 12.30p.m
 
-Please ((BROKENLINK)) [click here](https://drive.google.com/file/d/1wbptl0eFaZ-x1QWanLJkzEBmSMi8z7jw/view?usp=sharing) to download the Reply Slip and return it through your Mdm Foo Lee Lian by 27 July 2018.
 
 We look forward to seeing all of you.
 
