@@ -36,8 +36,6 @@ variant: markdown
 
 **Other Helpful Information related to Addiction for Parents**
 
-[https://visionsbypromises.com.sg/category/articles/](https://visionsbypromises.com.sg/category/articles/)
-
 [https://www.comeback.world/blog/](https://www.comeback.world/blog/)
 
 [https://www.nams.sg/helpseekers/internet-and-gaming/Pages/default.aspx](https://www.nams.sg/helpseekers/internet-and-gaming/Pages/default.aspx)
