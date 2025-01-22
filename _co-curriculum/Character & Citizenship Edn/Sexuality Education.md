@@ -207,7 +207,7 @@ of online falsehoods, flouting copyright laws, etc.)</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
 <h2><strong>Secondary 2</strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
@@ -234,7 +234,6 @@ of online falsehoods, flouting copyright laws, etc.)</p>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
-<p>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
@@ -267,8 +266,9 @@ identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that one’s understanding
-of gender roles should not be limited by gender stereotypes</p>
+<p>At the end of the lesson, students will be able to: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+know that one’s understanding of gender roles should not be limited by
+gender stereotypes</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; develop an appreciation
 of one’s own unique qualities and characteristics as a male or female</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what sexual
@@ -332,7 +332,7 @@ risks and avoid negative consequences, both offline and online</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
 <h2><strong>Secondary 3</strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
@@ -361,7 +361,7 @@ risks and avoid negative consequences, both offline and online</p>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
-<p>At the end of the lesson, students will be able to:</p>
+<p>At the end of the lessons, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
