@@ -471,7 +471,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h2><strong>Secondary 4</strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
