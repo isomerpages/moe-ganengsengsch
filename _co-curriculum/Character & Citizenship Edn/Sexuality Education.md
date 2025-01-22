@@ -77,7 +77,7 @@ which are of prime concern at this age.<strong><br></strong>
 </p>
 <p><strong>At Gan Eng Seng School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
-<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h2><strong>Secondary 1</strong></h2>
 <p><strong>&nbsp;</strong>
 </p>
@@ -106,7 +106,6 @@ which are of prime concern at this age.<strong><br></strong>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
-<p>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
@@ -135,9 +134,9 @@ online and offline.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance
-of monitoring and managing our emotional reactions, in helpful ways that
-are reflective of our values and principles</p>
+<p>At the end of the lesson, students will be able to: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+recognise the importance of monitoring and managing our emotional reactions,
+in helpful ways that are reflective of our values and principles</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there
 are different forms of love (e.g. familial, platonic, romantic love)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance
