@@ -471,7 +471,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
 <h2><strong>Secondary 4</strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
@@ -636,7 +636,7 @@ our beliefs</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h2><strong>Secondary 5</strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
@@ -715,7 +715,7 @@ to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
-<h4><strong>At Gan Eng Seng School, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong></h4>
+<h4><strong>At Gan Eng Seng School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -778,13 +778,13 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be communicated to parents at
-the start of the year and is also downloadable <a href="https://go.gov.sg/gesssedoptout2024" rel="noopener noreferrer nofollow" target="_blank">here</a> . The completed form
-is to be submitted by 31/01/2024.</p>
+the start of the year and is also downloadable <a href="https://go.gov.sg/gesssed2025optout" rel="noopener noreferrer nofollow" target="_blank">here</a> . The completed form
+is to be submitted by 27/01/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="https://go.gov.sg/gesseteensoptout" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;The completed
-form is to be submitted by 31/01/2024.</p>
+of the year and is also downloadable <a href="https://go.gov.sg/gesseteensoptout2025" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;The completed
+form is to be submitted by 27/01/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at <a rel="noopener noreferrer nofollow" target="_blank">gess@moe.edu.sg</a> or
 6474 5594 for discussion or to seek clarification about the school’s Sexuality
