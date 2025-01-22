@@ -75,9 +75,9 @@ a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.<strong><br></strong>
 </p>
-<p><strong>At Gan Eng Seng School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p><strong>At Gan Eng Seng School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
 <h2><strong>Secondary 1</strong></h2>
 <p><strong>&nbsp;</strong>
 </p>
