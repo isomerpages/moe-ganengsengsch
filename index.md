@@ -40,16 +40,6 @@ sections:
           announcement: Information on WA Schedule 2025
           link_text: READ MORE
           link_url: /weighted-assessment/
-        - title: Briefing Materials for Sec 1 Meet Parent Session
-          date: 15 January 2025
-          announcement: Sec 1 Meet Parent Session 2024 Briefing Slides
-          link_text: READ ME
-          link_url: /briefing-materials-for-sec-1-meet-parent-session/
-        - title: Briefing slides and information on 2025 Joint Admissions Exercise (JAE)
-          date: 10 January 2025
-          announcement: 2025 Joint Admissions Exercise and other relevant information
-          link_text: READ ME
-          link_url: /briefing-slides-and-information-on-2025-joint-admissions-exercise-jae/
         - title: 2024 GESS School Magazine
           date: 17 December 2024
           announcement: 2024 Year Book
