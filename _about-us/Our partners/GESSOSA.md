@@ -20,7 +20,7 @@ img {
 <img src="/images/shahrin%20bin%20abdul%20salam.jpg" alt="Mr-Shahrin Bin Abdol Salam" style="width:25%;">  
 
 
-<p style="text-align:center;"> <strong>Shahrin Bin Abdol Salam, PBM</strong><br><em>Chief Executive Officer, Singapore</em><br>SingPost Ltd
+<p style="text-align:center;"> <strong>Shahrin Bin Abdol Salam, PBM</strong><br><em></em><br>
 <br><strong>Class of 89</strong></p>
 
 
