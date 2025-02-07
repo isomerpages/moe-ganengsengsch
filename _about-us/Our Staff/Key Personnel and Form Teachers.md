@@ -376,7 +376,8 @@ variant: tiptap
 <p>Mr Ng Tuan Kiat Jimmy (NTK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_tuan_kiat@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_tuan_kiat@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -421,7 +422,8 @@ variant: tiptap
 <p>Ms Lynn Kwek Xinyi (KXY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lynn_kwek_xinyi@moe.edu.sg" rel="noopener nofollow" target="_blank">lynn_kwek_xinyi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>

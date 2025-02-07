@@ -75,7 +75,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Kwang Mong</p>
+<p>Mr Sim Kwang Mong <a href="mailto:sim_kwang_mong@schools.gov.sg" rel="noopener nofollow" target="_blank">sim_kwang_mong@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
@@ -83,15 +84,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gina Tan Lay Bee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education and Career Guidance Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Yap (Goh Hwee Ting)</p>
+<p>Mrs Yap (Goh Hwee Ting) <a href="mailto:goh_hwee_ting@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_hwee_ting@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Needs Educational Officer</p>
@@ -172,14 +166,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Nirmala Devi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Munah Bte Pardi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
