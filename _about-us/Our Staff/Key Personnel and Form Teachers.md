@@ -376,7 +376,8 @@ variant: tiptap
 <p>Mr Ng Tuan Kiat Jimmy (NTK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_tuan_kiat@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_tuan_kiat@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
