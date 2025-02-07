@@ -75,7 +75,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Kwang Mong <a href="mailto:sim_kwang_mong@schools.gov.sg" rel="noopener nofollow" target="_blank">sim_kwang_mong@schools.gov.sg</a>
+<p>Mr Sim Kwang Mong</p>
+<p><a href="mailto:sim_kwang_mong@schools.gov.sg" rel="noopener nofollow" target="_blank">sim_kwang_mong@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,7 +85,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Yap (Goh Hwee Ting) <a href="mailto:goh_hwee_ting@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_hwee_ting@schools.gov.sg</a>
+<p>Mrs Yap (Goh Hwee Ting)</p>
+<p><a href="mailto:goh_hwee_ting@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_hwee_ting@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
