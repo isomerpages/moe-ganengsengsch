@@ -32,6 +32,15 @@ different places to learn and grow the required skills and dispositions.
 The design thinking approach encourages creative, client-centric problem-solving
 skills. It also develops teamwork and creativity.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_VIA_1.png">
+</div>
+<p><strong>Key GESS CARES focus for each level.</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_VIA_2.png">
+</div>
 <p>Other Key VIA activities which promote self-directedness and ownership
 in students:</p>
 <ul data-tight="true" class="tight">
@@ -101,3 +110,4 @@ Share-a-Textbook.</p>
 <p>
 <br>
 </p>
+<p></p>
