@@ -5,10 +5,32 @@ description: ""
 third_nav_title: Character & Citizenship Edn
 variant: tiptap
 ---
-<p><strong><u>Vision</u></strong>
+<p><strong><u>Vision for GESS CARES</u></strong>
 </p>
-<p>To nurture Gessians into active citizens who serve with compassion and
-who love Singapore.</p>
+<p>Gessians are active contributors who are willing to act and serve others.</p>
+<p><strong><u>Desired Student Outcomes</u></strong>
+</p>
+<p>By the end of 4/5 years, Gessians would have</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; experiences in the various
+aspects of community service</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; developed a sense of
+compassion for the less privileged and fortunate</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; grown a heart of service
+to the community &amp; beyond</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; developed 21CC skills
+in adaptive &amp; inventive thinking and communication</p>
+<p>GESS CARES is a valuable student development experience that GESS provides
+for our students to nurture them into active citizens with the heart to
+serve the community.</p>
+<p>GESS CARES encourages student ownership and initiative, providing a platform
+where students reflect on their experiences, the values they have put into
+practice, and how they can contribute meaningfully to impact the people
+they interact with.</p>
+<p>Design thinking framework is used when planning the VIA activities to
+allow students to interact with people from all walks of life and visit
+different places to learn and grow the required skills and dispositions.
+The design thinking approach encourages creative, client-centric problem-solving
+skills. It also develops teamwork and creativity.</p>
 <p><strong><u>About us</u></strong>
 </p>
 <p>VIA is a valuable student development experience that GESS provides for
