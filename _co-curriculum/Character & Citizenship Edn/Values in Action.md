@@ -5,32 +5,45 @@ description: ""
 third_nav_title: Character & Citizenship Edn
 variant: tiptap
 ---
-<p><strong><u>Vision</u></strong>
+<p><strong><u>Vision for GESS CARES</u></strong>
 </p>
-<p>To nurture Gessians into active citizens who serve with compassion and
-who love Singapore.</p>
-<p><strong><u>About us</u></strong>
+<p>Gessians are active contributors who are willing to act and serve others.</p>
+<p><strong><u>Desired Student Outcomes</u></strong>
 </p>
-<p>VIA is a valuable student development experience that GESS provides for
-our students to nurture them into active citizens with the heart to serve
-others in the community with compassion.</p>
-<p>Besides the activity alone, GESSCares encourages student ownership and
-initiative, providing a platform where students reflect on their experiences,
-the values they have put into practice, and how they can contribute meaningfully
-to impact the people they interact with. We adopt the&nbsp;<strong>3P (People, Places, exPeriences)</strong>&nbsp;approach
-when planning the VIA activities to allow students to interact with different
-people from all walks of life and visit different places to learn.</p>
-<p>Key VIA activities include:</p>
+<p>By the end of 4/5 years, Gessians would have</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; experiences in the various
+aspects of community service</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; developed a sense of
+compassion for the less privileged and fortunate</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; grown a heart of service
+to the community &amp; beyond</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; developed 21CC skills
+in adaptive &amp; inventive thinking and communication</p>
+<p>GESS CARES is a valuable student development experience that GESS provides
+for our students to nurture them into active citizens with the heart to
+serve the community.</p>
+<p>GESS CARES encourages student ownership and initiative, providing a platform
+where students reflect on their experiences, the values they have put into
+practice, and how they can contribute meaningfully to impact the people
+they interact with.</p>
+<p>Design thinking framework is used when planning the VIA activities to
+allow students to interact with people from all walks of life and visit
+different places to learn and grow the required skills and dispositions.
+The design thinking approach encourages creative, client-centric problem-solving
+skills. It also develops teamwork and creativity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_VIA_1.png">
+</div>
+<p><strong>Key GESS CARES focus for each level.</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_VIA_2.png">
+</div>
+<p>Other Key VIA activities which promote self-directedness and ownership
+in students:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>GESS&nbsp;<strong>C</strong>lean: keeping our environment clean (cleaning
-of our school premises, beaches and neighbourhood),</p>
-</li>
-<li>
-<p>GESS Inter<strong>A</strong>ct: interacting with the elderly and residents
-at Thong Kheng Senior Activity Centre, Thye Hua Kwan Senior Activity Centre
-and Boon Tiong Residents’ Committee,</p>
-</li>
 <li>
 <p>GESS&nbsp;<strong>R</strong>ead: reading to the Primary school students
 (kidsREAD programme with Gan Eng Seng Primary School &amp; Read Well Programme
@@ -45,6 +58,8 @@ in their Mathematics (Math Tutoring Programme with Alexandra Primary School
 <p>GESS&nbsp;<strong>S</strong>erve: Serving and supporting community events
 such as Henderson Dawson National Day Observance Ceremony and Fairprice
 Share-a-Textbook.</p>
+<p></p>
+<p></p>
 <p></p>
 <p>Sec 2 Cleaning the Neighbourhood during Founder's Day</p>
 <div class="isomer-image-wrapper">
@@ -95,3 +110,4 @@ Share-a-Textbook.</p>
 <p>
 <br>
 </p>
+<p></p>
