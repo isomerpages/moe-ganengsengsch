@@ -26,6 +26,12 @@ sections:
           description: Integrity | Compassion | Resilience | Discipline | Respect
           url: /about-us/vision-mission-values/
       variant: center
+  - infopic:
+      title: GESS 140 Anniversary Dinner
+      id: infopic
+      description: Refer to poster for more information.
+      image: /images/WhatsApp_Image_2025_02_15_at_11_20_46.jpg
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
