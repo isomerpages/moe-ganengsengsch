@@ -31,7 +31,7 @@ sections:
       id: infopic
       description: Reserve your table/seat now.
       image: /images/WhatsApp_Image_2025_02_15_at_11_20_46.jpg
-      alt: Image alt text
+      alt: GESS Dinner Poster
       button: Click here
       url: tinyurl.com/GESS140Dinner
   - announcements:
