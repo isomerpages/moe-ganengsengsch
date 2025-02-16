@@ -33,7 +33,7 @@ sections:
       image: /images/WhatsApp_Image_2025_02_15_at_11_20_46.jpg
       alt: GESS Dinner Poster
       button: Click here
-      url: tinyurl.com/GESS140Dinner
+      url: https://tinyurl.com/GESS140Dinner
   - announcements:
       title: Announcements
       id: announcements
