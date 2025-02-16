@@ -29,9 +29,11 @@ sections:
   - infopic:
       title: GESS 140 Anniversary Dinner
       id: infopic
-      description: Refer to poster for more information.
+      description: Reserve your table/seat now.
       image: /images/WhatsApp_Image_2025_02_15_at_11_20_46.jpg
       alt: Image alt text
+      button: Click here
+      url: tinyurl.com/GESS140Dinner
   - announcements:
       title: Announcements
       id: announcements
