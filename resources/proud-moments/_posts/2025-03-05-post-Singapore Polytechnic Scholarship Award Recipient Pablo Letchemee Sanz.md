@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>GESS celebrates that our former student, Pablo Letchemee Sanz, was selected
+for this year’s Singapore Polytechnic Scholarship Award.</p>
 <p>We are indeed proud of Pablo, another Gessian, who has embodied our value
 of resilience.</p>
 <p>Onward Pablo</p>
