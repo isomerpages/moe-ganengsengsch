@@ -644,11 +644,10 @@ variant: tiptap
 <p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Siew Kwong (TSK)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_siew_kwong@schools.gov.sg" rel="noopener noreferrer" target="_blank">tang_siew_kwong@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
