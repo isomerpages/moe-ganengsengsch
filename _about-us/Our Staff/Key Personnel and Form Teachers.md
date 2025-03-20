@@ -755,7 +755,7 @@ variant: tiptap
 <p>Ms Marhaidah Abdul Hamid (MAR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_chew_woo@schools.gov.sg" rel="noopener noreferrer" target="_blank">tay_chew_woo@schools.gov.sg</a>
+<p><a href="mailto:marhaidah_abdul_hamid@schools.gov.sg" rel="noopener nofollow" target="_blank">marhaidah_abdul_hamid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -764,7 +764,7 @@ variant: tiptap
 <p>Mr Tay Chew Woo (TCW)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marhaidah_abdul_hamid@schools.gov.sg" rel="noopener nofollow" target="_blank">marhaidah_abdul_hamid@schools.gov.sg</a>
+<p><a href="mailto:tay_chew_woo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_chew_woo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -824,10 +824,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Fion Tan (TGL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Tan_Geok_Leng_A@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_geok_leng_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
