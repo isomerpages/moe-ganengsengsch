@@ -51,11 +51,11 @@ mile to help the weaker students.&nbsp; Mr Chiu hopes GESS will be a top
 school and produce students who do not only excel in their studies but
 also have a heart to give back to the society.</p>
 <h4>Member</h4>
-<h4>Dr Wong Keng Mun </h4>
+<h4>Dr Wong Keng Mun</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wong_Keng_Mun_2025.png">
 </div>
-<h4><br>Class of 1987</h4>
+<h4>Class of 1987</h4>
 <p>Dr. Wong Keng Mun is the Chairman of T32 Dental Group and lectures internationally
 on a frequent basis, including at his alma mater the University of Washington,
 USA and the National University of Singapore. He plays an active role in
