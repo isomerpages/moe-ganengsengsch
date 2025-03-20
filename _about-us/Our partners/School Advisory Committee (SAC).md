@@ -147,7 +147,4 @@ Excellence Awards 2024.</p>
 who taught Sam the finer skills of Drama and Debating in the English Literary
 Drama and Debating Society (ELDDS).&nbsp; Another teacher that Sam remembers
 fondly is Cikgu Yusof, who was his coach in the GESS Soccer Team.</p>
-<p></p>
-<p></p>
-<p></p>
-<p>was his coach in the GESS Soccer Team.m.</p>
+<p>GESS Soccer Team.m.</p>
