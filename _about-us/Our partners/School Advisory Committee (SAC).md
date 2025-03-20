@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4>Chairman</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Lawrence_Lim.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Lawrence_Lim.png">
 </div>
 <h4>Mr Lawrence Lim<br>Class of 1989</h4>
 <p>Mr Lawrence Lim is currently the General Manager of EIOS 99 Pte Ltd.&nbsp;
@@ -37,7 +37,7 @@ Yoke, who made a significant impact on his life, to which he is forever
 grateful.</p>
 <h4>Vice-Chairman</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Chiu_Wu_Hong.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Chiu_Wu_Hong.png">
 </div>
 <h4>Mr Chiu Wu Hong<br>Class of 1984</h4>
 <p>Mr Chiu Wu Hong is a tax partner and also leads the Private Enterprise
@@ -52,9 +52,9 @@ school and produce students who do not only excel in their studies but
 also have a heart to give back to the society.</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Wong_Keng_Mun_2025.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Wong_Keng_Mun_2025.png">
 </div>
-<h4>Dr Wong Keng Mun<br>Class of 1987 </h4>
+<h4>Dr Wong Keng Mun<br>Class of 1987</h4>
 <p>Dr. Wong Keng Mun is the Chairman of T32 Dental Group and lectures internationally
 on a frequent basis, including at his alma mater the University of Washington,
 USA and the National University of Singapore. He plays an active role in
@@ -70,7 +70,7 @@ be able to share the love he has for learning and find GESS the place where
 they nurture not only their minds, but also their hearts.</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Muhamad_Imaduddien_Bin_Abd_Karim.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Muhamad_Imaduddien_Bin_Abd_Karim.png">
 </div>
 <h4>Mr Muhamad Imaduddien Bin Abd Karim<br>Class of 1993</h4>
 <p>Mr Muhamad Imaduddien is a Legal Officer with the Ministry of Defence.
@@ -86,7 +86,7 @@ and should happen all the time. He also hopes that they continue to ask
 “why?”</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Samuel_Ang.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Samuel_Ang.png">
 </div>
 <h4>Mr Samuel Ang<br>Class of 1982</h4>
 <p>Mr Samuel Ang is a senior advisor to the government of various countries
@@ -110,7 +110,7 @@ and lifelong learning—sailing "Onward" like the Chinese junk featured in
 the GESS crest.</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Lee_Siow_Hwee.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Lee_Siow_Hwee.png">
 </div>
 <h4>Ms Lee Siow Hwee<br>Class of 1995</h4>
 <p>Ms Lee Siow Hwee is the Deputy Director (Operations Development and Planning)
@@ -127,7 +127,7 @@ GESS where every student can discover their strengths and develop the skills
 needed to navigate today's fast-changing world with confidence and purpose.</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sam_Liew.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sam_Liew.png">
 </div>
 <h4>Mr Sam Liew<br>Class of 1989</h4>
 <p>Mr Sam Liew is the is Deputy CEO, NCS and the Chief Executive, Government
