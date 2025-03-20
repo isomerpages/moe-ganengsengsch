@@ -110,10 +110,10 @@ his alma mater, inspiring Gessians to embrace resilience, adaptability,
 and lifelong learning—sailing "Onward" like the Chinese junk featured in
 the GESS crest.</p>
 <h4>Member</h4>
-<h4>Ms Lee Siow Hwee</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Lee_Siow_Hwee.png">
 </div>
+<h4>Ms Lee Siow Hwee</h4>
 <h4>Class of 1995</h4>
 <p>Ms Lee Siow Hwee is the Deputy Director (Operations Development and Planning)
 of People's Association (PA). She has served in PA for 23 years in various
@@ -128,10 +128,10 @@ Year gathering at his place. She believes in creating an environment at
 GESS where every student can discover their strengths and develop the skills
 needed to navigate today's fast-changing world with confidence and purpose.</p>
 <h4>Member</h4>
-<h4>Mr Sam Liew</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sam_Liew.png">
 </div>
+<h4>Mr Sam Liew</h4>
 <h4>Class of 1989</h4>
 <p>Mr Sam Liew is the is Deputy CEO, NCS and the Chief Executive, Government
 Strategic Business Group (Gov+) at NCS.&nbsp; Sam is also Board Director
