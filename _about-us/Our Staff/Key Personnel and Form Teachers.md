@@ -644,10 +644,11 @@ variant: tiptap
 <p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ong Jing Xuan Jamie (OJX)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Ong_Jing_Xuan_Jamie@schools.gov.sg" rel="noopener noreferrer" target="_blank">ong_jing_xuan_jamie@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
