@@ -1059,7 +1059,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Xi (CX)</p>
+<p>Ms Voon Ser Kei (VSK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_xi_f@schools.gov.sg" rel="noopener" target="_blank">chen_xi_f@schools.gov.sg</a>
