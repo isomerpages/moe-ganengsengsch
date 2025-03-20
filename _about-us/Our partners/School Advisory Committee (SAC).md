@@ -7,65 +7,54 @@ variant: tiptap
 ---
 <h4>Chairman</h4>
 <div class="isomer-image-wrapper">
-<img style="width:33%;" height="auto" width="100%" alt="Mr-Johnny-Heng-new" src="/images/Mr-Johnny-Heng-new.jpeg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Lawrence_Lim.png">
 </div>
-<h4>Mr Johnny Heng, PBM<br>Class of 1987</h4>
-<p>Mr Johnny Heng is Managing Director and Head of the Singapore branch in
-Liechtenstein-based VP Bank. He holds a Bachelor of Arts (Economics) from
-the National University of Singapore, a Master of Finance from Baruch College
-of The City University of New York and a Juris Doctor from the Singapore
-University of Social Sciences. He is married with 3 sons and his hobbies
-include playing football, badminton and golf. Two GESS teachers who&nbsp;left
-lasting&nbsp;impressions were Mr Lim Bun and Mr Wong Kwang Pin. As his
-Track and Field teacher/coach, Mr Lim taught him the art of succeeding
-by competing in the “less crowded field”. Mr Wong, as his NPCC teacher-in-charge,
-instilled in him the importance of leadership by example. He hopes for
-GESS to be an all-rounded school that lives up to her name by providing
-GESSIANs, present and future, with a balanced holistic secondary school
-experience.</p>
+<h4>Mr Lawrence Lim<br>Class of 1989</h4>
+<p>Mr Lawrence Lim is currently the General Manager of EIOS 99 Pte Ltd.&nbsp;
+He was Singapore’s Chief of Artillery from 2014 to 2016 and successfully
+organised the State Funeral Procession for Singapore’s founding Prime Minister,
+Mr Lee Kuan Yew (March 2015); as well as the Opening and Closing Ceremonies
+of the 28<sup>th</sup> SEA Games held in Singapore (June 2015). During his
+25-years with the Singapore Armed Forces (SAF), Lawrence developed complex
+Enterprise-level HR processes and systems to transform HR structures and
+delivered best-in-class results for the organisation. He also won the 2006
+Defence Technology Award (Research &amp; Development) for successfully
+developing and operationalising the world’s first heli-portable lightweight
+howitzer for the SAF, the Pegasus.</p>
+<p>Lawrence’s passion in people also saw him coaching and mentoring leaders
+in government organisations, MNCs and start-ups for timely leadership succession
+and organisational transformation. In recognition of his contributions,
+Lawrence won the Leading CEO Award from the Singapore HR Institute (SHRI)
+in September 2014, and was awarded the Singapore SOKA Association Goodwill
+Award in 2015 for his leadership in the 28th SEA Games.&nbsp; After his
+retirement from the SAF in 2016, Lawrence published his book “<em>From Doing to Dreaming – The Four Practices of Leadership</em>”.
+He is a regular speaker on the topic of leadership and appeared in TEDx
+in April 2018.&nbsp; Lawrence holds a Master’s degree from the Imperial
+College of London, the Naval Postgraduate School, the Royal Canadian Defence
+College and the Massachusetts Institute of Technology (MIT). He has very
+fond memories of GESS, in particular of his form teacher, Mrs Cheong Peck
+Yoke, who made a significant impact on his life, to which he is forever
+grateful.</p>
 <h4>Vice-Chairman</h4>
 <div class="isomer-image-wrapper">
-<img style="width:33%;" height="auto" width="100%" alt="Mr-Kenneth-Tang" src="/images/Mr-Kenneth-Tang-new.jpeg">
-</div>
-<h4>Mr Kenneth Tang<br>Class of 1985</h4>
-<p>Mr Kenneth Tang is a lawyer in private practice. He is married with 1
-child, has a Master’s degree and his hobby includes reading. Mr Tang’s
-most memorable teachers are Mr Lim Choon Beng and Mr Abraham Joseph. He
-finds Mr Lim strict but fair and remembers Mr Abraham Joseph as a teacher
-who could identify well with the students. Mr Tang wishes for GESS to be
-a premier school and to give a chance to students from all backgrounds,
-to be something more. Additionally, he hopes the school will instill a
-sense of giving back to society in her students.</p>
-<h4>Member</h4>
-<div class="isomer-image-wrapper">
-<img style="width:33%;" height="auto" width="100%" alt="Mr-Lim-Hock-Guan" src="/images/Mr-Lim-Hock-Guan.jpeg">
-</div>
-<h4>Mr Lim Hock Guan<br>Class of 1985</h4>
-<p>Mr Lim Hock Guan works at United Overseas Bank. &nbsp;He is married with
-2 sons, enjoys food and keeps active with regular exercising. &nbsp;Mr
-Lim graduated from National University of Singapore with a Bachelor of
-Business Administration. &nbsp;&nbsp;Two of his most memorable teachers
-were Mr Lim Choon Beng, who was in charge of NCC, and Ms Chan, who taught
-him Additional Mathematics in Secondary 4.</p>
-<h4>Member</h4>
-<div class="isomer-image-wrapper">
-<img style="width:33%;" height="auto" width="100%" alt="Mr-Chiu-Wu-Hong" src="/images/Mr-Chiu-Wu-Hong-2.jpeg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Chiu_Wu_Hong.png">
 </div>
 <h4>Mr Chiu Wu Hong<br>Class of 1984</h4>
-<p>Mr Chiu Wu Hong is a tax partner in KPMG Singapore.&nbsp; He has a Bachelor
-of Business Degree (major in Accounting) from the University of Tasmania.&nbsp;
-He is a fellow member of CPA Australia and member of Singapore Chartered
-Tax Professionals.&nbsp; He is married with 2 daughters and his hobbies
-include reading, listening to music and travelling.&nbsp; His most memorable
-teacher is Mr Lim Choon Beng who was very passionate in his work and always
-willing to go the extra mile to help the weaker students.&nbsp; Mr Chiu
-hopes GESS will be a top school and produce students who do not only excel
-in their studies but also have a heart to give back to the society.</p>
+<p>Mr Chiu Wu Hong is a tax partner and also leads the Private Enterprise
+business in KPMG Singapore.&nbsp; He has a Bachelor of Business Degree
+(major in Accounting) from the University of Tasmania.&nbsp; He is a fellow
+member of CPA Australia and member of Singapore Chartered Tax Professionals.&nbsp;
+He is married with 2 daughters and his hobbies include reading, listening
+to music and travelling.&nbsp; His most memorable teacher is Mr Lim Choon
+Beng who was very passionate in his work and always willing to go the extra
+mile to help the weaker students.&nbsp; Mr Chiu hopes GESS will be a top
+school and produce students who do not only excel in their studies but
+also have a heart to give back to the society.</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 34%;" height="auto" width="100%" alt="Dr Wong Keng Mun" src="/images/Dr_Wong_Keng_Mun.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Wong_Keng_Mun_2025.png">
 </div>
-<h4>Dr Wong Keng Mun <br>Class of 1987</h4>
+<h4>Dr Wong Keng Mun<br>Class of 1987</h4>
 <p>Dr. Wong Keng Mun is the Chairman of T32 Dental Group and lectures internationally
 on a frequent basis, including at his alma mater the University of Washington,
 USA and the National University of Singapore. He plays an active role in
@@ -81,13 +70,13 @@ be able to share the love he has for learning and find GESS the place where
 they nurture not only their minds, but also their hearts.</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
-<img style="width:33%;" height="auto" width="100%" alt="Mr-Muhamad-Imaduddien-Bin-Abd-Karim" src="/images/Mr-Muhamad-Imaduddien-Bin-Abd-Karim-1.jpeg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Muhamad_Imaduddien_Bin_Abd_Karim.png">
 </div>
 <h4>Mr Muhamad Imaduddien Bin Abd Karim<br>Class of 1993</h4>
-<p>Mr Muhamad Imaduddien is a Deputy Public Prosecutor with the Attorney-General’s
-Chambers. He is married with 1 child and his hobbies include playing badminton
-and volunteering. His most memorable teachers are Ms Catherine Ng and Ms
-Mah Lai Heng. He recalls fondly of how Ms Ng ignited his interest in playing
+<p>Mr Muhamad Imaduddien is a Legal Officer with the Ministry of Defence.
+He is married with 1 child and his hobbies include playing badminton and
+volunteering. His most memorable teachers are Ms Catherine Ng and Ms Mah
+Lai Heng. He recalls fondly of how Ms Ng ignited his interest in playing
 a number of sports at the inter-class and eventually, at the zone and national
 level. He will also be forever grateful to Ms Mah as he would not have
 passed his ‘E’ Maths and Chemistry exams without her patience and guidance.
@@ -97,56 +86,61 @@ and should happen all the time. He also hopes that they continue to ask
 “why?”</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
-<img style="width:33%;" height="auto" width="100%" alt="Mr-Samuel-Ang" src="/images/Mr-Samuel-Ang-new.jpeg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Samuel_Ang.png">
 </div>
 <h4>Mr Samuel Ang<br>Class of 1982</h4>
-<p>Mr Samuel Ang is the Chairman of the National Research Foundation (NRF)
-funded Incubator &amp; Accelerator, Pollinate. He is also involved in many
-major social development initiatives with the Asian Development Bank (ADB)
-throughout Asia and a regular speaker at ADB international conferences.&nbsp;
-He has a Bachelor of Electrical Engineering (NUS) and Masters in Business
-Administration (HU).&nbsp; He is married with 3 children and his hobbies
-are sailing, walking and reading. His most memorable teachers include Mr
-Lim Choon Beng (NCC – instilled discipline and leadership) and Mdm Foo
-(Geography – sparked my interest in the world we live in when reviewing
-history and geography). He hopes all GESSIANs will always be resilient
-and continue sailing “Onward” in the Chinese junk as featured in our GESS
-crest.</p>
+<p>Mr Samuel Ang is a senior advisor to the government of various countries
+on innovation,&nbsp; national strategies for technology development, industry
+transformation, and startup ecosystems across Asia. He plays a key role
+in shaping innovation policies, fostering research-driven enterprises,
+and accelerating economic growth in emerging markets. He is also deeply
+involved in social and economic development initiatives and regularly speaks
+at international conferences on innovation, sustainability, and industry
+transformation. With expertise in technology, open innovation, and economic
+strategy, he actively bridges research, business, and policy to drive meaningful
+impact.</p>
+<p>Samuel holds a Bachelor of Electrical Engineering from NUS and a Master
+of Business Administration from HU. Reflecting on his formative years,
+he credits Mr Lim Choon Beng (NCC – discipline and leadership) and Mdm
+Foo (Geography – fostering curiosity about the world) as his most memorable
+teachers. Beyond his professional commitments, Samuel enjoys sailing, walking,
+and reading. Married with three children, he remains deeply connected to
+his alma mater, inspiring Gessians to embrace resilience, adaptability,
+and lifelong learning—sailing "Onward" like the Chinese junk featured in
+the GESS crest.</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
-<img style="width:33%;" height="auto" width="100%" alt="Ms-Lee" src="/images/Ms-Lee-717x1024.jpeg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Lee_Siow_Hwee.png">
 </div>
 <h4>Ms Lee Siow Hwee<br>Class of 1995</h4>
-<p>Ms Lee Siow Hwee is the Executive Director of Consumers Association of
-Singapore (CASE). &nbsp;Prior to joining CASE, she served in the People’s
-Association (PA) for 18 years in various appointments. &nbsp;She holds
-a Bachelor of Science (Psychology) degree from the University of Southern
-Queensland.&nbsp; She is married with two children. &nbsp;Her&nbsp;most
-memorable teacher and friend is Mr Kho Cher Chong, whom besides Chinese
-language, taught her important values in life.&nbsp; For the past decades,
-she and her friends continue the tradition of annual Chinese New Year gathering
-at his place. &nbsp;She hopes for GESS to be a leading school that helps
-students reach their full potential, and be prepared and adapt to this
-VUCA world.</p>
+<p>Ms Lee Siow Hwee is the Deputy Director (Operations Development and Planning)
+of People's Association (PA). She has served in PA for 23 years in various
+appointments, including a secondment stint as the Executive Director of
+Consumers Association of Singapore (CASE). She holds a Bachelor of Science
+(Psychology) degree from the University of Southern Queensland. A mother
+of two, Ms Lee finds joy in simple moments spent with her children. Her
+most memorable teacher and friend is Mr Kho Cher Chong, who, besides Chinese
+language, taught her important values in life. For the past decades, she
+and her friends have continued the tradition of their annual Chinese New
+Year gathering at his place. She believes in creating an environment at
+GESS where every student can discover their strengths and develop the skills
+needed to navigate today's fast-changing world with confidence and purpose.</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
-<img style="width:33%;" height="auto" width="100%" alt="Mr-Sam-Liew" src="/images/Mr-Sam-Liew.jpeg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sam_Liew.png">
 </div>
 <h4>Mr Sam Liew<br>Class of 1989</h4>
 <p>Mr Sam Liew is the is Deputy CEO, NCS and the Chief Executive, Government
-Strategic Business Group (Gov+) at NCS.&nbsp; Sam currently serves as Board
-Director on the Gardens by the Bay Board. He also sits on the Board of
-Singapore Management University’s School of Computing and Information Systems
-and is Deputy Chairman of Singapore Polytechnic’s School of computing.&nbsp;
-In addition, he serves as Council Member on Enterprise Singapore’s IT Standards
-Committee. Sam also serves as President for the Singapore Computer Society.
-He has been conferred a Fellow by SCS. For his work with the community,
-Sam has been awarded the Executive of the Year - Non-profit or Government
-Organizations in the Singapore Business Review (SBR) Management Excellence
-Awards 2024. Sam graduated from Nanyang Technological University with a
-Bachelor of Accountancy (Hons) degree.&nbsp; He is married with a son and
-enjoys watching Netflix and Tiktok videos.&nbsp; Sam has several memorable
-teachers, including Mr Andrew Monksman, who taught Sam the finer skills
-of Drama and Debating in the English Literary Drama and Debating Society
-(ELDDS).&nbsp; Another teacher that Sam remembers fondly is Cikgu Yusof,
-who was his coach in the GESS Soccer Team.</p>
+Strategic Business Group (Gov+) at NCS.&nbsp; Sam is also Board Director
+on Gardens by the Bay. He also serves on the Board of Singapore Management
+University’s School of Computing and Information Systems and is Deputy
+Chairman of Singapore Polytechnic’s School of computing.&nbsp; In addition,
+he serves as Council Member on Singapore’s IT Standards Committee. Sam
+has been conferred a Fellow by Singapore Computer Society. For his work
+with the community, Sam has been awarded the Executive of the Year - Non-profit
+or Government Organizations in the Singapore Business Review (SBR) Management
+Excellence Awards 2024.</p>
+<p>Sam has several memorable teachers, including Mr Andrew David Monkman,
+who taught Sam the finer skills of Drama and Debating in the English Literary
+Drama and Debating Society (ELDDS).&nbsp; Another teacher that Sam remembers
+fondly is Cikgu Yusof, who was his coach in the GESS Soccer Team.</p>
