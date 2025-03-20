@@ -848,7 +848,7 @@ variant: tiptap
 <p>Ms Carolyn Kok (KLK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Carolyn_Koh_Leng_Kim@schools.gov.sg" rel="noopener nofollow" target="_blank">carolyn_koh_leng_kim@schools.gov.sg </a>
+<p><a href="mailto:Carolyn_Koh_Leng_Kim@schools.gov.sg" rel="noopener nofollow" target="_blank">carolyn_koh_leng_kim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -866,7 +866,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>Mr Cheong Ming Zhan (CMZ)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p></p>
