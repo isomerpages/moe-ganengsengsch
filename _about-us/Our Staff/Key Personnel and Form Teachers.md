@@ -869,7 +869,8 @@ variant: tiptap
 <p>Mr Cheong Ming Zhan (CMZ)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p><a href="mailto:cheong_ming_zhan_a@schools.gov.sg" rel="noopener nofollow" target="_blank">cheong_ming_zhan_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr></tr>
