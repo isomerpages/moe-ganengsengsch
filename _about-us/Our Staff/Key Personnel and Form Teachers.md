@@ -689,7 +689,7 @@ variant: tiptap
 <p>Mr Sathis Kumar (SK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khadijah_bte_mustapah@schools.gov.sg" rel="noopener noreferrer" target="_blank">khadijah_bte_mustapah@schools.gov.sg</a>
+<p><a href="mailto:sathis_kumar_niana_sekaran@schools.gov.sg" rel="noopener noreferrer" target="_blank">sathis_kumar_niana_sekaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -698,7 +698,7 @@ variant: tiptap
 <p>Ms Khadijah (KHA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sathis_kumar_niana_sekaran@schools.gov.sg" rel="noopener noreferrer" target="_blank">sathis_kumar_niana_sekaran@schools.gov.sg</a>
+<p><a href="mailto:khadijah_bte_mustapah@schools.gov.sg" rel="noopener noreferrer" target="_blank">khadijah_bte_mustapah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
