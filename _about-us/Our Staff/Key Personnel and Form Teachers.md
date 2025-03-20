@@ -653,10 +653,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Jing Xuan Jamie (OJX)</p>
+<p>Mr Qaleelullah Mohamed Fahim (QAL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ong_Jing_Xuan_Jamie@schools.gov.sg" rel="noopener noreferrer" target="_blank">ong_jing_xuan_jamie@schools.gov.sg</a>
+<p><a href="mailto:qaleelullah_mohamed_fahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">qaleelullah_mohamed_fahim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
