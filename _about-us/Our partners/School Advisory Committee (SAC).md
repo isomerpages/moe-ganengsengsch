@@ -54,8 +54,7 @@ also have a heart to give back to the society.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Wong_Keng_Mun_2025.png">
 </div>
-<h4>Dr Wong Keng Mun</h4>
-<h4>Class of 1987</h4>
+<h4>Dr Wong Keng Mun<br>Class of 1987 </h4>
 <p>Dr. Wong Keng Mun is the Chairman of T32 Dental Group and lectures internationally
 on a frequent basis, including at his alma mater the University of Washington,
 USA and the National University of Singapore. He plays an active role in
@@ -113,8 +112,7 @@ the GESS crest.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Lee_Siow_Hwee.png">
 </div>
-<h4>Ms Lee Siow Hwee</h4>
-<h4>Class of 1995</h4>
+<h4>Ms Lee Siow Hwee<br>Class of 1995</h4>
 <p>Ms Lee Siow Hwee is the Deputy Director (Operations Development and Planning)
 of People's Association (PA). She has served in PA for 23 years in various
 appointments, including a secondment stint as the Executive Director of
@@ -131,8 +129,7 @@ needed to navigate today's fast-changing world with confidence and purpose.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sam_Liew.png">
 </div>
-<h4>Mr Sam Liew</h4>
-<h4>Class of 1989</h4>
+<h4>Mr Sam Liew<br>Class of 1989</h4>
 <p>Mr Sam Liew is the is Deputy CEO, NCS and the Chief Executive, Government
 Strategic Business Group (Gov+) at NCS.&nbsp; Sam is also Board Director
 on Gardens by the Bay. He also serves on the Board of Singapore Management
