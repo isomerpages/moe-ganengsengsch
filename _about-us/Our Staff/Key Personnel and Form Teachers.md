@@ -422,7 +422,7 @@ variant: tiptap
 <p>Ms Lynn Kwek Xinyi (KXY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lynn_kwek_xinyi@moe.edu.sg" rel="noopener nofollow" target="_blank">lynn_kwek_xinyi@moe.edu.sg</a>
+<p><a href="mailto:Lynn_Kwek_Xinyi@schools.gov.sg" rel="noopener nofollow" target="_blank">lynn_kwek_xinyi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
