@@ -824,7 +824,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fion Tan (TGL)</p>
+<p>Ms Fion Tan Geok Leng (TGL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Tan_Geok_Leng_A@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_geok_leng_a@schools.gov.sg</a>
@@ -1176,10 +1176,10 @@ variant: tiptap
 <p>FAJT (FCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Geok Leng (TGL)</p>
+<p>Ms Fion Tan Geok Leng (TGL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_geok_leng_A@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_geok_leng_A@schools.gov.sg</a>
+<p><a href="mailto:tan_geok_leng_a@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_geok_leng_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
