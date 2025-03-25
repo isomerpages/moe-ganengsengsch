@@ -5,37 +5,43 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_page_0001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_page_0002.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_page_0003.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_page_0004.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_page_0005.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_page_0006.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_page_0007.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_page_0008.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Rules_and_Regulations_8.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
