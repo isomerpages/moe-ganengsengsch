@@ -845,7 +845,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Carolyn Kok (KLK)</p>
+<p>Ms Carolyn Koh (KLK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Carolyn_Koh_Leng_Kim@schools.gov.sg" rel="noopener nofollow" target="_blank">carolyn_koh_leng_kim@schools.gov.sg</a>
