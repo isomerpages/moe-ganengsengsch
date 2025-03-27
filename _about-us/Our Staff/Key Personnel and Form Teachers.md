@@ -891,7 +891,7 @@ variant: tiptap
 <p>Mr Tan Kay Chuan (TKC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kay_chuan@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_kay_chuan@schools.gov.sg</a>
+<p><a href="mailto:tan_kay_chuan_b@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_kay_chuan_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
