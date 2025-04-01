@@ -202,6 +202,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin How (HWC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:how_wing_cheong_alvin@schools.gov.sg" rel="noopener nofollow" target="_blank">how_wing_cheong_alvin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
