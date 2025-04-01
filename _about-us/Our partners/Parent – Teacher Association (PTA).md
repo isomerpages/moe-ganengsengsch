@@ -283,6 +283,10 @@ access PTA Constitution</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/GESS_PTA_AGM_minutes_held_on_28_March_2024.pdf" rel="noopener nofollow" target="_blank">GESS PTA AGM minutes held on 28 March 2024</a>
+</p>
+</li>
+<li>
 <p><a href="/files/gess-pta-agm%202023%20minutes.pdf" rel="noopener noreferrer nofollow" target="_blank">GESS-PTA AGM 2023 Minutes – 6 Apr 2023</a>
 </p>
 </li>
