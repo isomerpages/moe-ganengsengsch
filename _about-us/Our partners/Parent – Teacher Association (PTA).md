@@ -112,6 +112,18 @@ and</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Teck Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>7</strong>
 <br>
 </p>
 </td>
