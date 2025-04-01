@@ -131,20 +131,20 @@ and</p>
 <p>EXCO members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fong Ching Hwa
-<br>See Wei Ling
-<br>Shakinah Begam Binte Mohamed Ibrahim
-<br>Chia Puay Kee Angelia
-<br>Hajirah Banu
-<br>Anita kaur
-<br>Lee Eng Ming
-<br>Sher-May Liew
-<br>Sherine</p>
+<p>Rajaram Thulasiraman</p>
+<p>Florence Lau Yuok See</p>
+<p>Fong Ching Hwa</p>
+<p>Poh Cheng Boon</p>
+<p>Benny Loh</p>
+<p>Muhammad Ikhmal Bin Ismail</p>
+<p>Valen Tan Husistein</p>
+<p>See Wei Ling</p>
+<p>Harjirah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7</strong>
+<p><strong>8</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,6 +152,7 @@ and</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Anita Kaur</p>
+<p>Tan Loo Ming Audrey</p>
 </td>
 </tr>
 </tbody>
@@ -183,7 +184,7 @@ and</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>8</strong>
+<p><strong>9</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,6 +195,21 @@ and</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO-School Rep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Laura Lim Hwee Mean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue</p>
 </td>
 </tr>
 </tbody>
