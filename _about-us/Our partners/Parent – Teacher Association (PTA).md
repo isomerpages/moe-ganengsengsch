@@ -21,8 +21,9 @@ and</p>
 <p>
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:650px" height="auto" width="100%" src="/images/PTA_2024_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTA_Exco_2025.png">
 </div>
 <p>
 <br>
@@ -57,7 +58,7 @@ and</p>
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Heng Shao Sheng</p>
+<p>Priyanka Mathur</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +70,7 @@ and</p>
 <p>Vice President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Priyanka Mathur</p>
+<p>Stefanie Chye Yen Leng</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +94,7 @@ and</p>
 <p>Assistant Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stefanie Chye Yen Leng</p>
+<p>How Teck Chye</p>
 </td>
 </tr>
 <tr>
@@ -111,6 +112,18 @@ and</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Teck Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>7</strong>
 <br>
 </p>
 </td>
@@ -118,20 +131,20 @@ and</p>
 <p>EXCO members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fong Ching Hwa
-<br>See Wei Ling
-<br>Shakinah Begam Binte Mohamed Ibrahim
-<br>Chia Puay Kee Angelia
-<br>Hajirah Banu
-<br>Anita kaur
-<br>Lee Eng Ming
-<br>Sher-May Liew
-<br>Sherine</p>
+<p>Rajaram Thulasiraman</p>
+<p>Florence Lau Yuok See</p>
+<p>Fong Ching Hwa</p>
+<p>Poh Cheng Boon</p>
+<p>Benny Loh</p>
+<p>Muhammad Ikhmal Bin Ismail</p>
+<p>Valen Tan Husistein</p>
+<p>See Wei Ling</p>
+<p>Harjirah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7</strong>
+<p><strong>8</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,6 +152,7 @@ and</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Anita Kaur</p>
+<p>Tan Loo Ming Audrey</p>
 </td>
 </tr>
 </tbody>
@@ -170,7 +184,7 @@ and</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>8</strong>
+<p><strong>9</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,6 +195,21 @@ and</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO-School Rep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Laura Lim Hwee Mean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue</p>
 </td>
 </tr>
 </tbody>
@@ -253,6 +282,10 @@ access PTA Constitution</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Meetings</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/GESS_PTA_AGM_minutes_held_on_28_March_2024.pdf" rel="noopener nofollow" target="_blank">GESS PTA AGM minutes held on 28 March 2024</a>
+</p>
+</li>
 <li>
 <p><a href="/files/gess-pta-agm%202023%20minutes.pdf" rel="noopener noreferrer nofollow" target="_blank">GESS-PTA AGM 2023 Minutes – 6 Apr 2023</a>
 </p>
