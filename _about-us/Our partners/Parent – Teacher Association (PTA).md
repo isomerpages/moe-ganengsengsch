@@ -21,8 +21,9 @@ and</p>
 <p>
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:650px" height="auto" width="100%" src="/images/PTA_2024_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTA_Exco_2025.png">
 </div>
 <p>
 <br>
@@ -57,7 +58,7 @@ and</p>
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Heng Shao Sheng</p>
+<p>Priyanka Mathur</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +70,7 @@ and</p>
 <p>Vice President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Priyanka Mathur</p>
+<p>Stefanie Chye Yen Leng</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +94,7 @@ and</p>
 <p>Assistant Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stefanie Chye Yen Leng</p>
+<p>How Teck Chye</p>
 </td>
 </tr>
 <tr>
