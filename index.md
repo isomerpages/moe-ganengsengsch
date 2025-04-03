@@ -38,11 +38,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Term 1 letter to parents 2025
-          date: 16 January 2025
-          announcement: Term 1 letter 2025
+        - title: Term 2 letter to parents 2025
+          date: 03 April 2025
+          announcement: Term 2 letter 2025
           link_text: READ MORE
-          link_url: /term-1-letter-to-parents-2025/
+          link_url: /term-2-letter-to-parents-2025/
         - title: WA Schedule 2025
           date: 15 January 2025
           announcement: Information on WA Schedule 2025
