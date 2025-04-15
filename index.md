@@ -53,6 +53,11 @@ sections:
           announcement: 2024 Year Book
           link_text: READ MORE
           link_url: https://ganengsengsch.moe.edu.sg/2024-gess-school-magazine/
+        - title: Briefing Materials for Sec 3 Meet Parent Session
+          date: 15 April 2025
+          announcement: Sec 3 Meet Parent Session slides
+          link_text: READ MORE
+          link_url: /briefing-materials-for-sec-3-meet-parent-session/
   - textcards:
       title: GESS 140th Anniversary Celebration
       subtitle: commemorative event
