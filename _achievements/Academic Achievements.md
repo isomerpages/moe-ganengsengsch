@@ -21,6 +21,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+<br>Yuan Yixiang Mike (4-6)</p>
 <p><strong>Bronze</strong>
 <br>Ng Jing Hong (2-7)</p>
 <p><strong>Honourable Mention</strong>
