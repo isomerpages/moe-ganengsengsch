@@ -28,7 +28,12 @@ variant: tiptap
 <br>Deng Jingheng (3-4)
 <br>Gu Tongshuo Shaquille (3-4)</p>
 <p><strong>Honourable Mention</strong>
-<br>Toh Kang Yu, Kieran (2-4)</p>
+<br>Toh Kang Yu, Kieran (2-4)
+<br>Ong Xuan Li Raphael Nicholas (4-4)
+<br>Wong Wen Qian (3-4)
+<br>Yong Ran Xi (4-6)
+<br>Bala Murugan Ravi (3-4)
+<br>Michael Vincent Travia (4-6)</p>
 <p><strong>Certificate</strong>
 <br>Teh Chi Hin (2-1)
 <br>Hilmie Huzaify Bin Harzelly (2-2)
