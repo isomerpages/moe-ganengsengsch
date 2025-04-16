@@ -24,7 +24,7 @@ variant: tiptap
 <p><strong>Bronze</strong>
 <br>Ng Jing Hong (2-7)</p>
 <p><strong>Honourable Mention</strong>
-<br>Toh Kang Yu, Kieran(2-4)</p>
+<br>Toh Kang Yu, Kieran (2-4)</p>
 <p><strong>Certificate</strong>
 <br>Teh Chi Hin (2-1)
 <br>Hilmie Huzaify Bin Harzelly (2-2)
