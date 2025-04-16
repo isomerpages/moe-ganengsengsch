@@ -24,7 +24,9 @@ variant: tiptap
 <p><strong>Gold</strong>
 <br>Yuan Yixiang Mike (4-6)</p>
 <p><strong>Bronze</strong>
-<br>Ng Jing Hong (2-7)Ng Jing Hong (2-7)</p>
+<br>Ng Jing Hong (2-7)
+<br>Deng Jingheng (3-4)
+<br>Gu Tongshuo Shaquille (3-4)</p>
 <p><strong>Honourable Mention</strong>
 <br>Toh Kang Yu, Kieran (2-4)</p>
 <p><strong>Certificate</strong>
