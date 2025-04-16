@@ -23,6 +23,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Bronze</strong>
 <br>Ng Jing Hong (2-7)</p>
+<p><strong>Honourable Mention</strong>
+<br>Toh Kang Yu, Kieran(2-4)</p>
+<p><strong>Certificate</strong>
+<br>Teh Chi Hin (2-1)
+<br>Hilmie Huzaify Bin Harzelly (2-2)
+<br>Misha Sydnie (3-4)
+<br>Sim Jing Yuan, Aiden (3-4)
+<br>Winston Mohan-He (3-4)
+<br>Yap Rong-Yan (3-4)
+<br>Aashni Tamanna Venkateswaran (3-6)
+<br>Ow-Yang Han Li (3-6)
+<br>Soh Ze Yu (3-6)
+<br>Tay Zhi Yi Celeste (3-6)
+<br>Vanessa Chng Rong Ci (3-6)</p>
 <p></p>
 </td>
 </tr>
