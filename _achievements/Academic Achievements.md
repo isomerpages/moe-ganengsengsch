@@ -28,15 +28,15 @@ variant: tiptap
 <p><strong>Certificate</strong>
 <br>Teh Chi Hin (2-1)
 <br>Hilmie Huzaify Bin Harzelly (2-2)
-<br>Misha Sydnie (3-4)
-<br>Sim Jing Yuan, Aiden (3-4)
-<br>Winston Mohan-He (3-4)
-<br>Yap Rong-Yan (3-4)
-<br>Aashni Tamanna Venkateswaran (3-6)
-<br>Ow-Yang Han Li (3-6)
-<br>Soh Ze Yu (3-6)
-<br>Tay Zhi Yi Celeste (3-6)
-<br>Vanessa Chng Rong Ci (3-6)</p>
+<br>Arunesh (2-3)
+<br>Luo Jiahe (2-4)
+<br>Long En Jie,Louis (2-7)
+<br>Amalesh (2-3)
+<br>Ken Owen Lim (2-5)
+<br>Jerry Chen (2-4)
+<br>Vera Khoo Le Ying (2-4)
+<br>Jayden Lim Guan Yi (2-6)
+<br>Shannon Loh Wenxi (2-7)</p>
 <p></p>
 </td>
 </tr>
