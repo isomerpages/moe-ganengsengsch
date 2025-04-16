@@ -45,20 +45,21 @@ variant: tiptap
 <br>Jerry Chen (2-4)
 <br>Vera Khoo Le Ying (2-4)
 <br>Jayden Lim Guan Yi (2-6)
-<br>Bala Murugan Ravi (3-4)
-<br>Contreras Jose Mykheilla Cabatcan (3-4)
-<br>Foong Liang Jun (3-4)
-<br>Gu Tongshuo Shaquille (3-4)
-<br>Ariel Ong Zi Xin (3-5)
-<br>Evangelista Kwek (3-5)
-<br>Sim Shi Yee Ashley (3-5)
-<br>Leon Ong Wei An (3-6)
-<br>Ow-Yang Han Li (3-6)
-<br>Federico Jeremiah Umadac (4-4)
+<br>Shannon Loh Wenxi (2-7)
+<br>Ryan Lee Jun Seng (4-4)
+<br>Kendrick Slamat (4-5)
+<br>Lam Jey Yi (4-6)
+<br>Tan Jin Yi (4-7)
+<br>Gavin Chee Chun Hong (3-4)
+<br>Tan Keryn (3-4)
+<br>Nathen Phua Mushuang (4-4)
 <br>Vikas Kumar (4-4)
-<br>Chiu Ri Sen (4-5)
-<br>Tan Pei Ling Phedra (4-5)
-<br>Yong Ran Xi (4-6)</p>
+<br>Tin Xian Liang (4-4)
+<br>Isaac Ong (4-4)
+<br>Wang Shengyu (3-6)
+<br>Korniwarin Sadiphan (3-4)
+<br>Federico Jeremiah Umadac(4-4)</p>
+<p>Cheong Teng Han (4-6)</p>
 <p></p>
 </td>
 </tr>
