@@ -172,9 +172,6 @@ Sec 4/5 GESS Life Camp (non-</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 75px">
