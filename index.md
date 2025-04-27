@@ -50,25 +50,4 @@ sections:
           announcement: 2024 Year Book
           link_text: READ MORE
           link_url: https://ganengsengsch.moe.edu.sg/2024-gess-school-magazine/
-  - textcards:
-      title: GESS 140th Anniversary Celebration
-      subtitle: commemorative event
-      id: textcards
-      cards:
-        - title: GESS 140 Good Deeds
-          description: A combined effort by the GESS Family to contribute to the community
-          linktext: Learn more
-          url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
-        - title: GESS 140 Record Breaking
-          description: An attempt to have the largest human formation of '140'
-          linktext: Learn more
-          url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
-        - title: GESS 140 Cycle
-          description: An overnight relay to cycle 140 km around Singapore
-          linktext: Learn more
-          url: https://www.ganengsengsch.moe.edu.sg/gess-140th-anniversary-journey/
-        - title: Founder's Day Dinner
-          description: A homecoming for all Gessians
-          linktext: READ MORE
-          url: /gess-140-founders-day-dinner/
 ---
