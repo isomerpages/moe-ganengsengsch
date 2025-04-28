@@ -18,10 +18,12 @@ to reach out to people are what make our students truly Gessians.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/National_Day_banner_1.jpg">
 </div>
 <p><strong><em>140 Good Deeds</em></strong>
-<br>As part of our 140<sup>th</sup> anniversary celebrations, GESS has initiated
-the 140 Good Deeds Initiative. Starting 8 March 2024 and ending on 14 March
-2025 (Founder’s Day), the school did a count down of all the good deeds
-done by our staff, students and partners. Let the count down begin!!!
+<br>As part of our 140th anniversary celebrations, GESS initiated the 140
+Good Deeds Initiative. From 8 March 2024 to 14 March 2025 (Founder’s Day),
+the school counted the good deeds carried out by our staff, students, and
+partners. The countdown celebrated the collective spirit of giving and
+community throughout this special year.</p>
+<p>
 <br><a href="https://docs.google.com/document/d/1AVfHC58iGLvj23ybP4eveugZlc0Hr33-uLTVrT63tHM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Click here</a> to
 see more activities participated by our partners, staff and students.</p>
 <p></p>
@@ -104,7 +106,13 @@ the school's dedication to making a positive impact on the community.
 </tbody>
 </table>
 <p></p>
-<p>
+<p><strong><em>GESS 140 Dinner</em></strong>
+<br>GESS ended Term 1 with the GESS 140th Anniversary Dinner at Orchard Hotel
+on 14 March 2025. We extend our heartfelt thanks to GESSOSA for planning
+a truly memorable evening. Graced by Dr Tan Wee Kiat, former CEO of Gardens
+by the Bay and a senior Gessian, the event brought together about 600 former
+students, parents, former educators, and partners in a wonderful celebration
+of our shared heritage and community
 <br>
 <br>
 </p>
