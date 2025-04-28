@@ -20,7 +20,7 @@ to reach out to people are what make our students truly Gessians.</p>
 <p><strong><em>140 Good Deeds</em></strong>
 <br>As part of our 140<sup>th</sup> anniversary celebrations, GESS has initiated
 the 140 Good Deeds Initiative. Starting 8 March 2024 and ending on 14 March
-2025 (Founder’s Day), the school will do a count down of all the good deeds
+2025 (Founder’s Day), the school did a count down of all the good deeds
 done by our staff, students and partners. Let the count down begin!!!
 <br><a href="https://docs.google.com/document/d/1AVfHC58iGLvj23ybP4eveugZlc0Hr33-uLTVrT63tHM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Click here</a> to
 see more activities participated by our partners, staff and students.</p>
@@ -38,7 +38,30 @@ PTA (Parent-Teacher Association) coming together to form the symbolic figure
 on the very school arena. The event not only showcases the school's commitment
 to unity and community spirit but also serves as a vivid tribute to Gan
 Eng Seng's enduring legacy and the values of discipline, resilience, and
-progress encapsulated in the school motto, "Onward."
+progress encapsulated in the school motto, "Onward."</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_140_record_breaking_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_140_record_breaking_4.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 <br><strong><em>GESS140 Cycle for a Cause</em><br></strong>Gan Eng Seng School's
 140th anniversary will be celebrated with a special "Cycle for a Cause"
@@ -52,12 +75,9 @@ the school's alumni association, and the PTA (Parent-Teacher Association).
 This relay not only honors &nbsp;our Founder Gan Eng Seng's legacy but
 also fosters unity among the school and its key partners, highlighting
 the school's dedication to making a positive impact on the community.
-<br>Link to the registration would be as follows : <a href="https://go.gov.sg/gess140" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gess140</a>
+<br>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Registration link" src="/images/QR_Code_cycling.png">
-</div>
 <p>
 <br>
 <br>
