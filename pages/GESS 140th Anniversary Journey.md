@@ -63,17 +63,16 @@ progress encapsulated in the school motto, "Onward."</p>
 </table>
 <p>
 <br>
-<br><strong><em>GESS140 Cycle for a Cause</em><br></strong>Gan Eng Seng School's
-140th anniversary will be celebrated with a special "Cycle for a Cause"
-event from 13 March 2025 to 14<sup>th</sup> March 2025. This overnight event
-aims to promote health, community spirit, and philanthropy while embodying
-the school's core values of discipline and resilience. Each cyclist will
-cycle a designated route in teams, raising funds for Singapore Disability
-Sports Council and demonstrating their commitment to the school's motto,
-"Onward." The event will see the active participation of SAC, GESSOSA,
-the school's alumni association, and the PTA (Parent-Teacher Association).
-This relay not only honors &nbsp;our Founder Gan Eng Seng's legacy but
-also fosters unity among the school and its key partners, highlighting
+<br><strong><em>GESS140 Cycle for a Cause</em><br></strong>Another special
+event that took place from 13 March 2025 to 14 March 2025 was the "Cycle
+for a Cause" event. This overnight event promoted health, community spirit,
+and philanthropy while embodying the school's core values of discipline
+and resilience. Each cyclist cycled a designated route in teams and raised
+funds for the Singapore Disability Sports Council, demonstrating their
+commitment to the school's motto, "Onward." The event saw active participation
+from the SAC, GESSOSA, the school's alumni association, and the PTA (Parent-Teacher
+Association). This relay not only honored our Founder Gan Eng Seng's legacy
+but also fostered unity among the school and its key partners, highlighting
 the school's dedication to making a positive impact on the community.
 <br>
 <br>
