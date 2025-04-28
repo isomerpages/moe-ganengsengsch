@@ -30,7 +30,6 @@ see more activities participated by our partners, staff and students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Graduation_photo_collage.jpg">
 </div>
-<p></p>
 <p><strong><em>GESS140 Record Breaking</em></strong>
 <br>As part of the series of events marking Gan Eng Seng School's 140th anniversary,
 we aim to set a new record with a groundbreaking exercise on 3 January
@@ -63,9 +62,7 @@ progress encapsulated in the school motto, "Onward."</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br><strong><em>GESS140 Cycle for a Cause</em><br></strong>Another special
+<p><strong><em>GESS140 Cycle for a Cause</em><br></strong>Another special
 event that took place from 13 March 2025 to 14 March 2025 was the "Cycle
 for a Cause" event. This overnight event promoted health, community spirit,
 and philanthropy while embodying the school's core values of discipline
@@ -76,7 +73,6 @@ from the SAC, GESSOSA, the school's alumni association, and the PTA (Parent-Teac
 Association). This relay not only honored our Founder Gan Eng Seng's legacy
 but also fostered unity among the school and its key partners, highlighting
 the school's dedication to making a positive impact on the community.
-<br>
 <br>
 </p>
 <table style="minWidth: 75px">
