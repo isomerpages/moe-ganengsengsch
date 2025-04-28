@@ -18,17 +18,18 @@ to reach out to people are what make our students truly Gessians.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/National_Day_banner_1.jpg">
 </div>
 <p><strong><em>140 Good Deeds</em></strong>
-<br>As part of our 140<sup>th</sup> anniversary celebrations, GESS has initiated
-the 140 Good Deeds Initiative. Starting 8 March 2024 and ending on 14 March
-2025 (Founder’s Day), the school will do a count down of all the good deeds
-done by our staff, students and partners. Let the count down begin!!!
+<br>As part of our 140th anniversary celebrations, GESS initiated the 140
+Good Deeds Initiative. From 8 March 2024 to 14 March 2025 (Founder’s Day),
+the school counted the good deeds carried out by our staff, students, and
+partners. The countdown celebrated the collective spirit of giving and
+community throughout this special year.</p>
+<p>
 <br><a href="https://docs.google.com/document/d/1AVfHC58iGLvj23ybP4eveugZlc0Hr33-uLTVrT63tHM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Click here</a> to
 see more activities participated by our partners, staff and students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Graduation_photo_collage.jpg">
 </div>
-<p></p>
 <p><strong><em>GESS140 Record Breaking</em></strong>
 <br>As part of the series of events marking Gan Eng Seng School's 140th anniversary,
 we aim to set a new record with a groundbreaking exercise on 3 January
@@ -38,26 +39,143 @@ PTA (Parent-Teacher Association) coming together to form the symbolic figure
 on the very school arena. The event not only showcases the school's commitment
 to unity and community spirit but also serves as a vivid tribute to Gan
 Eng Seng's enduring legacy and the values of discipline, resilience, and
-progress encapsulated in the school motto, "Onward."
-<br>
-<br><strong><em>GESS140 Cycle for a Cause</em><br></strong>Gan Eng Seng School's
-140th anniversary will be celebrated with a special "Cycle for a Cause"
-event from 13 March 2025 to 14<sup>th</sup> March 2025. This overnight event
-aims to promote health, community spirit, and philanthropy while embodying
-the school's core values of discipline and resilience. Each cyclist will
-cycle a designated route in teams, raising funds for Singapore Disability
-Sports Council and demonstrating their commitment to the school's motto,
-"Onward." The event will see the active participation of SAC, GESSOSA,
-the school's alumni association, and the PTA (Parent-Teacher Association).
-This relay not only honors &nbsp;our Founder Gan Eng Seng's legacy but
-also fosters unity among the school and its key partners, highlighting
+progress encapsulated in the school motto, "Onward."</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_140_record_breaking_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_140_record_breaking_4.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong><em>GESS140 Cycle for a Cause</em><br></strong>Another special
+event that took place from 13 March 2025 to 14 March 2025 was the "Cycle
+for a Cause" event. This overnight event promoted health, community spirit,
+and philanthropy while embodying the school's core values of discipline
+and resilience. Each cyclist cycled a designated route in teams and raised
+funds for the Singapore Disability Sports Council, demonstrating their
+commitment to the school's motto, "Onward." The event saw active participation
+from the SAC, GESSOSA, the school's alumni association, and the PTA (Parent-Teacher
+Association). This relay not only honored our Founder Gan Eng Seng's legacy
+but also fostered unity among the school and its key partners, highlighting
 the school's dedication to making a positive impact on the community.
-<br>Link to the registration would be as follows : <a href="https://go.gov.sg/gess140" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gess140</a>
 <br>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Registration link" src="/images/QR_Code_cycling.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LEG_7.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_12_25_28.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_10_34.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><em>GESS 140 Dinner</em></strong>
+<br>GESS ended Term 1 with the GESS 140th Anniversary Dinner at Orchard Hotel
+on 14 March 2025. We extend our heartfelt thanks to GESSOSA for planning
+a truly memorable evening. Graced by Dr Tan Wee Kiat, former CEO of Gardens
+by the Bay and a senior Gessian, the event brought together about 600 former
+students, parents, former educators, and partners in a wonderful celebration
+of our shared heritage and community.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_47_53.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_49_30.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_47_57.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_47_53.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_49_27.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_57_44.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+<br>
+</p>
 <p>
 <br>
 <br>
