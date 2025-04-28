@@ -124,19 +124,19 @@ of our shared heritage and community.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_47_53.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_47_53.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_49_30.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_49_30.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_47_57.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_47_57.jpg">
 </div>
 </th>
 </tr>
@@ -144,19 +144,19 @@ of our shared heritage and community.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_47_53.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_47_53.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_49_27.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_49_27.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_49_26__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_57_44.jpg">
 </div>
 </td>
 </tr>
