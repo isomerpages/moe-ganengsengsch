@@ -88,22 +88,23 @@ the school's dedication to making a positive impact on the community.
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_03_14_at_06_48_19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_12_25_28.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS140_events.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_28_at_13_10_34.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>
 <br>
 <br>
