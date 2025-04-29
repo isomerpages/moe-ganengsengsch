@@ -6,36 +6,42 @@ third_nav_title: CCAs   Uniformed Groups
 variant: tiptap
 ---
 <h4><strong>Dragon Scouts (est since 1922)</strong></h4>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scout%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p>Having fun @ 1 star Kayaking</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scout%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG2.jpg">
 </div>
-<p>
-<br>
-</p>
+<p>Campfire</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scout%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG3.jpg">
 </div>
-<p>
-<br>
-</p>
+<p>Unit Group photo</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scout%204.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG4.jpg">
 </div>
-<p>
-<br>
-</p>
+<p>Backswoodman cooking</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scout%205.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG5.jpg">
 </div>
-<p>
-<br>
-</p>
+<p>Creating a drawbridge for pioneering</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG6.jpg">
+</div>
+<p>Hiking around the neighbourhood</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG7.jpg">
+</div>
+<p>Great fun with slides!</p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
