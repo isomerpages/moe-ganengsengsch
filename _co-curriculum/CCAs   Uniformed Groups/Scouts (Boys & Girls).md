@@ -7,7 +7,6 @@ variant: tiptap
 ---
 <h4><strong>Dragon Scouts (est since 1922)</strong></h4>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG1.jpg">
 </div>
@@ -41,6 +40,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG7.jpg">
 </div>
 <p>Great fun with slides!</p>
+<p></p>
 <p></p>
 <p></p>
 <table style="minWidth: 100px">
