@@ -36,8 +36,7 @@ third_nav_title: CCAs   Sports & Games
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Dragon Scouts</strong>
-</p>
+<p>Sport Climbing</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
