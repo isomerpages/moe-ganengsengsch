@@ -87,11 +87,11 @@ variant: tiptap
 <br>Heng Ren Hao (3-4)
 <br>Elvee Lim Xin Yi (3-3)
 <br><strong>ASSISTANT SENIOR PATROL LEADER</strong>
-<br>Lew Cheng You (3-7)</p>
-<p>Wong Zhi Le (3-4)
+<br>Lew Cheng You (3-7)
+<br>Wong Zhi Le (3-4)
 <br><strong>PATROL LEADERS</strong>
-<br>ISKANDAR ADRIAN BIN KHAIRUDIN LAMB (3-1)
-<br>RACHEL TAN ZHUANG XUAN 3-5)
+<br>Nichole Kwang Yi Xin (3-6)
+<br>Chionh Kai Aik (3-4)
 <br>THNG KHAI YEE CHLOE (3-5)
 <br>TAN JIN YI (3-7)
 <br>ANDRE AMANI VOLKENING (3-7)
