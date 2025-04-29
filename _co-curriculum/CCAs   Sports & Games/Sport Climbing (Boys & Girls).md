@@ -72,47 +72,33 @@ third_nav_title: CCAs   Sports & Games
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Dragon Scouts is the oldest uniformed group in Gan Eng Seng School. Established
-in 1922, Dragon Scouts has been closely tied to the development of Gan
-Eng Seng School. Throughout the years of history, Dragon Scouts has produced
-many successful professionals and has helped to shape the development of
-Gan Eng Seng School. A good example will be the school colours, red and
-green which were adopted from the scarf found in Dragon Scouts.
-<br>
-<br>Scouting is unique because it engages a Scout in a whole range of activities.
-In pursuit of these activities, the Scout attains various proficiency standards
-which reinforce positive self-esteem. Furthermore, Scouting allows promising
-Scouts who set higher standards for themselves to become President’s Scouts,
-an honour which no other uniformed youth organization can boast of.
-<br>
-<br>Be Prepared’, the motto of all Scouts, captures the essence of Scouting.
-Each scout, while carrying out the Scouting activities is trained to be
-prepared. At their own pace, the scouts discover the virtue of good honest
-work whilst enjoying themselves and realizing their true potential.
-<br>
-<br>Scouting activities include:
-<br>
-<br>● abseiling
-<br>● campcraft
-<br>● camping
-<br>● canoeing
-<br>● community service
-<br>● footdrill
-<br>● hiking
-<br>● orienteering
-<br>● outdoor cooking
-<br>● pioneering
-<br>● rock climbing
-<br>
-<br>We have won the Frank Cooper Sands Award since 1997 and the Gold Award
-since 2003. In 2023, Dragon Scouts were also awarded the Frank Coopers
-Sands (Gold with Honours Pennant) for 2022 assessment. This is to recognise
-units who have consecutively achieved the Gold category of Frank Cooper
-Sands Award for five years. In 2023, there are 8 Dragon Scouts whom achieved
-the Chief Commissioner’s Award, the highest award a scout can achieve.</p>
-<p>We are also proud to announce that 4 of our Dragon Ventures were awarded
-the President’s Scout Award – the highest award presented to youths (Venture
-Section) at the Singapore Scout Association.</p>
+<p>The Sport Climbing CCA was launched in 2024 as a collaborative initiative
+among Cluster South 4 schools, aimed at enriching our students' co-curricular
+experiences beyond the traditional CCA offered by our school.</p>
+<p>&nbsp;</p>
+<p>Currently, the team consists of three female and four male Secondary 2
+students. They train together with peers from Outram Secondary School and
+St. Teresa’s Convent, meeting three times every fortnight at Outram Secondary.
+Students from the three schools also bonded through a VIA activity and
+an outing in October 2024.</p>
+<p>&nbsp;</p>
+<p>All seven members of our school’s Sport Climbing team took part in the
+BFF Verticrux (Highwall Edition) 2024 competition last August. Despite
+being young and relatively new to the sport, they achieved commendable
+results, securing 6th and 8th place in the Boys’ Individual category and
+winning the Overall Champion title for Youth C Boys.</p>
+<p>&nbsp;</p>
+<p>In February 2025, all team members successfully completed the Singapore
+National Climbing Standards (SNCS) Level 1 Course and were awarded their
+Level 1 certifications, accredited by the Singapore Sport Climbing and
+Mountaineering Federation (SSCMF).</p>
+<p>&nbsp;</p>
+<p>During the March holidays, the team also participated in the Inter-Schools
+Bouldering Championships organized by Xin Min Secondary School. The Cluster
+C Boys came in 6<sup>th</sup> and the C Girls were ranked 9<sup>th</sup>.</p>
+<p>&nbsp;</p>
+<p>Currently, Students Leaders from the Cluster schools are working to host
+a Workshop for SOTA students on 21 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
