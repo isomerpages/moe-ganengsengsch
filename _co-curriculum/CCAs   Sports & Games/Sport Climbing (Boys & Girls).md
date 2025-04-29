@@ -106,13 +106,10 @@ a Workshop for SOTA students on 21 May 2025</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Other Links:</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>● <a href="http://www.dragonscouts.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Dragon Online</u></a>!
-<br>● Instagram <a href="https://www.instagram.com/dragon_scouts/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>@dragon_scouts</u></a>
-<br>● <a href="https://scout.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore</u> <u>Scout HQ</u></a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
