@@ -62,13 +62,12 @@ third_nav_title: CCAs   Sports & Games
 <br>Verona (2-3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday:
-<br>3pm-5.30pm
-<br>Friday:
-<br>2pm-5.30pm
+<p>Odd Wed &amp; Fri
+<br>Even Wed
+<br>2.30pm-5.45pm
 <br>
 <br>Venue:
-<br>School</p>
+<br>Outram Secondary School</p>
 </td>
 </tr>
 <tr>
