@@ -59,18 +59,8 @@ third_nav_title: CCAs   Sports & Games
 <p>Mr Lee Fook Yew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SENIOR PATROL LEADER</strong>
-<br>Heng Ren Hao (3-4)
-<br>Elvee Lim Xin Yi (3-3)
-<br><strong>ASSISTANT SENIOR PATROL LEADER</strong>
-<br>Lew Cheng You (3-7)
-<br>Wong Zhi Le (3-4)
-<br><strong>PATROL LEADERS</strong>
-<br>Nichole Kwang Yi Xin (3-6)
-<br>Chionh Kai Aik (3-4)
-<br>Sui Kang Le Theophilus (3-4)
-<br>Jian Yutong (3-5)
-<br>Tan Jun Yi, Natasha (3-4)</p>
+<p>Phoebe (2-3)
+<br>Verona (2-3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday:
