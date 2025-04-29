@@ -23,9 +23,8 @@ third_nav_title: CCAs   Sports & Games
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -36,7 +35,7 @@ third_nav_title: CCAs   Sports & Games
 <p><strong>Name of CCA:</strong>
 </p>
 </th>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p><strong>Dragon Scouts</strong>
 </p>
 </th>
@@ -49,9 +48,6 @@ third_nav_title: CCAs   Sports & Games
 <p>Teachers-in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volunteer Adult Leaders:</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Student Leaders:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,15 +57,6 @@ third_nav_title: CCAs   Sports & Games
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Fook Yew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Law Teck Chong
-<br>Alexandra Lee
-<br>Darly Ke
-<br>Carissa Wong
-<br>Colette Chan
-<br>Andres Chow
-<br>Timothy Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SENIOR PATROL LEADER</strong>
@@ -96,7 +83,7 @@ third_nav_title: CCAs   Sports & Games
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p>Dragon Scouts is the oldest uniformed group in Gan Eng Seng School. Established
 in 1922, Dragon Scouts has been closely tied to the development of Gan
 Eng Seng School. Throughout the years of history, Dragon Scouts has produced
@@ -147,7 +134,7 @@ Section) at the Singapore Scout Association.</p>
 <td rowspan="1" colspan="1">
 <p>Other Links:</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>● <a href="http://www.dragonscouts.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Dragon Online</u></a>!
 <br>● Instagram <a href="https://www.instagram.com/dragon_scouts/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>@dragon_scouts</u></a>
 <br>● <a href="https://scout.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore</u> <u>Scout HQ</u></a>
