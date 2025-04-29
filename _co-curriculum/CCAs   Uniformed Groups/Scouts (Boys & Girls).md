@@ -92,9 +92,9 @@ variant: tiptap
 <br><strong>PATROL LEADERS</strong>
 <br>Nichole Kwang Yi Xin (3-6)
 <br>Chionh Kai Aik (3-4)
-<br>THNG KHAI YEE CHLOE (3-5)
-<br>TAN JIN YI (3-7)
-<br>ANDRE AMANI VOLKENING (3-7)
+<br>Sui Kang Le Theophilus (3-4)
+<br>Jian Yutong (3-5)
+<br>Tan Jun Yi, Natasha (3-4)
 <br>
 </p>
 </td>
