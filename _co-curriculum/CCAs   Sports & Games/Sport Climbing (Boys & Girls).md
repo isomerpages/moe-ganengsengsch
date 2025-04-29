@@ -85,16 +85,13 @@ BFF Verticrux (Highwall Edition) 2024 competition last August. Despite
 being young and relatively new to the sport, they achieved commendable
 results, securing 6th and 8th place in the Boys’ Individual category and
 winning the Overall Champion title for Youth C Boys.</p>
-<p>&nbsp;</p>
 <p>In February 2025, all team members successfully completed the Singapore
 National Climbing Standards (SNCS) Level 1 Course and were awarded their
 Level 1 certifications, accredited by the Singapore Sport Climbing and
 Mountaineering Federation (SSCMF).</p>
-<p>&nbsp;</p>
 <p>During the March holidays, the team also participated in the Inter-Schools
 Bouldering Championships organized by Xin Min Secondary School. The Cluster
 C Boys came in 6<sup>th</sup> and the C Girls were ranked 9<sup>th</sup>.</p>
-<p>&nbsp;</p>
 <p>Currently, Students Leaders from the Cluster schools are working to host
 a Workshop for SOTA students on 21 May 2025</p>
 </td>
