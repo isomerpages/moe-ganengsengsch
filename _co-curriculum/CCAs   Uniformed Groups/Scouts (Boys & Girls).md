@@ -43,8 +43,9 @@ variant: tiptap
 <p>Great fun with slides!</p>
 <p></p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -60,6 +61,9 @@ variant: tiptap
 <p><strong>Dragon Scouts</strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -70,6 +74,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Leaders:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Days:</p>
 </td>
 </tr>
 <tr>
@@ -103,6 +110,15 @@ variant: tiptap
 <br>Tan Jun Yi, Natasha (3-4)
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday:
+<br>3pm-5.30pm
+<br>Friday:
+<br>2pm-5.30pm
+<br>
+<br>Venue:
+<br>School</p>
 </td>
 </tr>
 <tr>
@@ -151,6 +167,9 @@ Section) at the Singapore Scout Association.
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -161,6 +180,9 @@ Section) at the Singapore Scout Association.
 <br>● Instagram <a href="https://www.instagram.com/dragon_scouts/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>@dragon_scouts</u></a>
 <br>● <a href="https://scout.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore</u> <u>Scout HQ</u></a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
