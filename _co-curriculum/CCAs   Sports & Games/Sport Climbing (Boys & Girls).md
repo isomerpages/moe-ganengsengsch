@@ -75,13 +75,11 @@ third_nav_title: CCAs   Sports & Games
 <p>The Sport Climbing CCA was launched in 2024 as a collaborative initiative
 among Cluster South 4 schools, aimed at enriching our students' co-curricular
 experiences beyond the traditional CCA offered by our school.</p>
-<p>&nbsp;</p>
 <p>Currently, the team consists of three female and four male Secondary 2
 students. They train together with peers from Outram Secondary School and
 St. Teresa’s Convent, meeting three times every fortnight at Outram Secondary.
 Students from the three schools also bonded through a VIA activity and
 an outing in October 2024.</p>
-<p>&nbsp;</p>
 <p>All seven members of our school’s Sport Climbing team took part in the
 BFF Verticrux (Highwall Edition) 2024 competition last August. Despite
 being young and relatively new to the sport, they achieved commendable
