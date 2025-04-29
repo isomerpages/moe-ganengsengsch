@@ -60,10 +60,7 @@ third_nav_title: CCAs   Sports & Games
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Hoong Leong
-<br>Ms Lee Pei Ying
-<br>Mr Kevin Kung Sion Onn
-<br>Ms Wong Jing Ning</p>
+<p>Mr Lee Fook Yew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Law Teck Chong
