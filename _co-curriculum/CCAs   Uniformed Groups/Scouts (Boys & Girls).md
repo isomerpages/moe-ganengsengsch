@@ -43,6 +43,7 @@ variant: tiptap
 <p>Great fun with slides!</p>
 <p></p>
 <p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
