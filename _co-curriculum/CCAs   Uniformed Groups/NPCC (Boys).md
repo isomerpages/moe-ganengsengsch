@@ -25,19 +25,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_NPCC_8.jpg">
 </div>
-<p>
-<br>
-</p>
 <p></p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
