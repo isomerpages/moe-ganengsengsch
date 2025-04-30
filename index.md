@@ -30,6 +30,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Direct School Admission (DSA)
+          date: 30 April 2025
+          announcement: Gan Eng Seng School 2025 Direct School Admission (DSA-Sec)
+            Exercise for Admission to Secondary 1 in 2026
+          link_text: READ MORE
+          link_url: /school-information/school-admission/
         - title: Briefing Materials for Sec 3 Meet Parent Session
           date: 15 April 2025
           announcement: Sec 3 Meet Parent Session slides
