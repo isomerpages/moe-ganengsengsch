@@ -52,8 +52,9 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -67,6 +68,9 @@ variant: tiptap
 <p><strong>Infocomm Club</strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -74,6 +78,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Leaders:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Days:</p>
 </td>
 </tr>
 <tr>
@@ -87,6 +94,15 @@ variant: tiptap
 <br>Vice-President: Ng Jing Hong (3-4)
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>3pm-5.30pm
+<br>Friday
+<br>2pm-5.30pm
+<br>
+<br>Venue
+<br>G02-01 Classroom</p>
 </td>
 </tr>
 <tr>
@@ -111,6 +127,9 @@ together.
 <br>
 <br>Join Infocomm Club @ GESS and turn your passion for audio-visual production
 into a valuable contribution to the school community!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
