@@ -67,7 +67,8 @@ variant: tiptap
 <br>1. School
 <br>2. Kallang Practice Track
 <br>3. Queenstown Stadium
-<br>4. Mount Faber</p>
+<br>4. Mount Faber
+<br>5. Evan Road Stadium</p>
 </td>
 </tr>
 <tr>
