@@ -142,7 +142,11 @@ for even greater heights in future.
 <br>
 <br><strong>Unit Overall Proficiency Awards (UOPA) GOLD:</strong>
 <br>1989, 1991, 2002, 2003, 2005, 2008, 2012, 2014, 2015, 2016, 2017, 2018,
-2019, 2020, 2021, 2022, 2023.
+2019, 2020, 2021, 2022, 2023, 2024</p>
+<p></p>
+<p><strong>Inter Unit 0.22 Revolver Shooting Competition 2024 (National):</strong>
+</p>
+<p>9<sup>th</sup> Position
 <br>
 <br><strong>Inter Unit E-Crime Scene Investigation Competition 2022 (National)</strong>
 <br>Top 10
