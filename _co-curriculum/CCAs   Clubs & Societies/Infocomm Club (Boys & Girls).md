@@ -107,7 +107,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>**Lights, Sound, Camera, Action!**
+<p><strong>**Lights, Sound, Camera, Action!** </strong>
 <br>
 <br>The Infocomm Club @ GESS aims to fuel students’ passion for audio-visual
 production and develop them to be responsible members with the ability
