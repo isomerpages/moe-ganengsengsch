@@ -96,8 +96,9 @@ variant: tiptap
 <br><strong>Deputy Chief Unit Instructor:</strong>
 <br>CPL TOH KANG YU, KIERAN (3-4)
 <br>
-<br><strong>Chief Drill Instructor:</strong>
-<br>SGT Jacob Louis Teo (3-2)</p>
+<br><strong>Assistant Deputy Chief Unit Instructors:</strong>
+<br>CPL CHUA KHAI XIAN HAROLD (3-2)
+<br>CPL ARIQ DANIAL BIN JUMAT (3-6)</p>
 </td>
 </tr>
 <tr>
