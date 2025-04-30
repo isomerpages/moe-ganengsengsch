@@ -145,10 +145,7 @@ for even greater heights in future.
 2019, 2020, 2021, 2022, 2023, 2024</p>
 <p></p>
 <p><strong>Inter Unit 0.22 Revolver Shooting Competition 2024 (National):</strong>
-<br>9th Position</p>
-<p><strong>Inter Unit 0.22 Revolver Shooting Competition 2024 (National):</strong>
-</p>
-<p>9<sup>th</sup> Position
+<br>9th Position
 <br>
 <br><strong>Inter Unit E-Crime Scene Investigation Competition 2022 (National)</strong>
 <br>Top 10
