@@ -14,8 +14,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE1.png">
 </div>
-<p><strong>Changing Contexts of NE</strong>
-</p>
+<h4><strong>Changing Contexts of NE</strong></h4>
 <p>Existing and emerging social, political and economic trends in our national
 and global contexts over the last decade have necessitated a review of
 our approach to NE. These trends have the potential to influence how our
@@ -45,9 +44,7 @@ identity as Singaporeans and arrive at a common set of ideals and values.
 In view of the changing local and global&nbsp;
 <br>contexts, NE has to be empowering, aspirational and inspire all of us
 to take collective ownership of our future as a nation.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Design of Students' NE Experiences</strong>
-</p>
+<h4><strong>Design of Students' NE Experiences</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Through CCE Lessons</strong>&nbsp;which provide the time for teachers
@@ -95,31 +92,26 @@ our students sing the National Anthem and take the National Pledge to reinforce
 the values we stand for as a nation.</p>
 </li>
 </ul>
-<p><strong>About NE Commemorative Days&nbsp;</strong>
-</p>
+<h4><strong>About NE Commemorative Days&nbsp;</strong></h4>
 <p>National Education (NE) Commemorative Days are linked to defining moments
 in Singapore's history. Besides classroom lessons, schools can customise
 learning activities to create holistic&nbsp;learning experiences for our
 students.&nbsp;</p>
 <p>The four NE Commemorative Days are in the table below.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE2.png">
 </div>
-<p><strong>Total Defence Day</strong>
-</p>
+<h4><strong>Total Defence Day</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE3.jpg">
 </div>
 <p>Food resilience experience as part of the Total Defence Day.</p>
-<p><strong>International Friendship Day</strong>
-</p>
+<h4><strong>International Friendship Day</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE4.jpg">
 </div>
 <p>Sharing on International Friendship Day during assembly.</p>
-<p><strong>Racial Harmony Day</strong>
-</p>
+<h4><strong>Racial Harmony Day</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE5.jpg">
 </div>
@@ -132,8 +124,7 @@ students.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE7.jpg">
 </div>
 <p>Parent volunteers helping out with the “Kacang Puteh” booth.</p>
-<p><strong>National Day</strong>
-</p>
+<h4><strong>National Day</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE8.jpg">
 </div>
