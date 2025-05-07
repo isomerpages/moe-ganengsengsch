@@ -86,7 +86,9 @@ variant: tiptap
 <br>Mr Tan Jun Ming
 <br>Mr Sam Jun En
 <br>Mr Guai Tzer Ray
-<br>Mr Tan Javier</p>
+<br>Mr Murphy Goh Ping Fong</p>
+<p>Mr Tan Javier</p>
+<p>Mr Jonathan Guan Jia Jian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Chief Unit Instructor:</strong>
