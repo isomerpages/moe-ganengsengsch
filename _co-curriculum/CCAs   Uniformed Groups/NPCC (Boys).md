@@ -152,14 +152,38 @@ for even greater heights in future.</p>
 <br>
 <br><strong>SPF-NPCC Badge Award 2022</strong>
 <br>SI Tan Javier
-<br>SI Davis Zhang Wei
-<br>
-<br><strong> SPF- NPCC Badge Award 2023</strong>
+<br>SI Davis Zhang Wei</p>
+<p>
+<br><strong>Best Unit Cadet Award 2022</strong>
+<br>SI Tan Javier
+<br>SI Davis Zhang Wei</p>
+<p>
+<br><strong>SPF- NPCC Badge Award 2023</strong>
 <br>SI Goh Ping Fong Murphy
 <br>SI Tang Wei Zheng Caden
 <br>
-<br>
 </p>
+<p><strong>Best Unit Cadet Award 2023</strong>
+<br>SI Goh Ping Fong Murphy
+<br>SSGT Guai Tzer Ray</p>
+<p></p>
+<p><strong>SPF- NPCC Badge Award 2024</strong>
+<br>SI Jacob Louis Teo
+<br>SI Dong Jia An</p>
+<p></p>
+<p><strong>Best Unit Cadet Award 2024</strong>
+<br>SI Jacob Louis Teo
+<br>SSGT Jonathan Guan Jia Jian</p>
+<p></p>
+<p><strong>SPF- NPCC Badge Award 2025</strong>
+<br>SI Goh Ping Jin Marvin
+<br>SI Lim Yong Jun</p>
+<p></p>
+<p><strong>Best Unit Cadet Award 2025</strong>
+<br>SI Goh Ping Jin Marvin
+<br>SSGT Sng Van Khai</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
