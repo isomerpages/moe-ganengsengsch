@@ -135,8 +135,11 @@ that actively helps to make Singapore the safest place in the world.
 <br>
 <br>GESS NPCC has achieved many accolades over the years (to name a few below)
 with the effort of all our cadets and officers. We will continue to strive
-for even greater heights in future.
-<br>
+for even greater heights in future.</p>
+<p>
+<br><strong>UOPA Distinction Award:</strong>
+<br>2024</p>
+<p>
 <br><strong>Unit Overall Proficiency Awards (UOPA) GOLD:</strong>
 <br>1989, 1991, 2002, 2003, 2005, 2008, 2012, 2014, 2015, 2016, 2017, 2018,
 2019, 2020, 2021, 2022, 2023, 2024</p>
