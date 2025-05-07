@@ -11,6 +11,10 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_NPCC_3_NEW.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_NPCC_4.jpg">
 </div>
 <p></p>
@@ -25,6 +29,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_NPCC_8.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_NPCC_7_NEW.jpg">
+</div>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -58,37 +67,35 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ASP Ngoh Cher Tian Jenny (OC)
 <br>INSP Kelvin Kwok Tzih-Yeung (Dy OC)
-<br>ASP Tay Yian Ling INSP Wong Meijing</p>
+<br>ASP Tay Yian Ling INSP Ashley Wong Meijing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Honorary Officers:</strong>
 <br>Mr Ronald Wee Ren Chai
-<br>Mr Shoorya Prakash
 <br>Mr Lock Chan Hong
 <br>Mr Bryan Chai Siong Yi
 <br>
 <br><strong>Senior Cadet Inspectors:</strong>
-<br>Mr Dave Ng Si Jie
 <br>Mr Jared Xin Ern Terredano
 <br>Mr Au Yong Cheng Jun
 <br>
 <br><strong>Cadet Inspectors:</strong>
-<br>Mr Shahul Hameed Ashik Ahmad
-<br>Mr Tan Jun Ming
+<br>Mr Tan Javier
+<br>Mr Jonathan Guan Jia Jian
 <br>Mr Sam Jun En
 <br>Mr Guai Tzer Ray
-<br>Mr Tan Javier</p>
+<br>Mr Murphy Goh Ping Fong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Chief Unit Instructor:</strong>
-<br>CPL CHIA LE MING LUVAN (3-2)
+<br>CPL Chia Le Ming Luvan (3-2)
 <br>
 <br><strong>Deputy Chief Unit Instructor:</strong>
-<br>CPL TOH KANG YU, KIERAN (3-4)
+<br>CPL Toh Kang Yu, Kieran (3-4)
 <br>
 <br><strong>Assistant Deputy Chief Unit Instructors:</strong>
-<br>CPL CHUA KHAI XIAN HAROLD (3-2)
-<br>CPL ARIQ DANIAL BIN JUMAT (3-6)</p>
+<br>CPL Chua Khai Xian Harold (3-2)
+<br>CPL Ariq Danial Bin Ju mat (3-6)</p>
 </td>
 </tr>
 <tr>
@@ -128,28 +135,56 @@ that actively helps to make Singapore the safest place in the world.
 <br>
 <br>GESS NPCC has achieved many accolades over the years (to name a few below)
 with the effort of all our cadets and officers. We will continue to strive
-for even greater heights in future.
-<br>
+for even greater heights in future.</p>
+<p>
+<br><strong>UOPA Distinction Award:</strong>
+<br>2024</p>
+<p></p>
+<p>
 <br><strong>Unit Overall Proficiency Awards (UOPA) GOLD:</strong>
 <br>1989, 1991, 2002, 2003, 2005, 2008, 2012, 2014, 2015, 2016, 2017, 2018,
 2019, 2020, 2021, 2022, 2023, 2024</p>
 <p></p>
 <p><strong>Inter Unit 0.22 Revolver Shooting Competition 2024 (National):</strong>
-<br>9th Position
-<br>
+<br>9th Position</p>
+<p>
 <br><strong>Inter Unit E-Crime Scene Investigation Competition 2022 (National)</strong>
 <br>Top 10
 <br>
 <br><strong>SPF-NPCC Badge Award 2022</strong>
 <br>SI Tan Javier
-<br>SI Davis Zhang Wei
-<br>
-<br><strong> SPF- NPCC Badge Award 2023</strong>
+<br>SI Davis Zhang Wei</p>
+<p>
+<br><strong>Best Unit Cadet Award 2022</strong>
+<br>SI Tan Javier
+<br>SI Davis Zhang Wei</p>
+<p>
+<br><strong>SPF- NPCC Badge Award 2023</strong>
 <br>SI Goh Ping Fong Murphy
 <br>SI Tang Wei Zheng Caden
 <br>
-<br>
 </p>
+<p><strong>Best Unit Cadet Award 2023</strong>
+<br>SI Goh Ping Fong Murphy
+<br>SSGT Guai Tzer Ray</p>
+<p></p>
+<p><strong>SPF- NPCC Badge Award 2024</strong>
+<br>SI Jacob Louis Teo
+<br>SI Dong Jia An</p>
+<p></p>
+<p><strong>Best Unit Cadet Award 2024</strong>
+<br>SI Jacob Louis Teo
+<br>SSGT Jonathan Guan Jia Jian</p>
+<p></p>
+<p><strong>SPF- NPCC Badge Award 2025</strong>
+<br>SI Goh Ping Jin Marvin
+<br>SI Lim Yong Jun</p>
+<p></p>
+<p><strong>Best Unit Cadet Award 2025</strong>
+<br>SI Goh Ping Jin Marvin
+<br>SSGT Sng Van Khai</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>

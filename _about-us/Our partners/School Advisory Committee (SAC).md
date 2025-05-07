@@ -119,12 +119,13 @@ appointments, including a secondment stint as the Executive Director of
 Consumers Association of Singapore (CASE). She holds a Bachelor of Science
 (Psychology) degree from the University of Southern Queensland. A mother
 of two, Ms Lee finds joy in simple moments spent with her children. Her
-most memorable teacher and friend is Mr Kho Cher Chong, who, besides Chinese
-language, taught her important values in life. For the past decades, she
-and her friends have continued the tradition of their annual Chinese New
-Year gathering at his place. She believes in creating an environment at
-GESS where every student can discover their strengths and develop the skills
-needed to navigate today's fast-changing world with confidence and purpose.</p>
+most memorable teacher and friend was the late Mr Kho Cher Chong, who,
+besides Chinese language, taught her important values in life. For the
+past decades, she and her friends had continued the tradition of their
+annual Chinese New Year gathering at his place. She believes in creating
+an environment at GESS where every student can discover their strengths
+and develop the skills needed to navigate today's fast-changing world with
+confidence and purpose.</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sam_Liew.png">
