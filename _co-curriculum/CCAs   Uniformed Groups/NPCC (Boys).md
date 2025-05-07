@@ -139,7 +139,6 @@ for even greater heights in future.</p>
 <p>
 <br><strong>UOPA Distinction Award:</strong>
 <br>2024</p>
-<p></p>
 <p>
 <br><strong>Unit Overall Proficiency Awards (UOPA) GOLD:</strong>
 <br>1989, 1991, 2002, 2003, 2005, 2008, 2012, 2014, 2015, 2016, 2017, 2018,
