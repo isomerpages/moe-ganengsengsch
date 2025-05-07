@@ -72,23 +72,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Honorary Officers:</strong>
 <br>Mr Ronald Wee Ren Chai
-<br>Mr Shoorya Prakash
 <br>Mr Lock Chan Hong
 <br>Mr Bryan Chai Siong Yi
 <br>
 <br><strong>Senior Cadet Inspectors:</strong>
-<br>Mr Dave Ng Si Jie
 <br>Mr Jared Xin Ern Terredano
 <br>Mr Au Yong Cheng Jun
 <br>
 <br><strong>Cadet Inspectors:</strong>
-<br>Mr Shahul Hameed Ashik Ahmad
-<br>Mr Tan Jun Ming
+<br>Mr Tan Javier
+<br>Mr Jonathan Guan Jia Jian
 <br>Mr Sam Jun En
 <br>Mr Guai Tzer Ray
 <br>Mr Murphy Goh Ping Fong</p>
-<p>Mr Tan Javier</p>
-<p>Mr Jonathan Guan Jia Jian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Chief Unit Instructor:</strong>
