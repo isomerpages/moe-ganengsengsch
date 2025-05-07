@@ -99,7 +99,7 @@ variant: tiptap
 <br>
 <br><strong>Assistant Deputy Chief Unit Instructors:</strong>
 <br>CPL Chua Khai Xian Harold (3-2)
-<br>CPL Ariq Danial Bin Jumat (3-6)</p>
+<br>CPL Ariq Danial Bin Ju mat (3-6)</p>
 </td>
 </tr>
 <tr>
