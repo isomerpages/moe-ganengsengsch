@@ -11,6 +11,10 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_NPCC_3_NEW.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_NPCC_4.jpg">
 </div>
 <p></p>
@@ -25,6 +29,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_NPCC_8.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GESS_NPCC_7_NEW.jpg">
+</div>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -58,7 +67,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ASP Ngoh Cher Tian Jenny (OC)
 <br>INSP Kelvin Kwok Tzih-Yeung (Dy OC)
-<br>ASP Tay Yian Ling INSP Wong Meijing</p>
+<br>ASP Tay Yian Ling INSP Ashley Wong Meijing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Honorary Officers:</strong>
@@ -81,14 +90,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Chief Unit Instructor:</strong>
-<br>CPL CHIA LE MING LUVAN (3-2)
+<br>CPL Chia Le Ming Luvan (3-2)
 <br>
 <br><strong>Deputy Chief Unit Instructor:</strong>
-<br>CPL TOH KANG YU, KIERAN (3-4)
+<br>CPL Toh Kang Yu, Kieran (3-4)
 <br>
 <br><strong>Assistant Deputy Chief Unit Instructors:</strong>
-<br>CPL CHUA KHAI XIAN HAROLD (3-2)
-<br>CPL ARIQ DANIAL BIN JUMAT (3-6)</p>
+<br>CPL Chua Khai Xian Harold (3-2)
+<br>CPL Ariq Danial Bin Jumat (3-6)</p>
 </td>
 </tr>
 <tr>
