@@ -56,3 +56,4 @@ include assessing the potential of the applicants</p>
 </ul>
 <p>We thank you for your interest in Gan Eng Seng School</p>
 <p>Onward</p>
+
