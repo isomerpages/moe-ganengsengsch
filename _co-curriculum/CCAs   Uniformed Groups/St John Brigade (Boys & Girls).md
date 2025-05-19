@@ -7,15 +7,21 @@ variant: markdown
 ---
 #### **St. John Brigade (SJB)**
 
-![](/images/sjb%20one.jpeg)
+![](/images/OPEN_HSE.png)
 <br>
-![](/images/sjb%20two.jpeg)
+![](/images/SJ_DAY_.jpg)
 <br>
-![](/images/sjb%20three.jpeg)
+![](/images/SHOOTING.png)
 <br>
-![](/images/sjb%20four.jpeg)
+![](/images/2024_hike.jpg)
 <br>
-![](/images/sjb%20five.jpeg)
+![](/images/ATC.png)
+<br>
+![](/images/2024_CAA.jpg)
+<br>
+![](/images/2024_NFAC.jpg)
+<br>
+![](/images/2025_DFAC.jpg)
 <br>
 
 
@@ -45,13 +51,13 @@ variant: markdown
 		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Ms Chan Yi Tsun<br>Ms Ong Jing Xuan Jamie<br></td>
-    <td class="tg-tsok">3OFFR Hilary Leong En Hui<br>3OFFR Lee Cheok Yuen<br> SSS Trenyce Tay Xin Pin<br>SSS Wong Bao Lin Jolin</td>
-    <td class="tg-l2bf"><span style="font-weight:bold">Corps Sergeant Major (CSM):</span><br>Tay Chun Yong Jarrett 3-2<br><span style="font-weight:bold">Deputy Corps Sergeant Major (DyCSM):</span><br>Liu Jiayi 3-6</td>
-		 <td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday:<br>2pm-5.30pm<br>Selected Saturday:*<br><br>Venue:<br>GESS Arena or SJB HQ*</td>
+    <td class="tg-tsok">Ms Chan Yi Tsun<br>Ms Ong Jing Xuan Jamie<br>Ms Chua Ariella Elise</td>
+    <td class="tg-tsok">2OFFR Hilary Leong En Hui<br>2OFFR Lee Cheok Yuen<br> SSS Trenyce Tay Xin Pin<br>SSS Wong Bao Lin Jolin<br>SSS Selina Tan Hui En<br>SSS Low Yi Xin Ashley</td>
+    <td class="tg-l2bf"><span style="font-weight:bold">Corps Sergeant Major (CSM):</span><br>Goh Cheng Kai Dylan 3-2<br><span style="font-weight:bold">Deputy Corps Sergeant Major (DyCSM):</span><br>Ho Xiang Ning 3-4</td>
+		 <td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday:<br>2pm-5.30pm<br>Selected Saturday:*<br><br>Venue:<br>GESS Speakers Corner<br>Classrooms<br>SJB HQ*</td>
   </tr>
   <tr>
-    <td class="tg-pcr6" colspan="4">**Pro Fide – For the Faith.**<br>**Pro Utilitate Hominum – In the Service of Humanity.**<br><br>Since 1964, Gan Eng Seng School Corps has been striving forward, for the faith and in the service of humanity. We seek to equip our cadets with training in a range of first aid skills and knowledge, as well as character and leadership development. With a holistic curriculum, our cadets will learn and grow to be confident citizens who are able to contribute meaningfully to the school and community.<br><br>We organise a variety of activities for our cadets, such as:<br><br><span style="font-weight:bold;text-decoration:underline">Skills &amp; Knowledge</span><br>Basic First Aid<br>Standard First Aid<br>Home Nursing<br>Basic Cardiac Life Support<br>CPR-AED<br>Transport of Casualty<br>Triage<br>Foot Drill<br><br><span style="font-weight:bold;text-decoration:underline">Cadet Proficiency Badge Scheme (CPBS)</span><br>Accident Prevention<br>Anti-Drug Abuse Course<br>Archery<br>Artist<br>Civil Defence<br>Community Care<br>Community Song<br>Cycling<br>Environment Education<br>Handyman<br>Heritage Badge<br>Homecraft<br>Kindness Badge<br>Knowledge of the Order of St John<br>Map Reading<br>Shooting<br>Total Defence<br><br><span style="font-weight:bold;text-decoration:underline">Leadership</span><br>Basic Non-commissioned Officer (BNCO)<br>Advanced Non-commissioned Officer (ANCO)<br><br><span style="font-weight:bold;text-decoration:underline">Community Service</span><br>St John Flag Day<br>St John Walkathon<br>Hospital Attachment Programme<br>First aid support in school events<br>Public duty at external events<br><br><span style="font-weight:bold;text-decoration:underline">Other activities</span><br>National Camp<br>National Day Parade marching contingent<br>World Water Day<br>We have obtained the following achievements throughout the years;<br><br>●     <span style="font-weight:bold">Corps Achievement Award (CAA) Gold: </span>2004, 2005, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023.<br><br>●     <span style="font-weight:bold">St John Flag Day 2019 Top 10 Corps</span><br><br>●     <span style="font-weight:bold">St John Walkathon 2019 Zone 10 Champion</span><br><br>●     <span style="font-weight:bold">St John Brigade Southwest District First Aid Competition 2022 – Ambulance Adult Team: 2nd Runner-up; Nursing Adult team: 2nd Runner-up:</span><br><span style="font-weight:bold"> </span><br>In 2022, 10 of our cadets were also awarded the Chief Commissioner’s Badge in recognition of their outstanding service.</td>
+    <td class="tg-pcr6" colspan="4">**Pro Fide – For the Faith.**<br>**Pro Utilitate Hominum – In the Service of Humanity.**<br><br>Since 1964, Gan Eng Seng School Corps has been striving forward, for the faith and in the service of humanity. We seek to equip our cadets with training in a range of first aid skills and knowledge, as well as character and leadership development. With a holistic curriculum, our cadets will learn and grow to be confident citizens who are able to contribute meaningfully to the school and community.<br><br>We organise a variety of activities for our cadets, such as:<br><br><span style="font-weight:bold;text-decoration:underline">Skills &amp; Knowledge</span><br>Basic First Aid<br>Standard First Aid<br>Home Nursing<br>Basic Cardiac Life Support<br>CPR-AED<br>Transport of Casualty<br>Triage<br>Foot Drill<br><br><span style="font-weight:bold;text-decoration:underline">Cadet Proficiency Badge Scheme (CPBS)</span><br>Accident Prevention<br>Anti-Drug Abuse Course<br>Archery<br>Artist<br>Civil Defence<br>Community Care<br>Community Song<br>Cycling<br>Environment Education<br>Handyman<br>Heritage Badge<br>Homecraft<br>Kindness Badge<br>Knowledge of the Order of St John<br>Map Reading<br>Shooting<br>Total Defence<br><br><span style="font-weight:bold;text-decoration:underline">Leadership</span><br>Basic Non-commissioned Officer (BNCO)<br>Advanced Non-commissioned Officer (ANCO)<br><br><span style="font-weight:bold;text-decoration:underline">Community Service</span><br>St John Flag Day<br>St John Walkathon<br>Hospital Attachment Programme<br>First aid support in school events<br>Public duty at external events<br><br><span style="font-weight:bold;text-decoration:underline">Other activities</span><br>National Camp<br>National Day Parade marching contingent<br>World Water Day<br>We have obtained the following achievements throughout the years;<br><br>●     <span style="font-weight:bold">Corps Achievement Award (CAA) Gold: </span>2004, 2005, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023,2024.<br><br>●     <span style="font-weight:bold">St John Flag Day 2019 Top 10 Corps</span><br><br>●     <span style="font-weight:bold">St John Walkathon 2019 Zone 10 Champion</span><br><br>●     <span style="font-weight:bold">St John Brigade Southwest District First Aid Competition 2025 – Ambulance Adult Team: 1st Runner-up and Best in Foot Drill; Nursing Adult team: Champion, Best in First Aid and Best in Home Nursing; Ambulance Cadet Team : 2nd Runner-up and Best in Foot Drill; Nursing Cadet Team : 1st Runner-up:</span><br><br>●     <span style="font-weight:bold">St John Brigade National First Aid &amp; Home Nursing Competition 2024- Ambulance Adult Team: Best in CPR and Best in Transportation of Casualty</span><br><br><br><span style="font-weight:bold"><br>In 2024, 10 of our cadets were also awarded the Chief Commissioner’s Badge in recognition of their outstanding service.</span></td>
   </tr>
   <tr>
     <td class="tg-1ppo">Other Link:</td>
