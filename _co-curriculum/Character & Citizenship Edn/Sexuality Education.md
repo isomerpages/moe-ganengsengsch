@@ -741,7 +741,7 @@ family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and
@@ -753,7 +753,7 @@ faithful, correct, and consistent condom use).</p>
 healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -766,7 +766,7 @@ way out of a risky situation by applying skills of assertiveness and responsible
 decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
