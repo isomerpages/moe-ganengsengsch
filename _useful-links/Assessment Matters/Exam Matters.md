@@ -29,8 +29,9 @@ variant: markdown
 
 <h5 style="color:black">Preliminary Examination  Format &amp; Topics 2025</h5>
 
-*   **[Sec 4 Express](/files/4NA_Prelim_Format___Topics_2025.pdf)**
+*   **[Sec 4 Express](/files/Prelim_Format___Topics_2025_4exp.pdf)**
 *   **[Sec 4 Normal Academic](/files/4NA_Prelim_Format___Topics_2025.pdf)**
 *   **[Sec 4 Normal Technical](/files/4NT_Prelim_Format___Topics_2025.pdf)**
-*   **[Sec 5 Normal Academic](/files/4NA_Prelim_Format___Topics_2025.pdf)**
+*   **[Sec 5 Normal Academic](/files/Prelim_Format___Topics_2025_5na.pdf)**
+
 
