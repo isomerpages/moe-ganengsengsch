@@ -30,5 +30,3 @@ variant: markdown
 
 *   **[Sec 4 Normal Academic](/files/4NA_Prelim_Format___Topics_2025.pdf)**
 *   **[Sec 4 Normal Technical](/files/4NT_Prelim_Format___Topics_2025.pdf)**
-
-
