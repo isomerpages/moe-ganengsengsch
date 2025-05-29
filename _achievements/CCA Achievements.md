@@ -5,6 +5,429 @@ description: ""
 variant: tiptap
 ---
 <h2>2025</h2>
+<p><strong>Physical Sports</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Results</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Inter-School Table Tennis Championship (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Inter-school Basketball Championship (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Inter-school Football Championship (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sport Climbing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inter-Schools Bouldering Championships (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Cross Country</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>National Inter-school Cross Country Championship (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Inter-school Cross Country Championship (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16<sup>th</sup>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Uniformed Groups</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Results</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC (Land)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys’ Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>J M Fraser Award Excellence Honour Roll Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls’ Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Girls’ Brigade Company Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dragon Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SJB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corps Achievement Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Visual and Performing Arts</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Results</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation for Band (Concert)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certification of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation for Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certification of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation for Dance (International)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certification of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation for Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certification of Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p><strong>Individual Achievements</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Results</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Zuo-En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Taekwondo Kyorugi Championship, C Division Boys, Red Belt Under 50kg
+category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Zheng Hao Lucas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Taekwondo Kyorugi, C Division Boys, Poom Belt Under 66kg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Siow Wen Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Taekwondo Kyorugi, B Division Boys, Black Belt Under 48kg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap Rong-yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys’ Brigade Best Boy Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winner</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <h2>2024</h2>
 <p><strong>Physical Sports</strong>
