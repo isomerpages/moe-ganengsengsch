@@ -135,6 +135,51 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Canoeing</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>National Inter-school Canoeing Championship (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Inter-school Canoeing Championship (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong>
@@ -427,7 +472,6 @@ category</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <h2>2024</h2>
 <p><strong>Physical Sports</strong>
