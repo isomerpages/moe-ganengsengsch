@@ -31,7 +31,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Sec 4/5 Prelim 2025
-          date: 27 May 2025
+          date: 24 June 2025
           announcement: Sec 4/5 Preliminary Examination Timetables, Examination Formats
             and Topics 2025
           link_text: READ MORE
