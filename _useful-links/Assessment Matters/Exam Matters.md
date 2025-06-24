@@ -20,10 +20,10 @@ variant: markdown
 <h5 style="color:black">Preliminary Examination Timetable 2025
 </h5>
 
-*   **[Sec 4 Express](/files/4E_Prelim_TT_2025_final.pdf)**
+*   **[Sec 4 Express](/files/4E_Prelim_TT_2025_final_v2.pdf)**
 *   **[Sec 4 Normal Academic](/files/4NA_TT_25.pdf)**
 *   **[Sec 4 Normal Technical](/files/4NT_TT_25.pdf)**
-*   **[Sec 5 Normal Academic](/files/5NA_Prelim_TT_2025_final.pdf)**
+*   **[Sec 5 Normal Academic](/files/5NA_Prelim_TT_2025_final_v2.pdf)**
 
 
 
