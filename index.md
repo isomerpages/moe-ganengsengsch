@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Term 3 letter to parents 2025
+          date: 26 June 2025
+          announcement: Term 3 letter 2025
+          link_text: READ MORE
+          link_url: https://ganengsengsch.moe.edu.sg/term-3-letter-to-parents-2025/
         - title: Sec 4/5 Prelim 2025
           date: 24 June 2025
           announcement: Sec 4/5 Preliminary Examination Timetables, Examination Formats
@@ -52,9 +57,4 @@ sections:
           announcement: Sec 3 Meet Parent Session 2025 Briefing Slides
           link_text: READ MORE
           link_url: /briefing-materials-for-sec-3-meet-parent-session/
-        - title: Term 3 letter to parents 2025
-          date: 26 June 2025
-          announcement: Term 3 letter 2025
-          link_text: READ MORE
-          link_url: https://ganengsengsch.moe.edu.sg/term-3-letter-to-parents-2025/
 ---
