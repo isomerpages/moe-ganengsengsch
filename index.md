@@ -52,9 +52,9 @@ sections:
           announcement: Sec 3 Meet Parent Session 2025 Briefing Slides
           link_text: READ MORE
           link_url: /briefing-materials-for-sec-3-meet-parent-session/
-        - title: Term 2 letter to parents 2025
-          date: 03 April 2025
-          announcement: Term 2 letter 2025
+        - title: Term 3 letter to parents 2025
+          date: 26 June 2025
+          announcement: Term 3 letter 2025
           link_text: READ MORE
-          link_url: /term-2-letter-to-parents-2025/
+          link_url: https://ganengsengsch.moe.edu.sg/term-3-letter-to-parents-2025/
 ---
