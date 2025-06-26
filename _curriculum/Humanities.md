@@ -24,9 +24,6 @@ Collaborative assignments and thought-provoking activities that hone 21st
 Century Competencies (21CC) and Humanities Inquiry Skills are carefully
 weaved into these experiences. Through experiential learning, students
 gain greater insights into the concepts learnt in the classroom.</p>
-<p>However, due to COVID19, we had to carry out the Learning Journeys virtually
-this year. Students’ enthusiasm for learning was not dampened and this
-episode only served to build up our Core Value of Resilience! Students
-with a flair for the Humanities may also be selected to represent our school
-in events like the Geography Challenge, History Challenge or Model United
-Nations Conference under our school’s Capstone Programme.</p>
+<p>Students with a flair for the Humanities may also be selected to represent
+our school in events like the Geography Challenge, History Challenge or
+Model United Nations Conference under our school’s Capstone Programme.</p>
