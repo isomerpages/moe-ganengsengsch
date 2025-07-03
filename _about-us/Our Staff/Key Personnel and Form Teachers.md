@@ -577,7 +577,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -594,6 +594,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thanigaivel_chithra@schools.gov.sg" rel="noopener noreferrer" target="_blank">thanigaivel_chithra@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rene Lee Jia Yi (LJY)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Rene_Lee_Jia_Yi@schools.gov.sg" rel="noopener noreferrer" target="_blank">rene_lee_jia_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1200,10 +1209,10 @@ variant: tiptap
 <p>FAJT (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Shu Jin</p>
+<p>Ms Chen Shu Jin (CSJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_shu_jin@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_geok_leng_a@schools.gov.sg</a>
+<p><a href="mailto:chen_shu_jin@schools.gov.sg" rel="noopener noreferrer" target="_blank">chen_shu_jin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1212,7 +1221,7 @@ variant: tiptap
 <p>FAJT (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Carolyn Koh Leng Kim</p>
+<p>Ms Carolyn Koh Leng Kim (KLK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Carolyn_Koh_Leng_Kim@schools.gov.sg" rel="noopener nofollow" target="_blank">Carolyn_Koh_Leng_Kim@schools.gov.sg</a>
