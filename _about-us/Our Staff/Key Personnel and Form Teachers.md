@@ -875,10 +875,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mr Cheong Ming Zhan (CMZ)</p>
+<p>Ms Li Xiran (LXR)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:cheong_ming_zhan_a@schools.gov.sg" rel="noopener nofollow" target="_blank">cheong_ming_zhan_a@schools.gov.sg</a>
+<p><a href="mailto:LI_XIRAN_A@schools.gov.sg" rel="noopener nofollow" target="_blank">li_xiran_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
