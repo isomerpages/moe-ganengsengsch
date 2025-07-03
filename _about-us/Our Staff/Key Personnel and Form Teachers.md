@@ -884,7 +884,7 @@ variant: tiptap
 </tr>
 <tr></tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3-7</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -901,6 +901,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_kay_chuan_b@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_kay_chuan_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Kai Ting Cathryn (WKT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Wong_Kai_Ting_Cathryn_A@schools.gov.sg" rel="noopener noreferrer" target="_blank">wong_kai_ting_cathryn_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
