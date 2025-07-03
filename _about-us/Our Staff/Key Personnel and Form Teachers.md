@@ -1197,6 +1197,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>FAJT (CL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Shu Jin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_shu_jin@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_geok_leng_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>FAJT (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
