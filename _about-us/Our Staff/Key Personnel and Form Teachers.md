@@ -1077,7 +1077,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Voon Ser Kei (VSK)</p>
+<p>Ms Vong Ser Kei (VSK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vong_ser_kei@schools.gov.sg" rel="noopener nofollow" target="_blank">vong_ser_kei@schools.gov.sg</a>
