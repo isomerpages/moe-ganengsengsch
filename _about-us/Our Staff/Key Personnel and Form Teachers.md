@@ -577,7 +577,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -594,6 +594,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thanigaivel_chithra@schools.gov.sg" rel="noopener noreferrer" target="_blank">thanigaivel_chithra@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rene Lee Jia Yi (LJY)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Rene_Lee_Jia_Yi@schools.gov.sg" rel="noopener noreferrer" target="_blank">rene_lee_jia_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -866,16 +875,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mr Cheong Ming Zhan (CMZ)</p>
+<p>Ms Li Xiran (LXR)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:cheong_ming_zhan_a@schools.gov.sg" rel="noopener nofollow" target="_blank">cheong_ming_zhan_a@schools.gov.sg</a>
+<p><a href="mailto:LI_XIRAN_A@schools.gov.sg" rel="noopener nofollow" target="_blank">li_xiran_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr></tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3-7</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -892,6 +901,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_kay_chuan_b@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_kay_chuan_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Kai Ting Cathryn (WKT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Wong_Kai_Ting_Cathryn_A@schools.gov.sg" rel="noopener noreferrer" target="_blank">wong_kai_ting_cathryn_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1104,7 +1122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Voon Ser Kei (VSK)</p>
+<p>Ms Vong Ser Kei (VSK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vong_ser_kei@schools.gov.sg" rel="noopener nofollow" target="_blank">vong_ser_kei@schools.gov.sg</a>
@@ -1197,10 +1215,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>FAJT (CL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Shu Jin (CSJ)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_shu_jin@schools.gov.sg" rel="noopener noreferrer" target="_blank">chen_shu_jin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>FAJT (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Carolyn Koh Leng Kim</p>
+<p>Ms Carolyn Koh Leng Kim (KLK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Carolyn_Koh_Leng_Kim@schools.gov.sg" rel="noopener nofollow" target="_blank">Carolyn_Koh_Leng_Kim@schools.gov.sg</a>
