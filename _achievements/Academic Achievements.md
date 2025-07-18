@@ -21,19 +21,18 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong>
-<br>Gu Tongshuo Shaquille (4-4)</p>
+<br>Gu Tongshuo Shaquille (4-4)</p><p><strong>Silver</strong>
+<br>Yang Xiuqi (4-4)</p>
 <p><strong>Bronze</strong>
-<br>Ng Jing Hong (2-7)
-<br>Deng Jingheng (3-4)
-<br>Gu Tongshuo Shaquille (3-4)</p>
+<br>Deng Jingheng (4-4)</p>
 <p><strong>Honourable Mention</strong>
-<br>Toh Kang Yu, Kieran (2-4)
+<br>Tay Zhi Yi Celeste (4-6)
 <br>Ong Xuan Li Raphael Nicholas (4-4)
 <br>Wong Wen Qian (3-4)
 <br>Yong Ran Xi (4-6)
 <br>Bala Murugan Ravi (3-4)
 <br>Michael Vincent Travia (4-6)</p>
-<p><strong>Certificate</strong>
+<p><strong>Participation</strong>
 <br>Teh Chi Hin (2-1)
 <br>Hilmie Huzaify Bin Harzelly (2-2)
 <br>Arunesh (2-3)
