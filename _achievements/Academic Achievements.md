@@ -27,7 +27,7 @@ variant: markdown
 <br>Deng Jingheng (4-4)</p>
 <p><strong>Honourable Mention</strong>
 <br>Tay Zhi Yi Celeste (4-6)
-<br>Ong Xuan Li Raphael Nicholas (4-4)
+<br>Chan Pin Wen (4-5)
 <br>Wong Wen Qian (3-4)
 <br>Yong Ran Xi (4-6)
 <br>Bala Murugan Ravi (3-4)
