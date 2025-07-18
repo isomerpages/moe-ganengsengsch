@@ -7,7 +7,6 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>2025</p>
-<p></p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -18,12 +17,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Mathematical Olympiad (SMO) 2024</strong>
-</p>
+<p>Singapore Junior Biology Olympiad (SJBO) 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong>
-<br>Yuan Yixiang Mike (4-6)</p>
+<br>Gu Tongshuo Shaquille (4-4)</p>
 <p><strong>Bronze</strong>
 <br>Ng Jing Hong (2-7)
 <br>Deng Jingheng (3-4)
@@ -66,158 +64,64 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Junior Biology Olympiad 2024<br></strong>
+<p><strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Silver</strong>
-<br>Gervelle Lee Jia Qi (4-4)
-<br>Lam Jey Yi (4-6)</p>
-<p><strong>Bronze</strong>
-<br>Tan Yi Kai (4-4)
-<br>Tin Xian Liang (4-4)</p>
-<p><strong>Participation</strong>
-<br>Ho Yu Tian, Alicia (3-4)
-<br>Kornwarin Sadiphan (3-4)
-<br>Misha Sydnie Lie (3-4)
-<br>Sim Jing Yuan, Aiden (3-4)
-<br>Winston Mohan-He (3-4)
-<br>Yap Rong-Yan (3-4)
-<br>Aashni Tamanna Venkateswaran (3-6)
-<br>Ow-Yang Han Li (3-6)
-<br>Soh Ze Yu (3-6)
-<br>Tay Zhi Yi Celeste (3-6)
-<br>Vanessa Chng Rong Ci (3-6)
-<br>Teo Zi Jie (4-4)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Junior Chemistry Olympiad 2024<br></strong>
+<p><strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Gold</strong>
-<br>Yuan Yixiang (4-6)</p>
-<p><strong>Participation</strong>
-<br>Bala Murugan Ravi (3-4)
-<br>Contreras Jose Mykheilla Cabatcan (3-4)
-<br>Foong Liang Jun (3-4)
-<br>Gu Tongshuo Shaquille (3-4)
-<br>Ariel Ong Zi Xin (3-5)
-<br>Evangelista Kwek (3-5)
-<br>Sim Shi Yee Ashley (3-5)
-<br>Leon Ong Wei An (3-6)
-<br>Ow-Yang Han Li (3-6)
-<br>Federico Jeremiah Umadac (4-4)
-<br>Vikas Kumar (4-4)
-<br>Chiu Ri Sen (4-5)
-<br>Tan Pei Ling Phedra (4-5)
-<br>Yong Ran Xi (4-6)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Junior Physics Olympiad 2024<br></strong>
+<p><strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Gold</strong>
-<br>Yuan Yixiang (4-6)</p>
-<p><strong>Silver</strong>
-<br>Tin Xian Liang (4-4)</p>
-<p><strong>Bronze </strong>
-<br>Chua Wenze Mike (4-4)
-<br>Nathen Phua Mushuang (4-4)
-<br>Vikas Kumar (4-4)
-<br>Travia Michael Vincent (4-6)</p>
-<p><strong>Honourable Mention</strong>
-<br>Teo Zi Jie (4-4)</p>
-<p><strong>Participation</strong>
-<br>Bala Murugan Ravi (3-4)
-<br>Gavin Chee Chun Hong (3-4)
-<br>Ding Jingheng (3-4)
-<br>Ho Jing Yee Elise (3-4)
-<br>Muhammad Aqeel bin Abdul Halim (3-4)
-<br>Tan Keryn (3-4)
-<br>Wong Wen Qian (3-4)
-<br>Amanda Chong Yan Ling (3-5)
-<br>Ariel Ong Zi Xin (3-5)
-<br>Chan Yuxuan Gwyn (3-5)
-<br>Neharika d/o Nagaisvaran (3-5)
-<br>Wan Zi Hao (3-5)
-<br>Ong Yi Xuan Lowell (3-6)
-<br>Sia Yong Han (3-6)
-<br>Goh Kai Xuan Ryan (3-7)
-<br>Daylan Tan Yi Wei (4-4)
-<br>Federico Jeremiah Umadac (4-4)
-<br>Gervelle Lee Jia Qi (4-4)
-<br>Zarmin Ravi (4-4)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Physics League 2024 (Team)<br></strong>
+<p><strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Gold</strong>
-<br>Kendrick Slamat (4-5)
-<br>Cheong Yiqian Aloysius (4-6)
-<br>Kayden Wee Yu Kiat (4-6)
-<br>Travia Michael Vincent (4-6)
-<br>Yuan Yixiang (4-6)</p>
-<p><strong>Honourable Mention</strong>
-<br>Sui Kang Le Theophilus (2-3)
-<br>Bala Murugan Ravi (3-4)
-<br>Deng Jingheng (3-4)
-<br>Gu Tongshuo Shaquille (3-4)
-<br>Yang Xiuqi (3-4)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>IDE Series Challenge Competition 2024<br></strong>
+<p><strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Engineering Award</strong>
-<br>Isaac Goh Yaang Yi (2-2)
-<br>Sui Kang Le Theophilus (2-3)
-<br>Wong Wen Qian (3-4)</p>
-<p><strong>Participation</strong>
-<br>Caleb Leong Ka Lok (1-7)
-<br>Lau Tiek Khai, Xavier (1-7)
-<br>Lim Ghim Suan (1-7)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>IDE Series Maker Competition 2024<br></strong>
+<p><strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>3rd Place Overall</strong>
-<br>Mohandas Isacc Valeriano s/o Ramu (2-6)
-<br>Carla Andres Goldstein (2-7)
-<br>Giselle Kezia Karli (2-7)</p>
-<p><strong>Participation</strong>
-<br>Ng Zhi Yang Caden (1-3)
-<br>Tay Zhi Lun Caden (1-7)
-<br>Zenon Teo Zhe Wei (2-6)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Youth STEM Empowerment Programme 2024</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Participation</strong>Gabriel Cheong Zheng Rong (3-4)
-<br>Deng Jingheng (3-4)
-<br>Foong Liang Jun (3-4)
-<br>Gu Tongshuo Shaquille (3-4)
-<br>Yang Xiuqi (3-4)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
