@@ -2,8 +2,113 @@
 title: Academic Achievements
 permalink: /achievements/academic/
 description: ""
-variant: tiptap
+variant: markdown
 ---
+<ul data-tight="true" class="tight">
+<li>
+<p>2025</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad (SJBO) 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+<br>Gu Tongshuo Shaquille (4-4)</p><p><strong>Silver</strong>
+<br>Yang Xiuqi (4-4)</p>
+<p><strong>Bronze</strong>
+<br>Deng Jingheng (4-4)</p>
+<p><strong>Honourable Mention</strong>
+<br>Tay Zhi Yi Celeste (4-6)
+<br>Chan Pin Wen (4-5)</p>
+<p><strong>Participation</strong>
+<br>Chau Cheng Feng (3-4)
+<br>Chew Yu Tong Constance (4-5)
+<br>Ow-Yang Han Li (4-6)
+<br>Li Hui Lin (3-6)
+<br>Chionh Kai Aik (3-4)
+<br>Foong Liang Jun (4-4)
+<br>Risen Tan Ri Sen (4-4)
+<br>Soh Ze Yu (4-6)
+<br>Vanessa Chng Rong Ci (4-6)
+<br>Lau Xin Ru (3-5)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>2024</p>
