@@ -28,7 +28,7 @@ variant: markdown
 <p><strong>Honourable Mention</strong>
 <br>Tay Zhi Yi Celeste (4-6)
 <br>Chan Pin Wen (4-5)
-<br>Wong Wen Qian (3-4)
+<br>Chau Cheng Feng (3-4)
 <br>Yong Ran Xi (4-6)
 <br>Bala Murugan Ravi (3-4)
 <br>Michael Vincent Travia (4-6)</p>
