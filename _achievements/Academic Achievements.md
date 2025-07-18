@@ -37,7 +37,7 @@ variant: markdown
 <br>Foong Liang Jun (4-4)
 <br>Risen Tan Ri Sen (4-4)
 <br>Soh Ze Yu (4-6)
-<br>Long En Jie,Louis (2-7)
+<br>Vanessa Chng Rong Ci (4-6)
 <br>Amalesh (2-3)
 <br>Ken Owen Lim (2-5)
 <br>Jerry Chen (2-4)
