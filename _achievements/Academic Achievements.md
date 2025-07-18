@@ -30,7 +30,7 @@ variant: markdown
 <br>Chan Pin Wen (4-5)
 <br>Chau Cheng Feng (3-4)
 <br>Chew Yu Tong Constance (4-5)
-<br>Bala Murugan Ravi (3-4)
+<br>Ow-Yang Han Li (4-6)
 <br>Michael Vincent Travia (4-6)</p>
 <p><strong>Participation</strong>
 <br>Teh Chi Hin (2-1)
