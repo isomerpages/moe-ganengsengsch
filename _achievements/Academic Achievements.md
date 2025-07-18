@@ -38,26 +38,7 @@ variant: markdown
 <br>Risen Tan Ri Sen (4-4)
 <br>Soh Ze Yu (4-6)
 <br>Vanessa Chng Rong Ci (4-6)
-<br>Amalesh (2-3)
-<br>Ken Owen Lim (2-5)
-<br>Jerry Chen (2-4)
-<br>Vera Khoo Le Ying (2-4)
-<br>Jayden Lim Guan Yi (2-6)
-<br>Shannon Loh Wenxi (2-7)
-<br>Ryan Lee Jun Seng (4-4)
-<br>Kendrick Slamat (4-5)
-<br>Lam Jey Yi (4-6)
-<br>Tan Jin Yi (4-7)
-<br>Gavin Chee Chun Hong (3-4)
-<br>Tan Keryn (3-4)
-<br>Nathen Phua Mushuang (4-4)
-<br>Vikas Kumar (4-4)
-<br>Tin Xian Liang (4-4)
-<br>Isaac Ong (4-4)
-<br>Wang Shengyu (3-6)
-<br>Korniwarin Sadiphan (3-4)
-<br>Federico Jeremiah Umadac(4-4)</p>
-<p>Cheong Teng Han (4-6)</p>
+<br>Lau Xin Ru (3-5)</p>
 <p></p>
 </td>
 </tr>
