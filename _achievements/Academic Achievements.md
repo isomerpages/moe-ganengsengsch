@@ -29,7 +29,7 @@ variant: markdown
 <br>Tay Zhi Yi Celeste (4-6)
 <br>Chan Pin Wen (4-5)
 <br>Chau Cheng Feng (3-4)
-<br>Yong Ran Xi (4-6)
+<br>Chew Yu Tong Constance (4-5)
 <br>Bala Murugan Ravi (3-4)
 <br>Michael Vincent Travia (4-6)</p>
 <p><strong>Participation</strong>
