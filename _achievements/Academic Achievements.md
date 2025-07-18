@@ -31,7 +31,7 @@ variant: markdown
 <br>Chau Cheng Feng (3-4)
 <br>Chew Yu Tong Constance (4-5)
 <br>Ow-Yang Han Li (4-6)
-<br>Michael Vincent Travia (4-6)</p>
+<br>Li Hui Lin (3-6)</p>
 <p><strong>Participation</strong>
 <br>Teh Chi Hin (2-1)
 <br>Hilmie Huzaify Bin Harzelly (2-2)
