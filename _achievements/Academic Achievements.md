@@ -27,16 +27,16 @@ variant: markdown
 <br>Deng Jingheng (4-4)</p>
 <p><strong>Honourable Mention</strong>
 <br>Tay Zhi Yi Celeste (4-6)
-<br>Chan Pin Wen (4-5)
+<br>Chan Pin Wen (4-5)</p>
+<p><strong>Participation</strong>
 <br>Chau Cheng Feng (3-4)
 <br>Chew Yu Tong Constance (4-5)
 <br>Ow-Yang Han Li (4-6)
-<br>Li Hui Lin (3-6)</p>
-<p><strong>Participation</strong>
-<br>Teh Chi Hin (2-1)
-<br>Hilmie Huzaify Bin Harzelly (2-2)
-<br>Arunesh (2-3)
-<br>Luo Jiahe (2-4)
+<br>Li Hui Lin (3-6)
+<br>Chionh Kai Aik (3-4)
+<br>Foong Liang Jun (4-4)
+<br>Risen Tan Ri Sen (4-4)
+<br>Soh Ze Yu (4-6)
 <br>Long En Jie,Louis (2-7)
 <br>Amalesh (2-3)
 <br>Ken Owen Lim (2-5)
