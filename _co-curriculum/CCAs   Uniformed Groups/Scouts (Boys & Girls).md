@@ -89,7 +89,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Law Teck Chong
 <br>Alexandra Lee
-<br>Darly Ke
+<br>Daryl Ke
 <br>Carissa Wong
 <br>Colette Chan
 <br>Andres Chow
