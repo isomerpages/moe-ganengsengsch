@@ -101,13 +101,13 @@ variant: tiptap
 <br>Elvee Lim Xin Yi (3-3)
 <br><strong>ASSISTANT SENIOR PATROL LEADER</strong>
 <br>Lew Cheng You (3-7)
-<br>Wong Zhi Le (3-4)
+<br>Tan Jun Yi, Natasha (3-4)
 <br><strong>PATROL LEADERS</strong>
 <br>Nichole Kwang Yi Xin (3-6)
 <br>Chionh Kai Aik (3-4)
 <br>Sui Kang Le Theophilus (3-4)
 <br>Jian Yutong (3-5)
-<br>Tan Jun Yi, Natasha (3-4)
+<br>Wong Zhi Le (3-4)
 <br>
 </p>
 </td>
