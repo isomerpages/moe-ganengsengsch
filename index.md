@@ -30,17 +30,17 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Sec 4/5 Prelim 2025
+          date: 30 July 2025
+          announcement: Sec 4/5 Preliminary Examination Timetables, Examination Formats
+            and Topics 2025
+          link_text: READ MORE
+          link_url: /school-information/exam-matters/
         - title: Term 3 letter to parents 2025
           date: 26 June 2025
           announcement: Term 3 letter 2025
           link_text: READ MORE
           link_url: /term-3-letter-to-parents-2025/
-        - title: Sec 4/5 Prelim 2025
-          date: 24 June 2025
-          announcement: Sec 4/5 Preliminary Examination Timetables, Examination Formats
-            and Topics 2025
-          link_text: READ MORE
-          link_url: /school-information/exam-matters/
         - title: Sec 2 Meet Parent Session 2025
           date: 20 May 2025
           announcement: Sec 2 Meet Parent Session 2025 Briefing Slides
