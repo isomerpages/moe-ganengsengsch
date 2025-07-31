@@ -18,7 +18,7 @@ can better leverage technology to enhance teaching and learning.
 <br>The EdTech Masterplan 2030 builds on the previous 2020 EdTech Plan and
 ICT Masterplans, and addresses the opportunities and challenges of the
 post-COVID landscape, where technology has become a critical enabler of
-learning.[1]
+learning
 <br>
 </p>
 <p><strong>Vision</strong>
