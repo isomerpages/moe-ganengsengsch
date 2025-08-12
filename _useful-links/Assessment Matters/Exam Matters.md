@@ -43,8 +43,3 @@ variant: markdown
 *   **[Sec 3 Express](/files/3EXP_EYE25_TT.pdf)**
 *   **[Sec 3 Normal Academic](/files/3NA_EYE25_TT.pdf)**
 *   **[Sec 3 Normal Technical](/files/3NT_EYE25_TT.pdf)**
-
-
-
-
-
