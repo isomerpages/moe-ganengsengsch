@@ -30,10 +30,9 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Sec 4/5 Prelim 2025
-          date: 04 August 2025
-          announcement: Sec 4/5 Preliminary Examination Timetables, Examination Formats
-            and Topics 2025
+        - title: Sec1-3 2025 Exam Timetable
+          date: 12 August 2025
+          announcement: Sec1-3 End-Of-Year Examinations 2025 Timetable
           link_text: READ MORE
           link_url: /school-information/exam-matters/
         - title: Term 3 letter to parents 2025
