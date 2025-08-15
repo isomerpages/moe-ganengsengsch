@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Assessment Matters
 variant: markdown
 ---
-
-
 <h5 style="color:black">Exam Rules and Regulations</h5>
 
 [Examination Rules And Regulations](/files/examination%20rules%20and%20regulations%202023.pdf)
@@ -51,8 +49,8 @@ variant: markdown
 <h5 style="color:black">Sec1-3 End-Of-Year Examination  Format &amp; Topics 2025</h5>
 
 *   **[Sec 1 G1](/files/1G1_EYE25_Format_Topics.pdf)**
-*   **[Sec 1 G2](/files/4NT_Prelim_Format___Topics_2025.pdf)**
-*   **[Sec 1 G3](/files/Prelim_Format___Topics_2025_5na.pdf)**
+*   **[Sec 1 G2](/files/1G2_EYE25_Format_Topics.pdf)**
+*   **[Sec 1 G3](/files/1G3_EYE25_Format_Topics.pdf)**
 *   **[Sec 2 G1](/files/3EXP_EYE25_TT.pdf)**
 *   **[Sec 2 G2](/files/4NT_Prelim_Format___Topics_2025.pdf)**
 *   **[Sec 3 G3](/files/Prelim_Format___Topics_2025_5na.pdf)**
