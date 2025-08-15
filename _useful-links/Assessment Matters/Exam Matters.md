@@ -57,6 +57,3 @@ variant: markdown
 *   **[Sec 3 Express](/files/3Exp_EYE25_Format_Topics.pdf)**
 *   **[Sec 3 Normal Academic](/files/3NA_EYE25_Format_Topics.pdf)**
 *   **[Sec 3 Normal Technical](/files/3NT_EYE25_Format_Topics.pdf)**
-
-
-
