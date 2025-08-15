@@ -35,7 +35,7 @@ variant: markdown
 *   **[Sec 5 Normal Academic](/files/Prelim_Format___Topics_2025_5na.pdf)**
 
 
-<h5 style="color:black">Sec1-3 End-Of-Year Examinations 2025 Timetable
+<h5 style="color:black">Sec1-3 End-Of-Year Examination  Timetable 2025
 </h5>
 
 *   **[Sec 1](/files/Sec1_EYE25_TT.pdf)**
@@ -43,3 +43,12 @@ variant: markdown
 *   **[Sec 3 Express](/files/3EXP_EYE25_TT.pdf)**
 *   **[Sec 3 Normal Academic](/files/3NA_EYE25_TT.pdf)**
 *   **[Sec 3 Normal Technical](/files/3NT_EYE25_TT.pdf)**
+
+
+
+<h5 style="color:black">Sec1-3 End-Of-Year Examination  Format &amp; Topics 2025</h5>
+
+*   **[Sec 4 Express](/files/Prelim_Format___Topics_2025_4exp.pdf)**
+*   **[Sec 4 Normal Academic](/files/4NA_Prelim_Format___Topics_2025.pdf)**
+*   **[Sec 4 Normal Technical](/files/4NT_Prelim_Format___Topics_2025.pdf)**
+*   **[Sec 5 Normal Academic](/files/Prelim_Format___Topics_2025_5na.pdf)**
