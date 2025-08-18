@@ -85,12 +85,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Yap (Goh Hwee Ting)</p>
-<p><a href="mailto:goh_hwee_ting@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_hwee_ting@schools.gov.sg</a>
+<p>Ms Hemalatha Rajendran</p>
+<p><a href="mailto:hemalatha_rrajendran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hemalatha_rrajendran@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Needs Educational Officer</p>
+<p>Senior Student Welfare Officer</p>
 </td>
 </tr>
 <tr>
