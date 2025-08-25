@@ -48,6 +48,9 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Student Leaders:</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>CCA Days:</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -60,6 +63,13 @@ variant: markdown
 <br>
 <br>Vice-President
 <br>CHIA MING HAN (3-4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+3pm-5.30pm
+Friday
+2pm-5.30pm
+</p>
 </td>
 </tr>
 <tr>
