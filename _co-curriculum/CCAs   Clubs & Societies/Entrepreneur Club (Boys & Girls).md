@@ -108,6 +108,8 @@ by SembCorp Marine Ltd
 <br>2. P2. Befriending with elderly at Henderson-Dawson RN (Blk 105)
 <br>3. MSG3. Egg fertilizer workshop with the elderly at Henderson-Dawson
 RN (Blk 105)
+<br>4. Intergeneration interaction with residents of Henderson-Dawson RN (Blk 105), eco-garden and vermicompost
+RN (Blk 105)
 <br>
 <br><strong>Service Learning:</strong>
 <br>1. Vermiculture
