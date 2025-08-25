@@ -103,13 +103,11 @@ Crescent Girls’ School
 <p>
 <br>
 <br><strong>Value in Actions:</strong>
-<br>1. National Day SG60 Green Wave Environment Care Competition 2022, organised
-by SembCorp Marine Ltd
-<br>2. P2. Befriending with elderly at Henderson-Dawson RN (Blk 105)
-<br>3. MSG3. Egg fertilizer workshop with the elderly at Henderson-Dawson
+<br>1. National Day SG60 Carnival, Henderson-Dawson CC (booth)
+<br>2. Befriending with elderly at Henderson-Dawson RN (Blk 105)
+<br>3. Egg fertilizer workshop with the elderly at Henderson-Dawson
 RN (Blk 105)
 <br>4. Intergeneration interaction with residents of Henderson-Dawson RN (Blk 105), eco-garden and vermicompost
-RN (Blk 105)
 <br>
 <br><strong>Other Activities:</strong>
 <br>1. Learning Journey to Sembawang Hotspring
