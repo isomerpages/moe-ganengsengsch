@@ -111,16 +111,12 @@ RN (Blk 105)
 <br>4. Intergeneration interaction with residents of Henderson-Dawson RN (Blk 105), eco-garden and vermicompost
 RN (Blk 105)
 <br>
-<br><strong>Service Learning:</strong>
-<br>1. Vermiculture
-<br>2. Eco – Home (Tree Planting Day organised by Tanjong Pagar GRC &amp;
-Radin Mas SMC
+<br><strong>Other Activities:</strong>
+<br>1. Learning Journey to Sembawang Hotspring
+<br>2. Sustainability Workshop: Making bookmarks by using pre-loved clothes.
 <br>
-<br>In 2022, we also represented Gan Eng Seng School in the Prudential Young
-Trailblazer competition (finalist), as well as the MGS Farmathon (where
-we reached the 2nd round).</p>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>1. National Day SG60 Carnival, Henderson-Dawson CC (booth)</p>
