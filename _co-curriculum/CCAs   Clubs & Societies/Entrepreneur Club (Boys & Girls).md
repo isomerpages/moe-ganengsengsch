@@ -105,8 +105,9 @@ Crescent Girls’ School
 <br><strong>Value in Actions:</strong>
 <br>1. National Day SG60 Green Wave Environment Care Competition 2022, organised
 by SembCorp Marine Ltd
-<br>2. Prudential Young Trailblazer Competition 2022, organised by Acorn Training.
-<br>3. MSG Farmathon 2022
+<br>2. P2. Befriending with elderly at Henderson-Dawson RN (Blk 105)
+<br>3. MSG3. Egg fertilizer workshop with the elderly at Henderson-Dawson
+RN (Blk 105)
 <br>
 <br><strong>Service Learning:</strong>
 <br>1. Vermiculture
@@ -120,4 +121,4 @@ we reached the 2nd round).</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>1. National Day SG60 Carnival, Henderson-Dawson CC (booth)</p>
