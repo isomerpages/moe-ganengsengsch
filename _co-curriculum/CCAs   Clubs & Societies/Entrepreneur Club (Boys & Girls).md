@@ -52,14 +52,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Farid bin Mohd
-<br>Mdm Foo Lee Lian</p>
+<br>Ms Vong Ser Kei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President:
-<br>Zarek Yap Yew Yee (3-5)
+<br>YUAN WANLUN VANESSA (3-7)
 <br>
 <br>Vice-President
-<br>Niranjan Kumar S/O Jayakumar (3-7)</p>
+<br>CHIA MING HAN (3-4)</p>
 </td>
 </tr>
 <tr>
@@ -94,13 +94,17 @@ pragmatic, progressive learning experience while meeting societal needs.
 <br>The following are some of the activities that the Entrepreneur Club participates
 in:
 <br>
-<br><strong>Projects:</strong>
-<br>1. Valentines’ Day Sales
-<br>2. Teachers’ Day Card
-<br>
 <br><strong>Competitions:</strong>
-<br>1. Green Wave Environment Care Competition 2022, organised by SembCorp
-Marine Ltd
+</p>
+<p>1. National Sustainability Movement 2025, organized by <a href="http://Terra.sg" rel="noopener noreferrer nofollow" target="_blank">Terra.sg</a> and
+Crescent Girls’ School
+<br>2. Young Trailblazer Competition 2025, organised by Acorn Trainingng.
+<br>3. National Cashflow Competition 2025</p>
+<p>
+<br>
+<br><strong>Value in Actions:</strong>
+<br>1. National Day SG60 Green Wave Environment Care Competition 2022, organised
+by SembCorp Marine Ltd
 <br>2. Prudential Young Trailblazer Competition 2022, organised by Acorn Training.
 <br>3. MSG Farmathon 2022
 <br>
