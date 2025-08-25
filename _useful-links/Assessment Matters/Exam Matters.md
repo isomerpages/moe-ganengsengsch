@@ -42,7 +42,7 @@ variant: markdown
 *   **[Sec 2](/files/Sec2_EYE25_TT_v2_21Aug25.pdf)**
 *   **[Sec 3 Express](/files/3EXP_EYE25_TT.pdf)**
 *   **[Sec 3 Normal Academic](/files/3NA_EYE25_TT.pdf)**
-*   **[Sec 3 Normal Technical](/files/3NT_EYE25_TT.pdf)**
+*   **[Sec 3 Normal Technical](/files/3NT_EYE25_TT_v2_25Aug25.pdf)**
 
 
 
