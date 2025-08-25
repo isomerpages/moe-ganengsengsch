@@ -14,6 +14,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5__Young_Trailblazer_2025.jpg">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_6__National_Day_SG60_Carnival.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_7__Befriending_with_elderly.jpg">
 </div>
