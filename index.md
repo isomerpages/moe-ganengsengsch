@@ -31,7 +31,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Sec1-3 2025 Exam Timetable
-          date: 12 August 2025
+          date: 25 August 2025
           announcement: Sec1-3 End-Of-Year Examinations 2025 Timetable
           link_text: READ MORE
           link_url: /school-information/exam-matters/
