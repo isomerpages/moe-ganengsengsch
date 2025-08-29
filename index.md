@@ -35,14 +35,14 @@ sections:
           announcement: Sec1-3 End-Of-Year Examinations 2025 Timetable
           link_text: READ MORE
           link_url: /school-information/exam-matters/
+        - title: Canteen Advertisement
+          date: 29 August 2025
+          announcement: School Canteen Advertisement and Application Procedure
+          link_text: READ MORE
+          link_url: /useful-links/permalink/canteenadvertisement/
         - title: Term 3 letter to parents 2025
           date: 26 June 2025
           announcement: Term 3 letter 2025
           link_text: READ MORE
           link_url: /term-3-letter-to-parents-2025/
-        - title: Sec 2 Meet Parent Session 2025
-          date: 20 May 2025
-          announcement: Sec 2 Meet Parent Session 2025 Briefing Slides
-          link_text: READ MORE
-          link_url: /sec-2-meet-parent-session-2025-briefing-slides/
 ---
