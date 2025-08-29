@@ -29,13 +29,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asia Cuisine Stall eg: Thai / Japanese / Korean/ Indian</p>
+<p>Asia Cuisine Stall eg: Chicken Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jan 2025</p>
+<p>26 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Both rice and/or noodle/ healthy sandwiches/ salad stalls are acceptable</p>
+<p>Both rice and/or noodle/ healthy pau stalls are acceptable</p>
 </td>
 </tr>
 </tbody>
@@ -73,7 +73,7 @@ via email OR to the School’s General Office.</p>
 <p>Contact No: 64745594</p>
 </li>
 <li>
-<p>Contact Person: Mr Lee Kam Chuen</p>
+<p>Contact Person: Mdm Hanitah Binte Musa</p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
