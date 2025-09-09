@@ -42,7 +42,7 @@ variant: markdown
 *   **[Sec 2](/files/Sec2_EYE25_TT_v2_21Aug25.pdf)**
 *   **[Sec 3 Express](/files/3EXP_EYE25_TT.pdf)**
 *   **[Sec 3 Normal Academic](/files/3NA_EYE25_TT.pdf)**
-*   **[Sec 3 Normal Technical](/files/3NT_EYE25_TT_v2_25Aug25.pdf)**
+*   **[Sec 3 Normal Technical](/files/3NT_EYE25_TT_updated_9Sep25.pdf)**
 
 
 
@@ -53,7 +53,8 @@ variant: markdown
 *   **[Sec 1 G3](/files/1G3_EYE25_Format_Topics.pdf)**
 *   **[Sec 2 G1](/files/2G1_EYE25_Format_Topics.pdf)**
 *   **[Sec 2 G2](/files/2G2_EYE25_Format_Topics.pdf)**
-*   **[Sec 2 G3](/files/2G3_EYE25_Format_Topics.pdf)**
+*   **[Sec 2 G3](/files/2G3_EYE25_Format_Topics_updated_2Sep25.pdf)**
 *   **[Sec 3 Express](/files/3Exp_EYE25_Format_Topics.pdf)**
 *   **[Sec 3 Normal Academic](/files/3NA_EYE25_Format_Topics.pdf)**
 *   **[Sec 3 Normal Technical](/files/3NT_EYE25_Format_Topics.pdf)**
+
