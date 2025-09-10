@@ -39,7 +39,7 @@ variant: markdown
 </h5>
 
 *   **[Sec 1](/files/Sec1_EYE25_TT.pdf)**
-*   **[Sec 2](/files/Sec2_EYE25_TT_v2_21Aug25.pdf)**
+*   **[Sec 2](/files/Sec2_EYE25_TT_updated_9Sep25.pdf)**
 *   **[Sec 3 Express](/files/3EXP_EYE25_TT.pdf)**
 *   **[Sec 3 Normal Academic](/files/3NA_EYE25_TT.pdf)**
 *   **[Sec 3 Normal Technical](/files/3NT_EYE25_TT_updated_9Sep25.pdf)**
@@ -57,4 +57,3 @@ variant: markdown
 *   **[Sec 3 Express](/files/3Exp_EYE25_Format_Topics.pdf)**
 *   **[Sec 3 Normal Academic](/files/3NA_EYE25_Format_Topics.pdf)**
 *   **[Sec 3 Normal Technical](/files/3NT_EYE25_Format_Topics.pdf)**
-
