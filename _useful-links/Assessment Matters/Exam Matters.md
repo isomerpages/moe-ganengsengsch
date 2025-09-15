@@ -38,11 +38,11 @@ variant: markdown
 <h5 style="color:black">Sec1-3 End-Of-Year Examination  Timetable 2025
 </h5>
 
-*   **[Sec 1](/files/Sec1_EYE25_TT.pdf)**
-*   **[Sec 2](/files/Sec2_EYE25_TT_updated_9Sep25.pdf)**
-*   **[Sec 3 Express](/files/3EXP_EYE25_TT.pdf)**
-*   **[Sec 3 Normal Academic](/files/3NA_EYE25_TT.pdf)**
-*   **[Sec 3 Normal Technical](/files/3NT_EYE25_TT_updated_9Sep25.pdf)**
+*   **[Sec 1](/files/Sec1_EYE25_TT_caa15Sep25.pdf)**
+*   **[Sec 2](/files/Sec2_EYE25_TT_caa15Sep25.pdf)**
+*   **[Sec 3 Express](/files/3EXP_EYE25_TT_caa15Sep25.pdf)**
+*   **[Sec 3 Normal Academic](/files/3NA_EYE25_TT_caa15Sep25.pdf)**
+*   **[Sec 3 Normal Technical](/files/3NT_EYE25_TT_caa15Sep25.pdf)**
 
 
 
