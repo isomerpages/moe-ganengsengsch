@@ -30,16 +30,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Sec1-3 2025 Exam Timetable
+          date: 16 September 2025
+          announcement: Sec1-3 End-Of-Year Examinations 2025 Timetable
+          link_text: READ MORE
+          link_url: /school-information/exam-matters/
         - title: The Caring Teacher Awards (CTA)
           date: 15 September 2025
           announcement: Nomination for The Caring Teacher Awards (CTA)
           link_text: READ MORE
           link_url: /the-caring-teacher-awards-cta/
-        - title: Sec1-3 2025 Exam Timetable
-          date: 10 September 2025
-          announcement: Sec1-3 End-Of-Year Examinations 2025 Timetable
-          link_text: READ MORE
-          link_url: /school-information/exam-matters/
         - title: Canteen Advertisement
           date: 29 August 2025
           announcement: School Canteen Advertisement and Application Procedure
