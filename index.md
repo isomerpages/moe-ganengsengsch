@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: The Caring Teacher Awards (CTA)
+          date: 15 September 2025
+          announcement: Nomination for The Caring Teacher Awards (CTA)
+          link_text: READ MORE
+          link_url: /the-caring-teacher-awards-cta/
         - title: Sec1-3 2025 Exam Timetable
           date: 10 September 2025
           announcement: Sec1-3 End-Of-Year Examinations 2025 Timetable
