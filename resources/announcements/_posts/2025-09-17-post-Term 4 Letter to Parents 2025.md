@@ -17,7 +17,7 @@ key dates.</p>
 <p>Mdm Sarawathy D/O Varadaraju (Mrs Selva)</p>
 <p>Vice-Principal</p>
 <p>Gan Eng Seng School</p>
-<p><a href="/files/2025_Term_4_Letter_To_Parents__final_.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Letter To Parents </a>
+<p><a href="/files/2025_Term_4_Letter_To_Parents__final_.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Letter To Parents</a>
 </p>
 <p></p>
 <p></p>
