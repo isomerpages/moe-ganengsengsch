@@ -26,7 +26,6 @@ variant: markdown
 
 [https://www.healthhub.sg/live-healthy/529/bondingwithyourteenager](https://www.healthhub.sg/live-healthy/529/bondingwithyourteenager)
 
-[https://www.verywellfamily.com/parenting-advice-for-teens-2609022](https://www.verywellfamily.com/parenting-advice-for-teens-2609022)
 
 **Teens Social and Emotional Support**
 
