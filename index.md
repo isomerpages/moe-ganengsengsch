@@ -30,16 +30,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Sec1-3 2025 Exam Timetable
+          date: 29 September 2025
+          announcement: Sec1-3 End-Of-Year Examinations 2025 Timetable
+          link_text: READ MORE
+          link_url: /school-information/exam-matters/
         - title: Term 4 letter to parents 2025
           date: 17 September 2025
           announcement: Term 4 letter 2025
           link_text: READ MORE
           link_url: /term-4-letter-to-parents-2025/
-        - title: Sec1-3 2025 Exam Timetable
-          date: 16 September 2025
-          announcement: Sec1-3 End-Of-Year Examinations 2025 Timetable
-          link_text: READ MORE
-          link_url: /school-information/exam-matters/
         - title: The Caring Teacher Awards (CTA)
           date: 15 September 2025
           announcement: Nomination for The Caring Teacher Awards (CTA)
