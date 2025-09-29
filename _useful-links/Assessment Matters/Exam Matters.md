@@ -41,7 +41,7 @@ variant: markdown
 *   **[Sec 1](/files/Sec1_EYE25_TT_caa15Sep25.pdf)**
 *   **[Sec 2](/files/Sec2_EYE25_TT_caa15Sep25.pdf)**
 *   **[Sec 3 Express](/files/3EXP_EYE25_TT_caa15Sep25.pdf)**
-*   **[Sec 3 Normal Academic](/files/3NA_EYE25_TT_caa15Sep25.pdf)**
+*   **[Sec 3 Normal Academic](/files/3NA_EYE25_TT_caa26Sep25.pdf)**
 *   **[Sec 3 Normal Technical](/files/3NT_EYE25_TT_caa15Sep25.pdf)**
 
 
