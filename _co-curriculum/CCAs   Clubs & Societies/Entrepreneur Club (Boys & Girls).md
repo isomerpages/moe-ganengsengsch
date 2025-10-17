@@ -106,7 +106,7 @@ in:
 <br>
 <br><strong>Competitions:</strong>
 </p>
-<p>1. National Sustainability Movement 2025, organized by <a href="http://Terra.sg" rel="noopener noreferrer nofollow" target="_blank">Terra.sg</a> and
+<p>1. National Sustainability Movement 2025, organized by <a href="https://www.terra.sg" rel="noopener noreferrer nofollow" target="_blank">Terra.sg</a> and
 Crescent Girls’ School
 <br>2. Young Trailblazer Competition 2025, organised by Acorn Trainingng.
 <br>3. National Cashflow Competition 2025</p>
