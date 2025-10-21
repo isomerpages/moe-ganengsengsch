@@ -153,9 +153,9 @@ China.</p>
 <br>If you’re interested to find out more about NCC, do check out the official
 NCC Facebook Group and our GESS NCC’s Instagram.
 <br>
-<br>**NCC Facebook Group** – https://www.facebook.com/sgncc.hq/
+<br><strong>NCC Facebook Group</strong> – https://www.facebook.com/sgncc.hq/
 <br>
-<br>**GESS NCC Instagram** – https://www.instagram.com/theofficialgessncc/
+<br><strong>GESS NCC Instagram</strong> – https://www.instagram.com/theofficialgessncc/
 <br>
 <br>
 </p>
