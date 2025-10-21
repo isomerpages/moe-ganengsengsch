@@ -42,9 +42,9 @@ variant: markdown
 		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">CPT (NCC) Lin-Phua Hui Shi</span><br><span style="font-weight:bold"> </span><br>CPT Ang Boon Bin<br>2LT (NCC) Yohan Fendy<br>Mr. Subramanian S/O Annamalai</td>
-    <td class="tg-tsok">C/LTA (NCC) Suffian Bin Abdullah<br>C/Offr (NCC) Nur Ilhan Shafeez Bin Karim<br>C/Offr (NCC) Aneesh Rai<br>MSG (NCC)  Brandon Lee Wei Quan<br>MSG (NCC) John Lim</td>
-    <td class="tg-tsok">1SG (NCC) Chua Wenze Mike<br>1SG (NCC) Mohammed Irfan Bin Sikandar Shah<br>1SG (NCC) Lim Zuoyu Elroy<br>1SG (NCC) Ayisy Zakir<br>1SG (NCC) Scott Wong Zhengkai<br>1SG (NCC) Darien Tan Yuren</td>
+    <td class="tg-l2bf"><span style="font-weight:bold">MAJ (NCC) Lin-Phua Hui Shi</span><br><span style="font-weight:bold"> </span><br>CPT Ang Boon Bin<br><br>Ms Claire Wong<br><br>Ms Elza Tan</td>
+    <td class="tg-tsok">C/LT (NCC) Nur Ilhan Shafeez Bin Karim<br>C/LT (NCC) Chua Wenze Mike<br>C/LT (NCC) Lim Zuoyu Elroy<br></td>
+    <td class="tg-tsok">1SG (NCC) Eudes Wong Yi Jun<br>1SG (NCC) Mohandas Isacc Valeriano S/O K Ramu<br>1SG (NCC) Song Jun Yang Jayven<br>1SG (NCC) Lucas Tan Lu Kai<br>1SG (NCC) Chua Tok Hee Benedict</td>
 		    <td class="tg-tsok">Tuesday<br>3pm-5.30pm <br>Friday<br>2pm-5.30pm<br><br>Venue<br>NCC Corridor / Classrooms</td>
   </tr>
   <tr>
