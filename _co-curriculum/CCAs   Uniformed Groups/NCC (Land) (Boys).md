@@ -55,26 +55,26 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="4">The Gan Eng Seng School National Cadet Corps (NCC) Land Unit nurtures responsible, resilient and resourceful cadets to become successful citizens. We are a thinking and learning team driven by our NCC Core Values: Loyalty to Nation, Uprightness, Leadership, Discipline, Commitment and Responsibility, Care for Fellow Cadets and Adventurous Spirit. GESS NCC develops resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military related activities.
-
+<br>
 GESS NCC has been the most consistent UG in the school since its inception in 1957. The unit has won numerous awards over the years. These include winning the Overall Best Unit in 2000 and 2002 in the NCC Annual Best Unit Competition (BUC). We have also been awarded the Gold/Distinction Unit Award every year since it began in 1993. Our loyal and dedicated teacher- and honorary officers, as well as NCOs, take it upon themselves to groom each cadet into a thinking soldier and a distinguished leader.
-
+<br>
 Furthermore, our cadets are given the opportunity to participate in major events such as the National Day Parade and Observance Ceremonies. As part of providing a wider scope of experiential training and to foster international friendship and interaction, cadets are also given the opportunity to go on overseas exchange programmes with the NCC in India, USA, the UK and China.
-
 <br>
-HQ NCC Outstanding Cadet Awards:
 <br>
-2019: Brandon Lee Wei Quan<br>
-2020: Suffian Bin Abdullah<br>
-2021: Lok Yan Rui, Sebestian<br>
-2022: Ajmal Peer Mohideen Ajwad Habib Ahmed<br>
-2024: Chua Wenze Mike<br>
-2025: Ong Yong Ming &amp; Peh Hng Hao Lucas<br>
+**HQ NCC Outstanding Cadet Awards**:
+<br>
+**2019**: Brandon Lee Wei Quan<br>
+**2020**: Suffian Bin Abdullah<br>
+**2021**: Lok Yan Rui, Sebestian<br>
+**2022**: Ajmal Peer Mohideen Ajwad Habib Ahmed<br>
+**2024**: Chua Wenze Mike<br>
+**2025**: Ong Yong Ming &amp; Peh Hng Hao Lucas<br>
 <br>
 If you’re interested to find out more about NCC, do check out the official NCC Facebook Group and our GESS NCC’s Instagram.
 <br><br>
-NCC Facebook Group – https://www.facebook.com/sgncc.hq/
+**NCC Facebook Group** – https://www.facebook.com/sgncc.hq/
 <br><br>
-GESS NCC Instagram – https://www.instagram.com/theofficialgessncc/
+**GESS NCC Instagram** – https://www.instagram.com/theofficialgessncc/
 <br><br>                              </td>
   </tr>
 </tbody>
