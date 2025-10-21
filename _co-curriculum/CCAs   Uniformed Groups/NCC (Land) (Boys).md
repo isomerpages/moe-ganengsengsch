@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### **National Cadet Corps (Land)**
 
-![](/images/GESS-NCC-Main-Picture.png)
+![](/images/Photo_1___NCC.jpg)
 <br>
 ![](/images/NCC-2.jpeg)
 <br>
@@ -15,7 +15,7 @@ variant: markdown
 <br>
 ![](/images/NCC-4.jpeg)
 <br>
-
+![](/images/Photo_1___NCC.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
