@@ -142,13 +142,13 @@ of providing a wider scope of experiential training and to foster international
 friendship and interaction, cadets are also given the opportunity to go
 on overseas exchange programmes with the NCC in India, USA, the UK and
 China.</p>
-<p><strong>HQ NCC Outstanding Cadet Awards</strong>:
-<br><strong>2019</strong>: Brandon Lee Wei Quan</p>
-<p><strong>2020</strong>: Suffian Bin Abdullah
+<br><strong>HQ NCC Outstanding Cadet Awards</strong>:
+<br><br><strong>2019</strong>: Brandon Lee Wei Quan
+<br><strong>2020</strong>: Suffian Bin Abdullah
 <br><strong>2021</strong>: Lok Yan Rui, Sebestian
 <br><strong>2022</strong>: Ajmal Peer Mohideen Ajwad Habib Ahmed
-<br><strong>2024</strong>: Chua Wenze Mike</p>
-<p><strong>2025</strong>: Ong Yong Ming &amp; Peh Hng Hao Lucas
+<br><strong>2024</strong>: Chua Wenze Mike
+<br><strong>2025</strong>: Ong Yong Ming &amp; Peh Hng Hao Lucas
 <br>
 <br>If you’re interested to find out more about NCC, do check out the official
 NCC Facebook Group and our GESS NCC’s Instagram.
@@ -158,7 +158,6 @@ NCC Facebook Group and our GESS NCC’s Instagram.
 <br><strong>GESS NCC Instagram</strong> – https://www.instagram.com/theofficialgessncc/
 <br>
 <br>
-</p>
 </td>
 </tr>
 </tbody>
