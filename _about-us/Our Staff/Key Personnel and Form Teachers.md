@@ -58,18 +58,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Tze Jwee Glynn (TTJ)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_tze_jwee_glynn@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_tze_jwee_glynn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1174,18 +1162,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chai_li_min@schools.gov.sg" rel="noopener noreferrer" target="_blank">chai_li_min@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (CL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Feng Bozhe (FBZ)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:feng_bozhe@schools.gov.sg" rel="noopener noreferrer" target="_blank">feng_bozhe@schools.gov.sg</a>
 </p>
 </td>
 </tr>
