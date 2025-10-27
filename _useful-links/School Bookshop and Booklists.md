@@ -4,7 +4,7 @@ permalink: /school-information/school-bookshop-and-booklists/
 description: ""
 variant: tiptap
 ---
-<p><strong>WINDOW PERIODS FOR ONLINE ORDERING OF TEXTBOOKS FOR ACADEMIC YEAR 2025</strong>
+<p><strong>WINDOW PERIODS FOR ONLINE ORDERING OF TEXTBOOKS FOR ACADEMIC YEAR 2026</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -25,7 +25,7 @@ and related materials before the commencement of the new academic year.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level in 2025</strong>
+<p><strong>Level in 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ and related materials before the commencement of the new academic year.</p>
 <p>Sec 2 – 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Nov – 15 Dec</p>
+<p>3 Nov – 15 Dec 2025</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ and related materials before the commencement of the new academic year.</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 – 26 Dec</p>
+<p>To be confirmed after Sec 1 Posting Exercise 2025</p>
 </td>
 </tr>
 </tbody>
@@ -55,7 +55,7 @@ and related materials before the commencement of the new academic year.</p>
 <li>
 <p>To ensure that the correct editions of the books have been purchased,
 parents are strongly encouraged to purchase them through the school bookshop
-(<a href="https://gesscozybook.store.link/" rel="noopener noreferrer nofollow" target="_blank">https://gesscozybook.store.link/</a>).
+(<a rel="noopener noreferrer nofollow" target="_blank">https://gesscozybook.store.link/</a>).
 Please refer to the booklist (link below) for more information.</p>
 </li>
 <li>
@@ -67,7 +67,8 @@ given either in a sealed envelope or a sticker inside the textbook are
 non-exchangeable/refundable once unsealed or unwrapped.</p>
 </li>
 <li>
-<p>For enquiries, please email to&nbsp;<a href="mailto:cozybkstore@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cozybkstore@gmail.com</a>.</p>
+<p>For enquiries, please email to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">cozybkstore@gmail.com</a>
+</p>
 </li>
 </ol>
 <hr>
