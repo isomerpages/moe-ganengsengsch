@@ -3,9 +3,8 @@ title: Education and Career Guidance
 permalink: /nurturegess/character-citizenship-education/ecareerportal/
 description: ""
 third_nav_title: Character & Citizenship Edn
+variant: markdown
 ---
-
-
 **Education and Career Guidance (ECG)**
 
 Education and Career Guidance (ECG) equips Gessians with the necessary knowledge, skills, and values to make informed decisions about their education and career pathways. A good ECG curriculum prepares students for successful transition from school to further education or work, as part of their lifelong learning.
@@ -49,9 +48,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IMG_0376-768x576.jpeg" alt="Education and Career Guidance (ECG)" style="width:70%;">  
+<img src="/images/IMG_0376-768x576.jpeg" alt="Education and Career Guidance (ECG)" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -61,7 +60,47 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IMG_0377-768x576.jpeg" alt="Education and Career Guidance (ECG)" style="width:70%;">  
+<img src="/images/IMG_0377-768x576.jpeg" alt="Education and Career Guidance (ECG)" style="width:70%;">  
   
-</body>
+
+<br>
+        
+
+**Tools and Resources:**
+
+[My Skills Future (Student portal)](https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html) - To access tools like the Career Interest quiz, and World of Work resources
+
+[CourseFinder](https://www.moe.gov.sg/coursefinder) - For searching up Polytechnic and ITE courses
+
+[SchoolFinder](https://www.moe.gov.sg/schoolfinder?journey=Post%20secondary-JC%20school) - For more information on DSA niche areas and special programmes offered by JCs
+
+[Discover on my Way](https://discover.nyc.gov.sg/omw/Explore-Industries) - A portal that allows youth to explore their education and career interests. Developed in collaboration with the National Youth Council
+
+[Advisory Sg](https://advisory.sg/events/) -&nbsp;Advisory is a fully youth-led charity dedicated to empowering young people from all walks of life to make informed career and further education choices. They run a series of online industry panels for students to understand what each career entails. A summary of the past panels can be found on the Events page.
+
+**Changes to the Education Landscape**:
+
+1\. [Full Subject-Based Banding](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)&nbsp;
+
+2\. [Changes to Sec/Pre-U education](https://www.moe.gov.sg/microsites/cos2025/#sec-preu) (from 2025 Committee of Supply)&nbsp;
+
+**Admission Exercises:**
+
+1.&nbsp;[Joint Intake Exercise (JIE)](https://www.moe.gov.sg/post-secondary/admissions/jie) - Application to Higher Nitec courses at ITE after release of N-level results
+
+2\. [Direct Entry to Polytechnic Programme (DPP)](https://www.moe.gov.sg/post-secondary/admissions/dpp) - Application for 2-year Higher Nitec course at ITE before progressing to Polytechnic
+
+3.&nbsp;[Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/post-secondary/admissions/jae)&nbsp;- Application to JC/MI, Polys and ITEs after release of O-level results
+
+4\. [Poly Foundation Programme (PFP)](https://www.moe.gov.sg/post-secondary/admissions/pfp) - Application to do foundation year at Polytechnic \[For N(A) students only\]
+
+5\. [Aptitude-based Admissions (ABA)](https://padlet.com/ho_yuin_ching_christina/2025-aptitude-based-admissions-guide-mr3ses4p12yt5nix) - Includes DSA-JC, Poly EAE and ITE EAE
+
+&nbsp;\* For item 5, could we just link to the padlet where I have curated the information from different sources? I've frozen the padlet so no new posts are allowed.&nbsp;
+
+**Stories**
+
+1\. [Schoolbag](https://www.schoolbag.edu.sg/post-secondary/)&nbsp;- An online publication by MOE. Useful repository of&nbsp; education news, school features and tips.
+
+2\. [#ITEproud](https://www.ite.edu.sg/life-at-ite/ITE-success-stories) - Stories featuring students from ITE who have overcome the odds to achieve success
 <br>
