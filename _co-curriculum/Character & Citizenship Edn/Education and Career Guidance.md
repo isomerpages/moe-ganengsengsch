@@ -96,7 +96,7 @@ img {
 
 5\. [Aptitude-based Admissions (ABA)](https://padlet.com/ho_yuin_ching_christina/2025-aptitude-based-admissions-guide-mr3ses4p12yt5nix) - Includes DSA-JC, Poly EAE and ITE EAE
 
-&nbsp;\* For item 5, could we just link to the padlet where I have curated the information from different sources? I've frozen the padlet so no new posts are allowed.&nbsp;
+
 
 **Stories**
 
