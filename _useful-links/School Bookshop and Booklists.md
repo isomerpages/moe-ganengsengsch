@@ -46,7 +46,7 @@ and related materials before the commencement of the new academic year.</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be confirmed after Sec 1 Posting Exercise 2025</p>
+<p>To be confirmed after Sec 1 Posting Exercise 2026</p>
 </td>
 </tr>
 </tbody>
