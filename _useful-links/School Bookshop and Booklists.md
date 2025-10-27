@@ -75,26 +75,26 @@ non-exchangeable/refundable once unsealed or unwrapped.</p>
 <p>Booklist</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/S1_Booklist__2025__Combined.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gan Eng Seng School Booklist 2025 - Sec 1</u></a>
+<p><a href="/files/Gan_Eng_Seng_School_Booklist_2026__S2_.pdf" rel="noopener nofollow" target="_blank">Gan_Eng_Seng_School_Booklist_2026__Sec_2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/S2_Booklist__2025__Combined.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gan Eng Seng School Booklist 2025 - Sec 2</u></a>
+<p><a href="/files/Gan_Eng_Seng_School_Booklist_2026__S3_.pdf" rel="noopener nofollow" target="_blank">Gan_Eng_Seng_School_Booklist_2026__Sec_3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/S3_Booklist__2025__Combined.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gan Eng Seng School Booklist 2025 - Sec 3</u></a>
+<p><a href="/files/Gan_Eng_Seng_School_Booklist_2026__S4_.pdf" rel="noopener nofollow" target="_blank">Gan_Eng_Seng_School_Booklist_2026__Sec_4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/S4_Booklist__2025__Combined.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gan Eng Seng School Booklist 2025 - Sec 4</u></a>
+<p><a href="/files/Gan_Eng_Seng_School_Booklist_2026__S5_.pdf" rel="noopener nofollow" target="_blank">Gan_Eng_Seng_School_Booklist_2026__Sec_5</a>
 </p>
-</li>
-<li>
-<p><a href="/files/S5_Booklist__2025__Combined.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gan Eng Seng School Booklist 2025 - Sec 5</u></a>
-</p>
+<p></p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
