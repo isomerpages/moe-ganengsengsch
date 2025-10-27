@@ -104,5 +104,3 @@ img {
 
 2\. [#ITEproud](https://www.ite.edu.sg/life-at-ite/ITE-success-stories) - Stories featuring students from ITE who have overcome the odds to achieve success
 <br>
-
-
