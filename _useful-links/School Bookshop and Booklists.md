@@ -55,7 +55,7 @@ and related materials before the commencement of the new academic year.</p>
 <li>
 <p>To ensure that the correct editions of the books have been purchased,
 parents are strongly encouraged to purchase them through the school bookshop
-(<a rel="noopener noreferrer nofollow" target="_blank">https://gesscozybook.store.link/</a>).
+(<a href="https://gesscozybook.store.link" rel="noopener nofollow" target="_blank">https://gesscozybook.store.link</a>).
 Please refer to the booklist (link below) for more information.</p>
 </li>
 <li>
@@ -67,7 +67,7 @@ given either in a sealed envelope or a sticker inside the textbook are
 non-exchangeable/refundable once unsealed or unwrapped.</p>
 </li>
 <li>
-<p>For enquiries, please email to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">cozybkstore@gmail.com</a>
+<p>For enquiries, please email to&nbsp;<a href="cozybkstore@gmail.com" rel="noopener nofollow" target="_blank">cozybkstore@gmail.com</a>
 </p>
 </li>
 </ol>
