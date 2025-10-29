@@ -29,13 +29,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asia Cuisine Stall eg: Chicken Rice</p>
+<p>Vegetarian Food (Non-Halal)</p>
+<p>or Indian Vegetarian (Non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 September 2025</p>
+<p>17 November 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Both rice and/or noodle/ healthy pau stalls are acceptable</p>
+<p>Asia Cuisine non halal chicken rice and/or noodle/ healthy pau/ Indian
+Food stalls are acceptable</p>
 </td>
 </tr>
 </tbody>
@@ -46,7 +48,7 @@ variant: tiptap
 a hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Canteen_FormBF7__2018_.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="files/Canteen_FormBF7__2018_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Application Form</u></a>
 </p>
 </li>
 </ul>
@@ -100,7 +102,7 @@ in consultation with the school.</p>
 <li>
 <p>Able to provide cooked food and fruits that meet the health / nutritional
 standards set by the Health Promotion Board (HPB) under the “Healthy Meals
-in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>)</p>
+in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
@@ -130,3 +132,4 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
+<p>&nbsp;</p>
