@@ -46,7 +46,7 @@ sections:
           link_text: READ MORE
           link_url: /the-caring-teacher-awards-cta/
         - title: Canteen Advertisement
-          date: 29 August 2025
+          date: 29 October 2025
           announcement: School Canteen Advertisement and Application Procedure
           link_text: READ MORE
           link_url: /useful-links/permalink/canteenadvertisement/
