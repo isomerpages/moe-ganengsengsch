@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Canteen Advertisement
+          date: 29 October 2025
+          announcement: School Canteen Advertisement and Application Procedure
+          link_text: READ MORE
+          link_url: /useful-links/permalink/canteenadvertisement/
         - title: Sec1-3 2025 Exam Timetable
           date: 29 September 2025
           announcement: Sec1-3 End-Of-Year Examinations 2025 Timetable
@@ -45,9 +50,4 @@ sections:
           announcement: Nomination for The Caring Teacher Awards (CTA)
           link_text: READ MORE
           link_url: /the-caring-teacher-awards-cta/
-        - title: Canteen Advertisement
-          date: 29 October 2025
-          announcement: School Canteen Advertisement and Application Procedure
-          link_text: READ MORE
-          link_url: /useful-links/permalink/canteenadvertisement/
 ---
