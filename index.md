@@ -50,4 +50,10 @@ sections:
           announcement: Nomination for The Caring Teacher Awards (CTA)
           link_text: READ MORE
           link_url: /the-caring-teacher-awards-cta/
+        - title: School Bookshop and Booklists
+          date: 29 October 2025
+          announcement: Window Periods For Online Ordering Of Textbooks For Academic Year
+            2026
+          link_text: READ MORE
+          link_url: /school-information/school-bookshop-and-booklists/
 ---
