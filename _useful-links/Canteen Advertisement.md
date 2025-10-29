@@ -48,7 +48,7 @@ Food stalls are acceptable</p>
 a hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="files/Canteen_FormBF7__2018_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Application Form</u></a>
+<p><a href="/files/Canteen_FormBF7__2018___.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 </ul>
