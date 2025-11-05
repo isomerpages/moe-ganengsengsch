@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <br>
-<img src="/images/Tan%20Hwee%20Pin%202003.jpg" style="width:300px">
+<img src="/images/Tan_Hwe_Pin.jpg" style="width:300px">
 <br>
 
 
