@@ -7,6 +7,11 @@ third_nav_title: CCAs   Sports & Games
 ---
 <p></p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Phoebe conducting a workshop for Sota students 21 May 2025" src="/images/Phoebe_conducting_a_workshop_for_Sota_students_21_May_2025_.jpg">
+</div>
+<p>Phoebe conducting a workshop for Sota students 21 May 2025.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inter_Schools_Bouldering_Championships_organized_by_Xin_Min_Secondary_21_Mar_2025.jpg">
 </div>
