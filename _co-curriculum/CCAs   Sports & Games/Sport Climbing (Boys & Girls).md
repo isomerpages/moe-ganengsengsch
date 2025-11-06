@@ -8,6 +8,11 @@ third_nav_title: CCAs   Sports & Games
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cluster Bonding day Adventure@Khatib 3 Sep 2025" src="/images/Cluster_Bonding_day_Adventure_Khatib_3_Sep_2025.jpg">
+</div>
+<p>Cluster Bonding day Adventure@Khatib 3 Sep 2025</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Phoebe conducting a workshop for Sota students 21 May 2025" src="/images/Phoebe_conducting_a_workshop_for_Sota_students_21_May_2025_.jpg">
 </div>
