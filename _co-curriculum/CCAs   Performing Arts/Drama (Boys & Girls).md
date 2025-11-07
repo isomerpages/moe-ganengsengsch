@@ -57,11 +57,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>President:
-<br>Naomi Jean Ong Xuanhui (4-5)
+<br>Kim Mai Louise Piff (3-7)
 <br>Vice-President 1:
-<br>Poh Sing Siang (4-4)
+<br>Mithani Florence Firoj (3-3)
 <br>Vice-President 2:
-<br>Chew Yu Tong Constance (4-5)</p>
+<br>Lim Shi Jie (3-5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday:
