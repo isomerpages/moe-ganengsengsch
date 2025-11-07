@@ -100,53 +100,23 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<br><p>The Girls’ Brigade (GB) is a values-driven uniformed group CCA that develops
-girls into confident, compassionate, and responsible leaders. Guided by
-its motto, ‘Every Girl a Leader, Every Officer a Servant Leader,’ GB fosters
-discipline, teamwork, and a spirit of service, empowering Girls to lead
-by example and positively impact both their school and the wider community
+<br>The Girls’ Brigade (GB) is a values-driven uniformed group CCA that develops girls into confident, compassionate, and responsible leaders. Guided by its motto, ‘Every Girl a Leader, Every Officer a Servant Leader,’ GB fosters discipline, teamwork, and a spirit of service, empowering Girls to lead by example and positively impact both their school and the wider community
 <br>
-<br>Our activities include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>GB HQ Activities and Events</p>
-</li>
-<li>
-<p>GB Badgework</p>
-</li>
-<li>
-<p>Drill and Physical Training</p>
-</li>
-<li>
-<p>Annual Events such as GB Camp, GB Hike, GB Day, School National Day, and
-National Competitions</p>
-</li>
-<li>
-<p>Life Skill Courses (SANA, First Aid, Total Defence, Cybercrime Awareness)</p>
-</li>
-<li>
-<p>Values-in-Action Projects</p>
-</li>
-<li>
-<p>Service to the School and Community</p>
-</li>
-</ul>
-<br><p>&nbsp;</p>
-<p>The 71st Company has a strong tradition of excellence and teamwork. Over
-the years, our Girls have continued to uphold the high standards of The
-Girls’ Brigade Singapore through their dedication and service. They have
-performed commendably in national competitions — attaining Silver and Bronze
-in the GB National Drill Competition (2023 and 2025) and a Gold Award in
-the LGT Challenge 2024.</p>
-<p>
-<br>Beyond these achievements, our Girls consistently excel in their LEAPS
-records, earning distinctions and leadership positions by the time they
-graduate as they strive to achieve their personal best. The Girls’ Brigade
-experience also enriches their secondary school journey, providing valuable
-learning opportunities, exposure, and lasting friendships</p>
-<p></p>
+<br>Our activities include:<br><br>
+* GB HQ Activities and Events<br>
+* GB Badgework<br>
+* Drill and Physical Training<br>
+* Annual Events such as GB Camp, GB Hike, GB Day, School National Day, and National Competitions<br>
+* Life Skill Courses (SANA, First Aid, Total Defence, Cybercrime Awareness)<br>
+* Values-in-Action Projects<br>
+* Service to the School and Community<br>
+<br>
+The 71st Company has a strong tradition of excellence and teamwork. Over the years, our Girls have continued to uphold the high standards of The Girls’ Brigade Singapore through their dedication and service. They have performed commendably in national competitions — attaining Silver and Bronze in the GB National Drill Competition (2023 and 2025) and a Gold Award in
+the LGT Challenge 2024.
+<br><br>
+	Beyond these achievements, our Girls consistently excel in their LEAPS records, earning distinctions and leadership positions by the time they graduate as they strive to achieve their personal best. The Girls’ Brigade experience also enriches their secondary school journey, providing valuable learning opportunities, exposure, and lasting friendships
+
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
