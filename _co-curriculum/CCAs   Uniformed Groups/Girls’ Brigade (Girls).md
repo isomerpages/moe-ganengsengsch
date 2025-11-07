@@ -3,21 +3,21 @@ title: Girls’ Brigade (Girls)
 permalink: /cca/uniformed-group/girls-brigade/
 description: ""
 third_nav_title: CCAs   Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>The Girls’ Brigade 71st Company</strong></h4>
-<br><div class="isomer-image-wrapper">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/girls%20brigade%201.jpg">
 </div>
-<br><div class="isomer-image-wrapper">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/girls%20brigade%202.jpg">
 </div>
-<br><div class="isomer-image-wrapper">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/girls%20brigade%203.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -100,23 +100,38 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<br>The Girls’ Brigade (GB) is a values-driven uniformed group CCA that develops girls into confident, compassionate, and responsible leaders. Guided by its motto, ‘Every Girl a Leader, Every Officer a Servant Leader,’ GB fosters discipline, teamwork, and a spirit of service, empowering Girls to lead by example and positively impact both their school and the wider community
+<p>
+<br>The Girls’ Brigade (GB) is a values-driven uniformed group CCA that develops
+girls into confident, compassionate, and responsible leaders. Guided by
+its motto, ‘Every Girl a Leader, Every Officer a Servant Leader,’ GB fosters
+discipline, teamwork, and a spirit of service, empowering Girls to lead
+by example and positively impact both their school and the wider community
 <br>
-<br>Our activities include:<br><br>
-* GB HQ Activities and Events<br>
-* GB Badgework<br>
-* Drill and Physical Training<br>
-* Annual Events such as GB Camp, GB Hike, GB Day, School National Day, and National Competitions<br>
-* Life Skill Courses (SANA, First Aid, Total Defence, Cybercrime Awareness)<br>
-* Values-in-Action Projects<br>
-* Service to the School and Community<br>
+<br>Our activities include:
 <br>
-The 71st Company has a strong tradition of excellence and teamwork. Over the years, our Girls have continued to uphold the high standards of The Girls’ Brigade Singapore through their dedication and service. They have performed commendably in national competitions — attaining Silver and Bronze in the GB National Drill Competition (2023 and 2025) and a Gold Award in
+<br>* GB HQ Activities and Events
+<br>* GB Badgework
+<br>* Drill and Physical Training
+<br>* Annual Events such as GB Camp, GB Hike, GB Day, School National Day,
+and National Competitions
+<br>* Life Skill Courses (SANA, First Aid, Total Defence, Cybercrime Awareness)
+<br>* Values-in-Action Projects
+<br>* Service to the School and Community
+<br>
+<br>The 71st Company has a strong tradition of excellence and teamwork. Over
+the years, our Girls have continued to uphold the high standards of The
+Girls’ Brigade Singapore through their dedication and service. They have
+performed commendably in national competitions — attaining Silver and Bronze
+in the GB National Drill Competition (2023 and 2025) and a Gold Award in
 the LGT Challenge 2024.
-<br><br>
-	Beyond these achievements, our Girls consistently excel in their LEAPS records, earning distinctions and leadership positions by the time they graduate as they strive to achieve their personal best. The Girls’ Brigade experience also enriches their secondary school journey, providing valuable learning opportunities, exposure, and lasting friendships
-
+<br>
+<br>Beyond these achievements, our Girls consistently excel in their LEAPS
+records, earning distinctions and leadership positions by the time they
+graduate as they strive to achieve their personal best. The Girls’ Brigade
+experience also enriches their secondary school journey, providing valuable
+learning opportunities, exposure, and lasting friendships</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
