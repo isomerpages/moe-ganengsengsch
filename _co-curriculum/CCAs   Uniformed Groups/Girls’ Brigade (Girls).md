@@ -100,7 +100,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>The Girls’ Brigade (GB) is a values-driven uniformed group CCA that develops
+<br><p>The Girls’ Brigade (GB) is a values-driven uniformed group CCA that develops
 girls into confident, compassionate, and responsible leaders. Guided by
 its motto, ‘Every Girl a Leader, Every Officer a Servant Leader,’ GB fosters
 discipline, teamwork, and a spirit of service, empowering Girls to lead
@@ -131,7 +131,7 @@ National Competitions</p>
 <p>Service to the School and Community</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<br><p>&nbsp;</p>
 <p>The 71st Company has a strong tradition of excellence and teamwork. Over
 the years, our Girls have continued to uphold the high standards of The
 Girls’ Brigade Singapore through their dedication and service. They have
