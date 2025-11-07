@@ -6,13 +6,13 @@ third_nav_title: CCAs   Uniformed Groups
 variant: markdown
 ---
 <h4><strong>The Girls’ Brigade 71st Company</strong></h4>
-<div class="isomer-image-wrapper">
+<br><div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/girls%20brigade%201.jpg">
 </div>
-<div class="isomer-image-wrapper">
+<br><div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/girls%20brigade%202.jpg">
 </div>
-<div class="isomer-image-wrapper">
+<br><div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/girls%20brigade%203.jpg">
 </div>
 <p>
