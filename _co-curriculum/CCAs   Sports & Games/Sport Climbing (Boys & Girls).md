@@ -70,8 +70,8 @@ third_nav_title: CCAs   Sports & Games
 <p>Mr Lee Fook Yew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phoebe (2-3)
-<br>Verona (2-3)</p>
+<p>PHOEBE SUMMER WADHAM (2-3)
+<br>LIM RUI XUAN VERONA (2-3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Odd Wed &amp; Fri
@@ -104,8 +104,13 @@ Mountaineering Federation (SSCMF).</p>
 <p>During the March holidays, the team also participated in the Inter-Schools
 Bouldering Championships organized by Xin Min Secondary School. The Cluster
 C Boys came in 6<sup>th</sup> and the C Girls were ranked 9<sup>th</sup>.</p>
-<p>Currently, Students Leaders from the Cluster schools are working to host
-a Workshop for SOTA students on 21 May 2025</p>
+<p>On 21 May 2025, student leaders from the cluster schools came together
+to host an engaging and meaningful workshop for SOTA students. The event
+provided a valuable platform for participants to develop leadership skills,
+share experiences, and build connections across schools</p>
+<p>Students from the three cluster schools wrapped up the year on a high
+note with an exciting Cluster Bonding Day at Adventure HQ @ Khatib on 3
+September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
