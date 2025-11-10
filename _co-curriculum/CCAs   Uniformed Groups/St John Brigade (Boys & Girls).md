@@ -3,7 +3,7 @@ title: St John Brigade (Boys & Girls)
 permalink: /cca/uniformed-group/sjab/
 description: ""
 third_nav_title: CCAs   Uniformed Groups
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>St. John Brigade (SJB)</strong></h4>
 <p></p>
@@ -177,10 +177,8 @@ to the school and community.
 <br>● <strong>St John Brigade Southwest District First Aid Competition 2025 – Ambulance Adult Team: 1st Runner-up and Best in Foot Drill; Nursing Adult team: Champion, Best in First Aid and Best in Home Nursing; Ambulance Cadet Team : 2nd Runner-up and Best in Foot Drill; Nursing Cadet Team : 1st Runner-up:</strong>
 <br>
 <br>● <strong>St John Brigade National First Aid &amp; Home Nursing Competition 2025</strong>
-</p>
-<p><strong>Nursing Cadet Team- Best in CPR.</strong>
-</p>
-<p><strong>Nursing Adult Team - Best in CPR and 2nd Runner-up.</strong>
+<strong>Nursing Cadet Team- Best in CPR.</strong>
+<strong>Nursing Adult Team - Best in CPR and 2nd Runner-up.</strong>
 </p>
 <p></p>
 <p><strong>In 2025, all 14 of our cadets were also awarded the Chief Commissioner’s Badge, the highest honour a cadet can achieve.</strong>
