@@ -6,9 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mother_tongue_languages_department_2.jpg">
-</div>
+<p></p>
 <h3>Vision</h3>
 <p>Gessians are Effective Communicators of Mother Tongue Languages and Cultures.</p>
 <h3>Mission</h3>
