@@ -147,7 +147,7 @@ Drama and Debating Society (ELDDS).&nbsp; Another teacher that Sam remembers
 fondly is Cikgu Yusof, who was his coach in the GESS Soccer Team.</p>
 <h4>Member</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ervin_yeo.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Ervin_yeo.jpg">
 </div>
 <h4>Mr Ervin Yeo</h4>
 <p>Ervin works in the real estate sector, and recently relocated home to
