@@ -6,9 +6,11 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/info_communication_technology_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_information_communication_technology_department_2.jpg">
 </div>
+<p></p>
 <p><strong>Overview</strong>
 <br>To harness the transformative potential of technology in education, MOE
 has launched the “Transforming Education through Technology” Masterplan
