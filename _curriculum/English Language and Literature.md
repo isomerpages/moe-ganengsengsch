@@ -55,7 +55,7 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1184_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2023 (1184)</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1184_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2025 (1184)</a>
 </p>
 </li>
 </ul>
@@ -65,7 +65,7 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2025/1190_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2023 (1190)</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2025/1190_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2025 (1190)</a>
 </p>
 </li>
 </ul>
@@ -75,7 +75,7 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1195_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2023 (1195)</a>
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1195_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2025 (1195)</a>
 </p>
 </li>
 </ul>
@@ -85,7 +85,7 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/2065_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2021(2065)</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/2065_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2025 (2065)</a>
 </p>
 </li>
 </ul>
