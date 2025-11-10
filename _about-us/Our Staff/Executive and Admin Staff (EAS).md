@@ -74,7 +74,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Student Welfare Officer</p>
+<p>Roving Student Welfare Officer for South 4</p>
 </td>
 </tr>
 <tr>

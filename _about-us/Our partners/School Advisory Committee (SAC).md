@@ -145,3 +145,14 @@ Excellence Awards 2024.</p>
 who taught Sam the finer skills of Drama and Debating in the English Literary
 Drama and Debating Society (ELDDS).&nbsp; Another teacher that Sam remembers
 fondly is Cikgu Yusof, who was his coach in the GESS Soccer Team.</p>
+<h4>Member</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ervin_yeo.jpg">
+</div>
+<h4>Mr Ervin Yeo</h4>
+<p>Ervin works in the real estate sector, and recently relocated home to
+Singapore after a stint in Shanghai with his wife and daughter. While he
+is not an alumni of GESS, he greatly appreciates the opportunity to serve
+on the School Advisory Committee. Education can change the trajectory of
+many lives, and he hopes that the whole GESS community can work together
+to give our students a well-rounded education both in and outside the classroom.</p>
