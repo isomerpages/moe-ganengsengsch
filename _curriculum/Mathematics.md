@@ -6,9 +6,11 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mathematics_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_mathematics_department_2.jpg">
 </div>
+<p></p>
 <h3>Vision</h3>
 <p>To promote and support a comprehensive, innovative and vibrant learning
 environment where Gessians are engaged and become confident problem solvers</p>
