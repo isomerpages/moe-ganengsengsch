@@ -6,9 +6,12 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/science_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_science_department_2.jpg">
 </div>
+<p></p>
 <h3>Vision</h3>
 <p>Gessians with strong foundation and interest in Science</p>
 <h3>Mission</h3>
