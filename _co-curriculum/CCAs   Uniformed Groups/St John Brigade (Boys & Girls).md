@@ -176,7 +176,7 @@ to the school and community.
 <br>
 <br>● <strong>St John Brigade Southwest District First Aid Competition 2025 – Ambulance Adult Team: 1st Runner-up and Best in Foot Drill; Nursing Adult team: Champion, Best in First Aid and Best in Home Nursing; Ambulance Cadet Team : 2nd Runner-up and Best in Foot Drill; Nursing Cadet Team : 1st Runner-up:</strong>
 <br>
-<br>● <strong>St John Brigade National First Aid &amp; Home Nursing Competition 2025 </strong>
+<br>● <strong>St John Brigade National First Aid &amp; Home Nursing Competition 2025</strong>
 </p>
 <p><strong>Nursing Cadet Team- Best in CPR.</strong>
 </p>
