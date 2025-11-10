@@ -176,11 +176,16 @@ to the school and community.
 <br>
 <br>● <strong>St John Brigade Southwest District First Aid Competition 2025 – Ambulance Adult Team: 1st Runner-up and Best in Foot Drill; Nursing Adult team: Champion, Best in First Aid and Best in Home Nursing; Ambulance Cadet Team : 2nd Runner-up and Best in Foot Drill; Nursing Cadet Team : 1st Runner-up:</strong>
 <br>
-<br>● <strong>St John Brigade National First Aid &amp; Home Nursing Competition 2024- Ambulance Adult Team: Best in CPR and Best in Transportation of Casualty</strong>
-<br>
-<br>
-<br><strong><br>In 2024, 10 of our cadets were also awarded the Chief Commissioner’s Badge in recognition of their outstanding service.</strong>
+<br>● <strong>St John Brigade National First Aid &amp; Home Nursing Competition 2025 </strong>
 </p>
+<p><strong>Nursing Cadet Team- Best in CPR.</strong>
+</p>
+<p><strong>Nursing Adult Team - Best in CPR and 2nd Runner-up.</strong>
+</p>
+<p></p>
+<p><strong>In 2025, all 14 of our cadets were also awarded the Chief Commissioner’s Badge, the highest honour a cadet can achieve.</strong>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
