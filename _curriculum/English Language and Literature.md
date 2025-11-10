@@ -8,8 +8,9 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/english_language_and_literature_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_english_language_and_literature_department_2.jpg">
 </div>
+<p></p>
 <p></p>
 <h3>Vision</h3>
 <p><strong>LOVE 3</strong>
@@ -54,7 +55,7 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1184_y23_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2023 (1184)</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1184_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2023 (1184)</a>
 </p>
 </li>
 </ul>
@@ -64,7 +65,7 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1190_y23_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2023 (1190)</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2025/1190_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2023 (1190)</a>
 </p>
 </li>
 </ul>
@@ -74,7 +75,7 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2023 (1195)</a>
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1195_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2023 (1195)</a>
 </p>
 </li>
 </ul>
@@ -84,7 +85,7 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/2065_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2021(2065)</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/2065_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2021(2065)</a>
 </p>
 </li>
 </ul>
