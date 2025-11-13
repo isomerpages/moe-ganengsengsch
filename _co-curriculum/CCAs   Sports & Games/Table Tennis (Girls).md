@@ -39,18 +39,22 @@ variant: markdown
   <tr>
     <td class="tg-tsok">Mr Jeffrey Phua<br>Mr Wong Chin Yeow<br>Ms Fion Tan</td>
     <td class="tg-tsok">Goh Tian Lai<br>Tony Nah</td>
-    <td class="tg-tsok">Captain:<br>Inez Teo Kit Yin (3-2)<br><br>Vice Captains:<br>Janelle Ow Shi Qi (3-7),<br>Vicky Lee Sze Ning (3-5)</td>
+    <td class="tg-tsok">Captain:<br>Lim Li Hsuen (3-5)<br><br>Vice Captains:<br>Georgia Lee En Ci (3-5),<br>Amelia Teo Sze Min (3-7)</td>
 		<td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday<br>2.30pm-5.30pm<br><br>Venue:<br>ISH Upper Deck</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="4">Our Table Tennis Team was formed to provide girls with an opportunity to experience the sport of table tennis at a competitive level. Since its establishment, our team has competed in many external competitions and in particular, the annual South zone and National Inter-schools Table Tennis Championships.<br><br>Achievements<br><br>
+2025: ‘C’ Division girl team – NSG Tier 1 at National Level
+<br><br>
+2024: South Zone inter-school championships ‘B’ Division girl(team) - Bronze
+<br><br>
 2022: South Zone inter-school championships ‘B’ Division girl(team) - Bronze
 <br><br>
 2021: South Zone inter-school championships ‘B’ Division girl(team) - Bronze
 <br>
 ‘C’ Division girl(team) is cancelled due to COVID-19 tightened measures in Term 3
 <br><br>
-2020: South zone inter-school championships (2019) – No NSG in 2020&nbsp;due to COVID-19</td>
+</td>
   </tr>
 </tbody>
 </table>
