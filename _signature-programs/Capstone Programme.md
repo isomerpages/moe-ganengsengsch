@@ -28,15 +28,3 @@ Here at GESS, we seek to develop Gessians of Excellence, Standing and Significan
 The Capstone+ Framework is a progressive model based on the approach of Enrich, Enthuse, Engage and Empower anchored on the theme of sustainability. Through the Capstone+ Programme, we hope for our students to strengthen their 21st Century Competencies: Civic, Global and Cross-Cultural Literacy; Critical, Adaptive and Inventive Thinking as well as Communication, Collaboration and Information Skills. 
 
 ![](/images/Capstone_5.png)
-
-
-
-
-
-
-
-
-
-
-
-
