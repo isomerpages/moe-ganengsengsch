@@ -37,8 +37,8 @@ variant: markdown
 		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Jeffrey Phua<br>Mr Wong Chin Yeow</td>
-    <td class="tg-tsok">Chen JianEr<br>Goh Tian Lai</td>
+    <td class="tg-tsok">Mr Jeffrey Phua<br>Mr Wong Chin Yeow<br>Ms Fion Tan</td>
+    <td class="tg-tsok">Goh Tian Lai<br>Tony Nah</td>
     <td class="tg-tsok">Captain:<br>Inez Teo Kit Yin (3-2)<br><br>Vice Captains:<br>Janelle Ow Shi Qi (3-7),<br>Vicky Lee Sze Ning (3-5)</td>
 		<td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday<br>2.30pm-5.30pm<br><br>Venue:<br>ISH Upper Deck</td>
   </tr>
