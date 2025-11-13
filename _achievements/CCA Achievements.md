@@ -4,6 +4,7 @@ permalink: /achievements/cca/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <h2>2025</h2>
 <p><strong>Physical Sports</strong>
 </p>
@@ -74,6 +75,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>League 3</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -182,9 +185,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Uniformed Groups</strong>
+<p><strong>&nbsp;Uniformed Groups</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -468,6 +469,660 @@ category</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Winner</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH PING JIN, MARVIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-5</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>NPCC Best Unit Cadet Award</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Winner</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SNG VAN KHAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH PING JIN, MARVIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-5</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Station Inspector</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM YONG JUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH PING JIN, MARVIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-5</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>SPF NPCC Badge Award 2025</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM YONG JUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BJORIZ YEO JING XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-2</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Inter-Schools Bouldering Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM RUI XUAN VERONA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHOEBE SUMMER WADHAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZAYVEN YAPP JUN XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AURELIUS CHUA ZHUO YUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUKE EMPERADO ONG ZHAO NENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARDEN KEW JIN RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG XIN HAO ASHER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-5</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Cougars Athletics Cross Country Championship U14 Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WAI ZI WENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CALEB LING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MAXIME, CHARLES AGOSTINI-LAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAYLYN HUSISTEIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-6</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>Cougars Athletics Cross Country Championship U14 Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM XUAN YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AURELIA LEE YONG EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YOSHIMURA REMI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAINA ONG SI YA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FOO FANG JIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEO ZI NING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-4</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Cougars Athletics Cross Country Championship U20 Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM YI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOO ZHI LIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEONG CI EN CHERISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ETHAN YAP REN JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-3</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Cougars Athletics Cross Country Championship U20 Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ETHAN WANG JIEYAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JARYL SEE TOH JIA HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-4</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Chief Scout's Award</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Winner</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIAW YE CHENG JEROME</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JONAS KH'NG HENG QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SOO WEN JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YION JUE XAVIER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>SOUTH AREA COOK-OFF 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JIAN YUTONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HECTOR TAN TIE IEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NICOLE KWANG YI XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CALEB LEONG KA LOK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN JUN YI, NATASHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHAHRIL KEITH BIN KHAIRUDIN LAMB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-2</p>
+</td>
+<td rowspan="12" colspan="1">
+<p>South Area Go Explore 2025</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SUI KANG LE THEOPHILUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DHARSHAAN PALANI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HENG REN HAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JIAN YUTONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WILLIAM LIONG ZI YUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISABELLE TOONG YAN THONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-2</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAYDEN LIM GUAN YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUO JIAHE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANG QIAN TONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-2</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHNG WU HENG, ZACH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEW CHENG YOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOY QI EN BENJAMIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-1</p>
+</td>
+<td rowspan="11" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>NPCC Inter Area Campcraft Competition 2025</p>
+</td>
+<td rowspan="11" colspan="1">
+<p>5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WAN YONG ZHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AHMAD FARHAAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARIQ DANIAL BIN JUMAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOH KANG YU, KIERAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMMAD KHAFIZ ADIL BIN MOHAMMAD KAHMIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIA LE MING LUVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA KHAI XIAN HAROLD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ETHAN NG YI HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIP YONG HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LENNON TAY ZI XU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-2</p>
 </td>
 </tr>
 </tbody>
@@ -1068,8 +1723,6 @@ by The Singapore-China Cultural and Educational Exchange Center</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
 <h2>2022</h2>
 <p><strong>Physical Sports</strong>
