@@ -6,7 +6,7 @@ variant: markdown
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p>2025</p>
+<p><strong>2025</strong></p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -17,7 +17,7 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Junior Biology Olympiad (SJBO) 2025</p>
+<p><strong>Singapore Junior Biology Olympiad (SJBO) 2025</strong></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong>
@@ -44,7 +44,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>Singapore Mathematics Olympiad (SMO) 2025<br>Junior<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,7 +111,7 @@ variant: markdown
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2024</p>
+<p><strong>2024</strong></p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -361,7 +361,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2023</p>
+<p><strong>2023</strong></p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -680,7 +680,7 @@ variant: markdown
 </p>
 <ul>
 <li>
-<p>2022</p>
+<p><strong>2022</strong></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -855,7 +855,7 @@ variant: markdown
 </p>
 <ul>
 <li>
-<p>2021</p>
+<p><strong>2021</strong></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
