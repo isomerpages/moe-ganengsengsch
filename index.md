@@ -30,11 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2025 GESS School Magazine
+        - title: 140th Anniversary Publications
           date: 15 November 2025
           announcement: 2025 GESS Heartbeat
           link_text: READ MORE
-          link_url: /2025-gess-school-magazine/
+          link_url: /140th-anniversary-publications/
         - title: Canteen Advertisement
           date: 29 October 2025
           announcement: School Canteen Advertisement and Application Procedure
