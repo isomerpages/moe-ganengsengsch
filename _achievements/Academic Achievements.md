@@ -48,7 +48,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-	<p><strong>Junior Bronze</strong><br>Jazlyn Sim Xin Ying (2-2)<br>Vielynn Foo Khai Yan (2-5)<br>Quek Sze Chen Darren (2-4)<br>Victor Cristos Emerich (2-4)<br><br><strong>Honourable Mention</strong><br>Lee Hui Yi (2-6)<br>Phoebe Summer Wadham (2-3)<br>Tay Zhi Lun Caden (2-7)</p>
+	<p><strong>Junior - Bronze</strong><br>Jazlyn Sim Xin Ying (2-2)<br>Vielynn Foo Khai Yan (2-5)<br>Quek Sze Chen Darren (2-4)<br>Victor Cristos Emerich (2-4)<br><br><strong>Junior - Honourable Mention</strong><br>Lee Hui Yi (2-6)<br>Phoebe Summer Wadham (2-3)<br>Tay Zhi Lun Caden (2-7)<br><br><strong>Senior - Silver</strong><br>Deng Jingheng (4-4)<br>Gu Tongshuo Shaquille (4-4)<br>Ng Wen Bin (4-4)<br><br><strong>Senior - Honourable Mention</strong></p>
 </td>
 </tr>
 <tr>
