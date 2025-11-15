@@ -6,7 +6,7 @@ variant: markdown
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p>2025</p>
+<p><strong>2025</strong></p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -17,7 +17,7 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Junior Biology Olympiad (SJBO) 2025</p>
+<p><strong>Singapore Junior Biology Olympiad (SJBO) 2025</strong></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong>
@@ -44,11 +44,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>Singapore Mathematics Olympiad (SMO) 2025<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>Junior - Bronze</strong><br>Jazlyn Sim Xin Ying (2-2)<br>Vielynn Foo Khai Yan (2-5)<br>Quek Sze Chen Darren (2-4)<br>Victor Cristos Emerich (2-4)<br><br><strong>Junior - Honourable Mention</strong><br>Lee Hui Yi (2-6)<br>Phoebe Summer Wadham (2-3)<br>Tay Zhi Lun Caden (2-7)<br><br><strong>Senior - Silver</strong><br>Deng Jingheng (4-4)<br>Gu Tongshuo Shaquille (4-4)<br>Ng Wen Bin (4-4)<br><br><strong>Senior - Honourable Mention</strong><br>Muhammad Aqeel Bin Abdul Halim (4-4)<br>Sia Yong Han (Xie Yonghan) (4-6)<br>Bala Murugan Ravi (4-4)<br>Winston Mohan-He (4-4)<br>Kornwarin Sadiphan (4-4)<br>Aleesha Kaur Sidhu (4-5)<br>Goh Ping Jin Marvin (4-5)<br>Kyler Chan Haoyang (Zeng Haoyang) (4-5)<br>Leon Ong Wei An (4-6)<br><br><strong>Open - Bronze</strong><br>Gu Tongshuo Shaquille (4-4)<br>Deng Jingheng (4-4)</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ variant: markdown
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2024</p>
+<p><strong>2024</strong></p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -361,7 +361,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2023</p>
+<p><strong>2023</strong></p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -680,7 +680,7 @@ variant: markdown
 </p>
 <ul>
 <li>
-<p>2022</p>
+<p><strong>2022</strong></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -855,7 +855,7 @@ variant: markdown
 </p>
 <ul>
 <li>
-<p>2021</p>
+<p><strong>2021</strong></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
