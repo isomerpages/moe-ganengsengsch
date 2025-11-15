@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2025 GESS School Magazine
+          date: 15 November 2025
+          announcement: 2025 GESS Heartbeat
+          link_text: READ MORE
+          link_url: /2025-gess-school-magazine/
         - title: Canteen Advertisement
           date: 29 October 2025
           announcement: School Canteen Advertisement and Application Procedure
@@ -51,9 +56,4 @@ sections:
           announcement: Term 4 letter 2025
           link_text: READ MORE
           link_url: /term-4-letter-to-parents-2025/
-        - title: 2025 GESS School Magazine
-          date: 15 November 2025
-          announcement: 2025 GESS Heartbeat
-          link_text: READ MORE
-          link_url: /2025-gess-school-magazine/
 ---
