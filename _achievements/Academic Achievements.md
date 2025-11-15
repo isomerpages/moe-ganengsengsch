@@ -44,7 +44,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Mathematics Olympiad (SMO) 2025<br>Junior<br></strong>
+<p><strong>Singapore Mathematics Olympiad (SMO) 2025<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
