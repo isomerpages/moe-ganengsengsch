@@ -71,11 +71,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>IDE Maker Series Competitions 2025<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>Second Place</strong><br>Carla Andres Goldstein  (3-4)<br>Mohandas Issac Valeriano (3-5)<br>Sean Tan Zi Jing  (1-7)<br><br><strong>Participation</strong><br>Zenon Teo	(3-4) </p>
 </td>
 </tr>
 <tr>
