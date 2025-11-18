@@ -17,6 +17,24 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Singapore Junior Physics Olympiad 2025<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+	<p><strong>Silver</strong><br>Deng Jingheng<br>Gu Tongshuo Shaquille<br><br><strong>Honourable Mention</strong><br>Yang Xiuqi<br><br><strong>Participation</strong><br>Chee Chun Hong Gavin<br>Ho Jing Yee Elise<br>Kornwarin Sadiphan<br>Ariel Ong Zi Xin<br>Dylan Wang Chee Kiat<br>Lim Phui Yee Tania<br>Lim Rong Yang<br>Song Meng Hin<br>WAN ZI HAO<br>Tan Keryn<br>Yong Cheng Xun Kieran</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Singapore Junior Biology Olympiad (SJBO) 2025</strong></p>
 </td>
 <td rowspan="1" colspan="1">
