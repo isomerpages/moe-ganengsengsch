@@ -17,6 +17,24 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Singapore Junior Physics Olympiad 2025<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+	<p><strong>Silver</strong><br>Deng Jingheng (4-4)<br>Gu Tongshuo Shaquille (4-4)<br><br><strong>Honourable Mention</strong><br>Yang Xiuqi (4-4)<br><br><strong>Participation</strong><br>Chee Chun Hong Gavin (4-4)<br>Ho Jing Yee Elise (4-4)<br>Kornwarin Sadiphan (4-4)<br>Ariel Ong Zi Xin (4-5)<br>Dylan Wang Chee Kiat (4-5)<br>Lim Phui Yee Tania (4-5)<br>Lim Rong Yang (4-5)<br>Song Meng Hin (4-5)<br>WAN ZI HAO (4-5)<br>Tan Keryn (4-6)<br>Yong Cheng Xun Kieran (4-6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Junior Chemistry Olympiad 2025<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+	<p><strong>Silver</strong><br>Yang Xiuqi (4-4)<br><br><strong>Bronze</strong><br>Gu Tongshuo Shaquille (4-4)<br><br><strong>Participation</strong><br>Sui Kang Le Theophilus (3-4)<br>Aricia Seah Qin Xuan (3-5)<br>Bliss Foo Xinrui (3-5)<br>Tan Ying Jie Hayley (3-5)<br>Jian Yutong (3-5)<br>Neo Quan Ting Tudor (3-5)<br>Myat Thiha (3-6)<br>Deng Jingheng (4-4)<br>Foong Liang Jun	 (4-4)<br>Chan Yuxuan Gwyn (4-5)<br>Sim Shi Yee Ashley (4-5)<br>Evangelista Kwek (4-5)<br></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Singapore Junior Biology Olympiad (SJBO) 2025</strong></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,47 +71,47 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>IDE Maker Series Competitions 2025<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>Second Place</strong><br>Carla Andres Goldstein  (3-4)<br>Mohandas Issac Valeriano (3-5)<br>Sean Tan Zi Jing  (1-7)<br><br><strong>Participation</strong><br>Zenon Teo	(3-4) </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>IDE Code Builider (Scratch) Competition 2025<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>Top 10</strong><br>Abram Chen Yanjun (1-6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>World Robotic Olympiad 2025 (Future Innovators Senior 14-19 yo)<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>Runner Up</strong><br>Carla Andres Goldstein  (3-4)<br>Mohandas Issac Valeriano (3-5)<br>Sean Tan Zi Jing  (1-7)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>Singapore Science Buskers Competitions 2025<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>Certificate of Merit (Top 52 finalist team)</strong><br>Nguyen Quang Hai (1-1&gt;<br>Muhammad Amir (2-5)<br>Zenon Teo Zhe wei (3-4)<br><br><strong>Participation Award </strong><br>Ng Kang Zhi (1-7)<br>Alivia Ng (2-7)<br>Tey Chi Hin (3-4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>International Competitions and Assessments for Schools (ICAS)<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>High Distinction</strong><br>Kylea Tan (2-3)<br><br><strong>Distinction</strong><br>Isaac Goh (3-1)<br>Chionh Kai Aik	 (3-4)<br><br><strong>Credit</strong><br>Aricia Seah Qin Xuan (3-5)<br>Tudor Neo Quan Ting (3-5)<br>Wynn Pang (2-1)<br>Damian Lim (2-3)<br>Sherman Teo (2-3)<br>Andrew Syarif (2-5)<br>Zenden Pook (2-5)<br><br><strong>Merit</strong><br>Lim Jun Zhe (2-3)<br>Vera Khoo (3-4)<br><br><strong>Participation</strong><br>Cayden Husistein (3-4)<br>Bliss Foo   (3-5)<br>Scarlett Tham (3-5)<br>Jazlyn Sim (2-2)<br>Lee Zun Meng (2-3)<br>Leong Yee Hern	 (2-5)</p>
 </td>
 </tr>
 <tr>
