@@ -98,11 +98,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>Singapore Science Buskers Competitions 2025<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>Certificate of Merit (Top 52 finalist team)</strong><br>Nguyen Quang Hai (1-1&gt;<br>Muhammad Amir (2-5)<br>Zenon Teo Zhe wei (3-4)<br><br><strong>Participation Award </strong><br>Ng Kang Zhi (1-7)<br>Alivia Ng (2-7)<br>Tey Chi Hin (3-4)</p>
 </td>
 </tr>
 <tr>
