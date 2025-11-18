@@ -80,7 +80,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>IDE Code Builider (scratch) Competition 2025<br></strong>
+<p><strong>IDE Code Builider (Scratch) Competition 2025<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,11 +89,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>World Robotic Olympiad 2025 (Future Innovators Senior 14-19 yo)<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>Runner Up</strong><br>Carla Andres Goldstein  (3-4)<br>Mohandas Issac Valeriano (3-5)<br>Sean Tan Zi Jing  (1-7)</p>
 </td>
 </tr>
 <tr>
