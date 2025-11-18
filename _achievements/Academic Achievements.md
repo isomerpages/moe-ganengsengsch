@@ -107,11 +107,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>International Competitions and Assessments for Schools (ICAS)<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>High Distinction</strong><br>Kylea Tan (2-3)<br><br><strong>Distinction</strong><br>Isaac Goh (3-1)<br>Chionh Kai Aik	 (3-4)<br><br><strong>Credit</strong><br>Aricia Seah Qin Xuan (3-5)<br>Tudor Neo Quan Ting (3-5)<br>Wynn Pang (2-1)<br>Damian Lim (2-3)<br>Sherman Teo (2-3)<br>Andrew Syarif (2-5)<br>Zenden Pook (2-5)<br><br><strong>Merit</strong><br>Lim Jun Zhe (2-3)<br>Vera Khoo (3-4)<br><br><strong>Participation</strong><br>Cayden Husistein (3-4)<br>Bliss Foo   (3-5)<br>Scarlett Tham (3-5)<br>Jazlyn Sim (2-2)<br>Lee Zun Meng (2-3)<br>Leong Yee Hern	 (2-5)</p>
 </td>
 </tr>
 <tr>
