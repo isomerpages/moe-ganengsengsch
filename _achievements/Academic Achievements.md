@@ -80,11 +80,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>IDE Code Builider (scratch) Competition 2025<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>Top 10</strong><br>Abram Chen Yanjun (1-6)</p>
 </td>
 </tr>
 <tr>
