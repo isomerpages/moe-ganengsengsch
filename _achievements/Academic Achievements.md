@@ -21,16 +21,16 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-	<p><strong>Silver</strong><br>Deng Jingheng<br>Gu Tongshuo Shaquille<br><br><strong>Honourable Mention</strong><br>Yang Xiuqi<br><br><strong>Participation</strong><br>Chee Chun Hong Gavin<br>Ho Jing Yee Elise<br>Kornwarin Sadiphan<br>Ariel Ong Zi Xin<br>Dylan Wang Chee Kiat<br>Lim Phui Yee Tania<br>Lim Rong Yang<br>Song Meng Hin<br>WAN ZI HAO<br>Tan Keryn<br>Yong Cheng Xun Kieran</p>
+	<p><strong>Silver</strong><br>Deng Jingheng (4-4)<br>Gu Tongshuo Shaquille (4-4)<br><br><strong>Honourable Mention</strong><br>Yang Xiuqi (4-4)<br><br><strong>Participation</strong><br>Chee Chun Hong Gavin (4-4)<br>Ho Jing Yee Elise (4-4)<br>Kornwarin Sadiphan (4-4)<br>Ariel Ong Zi Xin (4-5)<br>Dylan Wang Chee Kiat (4-5)<br>Lim Phui Yee Tania (4-5)<br>Lim Rong Yang (4-5)<br>Song Meng Hin (4-5)<br>WAN ZI HAO (4-5)<br>Tan Keryn (4-6)<br>Yong Cheng Xun Kieran (4-6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p><strong>Singapore Junior Chemistry Olympiad 2025<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p><strong>Silver</strong><br>Yang Xiuqi (4-4)<br><br><strong>Bronze</strong><br>Gu Tongshuo Shaquille (4-4)<br><br><strong>Participation</strong><br>Sui Kang Le Theophilus (3-4)<br>Aricia Seah Qin Xuan (3-5)<br>Bliss Foo Xinrui (3-5)<br>Tan Ying Jie Hayley (3-5)<br>Jian Yutong (3-5)<br>Neo Quan Ting Tudor (3-5)<br>Myat Thiha (3-6)<br>Deng Jingheng (4-4)<br>Foong Liang Jun	 (4-4)<br>Chan Yuxuan Gwyn (4-5)<br>Sim Shi Yee Ashley (4-5)<br>Evangelista Kwek (4-5)<br></p>
 </td>
 </tr>
 <tr>
