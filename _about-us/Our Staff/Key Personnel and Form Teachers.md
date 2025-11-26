@@ -807,10 +807,10 @@ variant: tiptap
 <p>3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Sok Yee (LSY)</p>
+<p>Mr Chee Fook Sing (CFS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_sok_yee_A@schools.gov.sg" rel="noopener noreferrer" target="_blank">leong_sok_yee_A@schools.gov.sg</a>
+<p><a href="mailto:chee_fook_sing@schools.gov.sg" rel="noopener noreferrer" target="_blank">chee_fook_sing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
