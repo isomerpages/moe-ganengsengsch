@@ -89,7 +89,7 @@ variant: tiptap
 <p>Ms Esther Wong Teck Yen (WTY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_tsong_li_derek@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_tsong_li_derek@schools.gov.sg</a>
+<p><a href="mailto:wong_teck_yen_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_teck_yen_esther@schools.gov.sg</a>
 </p>
 </td>
 </tr>
