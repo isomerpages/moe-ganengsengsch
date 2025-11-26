@@ -611,19 +611,20 @@ variant: tiptap
 <p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Pei Ying (LPY)</p>
+<p>Ms Umamageswari (UMA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_pei_ying@schools.gov.sg" rel="noopener noreferrer" target="_blank">lee_pei_ying@schools.gov.sg</a>
+<p><a href="mailto:umamageswari_sathiaseelan@schools.gov.sg" rel="noopener noreferrer" target="_blank">umamageswari_sathiaseelan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mrs Chithra (CHI)</p>
+<p>Ms Thin Lae Yi Zaw (LYZ)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p><a href="mailto:nie25.tlyz@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.tlyz@e.ntu.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr></tr>
