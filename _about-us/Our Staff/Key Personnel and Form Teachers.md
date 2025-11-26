@@ -625,11 +625,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rene Lee Jia Yi (LJY)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Rene_Lee_Jia_Yi@schools.gov.sg" rel="noopener noreferrer" target="_blank">rene_lee_jia_yi@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -867,10 +866,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fion Tan Geok Leng (TGL)</p>
+<p>Mdm Shinderjeet Kaur (SDJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Geok_Leng_A@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_geok_leng_a@schools.gov.sg</a>
+<p><a href="mailto:shinderjeet_kaur@schools.gov.sg" rel="noopener noreferrer" target="_blank">shinderjeet_kaur@schools.gov.sg</a>
 </p>
 </td>
 </tr>
