@@ -484,10 +484,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Bun (LB)</p>
+<p>Mr Senthil Kumaran (STK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_bun_stephen@schools.gov.sg" rel="noopener noreferrer" target="_blank">lim_bun_stephen@schools.gov.sg</a>
+<p><a href="mailto:senthil_kumaran_kunasegaran@schools.gov.sg" rel="noopener nofollow" target="_blank">senthil kumaran kunasegaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
