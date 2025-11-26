@@ -687,10 +687,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Qaleelullah Mohamed Fahim (QAL)</p>
+<p>Mr Kevin Kung (KSO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:qaleelullah_mohamed_fahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">qaleelullah_mohamed_fahim@schools.gov.sg</a>
+<p><a href="mailto:kung_sion_onn_kevin@schools.gov.sg" rel="noopener" target="_blank">kung_sion_onn_kevin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
