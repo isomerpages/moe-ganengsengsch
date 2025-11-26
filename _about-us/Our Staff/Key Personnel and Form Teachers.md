@@ -86,7 +86,7 @@ variant: tiptap
 <p>HOD / Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Tsong Li Derek (TTL)</p>
+<p>Ms Esther Wong Teck Yen (WTY)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_tsong_li_derek@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_tsong_li_derek@schools.gov.sg</a>
@@ -122,7 +122,7 @@ variant: tiptap
 <p>HOD / Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Aileen Tan (TZL)</p>
+<p>Ms Aileen Tan Zilin (TZL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_zilin_aileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_zilin_aileen@schools.gov.sg</a>
