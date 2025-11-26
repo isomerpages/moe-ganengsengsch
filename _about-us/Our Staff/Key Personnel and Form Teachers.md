@@ -894,10 +894,10 @@ variant: tiptap
 <p>3-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nalyn Chan (CMT)</p>
+<p>Ms Phua Hui Shi (Mrs Lin) (PHS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_mui_tin@schools.gov.sg" rel="noopener noreferrer" target="_blank">chua_mui_tin@schools.gov.sg</a>
+<p><a href="mailto:phua_hui_shi@schools.gov.sg" rel="noopener noreferrer" target="_blank">phua_hui_shi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
