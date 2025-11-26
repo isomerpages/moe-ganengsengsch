@@ -467,9 +467,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Johnathan Beh (BGT)</p>
+<p>Ms Tay Yian Ling (TYL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:beh_guanting_johnathan@schools.gov.sg" rel="noopener" target="_blank">beh_guanting_johnathan@schools.gov.sg</a>
+</p>
+<p><a href="mailto:tay_yian_ling@schools.gov.sg" rel="noopener noreferrer" target="_blank">tay_yian_ling@schools.g</a>
 </p>
 </td>
 </tr>
@@ -870,12 +873,9 @@ variant: tiptap
 <p>3-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Yi Tsun (CYT)</p>
 <p>Mr Ang Boon Bin Brandon (ABB)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_yi_tsun@schools.gov.sg" rel="noopener noreferrer" target="_blank">chan_yi_tsun@schools.gov.sg</a>
-</p>
 <p><a href="mailto:boon_bin_ang@schools.gov.sg" rel="noopener noreferrer" target="_blank">boon_bin_ang@schools.gov.sg</a>
 </p>
 </td>
