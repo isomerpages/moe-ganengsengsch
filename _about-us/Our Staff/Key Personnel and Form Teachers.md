@@ -795,10 +795,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Chew Woo (TCW)</p>
+<p>Mrs Chithra (CHI)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_chew_woo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_chew_woo@schools.gov.sg</a>
+<p><a href="mailto:thanigaivel_chithra@schools.gov.sg" rel="noopener noreferrer" target="_blank">thanigaivel_chithra@schools.gov.sg</a>
 </p>
 </td>
 </tr>
