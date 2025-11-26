@@ -1064,10 +1064,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Ariella Elise (CAE)</p>
+<p>Mr Samuel Leong Yong Jie (LYJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_arielle_elise@schools.gov.sg" rel="noopener nofollow" target="_blank">chua_arielle_elise@schools.gov.sg</a>
+<p><a href="mailto:nie25.slyj@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.slyj@e.ntu.edu.sg</a>
 </p>
 </td>
 </tr>
