@@ -457,10 +457,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Farid (FARID)</p>
+<p>Ms Khadijah (KHA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_farid_b_mohd@schools.gov.sg" rel="noopener noreferrer" target="_blank">muhammad_farid_b_mohd@schools.gov.sg</a>
+<p><a href="mailto:khadijah_bte_mustapah@schools.gov.sg" rel="noopener noreferrer" target="_blank">khadijah_bte_mustapah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
