@@ -424,12 +424,9 @@ variant: tiptap
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Umamageswari (UMA)</p>
 <p>Mr Sathis Kumar (SK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:umamageswari_sathiaseelan@schools.gov.sg" rel="noopener noreferrer" target="_blank">umamageswari_sathiaseelan@schools.gov.sg</a>
-</p>
 <p><a href="mailto:sathis_kumar_niana_sekaran@schools.gov.sg" rel="noopener noreferrer" target="_blank">sathis_kumar_niana_sekaran@schools.gov.sg</a>
 </p>
 </td>
