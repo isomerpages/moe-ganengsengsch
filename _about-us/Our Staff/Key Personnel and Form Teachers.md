@@ -632,19 +632,19 @@ variant: tiptap
 <p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yohan Fendy (YF)</p>
+<p>Ms Sandra Wee (WPW)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yohan_fendy@schools.gov.sg" rel="noopener noreferrer" target="_blank">yohan_fendy@schools.gov.sg</a>
+<p><a href="mailto:wee_pey_woon@schools.gov.sg" rel="noopener noreferrer" target="_blank">wee_pey_woon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Chong Chi (CC)</p>
+<p>Mr Khoo Ding Yuan (KDY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_chi@schools.gov.sg" rel="noopener noreferrer" target="_blank">chong_chi@schools.gov.sg</a>
+<p><a href="mailto:nie25.kdy@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.kdy@e.ntu.edu.sg</a>
 </p>
 </td>
 </tr>
