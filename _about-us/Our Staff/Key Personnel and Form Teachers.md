@@ -538,12 +538,9 @@ variant: tiptap
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Herianti Samsudin(HS)</p>
 <p>Ms Ashley Wong (WMJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:herianti_samsudin@schools.gov.sg" rel="noopener noreferrer" target="_blank">herianti_samsudin@schools.gov.sg</a>
-</p>
 <p><a href="mailto:wong_meijing_ashley_a@schools.gov.sg" rel="noopener noreferrer" target="_blank">wong_meijing_ashley_a@schools.gov.sg</a>
 </p>
 </td>
