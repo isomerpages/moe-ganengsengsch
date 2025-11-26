@@ -1033,10 +1033,10 @@ variant: tiptap
 <p>4-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Yian Ling (TYL)</p>
+<p>Mr Jansen Tan (JAN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_yian_ling@schools.gov.sg" rel="noopener noreferrer" target="_blank">tay_yian_ling@schools.gov.sg</a>
+<p><a href="mailto:weiliang_jansen_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">weiliang_jansen_tan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
