@@ -836,10 +836,10 @@ variant: tiptap
 <p>3-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yong Geng (TYG)</p>
+<p>Ms Lee Pei Ying (LPY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yong_geng@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_yong_geng@schools.gov.sg</a>
+<p><a href="mailto:lee_pei_ying@schools.gov.sg" rel="noopener noreferrer" target="_blank">lee_pei_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
