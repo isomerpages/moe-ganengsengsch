@@ -657,10 +657,10 @@ variant: tiptap
 <p>2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chandrima Roy (ROY)</p>
+<p>Mr Johnathan Beh (BGT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chandrima_roy@schools.gov.sg" rel="noopener noreferrer" target="_blank">chandrima_roy@schools.gov.sg</a>
+<p><a href="mailto:beh_guanting_johnathan@schools.gov.sg" rel="noopener" target="_blank">beh_guanting_johnathan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
