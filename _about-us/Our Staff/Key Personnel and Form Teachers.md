@@ -125,7 +125,7 @@ variant: tiptap
 <p>Ms Aileen Tan (TZL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_zilin_aileen@schools.gov.sg</a>
+<p><a href="mailto:tan_zilin_aileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_zilin_aileen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
