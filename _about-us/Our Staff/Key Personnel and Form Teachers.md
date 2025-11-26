@@ -472,12 +472,9 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Johnathan Beh (BGT)</p>
 <p>Ms Tay Yian Ling (TYL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:beh_guanting_johnathan@schools.gov.sg" rel="noopener" target="_blank">beh_guanting_johnathan@schools.gov.sg</a>
-</p>
 <p><a href="mailto:tay_yian_ling@schools.gov.sg" rel="noopener noreferrer" target="_blank">tay_yian_ling@schools.g</a>
 </p>
 </td>
@@ -513,7 +510,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -521,6 +518,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_fook_yew@schools.gov.sg" rel="noopener noreferrer" target="_blank">lee_fook_yew@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Elza Tan Sze Jiin (TSJ)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sze_jiin@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_sze_jiin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
