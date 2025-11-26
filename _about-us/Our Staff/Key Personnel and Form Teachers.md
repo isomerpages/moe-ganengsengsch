@@ -678,10 +678,10 @@ variant: tiptap
 <p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Jing Xuan Jamie (OJX)</p>
+<p>Mr Jeffrey Sui (SSW)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ong_Jing_Xuan_Jamie@schools.gov.sg" rel="noopener noreferrer" target="_blank">ong_jing_xuan_jamie@schools.gov.sg</a>
+<p><a href="mailto:sui_siang_wey@schools.gov.sg" rel="noopener noreferrer" target="_blank">sui_siang_wey@schools.gov.sg</a>
 </p>
 </td>
 </tr>
