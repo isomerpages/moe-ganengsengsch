@@ -666,10 +666,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Jing Ning (WJN)</p>
+<p>Ms Esther Wong Teck Yen (WTY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_jing_ning_b@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_jing_ning_b@schools.gov.sg</a>
+<p><a href="mailto:wong_teck_yen_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_teck_yen_esther@schools.gov.sg</a>
 </p>
 </td>
 </tr>
