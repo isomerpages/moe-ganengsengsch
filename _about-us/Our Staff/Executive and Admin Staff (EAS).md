@@ -81,6 +81,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Yap Soo Ting</p>
+<p><a href="mailto:yap_soo_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_soo_ting@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms&nbsp;Hanitah Binte Musa</p>
 </td>
 <td rowspan="1" colspan="1">
