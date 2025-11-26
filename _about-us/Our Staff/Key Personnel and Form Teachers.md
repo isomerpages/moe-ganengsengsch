@@ -858,10 +858,10 @@ variant: tiptap
 <p>3-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jansen Tan (JAN)</p>
+<p>Ms Ong Jing Xuan Jamie (OJX)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:weiliang_jansen_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">weiliang_jansen_tan@schools.gov.sg</a>
+<p><a href="mailto:Ong_Jing_Xuan_Jamie@schools.gov.sg" rel="noopener noreferrer" target="_blank">ong_jing_xuan_jamie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
