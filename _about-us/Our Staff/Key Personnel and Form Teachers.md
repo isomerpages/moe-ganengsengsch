@@ -745,10 +745,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Claire Wong (WKI)</p>
+<p>Mr Seah Cheng (SC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Claire_Wong_Kaii@schools.gov.sg" rel="noopener noreferrer" target="_blank">claire_wong_kail@schools.gov.sg</a>
+<p><a href="mailto:seah_cheng@schools.gov.sg" rel="noopener noreferrer" target="_blank">seah_cheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -994,10 +994,10 @@ variant: tiptap
 <p>4-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chee Fook Sing (CFS)</p>
+<p>Mr Wong Chin Yeow (WCY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chee_fook_sing@schools.gov.sg" rel="noopener noreferrer" target="_blank">chee_fook_sing@schools.gov.sg</a>
+<p><a href="mailto:wong_chin_yeow@schools.gov.sg" rel="noopener noreferrer" target="_blank">wong_chin_yeow@schools.gov.sg</a>
 </p>
 </td>
 </tr>
