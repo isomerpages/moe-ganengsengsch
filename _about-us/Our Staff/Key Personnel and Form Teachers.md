@@ -562,10 +562,11 @@ variant: tiptap
 <p>1-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Asnur (ASN)</p>
+<p>Ms Amanda Chong Chi (CC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:asnur_mursalin_aspar@schools.gov.sg" rel="noopener noreferrer" target="_blank">asnur_mursalin_aspar@schools.gov.sg</a>
+<p><a href="mailto:chong_chi@schools.gov.sg" rel="noopener noreferrer" target="_blank">chong_chi@schools.gov.</a>
+<a href="mailto:asnur_mursalin_aspar@schools.gov.sg" rel="noopener noreferrer" target="_blank">sg</a>
 </p>
 </td>
 </tr>
@@ -621,16 +622,11 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Mrs Chithra (CHI)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:thanigaivel_chithra@schools.gov.sg" rel="noopener noreferrer" target="_blank">thanigaivel_chithra@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>2-2</p>
