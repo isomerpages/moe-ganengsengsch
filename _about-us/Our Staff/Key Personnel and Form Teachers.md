@@ -50,10 +50,10 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Thye Heng</p>
+<p>Mrs Oh-Ong Lay Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_thye_heng@schools.gov.sg" rel="noopener" target="_blank">goh_thye_heng@schools.gov.sg</a>
+<p><a href="mailto:ong_lay_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_lay_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -62,10 +62,10 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Oh-Ong Lay Ling</p>
+<p>Mr Goh Thye Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_lay_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_lay_ling@schools.gov.sg</a>
+<p><a href="mailto:goh_thye_heng@schools.gov.sg" rel="noopener" target="_blank">goh_thye_heng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
