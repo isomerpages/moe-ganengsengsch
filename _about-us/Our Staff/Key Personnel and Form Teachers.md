@@ -348,18 +348,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Kam Chuen (LKC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_kam_chuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kam_chuen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
