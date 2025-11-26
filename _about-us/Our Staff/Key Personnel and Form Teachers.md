@@ -566,9 +566,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Senthil Kumaran (STK)</p>
+<p>Mr Tan Kay Chuan (TKC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:senthil_kumaran_kunasegaran@schools.gov.sg" rel="noopener nofollow" target="_blank">senthil kumaran kunasegaran@schools.gov.sg</a>
+</p>
+<p><a href="mailto:tan_kay_chuan_b@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_kay_chuan_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -924,23 +927,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Kay Chuan (TKC)</p>
+<td rowspan="2" colspan="1">
+<p>Mr Reno Sam Wei Jie (SWJ)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kay_chuan_b@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_kay_chuan_b@schools.gov.sg</a>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:nie25.rswj@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.rswj@e.ntu.edu.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Kai Ting Cathryn (WKT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Wong_Kai_Ting_Cathryn_A@schools.gov.sg" rel="noopener noreferrer" target="_blank">wong_kai_ting_cathryn_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
 </tbody>
 </table>
 <h3>Secondary 4 (2026)</h3>
