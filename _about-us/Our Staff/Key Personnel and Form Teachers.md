@@ -436,12 +436,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Kwek Xinyi (KXY)</p>
 <p>Ms Carolyn Koh (KLK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lynn_Kwek_Xinyi@schools.gov.sg" rel="noopener nofollow" target="_blank">lynn_kwek_xinyi@schools.gov.sg</a>
-</p>
 <p><a href="mailto:Carolyn_Koh_Leng_Kim@schools.gov.sg" rel="noopener nofollow" target="_blank">carolyn_koh_leng_kim@schools.gov.sg</a>
 </p>
 </td>
@@ -475,7 +472,7 @@ variant: tiptap
 <p>Ms Tay Yian Ling (TYL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_yian_ling@schools.gov.sg" rel="noopener noreferrer" target="_blank">tay_yian_ling@schools.g</a>
+<p><a href="mailto:tay_yian_ling@schools.gov.sg" rel="noopener noreferrer" target="_blank">tay_yian_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -523,10 +520,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elza Tan Sze Jiin (TSJ)</p>
+<p>Ms Lynn Kwek Xinyi (KXY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sze_jiin@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_sze_jiin@schools.gov.sg</a>
+<p><a href="mailto:Lynn_Kwek_Xinyi@schools.gov.sg" rel="noopener nofollow" target="_blank">lynn_kwek_xinyi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
