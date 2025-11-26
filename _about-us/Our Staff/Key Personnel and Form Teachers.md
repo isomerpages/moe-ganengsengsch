@@ -547,10 +547,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Kwok (KTY)</p>
+<p>Ms Felicia Lee Jia Jie (LJJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwok_tzih-yeung_kelvin@schools.gov.sg" rel="noopener" target="_blank">kwok_tzih-yeung_kelvin@schools.gov.sg</a>
+<p><a href="mailto:nie25.ljj@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.ljj@e.ntu.edu.sg</a>
 </p>
 </td>
 </tr>
