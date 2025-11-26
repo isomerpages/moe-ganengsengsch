@@ -811,9 +811,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Chin Yeow (WCY)</p>
+<p>Ms Shirley Tan (TLH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_chin_yeow@schools.gov.sg" rel="noopener noreferrer" target="_blank">wong_chin_yeow@schools.gov.sg</a>
+</p>
+<p><a href="mailto:tan_li_hoon_shirley@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_li_hoon_shirley@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -832,9 +835,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Keith Lim (LYT)</p>
+<p>Ms Chua Ariella Elise (CAE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yu_tian@schools.gov.sg" rel="noopener noreferrer" target="_blank">lim_yu_tian@schools.gov.sg</a>
+</p>
+<p><a href="mailto:chua_arielle_elise@schools.gov.sg" rel="noopener nofollow" target="_blank">chua_arielle_elise@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -865,9 +871,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Yi Tsun (CYT)</p>
+<p>Mr Ang Boon Bin Brandon (ABB)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_yi_tsun@schools.gov.sg" rel="noopener noreferrer" target="_blank">chan_yi_tsun@schools.gov.sg</a>
+</p>
+<p><a href="mailto:boon_bin_ang@schools.gov.sg" rel="noopener noreferrer" target="_blank">boon_bin_ang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1045,10 +1054,11 @@ variant: tiptap
 <p>4-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shirley Tan (TLH)</p>
+<p>Ms Chan Yi Tsun (CYT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_hoon_shirley@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_li_hoon_shirley@schools.gov.sg</a>
+<p><a href="mailto:chan_yi_tsun@schools.gov.sg" rel="noopener noreferrer" target="_blank">chan_yi_tsun@schools.gov.s</a>
+<a href="mailto:tan_li_hoon_shirley@schools.gov.sg" rel="noopener noreferrer" target="_blank">g</a>
 </p>
 </td>
 </tr>
@@ -1066,11 +1076,13 @@ variant: tiptap
 <p>4-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Boon Bin Brandon (ABB)</p>
+<p>Mrs Nalyn Chua (CMT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:boon_bin_ang@schools.gov.sg" rel="noopener noreferrer" target="_blank">boon_bin_ang@schools.gov.sg</a>
+<p><a href="mailto:chua_mui_tin@schools.gov.sg" rel="noopener noreferrer" target="_blank">chua_mui_tin@schools.gov.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
