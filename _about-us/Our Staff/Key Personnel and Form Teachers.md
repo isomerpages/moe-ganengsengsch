@@ -1012,10 +1012,10 @@ variant: tiptap
 <p>4-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Phua Hui Shi (Mrs Lin) (PHS)</p>
+<p>Mr Keith Lim (LYT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:phua_hui_shi@schools.gov.sg" rel="noopener noreferrer" target="_blank">phua_hui_shi@schools.gov.sg</a>
+<p><a href="mailto:lim_yu_tian@schools.gov.sg" rel="noopener noreferrer" target="_blank">lim_yu_tian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
