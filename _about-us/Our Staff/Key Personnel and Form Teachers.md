@@ -182,7 +182,7 @@ variant: tiptap
 <p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Kok Keong (TKK)</p>
+<p>Mr Tay Yong Chiang (TYC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_kok_keong@schools.gov.sg" rel="noopener noreferrer" target="_blank">teo_kok_keong@schools.gov.sg</a>
