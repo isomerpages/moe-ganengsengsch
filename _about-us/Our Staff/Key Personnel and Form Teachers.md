@@ -185,7 +185,8 @@ variant: tiptap
 <p>Mr Tay Yong Chiang (TYC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_kok_keong@schools.gov.sg" rel="noopener noreferrer" target="_blank">teo_kok_keong@schools.gov.sg</a>
+<p><a href="mailto:teo_kok_keong@schools.gov.sg" rel="noopener noreferrer" target="_blank">t</a>
+<a href="mailto:tay_yong_chiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ay_yong_chiang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
