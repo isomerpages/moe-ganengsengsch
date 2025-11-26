@@ -763,9 +763,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Marhaidah Abdul Hamid (MAR)</p>
+<p></p>
+<p>Mr Chan Hoong Leong (CHL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:marhaidah_abdul_hamid@schools.gov.sg" rel="noopener nofollow" target="_blank">marhaidah_abdul_hamid@schools.gov.sg</a>
+</p>
+<p></p>
+<p><a href="mailto:chan_hoong_leong@schools.gov.sg" rel="noopener" target="_blank">chan_hoong_leong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1069,16 +1074,24 @@ variant: tiptap
 <p>4-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Hoong Leong (CHL)</p>
+<p>Mr Marcus Quek Zhi Whui (QZW)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_hoong_leong@schools.gov.sg" rel="noopener" target="_blank">chan_hoong_leong@schools.gov.sg</a>
+<p><a href="mailto:quek_zhi_whui@schools.gov.sg" rel="noopener noreferrer" target="_blank">quek_zhi_whui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Vong Ser Kei (VSK)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vong_ser_kei@schools.gov.sg" rel="noopener nofollow" target="_blank">vong_ser_kei@schools.gov.sg</a>
@@ -1114,20 +1127,26 @@ variant: tiptap
 <p>5-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Hoong Leong (CHL)</p>
+<p>Mr Marcus Quek Zhi Whui (QZW)</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_hoong_leong@schools.gov.sg" rel="noopener" target="_blank">chan_hoong_leong@schools.gov.sg</a>
+<p><a href="mailto:quek_zhi_whui@schools.gov.sg" rel="noopener noreferrer" target="_blank">quek_zhi_whui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Vong Ser Kei (VSK)</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vong_ser_kei@schools.gov.sg" rel="noopener nofollow" target="_blank">vong_ser_kei@schools.gov.sg</a>
 </p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
