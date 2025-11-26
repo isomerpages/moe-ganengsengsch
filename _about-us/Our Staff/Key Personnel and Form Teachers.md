@@ -786,14 +786,9 @@ variant: tiptap
 <p>3-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marhaidah Abdul Hamid (MAR)</p>
-<p></p>
 <p>Mr Chan Hoong Leong (CHL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marhaidah_abdul_hamid@schools.gov.sg" rel="noopener nofollow" target="_blank">marhaidah_abdul_hamid@schools.gov.sg</a>
-</p>
-<p></p>
 <p><a href="mailto:chan_hoong_leong@schools.gov.sg" rel="noopener" target="_blank">chan_hoong_leong@schools.gov.sg</a>
 </p>
 </td>
