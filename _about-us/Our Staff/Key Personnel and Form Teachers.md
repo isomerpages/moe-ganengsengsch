@@ -1042,10 +1042,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Reshmi Menon (RSM)</p>
+<p>Ms Meena Annamalai (MA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:reshmi_menon@schools.gov.sg" rel="noopener noreferrer" target="_blank">reshmi_menon@schools.gov.sg</a>
+<p><a href="mailto:nie25.ma@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.ma@e.ntu.edu.sg</a>
 </p>
 </td>
 </tr>
