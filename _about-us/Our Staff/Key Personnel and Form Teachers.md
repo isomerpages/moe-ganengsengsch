@@ -821,12 +821,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Chin Yeow (WCY)</p>
 <p>Ms Shirley Tan (TLH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_chin_yeow@schools.gov.sg" rel="noopener noreferrer" target="_blank">wong_chin_yeow@schools.gov.sg</a>
-</p>
 <p><a href="mailto:tan_li_hoon_shirley@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_li_hoon_shirley@schools.gov.sg</a>
 </p>
 </td>
