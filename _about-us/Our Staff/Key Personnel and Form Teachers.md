@@ -840,12 +840,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Keith Lim (LYT)</p>
 <p>Ms Chua Ariella Elise (CAE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yu_tian@schools.gov.sg" rel="noopener noreferrer" target="_blank">lim_yu_tian@schools.gov.sg</a>
-</p>
 <p><a href="mailto:chua_arielle_elise@schools.gov.sg" rel="noopener nofollow" target="_blank">chua_arielle_elise@schools.gov.sg</a>
 </p>
 </td>
