@@ -526,10 +526,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Alysia Soon Ya (ASY)</p>
+<p>Ms Elza Tan Sze Jiin (TSJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alysia_soon_ya@schools.gov.sg" rel="noopener nofollow" target="_blank">alysia_soon_ya@schools.gov.sg</a>
+<p><a href="mailto:tan_sze_jiin@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_sze_jiin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -711,10 +711,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Sze Jiin (TSJ)</p>
+<p>Mr Hao Yi (HY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Sze_Jiin@schools.gov.sg" rel="noopener nofollow" target="_blank">Tan_Sze_Jiin@schools.gov.sg</a>
+<p><a href="mailto:nie25.hy8045@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.hy8045@e.ntu.edu.sg</a>
 </p>
 </td>
 </tr>
