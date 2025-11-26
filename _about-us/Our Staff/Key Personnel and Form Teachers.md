@@ -906,10 +906,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Ms Li Xiran (LXR)</p>
+<p>Mr Tan Hong Yu (THY)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:LI_XIRAN_A@schools.gov.sg" rel="noopener nofollow" target="_blank">li_xiran_a@schools.gov.sg</a>
+<p><a href="mailto:nie25.thy2196@e.ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nie25.thy2196@e.ntu.edu.sg</a>
 </p>
 </td>
 </tr>
