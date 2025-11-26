@@ -496,10 +496,10 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeffrey Sui (SSW)</p>
+<p>Mr Qaleelullah Mohamed Fahim (QAL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sui_siang_wey@schools.gov.sg" rel="noopener noreferrer" target="_blank">sui_siang_wey@schools.gov.sg</a>
+<p><a href="mailto:qaleelullah_mohamed_fahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">qaleelullah_mohamed_fahim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
