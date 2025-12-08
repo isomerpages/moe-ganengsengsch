@@ -574,8 +574,7 @@ variant: tiptap
 <p>Ms Amanda Chong Chi (CC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_chi@schools.gov.sg" rel="noopener noreferrer" target="_blank">chong_chi@schools.gov.</a>
-<a href="mailto:asnur_mursalin_aspar@schools.gov.sg" rel="noopener noreferrer" target="_blank">sg</a>
+<p><a href="mailto:chong_chi@schools.gov.sg" rel="noopener nofollow" target="_blank">chong_chi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
