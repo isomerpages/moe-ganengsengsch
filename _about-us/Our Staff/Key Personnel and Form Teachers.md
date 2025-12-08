@@ -459,8 +459,7 @@ variant: tiptap
 <p>Mr Lim Say Chionh (LSC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_say_chionh@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_say_chionh@schools.gov.s</a>
-<a href="mailto:wee_pey_woon@schools.gov.sg" rel="noopener noreferrer" target="_blank">g</a>
+<p><a href="mailto:lim_say_chionh@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_say_chionh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
