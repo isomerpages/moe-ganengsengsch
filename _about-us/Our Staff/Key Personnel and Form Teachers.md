@@ -371,6 +371,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zubaidah Binte Lah (ZUL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Zubaidah_Lah@schools.gov.sg" rel="noopener nofollow" target="_blank">Zubaidah_Lah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">

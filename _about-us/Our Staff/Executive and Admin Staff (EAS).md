@@ -37,10 +37,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Oh-Ong Lay Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Goh Thye Heng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zubaidah Binte Lah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
 </td>
 </tr>
 <tr>
