@@ -310,7 +310,7 @@ to apply and deepen these essential competencies.</p>
 <th rowspan="3" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic17.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/e21CC_Pic17.jpg">
 </div>
 </th>
 </tr>
