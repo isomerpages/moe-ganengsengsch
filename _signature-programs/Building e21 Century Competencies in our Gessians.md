@@ -264,7 +264,28 @@ tone and body language</p>
 and continual professional development. Through collaborative learning
 and reflective dialogue, teachers enhance the design of learning experiences
 that engage students and develop e21CC.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Lesson design and sharing at PLTs &amp; Open classrooms</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Our students' energy, creativity and compassion inspire us daily. As a
 community, we walk this journey alongside them—supporting their aspirations,
 nurturing their strengths and celebrating their growth. We believe that
