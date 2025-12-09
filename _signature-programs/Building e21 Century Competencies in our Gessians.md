@@ -142,12 +142,34 @@ Gessians into compassionate contributors to society.</p>
 <p></p>
 <p><strong>3. Global Connections: Expanding Horizons</strong>
 </p>
-<p>![](file:///C:/Users/S17445~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)![](file:///C:/Users/S17445~1/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)Our
-internationalisation programme broadens students’ perspectives and builds
-cross-cultural awareness. Through partnerships and exchanges with schools
-in Thailand, Brunei, Guangzhou and other global cities, students learn
-to appreciate diverse cultures, understand global issues, and build friendships
-across borders</p>
+<p>Our internationalisation programme broadens students’ perspectives and
+builds cross-cultural awareness. Through partnerships and exchanges with
+schools in Thailand, Brunei, Guangzhou and other global cities, students
+learn to appreciate diverse cultures, understand global issues, and build
+friendships across borders</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Understanding global issues, international perspectives and interconnectedness
 between nations</p>
 <p><strong>4. Beyond Programmes: Nurturing Competencies Every Day</strong>
