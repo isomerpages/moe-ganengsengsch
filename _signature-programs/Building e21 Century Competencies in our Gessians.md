@@ -229,6 +229,29 @@ citizenship</p>
 </p>
 <p>Through oracy workshops, class discussions, and alternative assessments,
 students learn to articulate their thoughts clearly, confidently, and purposefully.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p>Articulating ideas clearly and confidently to large audiences, using appropriate
 tone and body language</p>
 <p><strong>6.</strong>  <strong>E21CC and Staff Development</strong>
