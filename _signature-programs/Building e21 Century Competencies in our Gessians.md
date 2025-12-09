@@ -273,9 +273,15 @@ that engage students and develop e21CC.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic_15.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic16.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -294,3 +300,7 @@ woven into every interaction, lesson and experience. It requires thoughtful
 design, caring relationships and purposeful opportunities for students
 to apply and deepen these essential competencies.</p>
 <p>For Gessians of Excellence, Standing and Significance!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic_15.jpg">
+</div>
+<p></p>
