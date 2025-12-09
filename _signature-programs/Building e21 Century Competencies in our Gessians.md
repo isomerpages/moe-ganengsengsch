@@ -38,6 +38,31 @@ Whether students are learning Mathematics, exploring the Humanities, engaging
 in the Arts, participating in Co-Curricular Activities, or deepening their
 character through CCE, every experience is designed to nurture the competencies
 and mindsets essential for success in school and beyond.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Global literacy through Geography Lesson" src="/images/e21CC_Pic_2.jpg">
+</div>
+<p>Global literacy through Geography Lesson</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 88%;" height="auto" width="100%" alt="Inquiry-based Physics lesson" src="/images/e21CC_Pic_3.jpg">
+</div>
+<p>Inquiry-based Physics lesson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>Our signature programmes play a key role in bringing e21CC to life:</strong></h4>
 <p><strong>1. GESS Camps: Learning Through Outdoor</strong>
 </p>
