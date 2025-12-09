@@ -95,8 +95,8 @@ and sustained growth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Managing emotions in challenging or unfamiliar situations, showing empathy
-and support to struggling peers</p>
+<p><strong>Managing emotions in challenging or unfamiliar situations, showing empathy and support to struggling peers</strong>
+</p>
 </td>
 </tr>
 </tbody>
