@@ -38,18 +38,6 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarawathy D/O Varadaraju</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sarawathy_varadaraju@schools.gov.sg" rel="noopener" target="_blank">sarawathy_varadaraju@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Oh-Ong Lay Ling</p>
 </td>
 <td rowspan="1" colspan="1">
