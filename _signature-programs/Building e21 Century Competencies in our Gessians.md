@@ -56,7 +56,7 @@ and mindsets essential for success in school and beyond.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="Inquiry-based Physics lesson" src="/images/e21CC_Pic_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Inquiry-based Physics lesson" src="/images/e21CC_Pic_3.jpg">
 </div>
 <p>Inquiry-based Physics lesson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </th>
@@ -157,9 +157,15 @@ friendships across borders</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic_8.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic_9.jpg">
+</div>
 </th>
 </tr>
 <tr>
