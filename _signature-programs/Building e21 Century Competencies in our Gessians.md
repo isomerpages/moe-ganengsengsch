@@ -164,14 +164,13 @@ friendships across borders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p><strong>Understanding global issues, international perspectives and interconnectedness between nations</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>Understanding global issues, international perspectives and interconnectedness
-between nations</p>
 <p><strong>4. Beyond Programmes: Nurturing Competencies Every Day</strong>
 </p>
 <p>What makes our approach to e21CC distinctive is the way it is embedded
