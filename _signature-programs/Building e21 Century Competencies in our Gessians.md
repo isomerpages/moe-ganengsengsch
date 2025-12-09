@@ -299,8 +299,29 @@ developing&nbsp; e21CC is not a separate curriculum but a shared responsibility
 woven into every interaction, lesson and experience. It requires thoughtful
 design, caring relationships and purposeful opportunities for students
 to apply and deepen these essential competencies.</p>
-<p>For Gessians of Excellence, Standing and Significance!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="3" colspan="3">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic_15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic17.jpg">
 </div>
+</th>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>For Gessians of Excellence, Standing and Significance!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
