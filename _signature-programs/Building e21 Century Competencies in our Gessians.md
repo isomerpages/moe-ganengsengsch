@@ -184,6 +184,34 @@ into the everyday experiences of our students and teachers:</p>
 <p>Student Voice and Agency and platforms such as Hi5 and Take5 at assemblies
 empower students to lead, present ideas, and build confidence in expressing
 themselves.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Creating a culture where every student voice matters, fostering inclusive citizenship</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p><strong>5. Communication and Oracy Development</strong>
 </p>
 <p>Through oracy workshops, class discussions, and alternative assessments,
