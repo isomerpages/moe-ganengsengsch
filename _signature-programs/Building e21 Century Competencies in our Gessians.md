@@ -4,7 +4,6 @@ permalink: /building-e21-century-competencies-in-our-gessians/
 variant: markdown
 description: ""
 ---
-
 # **Nurturing e21st Century Competencies**
 # 
 # **at Gan Eng Seng School**
