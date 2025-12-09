@@ -238,22 +238,26 @@ students learn to articulate their thoughts clearly, confidently, and purposeful
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic_13.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic_14.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Articulating ideas clearly and confidently to large audiences, using appropriate
+tone and body language</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p>Articulating ideas clearly and confidently to large audiences, using appropriate
-tone and body language</p>
 <p><strong>6.</strong>  <strong>E21CC and Staff Development</strong>
 </p>
 <p>Teachers at GESS engage in open classrooms, professional learning teams,
