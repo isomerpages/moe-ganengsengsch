@@ -48,21 +48,26 @@ and mindsets essential for success in school and beyond.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Global literacy through Geography Lesson" src="/images/e21CC_Pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic_2.jpg">
 </div>
-<p>Global literacy through Geography Lesson</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Inquiry-based Physics lesson" src="/images/e21CC_Pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic_3.jpg">
 </div>
-<p>Inquiry-based Physics lesson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global literacy through Geograph Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inquiry-based Physics lesson</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Our signature programmes play a key role in bringing e21CC to life:</strong></h4>
 <p><strong>1. GESS Camps: Learning Through Outdoor</strong>
 </p>
@@ -131,8 +136,8 @@ Gessians into compassionate contributors to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Understanding responsibilities towards vulnerable members of society and demonstrating active citizenship through service</strong>
-</p>
+<p>Understanding responsibilities towards vulnerable members of society and
+demonstrating active citizenship through service</p>
 </td>
 </tr>
 </tbody>
@@ -169,8 +174,8 @@ friendships across borders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Understanding global issues, international perspectives and interconnectedness between nations</strong>
-</p>
+<p>Understanding global issues, international perspectives and interconnectedness
+between nations</p>
 </td>
 </tr>
 </tbody>
@@ -212,8 +217,8 @@ themselves.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Creating a culture where every student voice matters, fostering inclusive citizenship</strong>
-</p>
+<p>Creating a culture where every student voice matters, fostering inclusive
+citizenship</p>
 </td>
 </tr>
 </tbody>
