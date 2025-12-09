@@ -50,7 +50,8 @@ and mindsets essential for success in school and beyond.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Global literacy through Geography Lesson" src="/images/e21CC_Pic_2.jpg">
 </div>
-<p>Global literacy through Geography Lesson</p>
+<p><strong>Global literacy through Geography Lesson</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -72,8 +73,35 @@ leadership. Through outdoor learning and challenge-based activities, students
 learn to persevere, make responsible decisions, and collaborate. Every
 activity is carefully aligned with e21CC outcomes to ensure meaningful
 and sustained growth.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic_4.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e21CC_Pic_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Managing emotions in challenging or unfamiliar situations, showing empathy
 and support to struggling peers</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2. GESS CARES: Serving with Heart and Purpose</strong>
 </p>
 <p>Through our Values-in-Action (VIA) programme, students engage in thoughtful
