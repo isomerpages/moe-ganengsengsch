@@ -459,8 +459,7 @@ variant: tiptap
 <p>Mr Lim Say Chionh (LSC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_say_chionh@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_say_chionh@schools.gov.s</a>
-<a href="mailto:wee_pey_woon@schools.gov.sg" rel="noopener noreferrer" target="_blank">g</a>
+<p><a href="mailto:lim_say_chionh@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_say_chionh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -574,8 +573,7 @@ variant: tiptap
 <p>Ms Amanda Chong Chi (CC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_chi@schools.gov.sg" rel="noopener noreferrer" target="_blank">chong_chi@schools.gov.</a>
-<a href="mailto:asnur_mursalin_aspar@schools.gov.sg" rel="noopener noreferrer" target="_blank">sg</a>
+<p><a href="mailto:chong_chi@schools.gov.sg" rel="noopener nofollow" target="_blank">chong_chi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -723,7 +721,7 @@ variant: tiptap
 <p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Herianti Samsudin(HS)</p>
+<p>Ms Herianti Samsudin (HS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:herianti_samsudin@schools.gov.sg" rel="noopener noreferrer" target="_blank">herianti_samsudin@schools.gov.sg</a>
@@ -995,8 +993,7 @@ variant: tiptap
 <p>Ms Aileen Tan Zilin (TZL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_zilin_aileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_zilin_aileen@schools.gov.s</a>
-<a href="mailto:wong_chong_tuck@schools.gov.sg" rel="noopener noreferrer" target="_blank">g</a>
+<p><a href="mailto:tan_zilin_aileen@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_zilin_aileen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1050,8 +1047,7 @@ variant: tiptap
 <p>Ms Chan Yi Tsun (CYT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_yi_tsun@schools.gov.sg" rel="noopener noreferrer" target="_blank">chan_yi_tsun@schools.gov.s</a>
-<a href="mailto:tan_li_hoon_shirley@schools.gov.sg" rel="noopener noreferrer" target="_blank">g</a>
+<p><a href="mailto:chan_yi_tsun@schools.gov.sg" rel="noopener nofollow" target="_blank">chan_yi_tsun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
