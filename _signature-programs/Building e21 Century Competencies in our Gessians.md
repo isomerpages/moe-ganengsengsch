@@ -50,8 +50,7 @@ and mindsets essential for success in school and beyond.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Global literacy through Geography Lesson" src="/images/e21CC_Pic_2.jpg">
 </div>
-<p><strong>Global literacy through Geography Lesson</strong>
-</p>
+<p>Global literacy through Geography Lesson</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -95,8 +94,8 @@ and sustained growth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Managing emotions in challenging or unfamiliar situations, showing empathy and support to struggling peers</strong>
-</p>
+<p>Managing emotions in challenging or unfamiliar situations, showing empathy
+and support to struggling peers</p>
 </td>
 </tr>
 </tbody>
