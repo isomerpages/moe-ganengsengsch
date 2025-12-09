@@ -4,7 +4,7 @@ permalink: /building-e21-century-competencies-in-our-gessians/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Nurturing e21st Century Competencies at Gan Eng Seng School</strong></h3>
+<h4><strong>Nurturing e21st Century Competencies at Gan Eng Seng School</strong></h4>
 <p>At Gan Eng Seng School, we are committed to nurturing students who are
 not only academically prepared but also equipped with the values, skills
 and dispositions they need to thrive in a rapidly evolving world.</p>
@@ -38,7 +38,7 @@ Whether students are learning Mathematics, exploring the Humanities, engaging
 in the Arts, participating in Co-Curricular Activities, or deepening their
 character through CCE, every experience is designed to nurture the competencies
 and mindsets essential for success in school and beyond.</p>
-<h3><strong>Our signature programmes play a key role in bringing e21CC to life:</strong></h3>
+<h4><strong>Our signature programmes play a key role in bringing e21CC to life:</strong></h4>
 <p><strong>1. GESS Camps: Learning Through Outdoor</strong>
 </p>
 <p>Our annual GESS Camps provide authentic opportunities for students to
