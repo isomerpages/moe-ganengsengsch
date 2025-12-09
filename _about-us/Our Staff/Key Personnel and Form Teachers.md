@@ -1066,12 +1066,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Nalyn Chua (CMT)</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_mui_tin@schools.gov.sg" rel="noopener noreferrer" target="_blank">chua_mui_tin@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1089,7 +1087,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Marcus Quek Zhi Whui (QZW)</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quek_zhi_whui@schools.gov.sg" rel="noopener noreferrer" target="_blank">quek_zhi_whui@schools.gov.sg</a>
