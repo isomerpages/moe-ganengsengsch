@@ -132,16 +132,14 @@ Gessians into compassionate contributors to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Understanding responsibilities towards vulnerable members of society and
-demonstrating active citizenship through service</p>
+<p><strong>Understanding responsibilities towards vulnerable members of society and demonstrating active citizenship through service</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<p>Understanding responsibilities towards vulnerable members of society and
-demonstrating active citizenship through service</p>
 <p><strong>3. Global Connections: Expanding Horizons</strong>
 </p>
 <p>![](file:///C:/Users/S17445~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)![](file:///C:/Users/S17445~1/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)Our
