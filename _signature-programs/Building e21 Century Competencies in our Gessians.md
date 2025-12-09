@@ -110,6 +110,36 @@ approach, students identify real community needs, co-create solutions,
 and reflect on the impact of their actions. This process develops communication,
 collaboration, creativity, and social awareness—key competencies that shape
 Gessians into compassionate contributors to society.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/e21CC_Pic_6.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/e21CC_Pic_7.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Understanding responsibilities towards vulnerable members of society and
+demonstrating active citizenship through service</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p>Understanding responsibilities towards vulnerable members of society and
 demonstrating active citizenship through service</p>
 <p><strong>3. Global Connections: Expanding Horizons</strong>
