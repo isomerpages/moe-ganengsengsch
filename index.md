@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2025 GCE N(A)-& N(T)-Level
+          date: 12 December 2025
+          announcement: Release of 2025 GCE N(A)-& N(T)-Level Examination Results
+          link_text: READ MORE
+          link_url: /release-of-2025-gce-n-a-n-t-level-examination-results/
         - title: 140th Anniversary Publications
           date: 15 November 2025
           announcement: 2025 GESS Heartbeat
@@ -46,11 +51,6 @@ sections:
             2026
           link_text: READ MORE
           link_url: /school-information/school-bookshop-and-booklists/
-        - title: The Caring Teacher Awards (CTA)
-          date: 15 September 2025
-          announcement: Nomination for The Caring Teacher Awards (CTA)
-          link_text: READ MORE
-          link_url: /the-caring-teacher-awards-cta/
         - title: Term 4 letter to parents 2025
           date: 17 September 2025
           announcement: Term 4 letter 2025
