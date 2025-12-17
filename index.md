@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Purchase of School Uniform
+          date: 17 December 2025
+          announcement: 2026 Back to School Uniform Purchase (Bibi&Baba Pte Ltd)
+          link_text: READ MORE
+          link_url: /school-information/school-uniform-supplier/
         - title: 2025 GCE N(A)-& N(T)-Level
           date: 12 December 2025
           announcement: Release of 2025 GCE N(A)-& N(T)-Level Examination Results
@@ -51,9 +56,4 @@ sections:
             2026
           link_text: READ MORE
           link_url: /school-information/school-bookshop-and-booklists/
-        - title: Term 4 letter to parents 2025
-          date: 17 September 2025
-          announcement: Term 4 letter 2025
-          link_text: READ MORE
-          link_url: /term-4-letter-to-parents-2025/
 ---
