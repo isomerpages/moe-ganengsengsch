@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
 <p><strong>GESS SECONDARY 1 (2026) E-REGISTRATION</strong>
 </p>
 <p>On behalf of the staff and students of Gan Eng Seng School, we warmly
@@ -17,26 +16,22 @@ Excellence, Standing and Significance.</p>
 <p>This webpage contains all the key information required for the Secondary
 1 (2026) e-Registration. Kindly read the information carefully and follow
 the instructions outlined below.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p><strong><u>(1) Online Information Form</u></strong>
 </p>
 <p><em>(To be completed by 12pm on 22 December 2025)</em>
 </p>
 <p>The Secondary 1 registration portal will open at <strong>8.00 a.m. on Monday, 22 December 2025</strong>,
 and close at <strong>12.00 p.m.</strong> on the same day.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Parents/Guardians are required to complete the <strong>Online Information Form</strong> via
 the link <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gesssec1registration2026</a> to
 confirm your child’s/ward’s enrolment in Gan Eng Seng School.</p>
-<p>
-<br>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/QR1.jpg">
+</div>
+<p></p>
 <p>Even if you intend to transfer your child/ward to another school subsequently, <strong>registration with GESS must still be completed first</strong> before
 proceeding with the transfer process.</p>
 <p>The Online Information Form will also help the school to collect essential
@@ -58,7 +53,7 @@ and</p>
 </ul>
 <p>Parents/Guardians may also submit questions through this platform after
 the e-Registration webinar.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>(2) Secondary 1 (2026) e-Registration Webinar</u></strong>
 </p>
 <p>To share key information about the school and registration matters, a <strong>webinar via Microsoft Teams</strong> will
@@ -80,12 +75,13 @@ be conducted on:</p>
 </ul>
 <p>Kindly log in <strong>5–10 minutes before</strong> the start of the webinar.
 We look forward to meeting you online.</p>
+<p></p>
 <p><strong><u>(3) Class Allocation </u></strong>
 <br>Details of the Secondary 1 class allocation will be sent to parents/guardians
 via <strong>Parents Gateway (PG)</strong> by <strong>20 December 2025</strong>.</p>
 <p>For parents/guardians who are not onboard PG, your child’s/ward’s <strong>Form Teacher</strong> will
 contact you after the e-Registration webinar.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>(4) Purchase of Books and School Uniform</u></strong>
 </p>
 <p>Please refer to the links below for purchase information:</p>
@@ -101,15 +97,14 @@ contact you after the e-Registration webinar.</p>
 </p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Students on Financial Assistance Scheme (FAS)</strong>
 <br>Parents/Guardians are required to collect the <strong>FAS Authorisation Letter</strong> from
 the GESS General Office <strong>before</strong> collecting books and uniforms.</p>
 <p>
 <br>Please call <strong>6474 5594</strong> to check on the readiness of the
 letter prior to your visit.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>(5) Offer of More Demanding Level subjects for PG 1 and 2 students</u></strong>
 </p>
 <p>For students in <strong>Posting Group 1 or 2</strong> who are offered subject(s)
@@ -121,7 +116,7 @@ to the subject level are purchased.</p>
 <p>For parents/guardians not onboard PG, a <u>hardcopy offer letter</u> will
 be issued on the first day of school. Completed forms are to be submitted
 to the <strong>Form Teacher by 5 January 2026</strong>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>(6) Mother Tongue Languages</u></strong>
 </p>
 <p>A briefing on Mother Tongue Languages will be conducted during the e-Registration
@@ -130,8 +125,7 @@ The presentation slides will be uploaded to the school website after the
 session.</p>
 <p>For further queries, please contact <strong>Ms Laura Lim</strong>, Head
 of Department (Mother Tongue Languages) at <a rel="noopener noreferrer nofollow" target="_blank">lim_hwee_mean@schools.gov.sg</a>.</p>
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 <p><strong><u>(7) First Day of School Programme</u></strong>
 </p>
 <p>All Secondary 1 students are to report to the <strong>Arena (school parade square)</strong> by <strong>7.50 a.m. on Friday, 2 January 2026</strong>.
@@ -164,7 +158,7 @@ morning assembly.</p>
 </li>
 </ul>
 <p>Programme details will be sent via <strong>Parents Gateway</strong> by <strong>29 December 2025</strong>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>(8) Secondary 1 GESS Camp</u></strong>
 </p>
 <p>All Secondary 1 students will participate in the <strong>non-residential Secondary 1 GESS Camp</strong>,
