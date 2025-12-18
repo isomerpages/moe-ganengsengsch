@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Secondary 1 (2026) e-Registration
+          date: 18 December 2025
+          announcement: GESS Secondary 1 (2026) e-Registration
+          link_text: READ MORE
+          link_url: /gess-secondary-1-2026-e-registration/
         - title: School Bookshop and Booklists
           date: 18 December 2025
           announcement: Window Periods For Online Ordering Of Textbooks For Academic Year
@@ -46,11 +51,6 @@ sections:
           announcement: Release of 2025 GCE N(A)-& N(T)-Level Examination Results
           link_text: READ MORE
           link_url: /release-of-2025-gce-n-a-n-t-level-examination-results/
-        - title: 140th Anniversary Publications
-          date: 15 November 2025
-          announcement: 2025 GESS Heartbeat
-          link_text: READ MORE
-          link_url: /140th-anniversary-publications/
         - title: Canteen Advertisement
           date: 29 October 2025
           announcement: School Canteen Advertisement and Application Procedure
