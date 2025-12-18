@@ -30,6 +30,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: School Bookshop and Booklists
+          date: 18 December 2025
+          announcement: Window Periods For Online Ordering Of Textbooks For Academic Year
+            2026
+          link_text: READ MORE
+          link_url: /school-information/school-bookshop-and-booklists/
         - title: Purchase of School Uniform
           date: 17 December 2025
           announcement: 2026 Back to School Uniform Purchase (Bibi&Baba Pte Ltd)
@@ -50,10 +56,4 @@ sections:
           announcement: School Canteen Advertisement and Application Procedure
           link_text: READ MORE
           link_url: /useful-links/permalink/canteenadvertisement/
-        - title: School Bookshop and Booklists
-          date: 28 October 2025
-          announcement: Window Periods For Online Ordering Of Textbooks For Academic Year
-            2026
-          link_text: READ MORE
-          link_url: /school-information/school-bookshop-and-booklists/
 ---
