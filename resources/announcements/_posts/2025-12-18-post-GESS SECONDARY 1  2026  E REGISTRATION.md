@@ -41,14 +41,11 @@ administrative information, including:</p>
 <p>medical conditions (if any);</p>
 </li>
 <li>
-<p>Parents Gateway (PG) onboarding status;</p>
+<p>Parents Gateway (PG) onboarding status; and</p>
 </li>
 <li>
-<p>attendance at the <strong>Meet-the-Parents Session</strong> on <strong>Friday, 9 January 2026, at 5.00 p.m.</strong>;
-and</p>
-</li>
-<li>
-<p>feedback on the registration process.</p>
+<p>attendance at the <strong>Meet-the-Parents Session</strong> on <strong>Friday, 9 January 2026, at 5.00 p.m.</strong>
+</p>
 </li>
 </ul>
 <p>Parents/Guardians may also submit questions through this platform after
@@ -124,7 +121,8 @@ webinar by the <strong>Head of Department (Mother Tongue Languages)</strong>.
 The presentation slides will be uploaded to the school website after the
 session.</p>
 <p>For further queries, please contact <strong>Ms Laura Lim</strong>, Head
-of Department (Mother Tongue Languages) at <a href="mailto:lim_hwee_mean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_mean@schools.gov.sg</a>.</p>
+of Department (Mother Tongue Languages) at <a href="mailto:lim_hwee_mean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_mean@schools.gov.sg</a>
+</p>
 <p></p>
 <p><strong><u>(7) First Day of School Programme</u></strong>
 </p>
@@ -175,14 +173,16 @@ secondary school life.</p>
 </li>
 </ul>
 <p>Meals will be provided. Parents/Guardians are reminded to update medical
-and dietary information in the Online Information Form via <a href="https://drive.google.com/file/d/1WYEgflHIZ6YZAjtXpnB-m6aKgA29bhmD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 1 GESS Camp Programme</a><u>.</u>
+and dietary information in the Online Information Form.</p>
+<p>Kindly access the link below for more information on the camp.</p>
+<p> <a href="https://drive.google.com/file/d/1WYEgflHIZ6YZAjtXpnB-m6aKgA29bhmD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 1 GESS Camp Programme</a>
 </p>
 <p></p>
 <p><strong><u>(9) CCA Orientation</u></strong>
 </p>
 <p><strong>Date:</strong> Friday, 9 January 2026
 <br><strong>Time:</strong> 1.30 p.m. – 4.30 p.m.</p>
-<p>Students will attend the <strong>Meet-the-Parents Session</strong> at <strong>5.00 p.m.</strong> and
+<p>After the CCA Orientation, students will attend the <strong>Meet-the-Parents Session</strong> at <strong>5.00 p.m.</strong> and
 be dismissed at approximately <strong>6.15 p.m.</strong>
 </p>
 <p>You may refer to the <a href="https://drive.google.com/file/d/1J9ZC0e9im_b5twf0lcWikgX6QGtbYTeC/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 CCA Orientation Schedule</a>.</p>
@@ -197,12 +197,10 @@ and parent education programmes.</p>
 the younger child’s enrolment. <em>For example</em>, if an older sibling
 is in Secondary 4 in 2026, a payment of <strong>$18.00</strong> will be required
 for the younger child, covering <strong>2027 to 2029</strong>.</p>
-<p>&nbsp;</p>
-<p>The school encourages active parental involvement in school. Parents are
-encouraged to support school-PTA programmes by registering via <a href="https://go.gov.sg/gessptaregistration2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gessptaregistration2026</a>.
+<p>&nbsp;The school encourages active parental involvement in school. Parents
+are encouraged to support school-PTA programmes by registering via <a href="https://go.gov.sg/gessptaregistration2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gessptaregistration2026</a>.
 Alternatively, you may scan the QR code below to access the registration
 form.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/QR2.png">
@@ -247,7 +245,8 @@ an external centre may refer to the following link for more information:</p>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec/how-to-join" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec/how-to-join</a>
 </p>
 <p>For further queries pertaining to AEP and MEP, please contact our HOD
-Aesthetics, Mrs Clara Chua at <a href="mailto:teo_phin-phin_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_phin-phin_clara@schools.gov.sg</a>.</p>
+Aesthetics, Mrs Clara Chua at <a href="mailto:teo_phin-phin_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_phin-phin_clara@schools.gov.sg</a>
+</p>
 <p></p>
 <p><strong><u>(13) Road Safety</u></strong>
 </p>
@@ -325,7 +324,6 @@ will bring significant benefits for you.</p>
 </ol>
 </li>
 </ul>
-<p></p>
 <p>If you have any questions, please email :&nbsp;<a href="mailto:moe_parents_gateway@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_parents_gateway@moe.gov.sg</a>
 </p>
 <p>or Mr Soh Woon Peng (ICT Manager) at <a href="mailto:gess_it_helpdesk@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gess_it_helpdesk@moe.edu.sg</a>
@@ -359,7 +357,8 @@ so that you know what to expect when your child/ward joins us.</p>
 <p><a href="https://drive.google.com/file/d/151NEu4yhDQW3kMQT5rIX5rY2gD7S9V2X/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
 </p>
 <p>If you have further queries, you may contact Mr Clarence Loh (Year Head)
-via email at <a href="mailto:loh_choon_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_choon_yang@schools.gov.sg</a>.</p>
+via email at <a href="mailto:loh_choon_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_choon_yang@schools.gov.sg</a>
+</p>
 <p>With the strong support of parents/ guardians, staff and students of GESS,
 we hope to see your child/ward transit well to his/her secondary school
 life!</p>
