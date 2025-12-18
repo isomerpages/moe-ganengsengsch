@@ -177,8 +177,7 @@ secondary school life.</p>
 <p>Meals will be provided. Parents/Guardians are reminded to update medical
 and dietary information in the Online Information Form via <a href="https://drive.google.com/file/d/1WYEgflHIZ6YZAjtXpnB-m6aKgA29bhmD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 1 GESS Camp Programme</a><u>.</u>
 </p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p><strong><u>(9) CCA Orientation</u></strong>
 </p>
 <p><strong>Date:</strong> Friday, 9 January 2026
@@ -187,14 +186,13 @@ and dietary information in the Online Information Form via <a href="https://driv
 be dismissed at approximately <strong>6.15 p.m.</strong>
 </p>
 <p>You may refer to the <a href="https://drive.google.com/file/d/1J9ZC0e9im_b5twf0lcWikgX6QGtbYTeC/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 CCA Orientation Schedule</a>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>(10) GESS Parent-Teacher Association (PTA)</u></strong>
 </p>
 <p>All parents/guardians are automatic members of the GESS PTA. A <strong>one-time payment of $24.00</strong> ($6.00
 per year) will be collected on <strong>7–8 January 2026</strong>. The amount
 collected will be used to support activities like the supervised self-study
 and parent education programmes.</p>
-<p>&nbsp;</p>
 <p>Families with older children in GESS are required to pay only for the <strong>remaining years</strong> of
 the younger child’s enrolment. <em>For example</em>, if an older sibling
 is in Secondary 4 in 2026, a payment of <strong>$18.00</strong> will be required
@@ -205,7 +203,11 @@ encouraged to support school-PTA programmes by registering via <a rel="noopener 
 Alternatively, you may scan the QR code below to access the registration
 form.</p>
 <p></p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/QR2.png">
+</div>
+<p></p>
 <p><strong><u>(11) Financial Assistance Scheme (FAS)</u></strong>
 </p>
 <p>For parents who have <strong>successfully applied for Financial Assistance Scheme (FAS) in the child’s primary school or if their child has siblings under FAS in another school</strong>,
@@ -232,7 +234,7 @@ and complete the online FAS Application Form shared below.</p>
 <p>FAS application will take about 1-2 weeks to process. Do submit all the
 necessary documents as stated in the application form to avoid delay. Parents
 will be notified of the outcome via phone call from the school.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>(12) Art Elective Programme (AEP) and Music Elective Programme (MEP)</u></strong>
 </p>
 <p>Students who are interested in the Art or Music Elective Programme at
@@ -240,13 +242,13 @@ an external centre may refer to the following link for more information:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AEP</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec/how-to-join</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MEP</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec/how-to-join</a>
 </p>
 <p>For further queries pertaining to AEP and MEP, please contact our HOD
 Aesthetics, Mrs Clara Chua at <a rel="noopener noreferrer nofollow" target="_blank">teo_phin-phin_clara@schools.gov.sg</a>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>(13) Road Safety</u></strong>
 </p>
 <p>The safety of your child/ward is of utmost importance to us, and it is
@@ -254,8 +256,7 @@ essential that our students and parents/ guardians observe the rules with
 regards to road safety.</p>
 <p>Please note that all vehicles that are arriving after 6.45 a.m. are required
 to turn left upon exiting the school’s main gate.</p>
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 <p><strong><u>(14) School Smart Card (SSC)</u></strong>
 </p>
 <p>All students entering Secondary 1 will be issued a new Secondary Level
@@ -263,7 +264,7 @@ SSC. While waiting for their new SSC to be ready, Secondary 1 students
 can continue to use their Primary Level SSC for concessionary travel till <strong>end of April 2026</strong>.
 Secondary 1 students can purchase the Bus Concession Pass (BCP) using their
 Primary Level SSC but they will need to purchase the BCP for <strong>secondary school students</strong>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>(15) Photo-taking for Secondary 1 Students</u></strong>
 </p>
 <p>Photo-taking sessions for all Secondary 1 students will be conducted on <strong>22 January</strong> and <strong>6 February 2026</strong>.
@@ -273,8 +274,7 @@ Teachers.</p>
 the <strong>school system</strong>.
 <br>Eight (8) passport-sized photographs will be provided at a cost of <strong>$5.00</strong>,
 payable <strong>directly to the photographer</strong> on the day of photo-taking.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>(16) Hardcopy Forms to be issued on the First Day of School</u></strong>
 </p>
 <p><em>(*only for parents/ guardians not onboard Parents Gateway and for selected students)</em>
@@ -286,8 +286,7 @@ Demanding Level*</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Offer Letter for Higher Mother Tongue/
 Third Language*</p>
 <p>Please complete and return the forms to the Form Teachers by <strong>5 January 2026</strong>.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p><strong><u>(17) Parents Gateway (PG)</u></strong>
 </p>
 <p>Parents Gateway (PG) Mobile App is an initiative by MOE to enable parents
@@ -326,7 +325,7 @@ will bring significant benefits for you.</p>
 </ol>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>If you have any questions, please email :&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">moe_parents_gateway@moe.gov.sg</a>
 </p>
 <p>or Mr Soh Woon Peng (ICT Manager) at <a rel="noopener noreferrer nofollow" target="_blank">gess_it_helpdesk@moe.edu.sg</a>
@@ -337,8 +336,7 @@ on boarding process.</p>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank">PG FAQs for Parents</a>
 </p>
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 <p><strong><u>(18) e-GIRO</u></strong>
 </p>
 <p>We would like to encourage parents/ guardians to register for e-GIRO if
@@ -348,14 +346,13 @@ and to access the registration website:</p>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro/</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>(19) GESS Student Handbook</u></strong>
 </p>
 <p>The GESS Student Handbook contains many useful information that a new
 Gessian needs to know. Please spend some time to read the Student Handbook
 so that you know what to expect when your child/ward joins us.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p><strong><u>(20) Frequently Asked Questions (FAQs)</u></strong>
 </p>
 <p>Please access the link below for FAQs pertaining to the Secondary 1 e-Registration.</p>
@@ -366,6 +363,7 @@ via email at <a rel="noopener noreferrer nofollow" target="_blank">loh_choon_yan
 <p>With the strong support of parents/ guardians, staff and students of GESS,
 we hope to see your child/ward transit well to his/her secondary school
 life!</p>
+<p></p>
 <p>ONWARD!</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
