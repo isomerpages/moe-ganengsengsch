@@ -46,7 +46,8 @@ and related materials before the commencement of the new academic year.</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be confirmed after Sec 1 Posting Exercise 2026</p>
+<p>20 Dec 2025 onwards (<strong>except</strong> for the following dates: 24
+Dec, 25 Dec, 27 Dec, 28 Dec and 31 Dec)</p>
 </td>
 </tr>
 </tbody>
@@ -74,6 +75,10 @@ non-exchangeable/refundable once unsealed or unwrapped.</p>
 <hr>
 <p>Booklist</p>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Gan_Eng_Seng_School_Booklist_2026__S1__Updated.pdf" rel="noopener nofollow" target="_blank">Gan_Eng_Seng_School_Booklist_2026__Sec_1</a>
+</p>
+</li>
 <li>
 <p><a href="/files/Gan_Eng_Seng_School_Booklist_2026__S2_.pdf" rel="noopener nofollow" target="_blank">Gan_Eng_Seng_School_Booklist_2026__Sec_2</a>
 </p>
