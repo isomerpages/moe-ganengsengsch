@@ -124,7 +124,7 @@ webinar by the <strong>Head of Department (Mother Tongue Languages)</strong>.
 The presentation slides will be uploaded to the school website after the
 session.</p>
 <p>For further queries, please contact <strong>Ms Laura Lim</strong>, Head
-of Department (Mother Tongue Languages) at <a rel="noopener noreferrer nofollow" target="_blank">lim_hwee_mean@schools.gov.sg</a>.</p>
+of Department (Mother Tongue Languages) at <a href="mailto:lim_hwee_mean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_mean@schools.gov.sg</a>.</p>
 <p></p>
 <p><strong><u>(7) First Day of School Programme</u></strong>
 </p>
@@ -326,9 +326,9 @@ will bring significant benefits for you.</p>
 </li>
 </ul>
 <p></p>
-<p>If you have any questions, please email :&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">moe_parents_gateway@moe.gov.sg</a>
+<p>If you have any questions, please email :&nbsp;<a href="mailto:moe_parents_gateway@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_parents_gateway@moe.gov.sg</a>
 </p>
-<p>or Mr Soh Woon Peng (ICT Manager) at <a rel="noopener noreferrer nofollow" target="_blank">gess_it_helpdesk@moe.edu.sg</a>
+<p>or Mr Soh Woon Peng (ICT Manager) at <a href="mailto:gess_it_helpdesk@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gess_it_helpdesk@moe.edu.sg</a>
 </p>
 <p>Please access the links below for more information on PG as well as the
 on boarding process.</p>
