@@ -25,7 +25,7 @@ the instructions outlined below.</p>
 and close at <strong>12.00 p.m.</strong> on the same day.</p>
 <p></p>
 <p>Parents/Guardians are required to complete the <strong>Online Information Form</strong> via
-the link <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gesssec1registration2026</a> to
+the link <a href="https://go.gov.sg/gesssec1registration2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gesssec1registration2026</a> to
 confirm your child’s/ward’s enrolment in Gan Eng Seng School.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -61,7 +61,7 @@ be conducted on:</p>
 <p><strong>Title:</strong> GESS Secondary 1 (2026) e-Registration Webinar
 <br><strong>Date:</strong> Monday, 22 December 2025
 <br><strong>Time:</strong> 8.30 a.m. – 10.00 a.m.</p>
-<p><strong>Join via link via </strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gesssec12026</a>
+<p><strong>Join via link via </strong><a href="https://go.gov.sg/gesssec12026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gesssec12026</a>
 </p>
 <p><strong>Alternatively, enter:</strong>
 </p>
@@ -88,12 +88,12 @@ contact you after the e-Registration webinar.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>School Books:</strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-bookshop-and-booklists/</a>
+<br><a href="https://www.ganengsengsch.moe.edu.sg/school-information/school-bookshop-and-booklists/" rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-bookshop-and-booklists/</a>
 </p>
 </li>
 <li>
 <p><strong>School Uniform:</strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-uniform-supplier/</a>
+<br><a href="https://www.ganengsengsch.moe.edu.sg/school-information/school-uniform-supplier/" rel="noopener noreferrer nofollow" target="_blank">https://www.ganengsengsch.moe.edu.sg/school-information/school-uniform-supplier/</a>
 </p>
 </li>
 </ul>
@@ -199,7 +199,7 @@ is in Secondary 4 in 2026, a payment of <strong>$18.00</strong> will be required
 for the younger child, covering <strong>2027 to 2029</strong>.</p>
 <p>&nbsp;</p>
 <p>The school encourages active parental involvement in school. Parents are
-encouraged to support school-PTA programmes by registering via <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gessptaregistration2026</a>.
+encouraged to support school-PTA programmes by registering via <a href="https://go.gov.sg/gessptaregistration2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gessptaregistration2026</a>.
 Alternatively, you may scan the QR code below to access the registration
 form.</p>
 <p></p>
@@ -228,7 +228,7 @@ and complete the online FAS Application Form shared below.</p>
 </p>
 <p>d)&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1l1mSwN6l2VankOZIP0RE2fhRMq-m3Wx8/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">FAS Brochure (Tamil)</a>
 </p>
-<p>Link for FAS application: <a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/moe-efasggas</a>
+<p>Link for FAS application: <a href="http://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/moe-efasggas</a>
 </p>
 <p>Parents may approach the school’s General Office for assistance from <strong>Monday to Friday, 8.30 am to 5 pm</strong>.</p>
 <p>FAS application will take about 1-2 weeks to process. Do submit all the
@@ -240,14 +240,14 @@ will be notified of the outcome via phone call from the school.</p>
 <p>Students who are interested in the Art or Music Elective Programme at
 an external centre may refer to the following link for more information:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AEP</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec/how-to-join</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec/how-to-join" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec/how-to-join</a>
 </p>
 <p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MEP</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec/how-to-join</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec/how-to-join" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec/how-to-join</a>
 </p>
 <p>For further queries pertaining to AEP and MEP, please contact our HOD
-Aesthetics, Mrs Clara Chua at <a rel="noopener noreferrer nofollow" target="_blank">teo_phin-phin_clara@schools.gov.sg</a>.</p>
+Aesthetics, Mrs Clara Chua at <a href="mailto:teo_phin-phin_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_phin-phin_clara@schools.gov.sg</a>.</p>
 <p></p>
 <p><strong><u>(13) Road Safety</u></strong>
 </p>
@@ -344,7 +344,7 @@ you have not done so. Please click on the link below for more information
 and to access the registration website:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1xf5_4Kv6usUIjnRCHPaUOrgnNMli6ooy/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">User Guide on e-GIRO application</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro/</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/financial-matters/fees/egiro/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro/</a>
 </p>
 <p></p>
 <p><strong><u>(19) GESS Student Handbook</u></strong>
@@ -359,7 +359,7 @@ so that you know what to expect when your child/ward joins us.</p>
 <p><a href="https://drive.google.com/file/d/151NEu4yhDQW3kMQT5rIX5rY2gD7S9V2X/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
 </p>
 <p>If you have further queries, you may contact Mr Clarence Loh (Year Head)
-via email at <a rel="noopener noreferrer nofollow" target="_blank">loh_choon_yang@schools.gov.sg</a>.</p>
+via email at <a href="mailto:loh_choon_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_choon_yang@schools.gov.sg</a>.</p>
 <p>With the strong support of parents/ guardians, staff and students of GESS,
 we hope to see your child/ward transit well to his/her secondary school
 life!</p>
