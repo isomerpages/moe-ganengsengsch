@@ -35,22 +35,22 @@ sections:
           announcement: GESS Secondary 1 (2026) e-Registration
           link_text: READ MORE
           link_url: /gess-secondary-1-2026-e-registration/
+        - title: Purchase of School Uniform
+          date: 19 December 2025
+          announcement: 2026 Back to School Uniform Purchase (Bibi&Baba Pte Ltd)
+          link_text: READ MORE
+          link_url: /school-information/school-uniform-supplier/
+        - title: School Bookshop and Booklists
+          date: 19 December 2025
+          announcement: Window Periods For Online Ordering Of Textbooks For Academic Year
+            2026
+          link_text: READ MORE
+          link_url: /school-information/school-bookshop-and-booklists/
         - title: 2026 Joint Intake Exercises
           date: 19 December 2025
           announcement: Briefing slides and information on 2026 Joint Intake Exercises
           link_text: READ MORE
           link_url: /briefing-slides-and-information-on-2026-joint-intake-exercises/
-        - title: School Bookshop and Booklists
-          date: 18 December 2025
-          announcement: Window Periods For Online Ordering Of Textbooks For Academic Year
-            2026
-          link_text: READ MORE
-          link_url: /school-information/school-bookshop-and-booklists/
-        - title: Purchase of School Uniform
-          date: 17 December 2025
-          announcement: 2026 Back to School Uniform Purchase (Bibi&Baba Pte Ltd)
-          link_text: READ MORE
-          link_url: /school-information/school-uniform-supplier/
         - title: Canteen Advertisement
           date: 29 October 2025
           announcement: School Canteen Advertisement and Application Procedure
