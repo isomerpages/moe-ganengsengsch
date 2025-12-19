@@ -21,8 +21,8 @@ the instructions outlined below.</p>
 </p>
 <p><em>(To be completed by 12pm on 22 December 2025)</em>
 </p>
-<p>The Secondary 1 registration portal will open at <strong>8.00 a.m. on Monday, 22 December 2025</strong>,
-and close at <strong>12.00 p.m.</strong> on the same day.</p>
+<p>The Secondary 1 registration portal is open now and will close at 12.00
+p.m on 22 December (Monday)</p>
 <p></p>
 <p>Parents/Guardians are required to complete the <strong>Online Information Form</strong> via
 the link <a href="https://go.gov.sg/gesssec1registration2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gesssec1registration2026</a> to
