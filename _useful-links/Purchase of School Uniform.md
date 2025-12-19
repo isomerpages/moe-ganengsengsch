@@ -156,7 +156,8 @@ Walk-in Sales</p>
 <td rowspan="1" colspan="6">
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Online Sales - Delivery &amp; Collection
 Schedule for Year-end December 2025 / January 2026.</p>
-<p>&nbsp;</p>
+<p>&nbsp;<a href="https://www.schooluniforms.sg/" rel="noopener nofollow" target="_blank">Bibi and Baba Online Orders</a>
+</p>
 </td>
 </tr>
 <tr>
