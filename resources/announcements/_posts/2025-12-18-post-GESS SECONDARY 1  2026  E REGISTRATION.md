@@ -175,7 +175,7 @@ secondary school life.</p>
 <p>Meals will be provided. Parents/Guardians are reminded to update medical
 and dietary information in the Online Information Form.</p>
 <p>Kindly access the link below for more information on the camp.</p>
-<p> <a href="https://drive.google.com/file/d/1WYEgflHIZ6YZAjtXpnB-m6aKgA29bhmD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 1 GESS Camp Programme</a>
+<p><a href="https://drive.google.com/file/d/1WYEgflHIZ6YZAjtXpnB-m6aKgA29bhmD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 1 GESS Camp Programme</a>
 </p>
 <p></p>
 <p><strong><u>(9) CCA Orientation</u></strong>
@@ -351,7 +351,14 @@ and to access the registration website:</p>
 Gessian needs to know. Please spend some time to read the Student Handbook
 so that you know what to expect when your child/ward joins us.</p>
 <p></p>
-<p><strong><u>(20) Frequently Asked Questions (FAQs)</u></strong>
+<p><strong><u>(20) Application For Transfer to Gan Eng Seng School</u></strong>
+</p>
+<p>Please access the link below for transfer application for PSLE Student
+after Sec&nbsp;1&nbsp;Posting Results.</p>
+<p><a href="https://www.ganengsengsch.moe.edu.sg/school-information/school-admission-2/" rel="noopener nofollow" target="_blank">Application For Transfer to Gan Eng Seng School</a>
+</p>
+<p></p>
+<p><strong><u>(21) Frequently Asked Questions (FAQs)</u></strong>
 </p>
 <p>Please access the link below for FAQs pertaining to the Secondary 1 e-Registration.</p>
 <p><a href="https://drive.google.com/file/d/151NEu4yhDQW3kMQT5rIX5rY2gD7S9V2X/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
