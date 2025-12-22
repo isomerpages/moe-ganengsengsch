@@ -114,11 +114,11 @@ School Creed before the assembly ends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Every student must be punctual to school. Students must be present in
-their classes at</p>
-<p>8:00 a.m. from Monday to Friday, except at 8:20 a.m on odd week Wednesdays,
-or they will be deemed as late. In addition, absence from school must be
-accompanied by a medical certificate. Any student who is late or absent
-from school without a valid reason will be subjected to disciplinary actions.</p>
+their classes at 8:00 a.m. from Monday to Friday, except at 8:20 a.m on
+odd week Wednesdays, or they will be deemed as late. In addition, absence
+from school must be accompanied by a medical certificate. Any student who
+is late or absent from school without a valid reason will be subjected
+to disciplinary actions.</p>
 </td>
 </tr>
 <tr>
@@ -238,18 +238,15 @@ parents accordingly.</p>
 They must not remove furniture from any rooms without the 0perations Manager's
 permission. All the furniture that is borrowed must be returned to its
 original place.</p>
-<p></p>
-<p>Students are not allowed to enter the school and use the facilities for
-play during the school holidays. This is to ensure student safety.</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>&nbsp;</p>
+<p>&nbsp;4.8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Students are not allowed to enter the school and use the facilities
+for play during the school holidays. This is to ensure student safety.</p>
 </td>
 </tr>
 <tr>
