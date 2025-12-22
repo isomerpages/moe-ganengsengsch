@@ -238,18 +238,15 @@ parents accordingly.</p>
 They must not remove furniture from any rooms without the 0perations Manager's
 permission. All the furniture that is borrowed must be returned to its
 original place.</p>
-<p></p>
-<p>Students are not allowed to enter the school and use the facilities for
-play during the school holidays. This is to ensure student safety.</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>&nbsp;</p>
+<p>&nbsp;4.8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Students are not allowed to enter the school and use the facilities
+for play during the school holidays. This is to ensure student safety.</p>
 </td>
 </tr>
 <tr>
