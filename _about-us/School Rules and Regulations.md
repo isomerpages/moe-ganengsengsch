@@ -114,11 +114,11 @@ School Creed before the assembly ends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Every student must be punctual to school. Students must be present in
-their classes at</p>
-<p>8:00 a.m. from Monday to Friday, except at 8:20 a.m on odd week Wednesdays,
-or they will be deemed as late. In addition, absence from school must be
-accompanied by a medical certificate. Any student who is late or absent
-from school without a valid reason will be subjected to disciplinary actions.</p>
+their classes at 8:00 a.m. from Monday to Friday, except at 8:20 a.m on
+odd week Wednesdays, or they will be deemed as late. In addition, absence
+from school must be accompanied by a medical certificate. Any student who
+is late or absent from school without a valid reason will be subjected
+to disciplinary actions.</p>
 </td>
 </tr>
 <tr>
