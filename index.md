@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Secondary 1 (2026) e-Registration Webinar
+          date: 22 December 2025
+          announcement: Webinar Briefing Slides
+          link_text: READ MORE
+          link_url: /secondary-1-2026-e-registration-webinar-briefing-slides/
         - title: Secondary 1 (2026) e-Registration
           date: 19 December 2025
           announcement: GESS Secondary 1 (2026) e-Registration
@@ -51,9 +56,4 @@ sections:
           announcement: Briefing slides and information on 2026 Joint Intake Exercises
           link_text: READ MORE
           link_url: /briefing-slides-and-information-on-2026-joint-intake-exercises/
-        - title: Canteen Advertisement
-          date: 29 October 2025
-          announcement: School Canteen Advertisement and Application Procedure
-          link_text: READ MORE
-          link_url: /useful-links/permalink/canteenadvertisement/
 ---
