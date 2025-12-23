@@ -51,9 +51,9 @@ sections:
             2026
           link_text: READ MORE
           link_url: /school-information/school-bookshop-and-booklists/
-        - title: 2026 Joint Intake Exercises
-          date: 19 December 2025
-          announcement: Briefing slides and information on 2026 Joint Intake Exercises
+        - title: 2025 School Magazine
+          date: 23 December 2025
+          announcement: Snapshots of 2025 Celebrating Every Moment
           link_text: READ MORE
-          link_url: /briefing-slides-and-information-on-2026-joint-intake-exercises/
+          link_url: /2025-gess-school-magazine/
 ---
