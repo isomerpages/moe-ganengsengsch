@@ -386,7 +386,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Swee Chye (LSC)&nbsp;</p>
+<p>Mr Lim Swee Chye (SCL)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_swee_chye@schools.gov.sg" rel="noopener noreferrer" target="_blank">lim_swee_chye@schools.gov.sg</a>
