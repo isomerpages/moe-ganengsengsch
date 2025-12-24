@@ -302,10 +302,11 @@ variant: tiptap
 <p>Subject Head / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ang Boon Bin Brandon (ABB)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:boon_bin_ang@schools.gov.sg" rel="noopener noreferrer" target="_blank">boon_bin_ang@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
