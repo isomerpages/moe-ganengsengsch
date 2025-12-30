@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2026 Term 1 Letter to Parents
+          date: 30 December 2025
+          announcement: Term 1 Letter to Parents
+          link_text: READ MORE
+          link_url: /2026-term-1-letter-to-parents/
         - title: Secondary 1 (2026) e-Registration Webinar
           date: 22 December 2025
           announcement: Webinar Briefing Slides
@@ -51,9 +56,4 @@ sections:
             2026
           link_text: READ MORE
           link_url: /school-information/school-bookshop-and-booklists/
-        - title: 2025 School Magazine
-          date: 23 December 2025
-          announcement: Snapshots of 2025 Celebrating Every Moment
-          link_text: READ MORE
-          link_url: /2025-gess-school-magazine/
 ---
