@@ -323,8 +323,7 @@ child is pursing education in Gan Eng Seng School.</p>
 <li>
 <p>Upon completion of google form given at the beginning of the Sec 1 registration,
 you will be admitted into the respective year and class group. If you need
-further assistance, please send an email to Mr. Goh <a href="mailto:goh_chuan_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chuan_hwee@moe.edu.sg</a>
-<a href="mailto:goh_chuan_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ai@moe.edu.sg</a>.</p>
+further assistance, please send an email to Mr. Goh <a href="mailto:goh_chuan_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chuan_hwee@moe.edu.sgai@moe.edu.sg</a>.</p>
 </li>
 </ul>
 </li>
