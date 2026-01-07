@@ -30,16 +30,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Release of 2025 GCE O-Level Examination Results
+          date: 07 January 2026
+          announcement: 2025 GCE O-Level Examination Results
+          link_text: READ MORE
+          link_url: /release-of-2025-gce-o-level-examination-results/
         - title: 2026 Term 1 Letter to Parents
           date: 30 December 2025
           announcement: Term 1 Letter to Parents
           link_text: READ MORE
           link_url: /2026-term-1-letter-to-parents/
-        - title: Secondary 1 (2026) e-Registration Webinar
-          date: 22 December 2025
-          announcement: Webinar Briefing Slides
-          link_text: READ MORE
-          link_url: /secondary-1-2026-e-registration-webinar-briefing-slides/
         - title: Secondary 1 (2026) e-Registration
           date: 19 December 2025
           announcement: GESS Secondary 1 (2026) e-Registration
