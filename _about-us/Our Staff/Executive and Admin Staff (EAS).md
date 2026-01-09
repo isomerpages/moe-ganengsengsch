@@ -79,6 +79,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Karin Ng Yi-Lyn <a href="mailto:karin_ng_yi-lyn@schools.gov.sg" rel="noopener nofollow" target="_blank">karin_ng_yi-lyn@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Hemalatha Rajendran</p>
 <p><a href="mailto:hemalatha_rrajendran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hemalatha_rrajendran@schools.gov.sg</a>
 </p>
