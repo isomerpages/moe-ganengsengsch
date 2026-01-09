@@ -1056,8 +1056,7 @@ variant: tiptap
 <p>Mr Samuel Leong Yong Jie (LYJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samuel_leong_yong_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">s</a>
-<a href="mailto:amuel_leong_yong_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amuel_leong_yong_jie@moe.edu.sg</a>
+<p><a href="mailto:samuel_leong_yong_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_leong_yong_jie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
