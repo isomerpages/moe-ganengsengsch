@@ -904,7 +904,7 @@ variant: tiptap
 <p>Mr Tan Hong Yu (THY)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:nie25.thy2196@e.ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nie25.thy2196@e.ntu.edu.sg</a>
+<p><a href="mailto:tan_hong_yu_u@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_yu_u@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -926,7 +926,7 @@ variant: tiptap
 <p>Mr Reno Sam Wei Jie (SWJ)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:nie25.rswj@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.rswj@e.ntu.edu.sg</a>
+<p><a href="mailto:reno_sam_wei_jie_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">reno_sam_wei_jie_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
