@@ -627,7 +627,7 @@ variant: tiptap
 <p>Ms Thin Lae Yi Zaw (LYZ)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:nie25.tlyz@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.tlyz@e.ntu.edu.sg</a>
+<p><a href="mailto:thin_lae_yi_zaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thin_lae_yi_zaw@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -649,7 +649,7 @@ variant: tiptap
 <p>Mr Khoo Ding Yuan (KDY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nie25.kdy@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.kdy@e.ntu.edu.sg</a>
+<p><a href="mailto:khoo_ding_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ding_yuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -712,7 +712,7 @@ variant: tiptap
 <p>Mr Hao Yi (HY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nie25.hy8045@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.hy8045@e.ntu.edu.sg</a>
+<p><a href="mailto:hao_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hao_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -904,7 +904,7 @@ variant: tiptap
 <p>Mr Tan Hong Yu (THY)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:nie25.thy2196@e.ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nie25.thy2196@e.ntu.edu.sg</a>
+<p><a href="mailto:tan_hong_yu_u@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_yu_u@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -926,7 +926,7 @@ variant: tiptap
 <p>Mr Reno Sam Wei Jie (SWJ)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:nie25.rswj@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.rswj@e.ntu.edu.sg</a>
+<p><a href="mailto:reno_sam_wei_jie_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">reno_sam_wei_jie_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1035,7 +1035,7 @@ variant: tiptap
 <p>Ms Meena Annamalai (MA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nie25.ma@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.ma@e.ntu.edu.sg</a>
+<p><a href="mailto:meena_annamalai@moe.edu.sg" rel="noopener nofollow" target="_blank">meena_annamalai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1056,7 +1056,8 @@ variant: tiptap
 <p>Mr Samuel Leong Yong Jie (LYJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nie25.slyj@e.ntu.edu.sg" rel="noopener nofollow" target="_blank">nie25.slyj@e.ntu.edu.sg</a>
+<p><a href="mailto:samuel_leong_yong_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">s</a>
+<a href="mailto:amuel_leong_yong_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amuel_leong_yong_jie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
