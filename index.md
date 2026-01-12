@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Sec 1 Meet Parent Session
+          date: 12 January 2026
+          announcement: Briefing slides for Sec 1 Meet Parent Session
+          link_text: READ MORE
+          link_url: /briefing-slides-for-sec-1-meet-parent-session/
         - title: Release of 2025 GCE O-Level Examination Results
           date: 07 January 2026
           announcement: 2025 GCE O-Level Examination Results
@@ -40,11 +45,6 @@ sections:
           announcement: Term 1 Letter to Parents
           link_text: READ MORE
           link_url: /2026-term-1-letter-to-parents/
-        - title: Secondary 1 (2026) e-Registration
-          date: 19 December 2025
-          announcement: GESS Secondary 1 (2026) e-Registration
-          link_text: READ MORE
-          link_url: /gess-secondary-1-2026-e-registration/
         - title: Purchase of School Uniform
           date: 19 December 2025
           announcement: 2026 Back to School Uniform Purchase (Bibi&Baba Pte Ltd)
