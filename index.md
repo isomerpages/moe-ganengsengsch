@@ -30,9 +30,10 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Briefing slides and information on 2026 Joint Admissions Exercise (JAE)
+        - title: 2026 Joint Admissions Exercise (JAE)
           date: 14 January 2026
-          announcement: 2026 Joint Admissions Exercise (JAE)
+          announcement: Briefing slides and information on 2026 Joint Admissions Exercise
+            (JAE)
           link_text: READ MORE
           link_url: /briefing-slides-and-information-on-2026-joint-admissions-exercise-jae/
         - title: Sec 1 Meet Parent Session
