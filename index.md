@@ -30,16 +30,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Briefing slides and information on 2026 Joint Admissions Exercise (JAE)
+          date: 14 January 2026
+          announcement: 2026 Joint Admissions Exercise (JAE)
+          link_text: READ MORE
+          link_url: /briefing-slides-and-information-on-2026-joint-admissions-exercise-jae/
         - title: Sec 1 Meet Parent Session
           date: 12 January 2026
           announcement: Briefing slides for Sec 1 Meet Parent Session
           link_text: READ MORE
           link_url: /briefing-slides-for-sec-1-meet-parent-session/
-        - title: Release of 2025 GCE O-Level Examination Results
-          date: 07 January 2026
-          announcement: 2025 GCE O-Level Examination Results
-          link_text: READ MORE
-          link_url: /release-of-2025-gce-o-level-examination-results/
         - title: 2026 Term 1 Letter to Parents
           date: 30 December 2025
           announcement: Term 1 Letter to Parents
