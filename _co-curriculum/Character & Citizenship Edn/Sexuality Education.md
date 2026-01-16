@@ -75,9 +75,9 @@ a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.<strong><br></strong>
 </p>
-<p><strong>At Gan Eng Seng School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Gan Eng Seng School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h2><strong>Secondary 1</strong></h2>
 <p><strong>&nbsp;</strong>
 </p>
@@ -208,7 +208,7 @@ of online falsehoods, flouting copyright laws, etc.)</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h2><strong>Secondary 2</strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
@@ -333,7 +333,7 @@ risks and avoid negative consequences, both offline and online</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h2><strong>Secondary 3</strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
@@ -471,7 +471,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h2><strong>Secondary 4</strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
@@ -636,7 +636,7 @@ our beliefs</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h2><strong>Secondary 5</strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
