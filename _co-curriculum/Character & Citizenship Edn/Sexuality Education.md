@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Character & Citizenship Edn
 variant: tiptap
 ---
-<h3><strong>GAN ENG SENG SCHOOL2</strong></h3>
+<h3><strong>GAN ENG SENG SCHOOL</strong></h3>
 <h4><strong>Moe Sexuality Education in Schools</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 (SEd) in schools aims to enable students to understand the physiological,
