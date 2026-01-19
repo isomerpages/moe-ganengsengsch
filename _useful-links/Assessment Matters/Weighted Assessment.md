@@ -121,8 +121,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;Note: Same as <strong>GESS Assessment Weighting Distribution (for 2025)</strong>
-</p>
 <p></p>
 <p><a href="/files/Sec1G1_WA.pdf" rel="noopener nofollow" target="_blank">Sec1G1_WA</a>
 </p>
