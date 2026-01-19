@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2026 Weighted Assessment (WA) Schedules
+          date: 19 January 2026
+          announcement: Weighted Assessment (WA) Schedules
+          link_text: READ MORE
+          link_url: /weighted-assessment/
         - title: 2026 Joint Admissions Exercise (JAE)
           date: 14 January 2026
           announcement: Briefing slides and information on 2026 Joint Admissions Exercise
@@ -46,15 +51,4 @@ sections:
           announcement: Term 1 Letter to Parents
           link_text: READ MORE
           link_url: /2026-term-1-letter-to-parents/
-        - title: Purchase of School Uniform
-          date: 19 December 2025
-          announcement: 2026 Back to School Uniform Purchase (Bibi&Baba Pte Ltd)
-          link_text: READ MORE
-          link_url: /school-information/school-uniform-supplier/
-        - title: School Bookshop and Booklists
-          date: 19 December 2025
-          announcement: Window Periods For Online Ordering Of Textbooks For Academic Year
-            2026
-          link_text: READ MORE
-          link_url: /school-information/school-bookshop-and-booklists/
 ---

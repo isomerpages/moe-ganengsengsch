@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Assessment Matters
 variant: tiptap
 ---
-<h5>Weighted Assessment (WA) Schedule 2025</h5>
+<h5>Weighted Assessment (WA) Schedule 2026</h5>
 <p></p>
-<p><strong>GESS Assessment Weighting Distribution (for 2025)</strong>
+<p><strong>GESS Assessment Weighting Distribution (for 2026)</strong>
 </p>
 <p></p>
 <table style="minWidth: 125px">
@@ -121,33 +121,34 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p>&nbsp;Note: Same as <strong>GESS Assessment Weighting Distribution (for 2025)</strong>
+</p>
 <p></p>
-<p><a href="/files/Sec1G1_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec1G1_WA</a>
+<p><a href="/files/Sec1G1_WA.pdf" rel="noopener nofollow" target="_blank">Sec1G1_WA</a>
 </p>
-<p><a href="/files/Sec1G2_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec1G2_WA</a>
+<p><a href="/files/Sec1G2_WA.pdf" rel="noopener nofollow" target="_blank">Sec1G2_WA</a>
 </p>
-<p><a href="/files/Sec1G3_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec1G3_WA</a>
+<p><a href="/files/Sec1G3_WA.pdf" rel="noopener nofollow" target="_blank">Sec1G3_WA</a>
 </p>
-<p><a href="/files/Sec2G1_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec2G1_WA</a>
+<p><a href="/files/Sec2G1_WA.pdf" rel="noopener nofollow" target="_blank">Sec2G1_WA</a>
 </p>
-<p><a href="/files/Sec2G2_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec2G2_WA</a>
+<p><a href="/files/Sec2G2_WA.pdf" rel="noopener nofollow" target="_blank">Sec2G2_WA</a>
 </p>
-<p><a href="/files/Sec2G3_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec2G3_WA</a>
+<p><a href="/files/Sec2G3_WA.pdf" rel="noopener nofollow" target="_blank">Sec2G3_WA</a>
 </p>
-<p><a href="/files/Sec3G1_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec3G1_WA</a>
+<p><a href="/files/Sec3G1_WA.pdf" rel="noopener nofollow" target="_blank">Sec3G1_WA</a>
 </p>
-<p><a href="/files/Sec3G2_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec3G2_WA</a>
+<p><a href="/files/Sec3G2_WA.pdf" rel="noopener nofollow" target="_blank">Sec3G2_WA</a>
 </p>
-<p><a href="/files/Sec3G3_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec3G3_WA</a>
+<p><a href="/files/Sec3G3_WA.pdf" rel="noopener nofollow" target="_blank">Sec3G3_WA</a>
 </p>
-<p><a href="/files/Sec4G1_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec4G1_WA</a>
+<p><a href="/files/Sec4EXP_WA.pdf" rel="noopener nofollow" target="_blank">Sec4EXP_WA</a>
 </p>
-<p><a href="/files/Sec4G2_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec4G2_WA</a>
+<p><a href="/files/Sec4NA_WA.pdf" rel="noopener nofollow" target="_blank">Sec4NA_WA</a>
 </p>
-<p><a href="/files/Sec4G3_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec4G3_WA</a>
+<p><a href="/files/Sec4NT_WA.pdf" rel="noopener nofollow" target="_blank">Sec4NT_WA</a>
 </p>
-<p><a href="/files/Sec5G2_WA_2025.pdf" rel="noopener nofollow" target="_blank">Sec5G2_WA</a>
+<p><a href="/files/Sec5NA_WA.pdf" rel="noopener nofollow" target="_blank">Sec5NA_WA</a>
 </p>
 <p>
 <br>
