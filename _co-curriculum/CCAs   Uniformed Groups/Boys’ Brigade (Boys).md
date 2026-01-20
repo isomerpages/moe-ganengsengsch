@@ -186,8 +186,8 @@ Unit High Distinction Award</p>
 <p></p>
 <p><strong><u>2023</u></strong>
 </p>
-<p>§&nbsp; BB Character Quest 2023: Silver Honour Roll</p>
-<p>§&nbsp; Founder’s Award 2023</p>
+<p>o&nbsp; BB Character Quest 2023: Silver Honour Roll</p>
+<p>o&nbsp; Founder’s Award 2023</p>
 <p>o&nbsp;&nbsp; Cyrus Tan</p>
 <p>o&nbsp;&nbsp; Ethan Coong Wen-Yi</p>
 <p>o&nbsp;&nbsp; Kuang Sett Myint San</p>
@@ -195,10 +195,10 @@ Unit High Distinction Award</p>
 <p>o&nbsp;&nbsp; Mohamed Sirajudeen Bin Mohamed Rabik</p>
 <p>o&nbsp;&nbsp; Mohamed Suhail</p>
 <p>o&nbsp;&nbsp; Yap Jia Ying Jordan</p>
-<p>§&nbsp; J M Fraser Award for Excellence Honour Roll (Assessment Year 2022)&nbsp;–
+<p>o&nbsp; J M Fraser Award for Excellence Honour Roll (Assessment Year 2022)&nbsp;–
 Unit High Distinction Award</p>
-<p>§&nbsp; BB Blaze 2023 - Gold Honour Roll</p>
-<p>§&nbsp; SP Chua Medal (a.k.a. Best Boy Award) 2023: Yap Jia Yong Jordan</p>
+<p>o&nbsp; BB Blaze 2023 - Gold Honour Roll</p>
+<p>o&nbsp; SP Chua Medal (a.k.a. Best Boy Award) 2023: Yap Jia Yong Jordan</p>
 </td>
 </tr>
 <tr>
