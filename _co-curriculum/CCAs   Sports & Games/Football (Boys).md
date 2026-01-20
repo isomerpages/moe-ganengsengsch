@@ -39,7 +39,7 @@ variant: markdown
 		<td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr Qaleelullah<br>Mr Chee Fook Sing<br>Mr Sathis Kumar</td>
+    <td class="tg-tsok">Mr Chee Fook Sing<br>Mr Senthil Kumaran<br>Mr Johnathan Beh Guanting</td>
     <td class="tg-tsok">Mr Jaiprakash S/O Sankar Ram</td>
     <td class="tg-tsok">Captain<br>Rishaan Dev Dayananthan (3-6)<br>Vice-Captain<br>Mohamed Sirajudeen Arshad Maqsood (3-4)
 </td>
