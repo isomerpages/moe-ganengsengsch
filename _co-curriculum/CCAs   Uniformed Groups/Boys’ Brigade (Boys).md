@@ -5,51 +5,12 @@ description: ""
 third_nav_title: CCAs   Uniformed Groups
 variant: markdown
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/BB%201.jpeg" alt="Boys’ Brigade (Boys)" style="width:55%;">  
-  
 
-<br>
+![](/images/BB_Poster_2025_1.png)
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/BB%202.jpeg" alt="Boys’ Brigade (Boys)" style="width:55%;">  
-  
+![](/images/BB_Poster_2025_2.png)
 
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/BB%203.jpeg" alt="Boys’ Brigade (Boys)" style="width:55%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/BB%204.jpeg" alt="Boys’ Brigade (Boys)" style="width:55%;">  
-  
+![](/images/BB_Poster_2025_3.png)
 
 <br>
 
