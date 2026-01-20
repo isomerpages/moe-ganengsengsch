@@ -97,61 +97,121 @@ variant: tiptap
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Company’s mission:</strong>
-<br>
-<br>To prepare all boys for the future through a fun and holistic curriculum,
-which allow boys to foster meaningful friendship and empowers boys to be
-leaders of today.
-<br>
-<br><strong>Company’s curricular approaches:</strong>
-<br>
-<br>1. Fun, Friends, Leaders
-<br>2. Boys’ Brigade for all
-<br><strong> </strong>
-<br><strong>Introduction:</strong>
-<br>
-<br>The unit’s aim is to build up boys of character and integrity who are
-armed with life skills and values. The commitment of each teacher and officer
-who comes to serve in the Company is disputed, as each gives of his best.
-Little would be achieved without the students and in this regard, our cadets
-demonstrate steadfastness. They possess a spirit of camaraderie, one that
-is committed to building up the Company whatever the circumstances.
-<br>
-<br>Members of the Boys’ Brigade participate in a diverse and challenging
-range of activities such as kayaking, rock climbing, archery, abseiling,
-drills, drone flying, musketry, camps, hiking, leadership camps, leadership
-courses and financial literacy courses.
-<br>
-<br><strong>Sustained J M Fraser Unit Gold Award since 2013 (assessment year of 2012)</strong>
-<br>
-<br><u>2023</u>
-<br>▪ J M Fraser Award for Excellence Honour Roll (Assessment Year 2022) –
-Unit Gold
-<br>
-<br><u>2022</u>
-<br>▪ J M Fraser Award for Excellence Honour Roll (Assessment Year 2021) –
-Unit Gold
-<br>▪ BB Blaze 2022 – Gold Honour Roll
-<br>▪ Founder’s Award 2022 – 11 students
-<br>▪ SP Chua Medal (a.k.a. Best Boy Award) 2022 – Lee Jen Lun (4F)
-<br>
-<br><u>2021</u>
-<br>▪ BB Character Quest 2021: Gold Honour Roll
-<br>▪ Founder’s Award 2021 – 10 students
-<br>▪ President’s Award (for Primers) – Hareesh S (4D, graduated in 2019)
-<br>▪ SP Chua Medal (a.k.a. Best Boy Award) 2021 – Ganesh S (4D)
-<br>
-<br>
-<br>Find out more about us: <a href="https://bb50thcoygess.wixsite.com/site" rel="noopener noreferrer" target="_blank"><u>https://bb50thcoygess.wixsite.com/site</u></a>
-<br>
-<br>Follow us on Instagram (bb50thcoygess): <a href="https://www.instagram.com/bb50thcoygess/" rel="noopener noreferrer" target="_blank"><u>https://www.instagram.com/bb50thcoygess/</u></a>
-<br>
-<br>The Boys’ Brigade Singapore: <a href="http://www.bb.org.sg/" rel="noopener noreferrer" target="_blank"><u>http://www.bb.org.sg/</u></a>
+<td rowspan="1" colspan="1">
+<p><strong>Our unit:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Company’s mission:</strong>
+</p>
+<p>To prepare all boys for the future through a fun and holistic curriculum,
+which allow boys to foster meaningful friendship and empowers boys to be
+leaders of today.</p>
+<p></p>
+<p><strong>Company’s curricular approaches:</strong>
+</p>
+<p>1. Fun, Friends, Leaders</p>
+<p>2. Boys’ Brigade for all</p>
+<p></p>
+<p><strong>Introduction:</strong>
+</p>
+<p>The unit’s aim is to build up boys of character and integrity who are
+armed with life skills and values. The commitment of each teacher and officer
+who comes to serve in the Company is disputed, as each give of his best.
+Little would be achieved without the students and in this regard, our cadets
+demonstrate steadfastness. They possess a spirit of camaraderie, one that
+is committed to building up the Company whatever the circumstances.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Our activities:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Members of the Boys’ Brigade participate in a diverse and challenging
+range of activities such as kayaking, rock climbing, archery, abseiling,
+drills, drone flying, musketry, camps, hiking, leadership camps, leadership
+courses and financial literacy courses.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Our Achievements (of pas</strong>o<strong>t 3 years)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustained J M Fraser Unit Gold / High Distinction Award since 2013 (assessment
+year of 2012)</p>
+<p></p>
+<p><strong><u>2025</u></strong>
+</p>
+<p>o &nbsp; Founder’s Award 2025</p>
+<p>o&nbsp;&nbsp; Balasubramaniam Sriram</p>
+<p>o&nbsp;&nbsp; Goh Kai Xuan Ryan</p>
+<p>o&nbsp;&nbsp; Ho Yao Wen Alfred</p>
+<p>o&nbsp;&nbsp; Winston Mohan-He</p>
+<p>o&nbsp;&nbsp; Yap Rong-Yan</p>
+<p>o&nbsp;&nbsp; Zhang Jie Xiang</p>
+<p>o&nbsp; J M Fraser Award for Excellence Honour Roll (Assessment Year 2024)&nbsp;–
+Unit High Distinction Award</p>
+<p>o&nbsp; BB Blaze 2025 - Silver Honour Roll</p>
+<p>o&nbsp; SP Chua Medal (a.k.a. Best Boy Award) 2024: Yap Rong-Yan</p>
+<p></p>
+<p><strong><u>2024</u></strong>
+</p>
+<p>o&nbsp; BB Character Quest 2024: Silver Honour Roll</p>
+<p>o&nbsp; Founder’s Award 2024</p>
+<p>o&nbsp;&nbsp; Clarence Yap</p>
+<p>o&nbsp;&nbsp; Federico Jeremiah Umadac</p>
+<p>o&nbsp;&nbsp; Hidalgo Vince Dwayne Nequinto</p>
+<p>o&nbsp;&nbsp; Htoo Myat Win</p>
+<p>o&nbsp;&nbsp; Isaac Luke Ng Le Yu</p>
+<p>o&nbsp;&nbsp; Jerome Loke</p>
+<p>o&nbsp;&nbsp; Li Yin Tak</p>
+<p>o&nbsp; J M Fraser Award for Excellence Honour Roll (Assessment Year 2023)&nbsp;–
+Unit High Distinction Award</p>
+<p>o&nbsp; BB Blaze 2024 - Gold Honour Roll</p>
+<p>o&nbsp; SP Chua Medal (a.k.a. Best Boy Award) 2024: Clarence Yap</p>
+<p></p>
+<p><strong><u>2023</u></strong>
+</p>
+<p>§&nbsp; BB Character Quest 2023: Silver Honour Roll</p>
+<p>§&nbsp; Founder’s Award 2023</p>
+<p>o&nbsp;&nbsp; Cyrus Tan</p>
+<p>o&nbsp;&nbsp; Ethan Coong Wen-Yi</p>
+<p>o&nbsp;&nbsp; Kuang Sett Myint San</p>
+<p>o&nbsp;&nbsp; Loh Deron</p>
+<p>o&nbsp;&nbsp; Mohamed Sirajudeen Bin Mohamed Rabik</p>
+<p>o&nbsp;&nbsp; Mohamed Suhail</p>
+<p>o&nbsp;&nbsp; Yap Jia Ying Jordan</p>
+<p>§&nbsp; J M Fraser Award for Excellence Honour Roll (Assessment Year 2022)&nbsp;–
+Unit High Distinction Award</p>
+<p>§&nbsp; BB Blaze 2023 - Gold Honour Roll</p>
+<p>§&nbsp; SP Chua Medal (a.k.a. Best Boy Award) 2023: Yap Jia Yong Jordan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Other Links:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Follow us on Instagram (bb50thcoygess): <a href="https://www.instagram.com/bb50thcoygess/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/bb50thcoygess/</a>
+</p>
+<p></p>
+<p>The Boys’ Brigade Singapore: <a href="http://www.bb.org.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.bb.org.sg/</a>
+</p>
 <p></p>
 </td>
 </tr>
