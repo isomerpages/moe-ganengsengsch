@@ -147,7 +147,7 @@ courses and financial literacy courses.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Our Achievements (of pas</strong>o<strong>t 3 years)</strong>
+<p><strong>Our Achievements (of past 3 years)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
