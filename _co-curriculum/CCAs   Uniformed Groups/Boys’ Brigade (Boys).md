@@ -38,8 +38,8 @@ variant: markdown
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mr. Lim Yu Tian Keith<br>Mr Marcus Quek Zhi Whui<br>Tan Kay Chuan<br></td>
-    <td class="tg-tsok">Mr. Joshua Loke<br>Mr. Chan Boon Hau<br>Mr. Kevin Soon<br>Mr. Han Ghim Seu<br>Mr. Boey Jing Rong Aidan<br>Mr. Poh Hian Yik Conrad<br>Mr. Ng Si Bin<br>Mr. Alven Tan Yi Hng<br>Mr. Chan Yu Feng Howell<br>Mr. Ganesh S<br>Mr. Han Juai Seu<br>Mr. James Lim Cheng En<br>Mr. Kenneth Hubert Suhardjo<br>Mr. Koh Ji Yang Brandon<br>Mr. Ng Jun Han</td>
+    <td class="tg-tsok">Mr. Lim Yu Tian Keith (1st Teacher IC)<br>Mr Marcus Quek Zhi Whui<br>Mr Tan Kay Chuan<br></td>
+    <td class="tg-tsok">Mr. Kevin Soon (Captain, VAL)<br>Mr. Roger Teo (Officer-OC, VAL)<br>Mr. Joshua Loke (Officer, VAL)<br>Mr. Han Ghim Seu (Officer, VAL)<br><br>Cyrus Tan (Primer, yr3)<br>Ethan Coong Wen-Yi (Primer, yr3)<br>Kuang Sett Myint San (Primer, yr3)<br>Loh Deron (Primer, yr3)<br>Mhd. Sirajudeen Bin Mhd. Rabik (Primer, yr3)<br>Mhd. Suhail (Primer, yr3)<br>Yap Jia Ying Jordan (Primer, yr3)<br><br>Li Yin Tak (Primer, yr 2)<br>Yong Bin Zhi (Primer, yr 2)<br>Clarence Yap (Primer, yr 2)<br>Mr. Ng Jun Han</td>
     <td class="tg-tsok">Yap Jia Ying Jordan<br>Cyrus Tan<br>Mhd. Sirajudeen Bin Mhd. Rabik<br>Ethan Coong Wen-Yi<br>Loh Deron<br>Mhd. Suhail<br>Jonas Ng Seoi Gwong</td>
   </tr>
   <tr>
