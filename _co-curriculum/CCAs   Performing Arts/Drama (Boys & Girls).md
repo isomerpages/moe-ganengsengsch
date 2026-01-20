@@ -48,26 +48,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Geetha d/o Muthu</p>
-<p>Ms Lynn Kwek Xin Yi</p>
-<p>Mr Sathis Kumar</p>
+<p>Ms. Umamageswari</p>
+<p>Ms. Lynn Kwek Xin Yi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Aishwariya Shanmuganathan.</p>
+<p>Mr. Dwayne Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>President:
-<br>Kim Mai Louise Piff (3-7)
-<br>Vice-President 1:
-<br>Mithani Florence Firoj (3-3)
-<br>Vice-President 2:
-<br>Lim Shi Jie (3-5)</p>
+<p>President:</p>
+<p>Kim Mai Louise Piff (4-7)</p>
+<p>Vice-President 1:</p>
+<p>Mithani Florence Firoj (4-3)</p>
+<p>Vice-President 2:</p>
+<p>Lim Shi Jie (4-5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday:
-<br>3pm-5.30pm
+<br>3pm-5pm
 <br>Friday:
-<br>2pm-5.30pm
+<br>2pm-5pm
 <br>
 <br>Venue:
 <br>GESSOSA Room</p>
