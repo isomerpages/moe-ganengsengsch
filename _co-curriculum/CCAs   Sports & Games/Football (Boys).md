@@ -41,14 +41,16 @@ variant: markdown
   <tr>
     <td class="tg-tsok">Mr Chee Fook Sing<br>Mr Senthil Kumaran<br>Mr Johnathan Beh Guanting</td>
     <td class="tg-tsok">Mr Jaiprakash S/O Sankar Ram</td>
-    <td class="tg-tsok">Captain<br>Rishaan Dev Dayananthan (3-6)<br>Vice-Captain<br>Mohamed Sirajudeen Arshad Maqsood (3-4)
+    <td class="tg-tsok">Captain<br>Chiu Zhou Yang Jonathan (4-1)<br>Vice-Captain<br>Zephan Ignatius (4-2)
 </td>
-    <td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday:<br>2pm-5.30pm<br><br>Venue:<br>School Field</td>
+    <td class="tg-tsok">Tuesday:<br>3pm-5pm<br>Friday:<br>2pm-5pm<br><br>Venue:<br>School Field</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="4">Football is a popular and well-loved sport in GESS. After starting out as just a Student-Initiated Activity (SIA), the sport attracted much interest and dedication from students resulting in their enthusiastic participation in various futsal tournaments. The hard work and commitment put in by the boys combined with their achievements in these tournaments have proven that they are capable of achieving excellence in this sport. With the support of the school leaders and staff, the GESS Football Team was established in 2015 and is a full-fledged CCA at GESS.<br><br>Gan Eng Seng School participates in both the ‘C’ &amp; ‘B’ Division National School Games annually. Gan Eng Seng School offers DSA for Football. To ensure that GESS Football maintains a competent pool of footballers, all incoming Secondary One footballers will have to undergo a Football Assessment before getting selected into the team.<br><br>Weekly training sessions will incorporate technical, tactical and fitness aspects of football skills in all our players. The training targets to enhance cardiovascular endurance, agility, reaction-time, speed and lower body strength of the students. In addition, plyometric training methods will also be incorporated to give them explosive power and edge over others.<br><br>GESS Footballers will also be able to experience fun and exciting team bonding activities during the off-season period. These activities include learning journeys, Values-In-Action (VIA) projects and football clinics.
 <br><br>
 Achievements
+			<br>
+2025 - 4th position: National School Games Football Championship 2025  C Division Boys League Three 
 			<br>
 2023 - League 2 NSG B Division Football Qualifiers
 			<br>
