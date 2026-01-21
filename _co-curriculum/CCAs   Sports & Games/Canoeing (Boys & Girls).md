@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCAs   Sports & Games
 variant: markdown
 ---
-
 ![](/images/IMG_1794.jpg)
 <br>
 ![](/images/JeffEdit___18.jpg)
