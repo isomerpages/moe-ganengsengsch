@@ -35,9 +35,9 @@ variant: markdown
     <td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Ms Herianti Samsudin<br>Ms Jamie Toh<br></td>
-    <td class="tg-tsok">Mr Vincent Lee Rui Xiong</td>
-    <td class="tg-tsok">Band Major: Jenise Koh Shin Yen (S3-5)<br>Drum Major: Chiu Ri Sen (Zhou Rui Cheng) (S3-5)<br>Asst Drum Major: Poenar Viviana Artemisa Jiaying (S3-5)</td>
+    <td class="tg-tsok">Ms Herianti Samsudin<br>Ms Deborah Tan<br>Mdm Siti Zuraidah Bt Kamis<br></td>
+    <td class="tg-tsok">Mr Vincent Lee Rui Xiong<br>Mr Toh Yang Yang<br>Mr Huang Xihui Paul<br>Mr Low Yik Hang</td>
+    <td class="tg-tsok">Band Major: Joshua Chew Jin Min (S4-4)<br>Assistant Band Major: Charmaine Sai Anito Shankar (S4-1)<br>Drum Major: Ferrell Lee Jun Yi (S4-4)<br>Asst Drum Major: Poenar Viviana Artemisa Jiaying (S3-5)</td>
     <td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday:<br>2pm-5.30pm<br><br>Venue:<br>Music Room</td>
   </tr>
   <tr>
