@@ -3,26 +3,41 @@ title: Modern Dance (Boys & Girls)
 permalink: /cca/performing-arts/contemporary-dance/
 description: ""
 third_nav_title: CCAs   Performing Arts
-variant: markdown
+variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%;" height="auto" width="100%" alt="Modern Dance (Boys &amp; Girls)" src="/images/Dance-2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%;" height="auto" width="100%" alt="Modern Dance (Boys &amp; Girls)" src="/images/Dance-5.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_2.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%;" height="auto" width="100%" alt="Modern Dance (Boys &amp; Girls)" src="/images/Dance-3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_4.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Modern Dance (Boys &amp; Girls)" src="/images/Dance-2.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Modern Dance (Boys &amp; Girls)" src="/images/Dance-5.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Modern Dance (Boys &amp; Girls)" src="/images/Dance-3.jpeg">
+</div>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -61,8 +76,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Asnur Mursalin
-<br>Miss Shirley Tan Li Hoon
-<br>Ms Geetha Muthu</p>
+<br>Miss Wong Jing Ning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teh Boon Kiat (Robin)
@@ -71,10 +85,10 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>President:</strong>
-<br>Lai Yan Yu Shannon (3-6)
+<br>Emmi Ang Hui Mei (4-7)
 <br><strong>Vice Presidents:</strong>
-<br>Jody Anne Tay Hui Wen (3-7)
-<br>Desiree Tan Le Tong (3-3)</p>
+<br>Elise Claire Lim Ming En (4-5)</p>
+<p>Nur Angelina Lim Li Min Binte Muhammad Bob Lim (4-3)J</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday: 3pm-5pm Friday: 2pm-5pm</p>
