@@ -114,7 +114,8 @@ appreciation of dance not only among Gessians but also to the community.
 <br>
 <br>We are proud to say that our Modern Dance ensemble has participated, and
 in achieved the following over the last few years:
-<br>● Singapore Youth Festival 2023 - Certificate of Accomplishment
+<br>● Singapore Youth Festival 2025 - Certificate of Distinction</p>
+<p>● Singapore Youth Festival 2023 - Certificate of Accomplishment
 <br>● Super24 Dance Showcase 2022
 <br>● National Day Parade 2021
 <br>● Singapore Youth Festival 2021 – Certificate of Distinction
@@ -122,14 +123,20 @@ in achieved the following over the last few years:
 <br>● Super24 Competition 2018 – Second runner-up in the Divisional rounds;
 Overall fifth in the Finals
 <br>
-<br>You can view some of our videos below:
-<br>Gan Eng Seng School | Super 24 2022 Secondary School Exhibition
-<br><a href="https://www.youtube.com/watch?v=xuxXTKCOAR0" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=xuxXTKCOAR0</u></a>
-<br>Gan Eng Seng School | Super 24 2018 Secondary School Category White Division
-Prelims (YouTube)
-<br><a href="https://www.youtube.com/watch?v=rcw9GWl_JaM" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=rcw9GWl_JaM</u></a>
-<br>Gan Eng Seng School | Super 24 2018 Secondary Category Finals (YouTube)
-<br><a href="https://www.youtube.com/watch?v=U6wMJChNT9E" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=U6wMJChNT9E</u></a>
+<br>You can view some of our videos below:</p>
+<p>Gan Eng Seng School | Super 24 2024 Secondary School Category Qualifiers
+(YouTube)</p>
+<p><a href="https://www.youtube.com/watch?v=BGwyezt7l3Y" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=BGwyezt7l3Y</a> 
+</p>
+<p>Gan Eng Seng School | Super 24 2022 Secondary School Exhibition (YouTube)</p>
+<p><a href="https://www.youtube.com/watch?v=xuxXTKCOAR0" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=xuxXTKCOAR0</a>
+</p>
+<p>Gan Eng Seng School | Super 24 2018 Secondary School Category White Division
+Prelims (YouTube)</p>
+<p><a href="https://www.youtube.com/watch?v=rcw9GWl_JaM" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=rcw9GWl_JaM</a>
+</p>
+<p>Gan Eng Seng School | Super 24 2018 Secondary Category Finals (YouTube)</p>
+<p><a href="https://www.youtube.com/watch?v=U6wMJChNT9E" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=U6wMJChNT9E</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
