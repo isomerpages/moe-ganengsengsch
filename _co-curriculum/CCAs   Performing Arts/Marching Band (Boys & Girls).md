@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCAs   Performing Arts
 variant: markdown
 ---
-
 ![](/images/40895d85_4f98_4ec0_8a4b_c821e70fd8c6.jpg) <br>
 ![](/images/350BEC3E_976E_4629_A63A_04ED71FEA80F.jpg) <br>
 ![](/images/IMG_1579_VSCO.jpg)<br>
