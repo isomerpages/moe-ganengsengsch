@@ -37,8 +37,8 @@ variant: markdown
   <tr>
     <td class="tg-tsok">Ms Herianti Samsudin<br>Ms Deborah Tan<br>Mdm Siti Zuraidah Bt Kamis<br></td>
     <td class="tg-tsok">Mr Vincent Lee Rui Xiong<br>Mr Toh Yang Yang<br>Mr Huang Xihui Paul<br>Mr Low Yik Hang</td>
-    <td class="tg-tsok">Band Major: Joshua Chew Jin Min (S4-4)<br>Assistant Band Major: Charmaine Sai Anito Shankar (S4-1)<br>Drum Major: Ferrell Lee Jun Yi (S4-4)<br>Asst Drum Major: Poenar Viviana Artemisa Jiaying (S3-5)</td>
-    <td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday:<br>2pm-5.30pm<br><br>Venue:<br>Music Room</td>
+    <td class="tg-tsok">Band Major: Joshua Chew Jin Min (S4-4)<br>Assistant Band Major: Charmaine Sai Anito Shankar (S4-1)<br>Drum Major: Ferrell Lee Jun Yi (S4-4)</td>
+    <td class="tg-tsok">Tuesday:<br>3pm-5pm<br>Friday:<br>2pm-5pm<br><br>Venue:<br>Music Room</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="4">The GESS Marching Band was formed in 1965 after the official launch of school bands by the Ministry of Education. In the 58 years of our history, we have grown from a fledgling brass band of 20 to the current strength of 64 members today.<br><br>The Marching Band programme challenges students to cultivate a deeper appreciation of music and to share this with the wider school community through our performances. As an ensemble, the Marching Band is committed in the pursuit of excellence so as to realize our vision of One Band, One Sound, One Mission.<br><br>Our band members conduct and participate in the following activities:<br>– Physical Conditioning<br>– Technique Development<br>– Sectional Training<br>– Whole Ensemble Training<br>– Annual Band Camp<br>– Performances (School Celebrations, National Day Parade, Open House)<br>– Singapore Youth Festival Arts Presentation<br><br>We are proud to announce that we have been awarded the Certificate of Distinction during 2019 Singapore Youth Festival (SYF) Arts Presentation, and a Certificate of Accomplishment during the 2021 and 2023 iteration of the same competition.</td>
