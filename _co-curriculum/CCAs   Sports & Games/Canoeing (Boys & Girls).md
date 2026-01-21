@@ -5,11 +5,22 @@ description: ""
 third_nav_title: CCAs   Sports & Games
 variant: markdown
 ---
-![](/images/canoe%201.jpg)
+
+![](/images/IMG_1794.jpg)
 <br>
-![](/images/canoe%202.jpg)	
+![](/images/JeffEdit___18.jpg)
 <br>
-![](/images/Canoe-1%20(1).png)	
+![](/images/JeffEdit___3.jpg)	
+<br>
+![](/images/WhatsApp_Image_2026_01_21_at_3_42_52_PM.jpg)
+<br>
+![](/images/MG_4519.jpg)
+<br>
+![](/images/WhatsApp_Image_2026_01_21_at_3_43_23_PM.jpg)
+<br>
+![](/images/WhatsApp_Image_2026_01_21_at_3_43_23_PM__1_.jpg)
+<br>
+![](/images/WhatsApp_Image_2026_01_21_at_3_42_11_PM.jpg)
 <br>
 
 <style type="text/css">
@@ -36,7 +47,7 @@ variant: markdown
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mdm Marhaidah Abdul Hamid<br>Mr Wong Chong Tuck<br>Mrs Chithra Thanigaivel<br>Mr Jeffrey Sui</td>
+    <td class="tg-tsok">Mdm Marhaidah Abdul Hamid<br>Mrs Chithra Thanigaivel<br>Mr Jeffrey Sui</td>
     <td class="tg-tsok">Ms Ong Kai Wen<br>Mr Alvin Siew</td>
     <td class="tg-tsok">Male Captain:<br>Muhammad Aqil Bin Mohd Fared<br>Female Captain:<br>Megan Loo Mei En<br>Male Vice Captain:<br>Tan Yi Kai<br>Female Vice Captain:<br>Yap Yi Xuan Shanice</td>
   </tr>
