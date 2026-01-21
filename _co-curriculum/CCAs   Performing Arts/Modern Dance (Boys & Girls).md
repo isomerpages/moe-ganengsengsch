@@ -123,7 +123,7 @@ Overall fifth in the Finals</p>
 <p>You can view some of our videos below:</p>
 <p>Gan Eng Seng School | Super 24 2024 Secondary School Category Qualifiers
 (YouTube)</p>
-<p><a href="https://www.youtube.com/watch?v=BGwyezt7l3Y" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=BGwyezt7l3Y</a> 
+<p><a href="https://www.youtube.com/watch?v=BGwyezt7l3Y" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=BGwyezt7l3Y</a>
 </p>
 <p>Gan Eng Seng School | Super 24 2022 Secondary School Exhibition (YouTube)</p>
 <p><a href="https://www.youtube.com/watch?v=xuxXTKCOAR0" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=xuxXTKCOAR0</a>
