@@ -5,72 +5,138 @@ description: ""
 third_nav_title: CCAs   Performing Arts
 variant: markdown
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Dance-2.jpeg" alt="Modern Dance (Boys &amp; Girls)" style="width:50%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Dance-5.jpeg" alt="Modern Dance (Boys &amp; Girls)" style="width:50%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Dance-3.jpeg" alt="Modern Dance (Boys &amp; Girls)" style="width:50%;">  
-  
-
-<br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l2bf"><span style="font-weight:bold">Name of CCA:</span></th>
-    <th class="tg-l2bf" colspan="2"><span style="font-weight:bold">Modern Dance</span></th>
-  </tr>
-</thead>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Modern Dance (Boys &amp; Girls)" src="/images/Dance-2.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Modern Dance (Boys &amp; Girls)" src="/images/Dance-5.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Modern Dance (Boys &amp; Girls)" src="/images/Dance-3.jpeg">
+</div>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-h5mn">Teachers-in-charge:</td>
-    <td class="tg-h5mn">Instructors:</td>
-    <td class="tg-h5mn">Student Leaders:</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Mdm Asnur Mursalin<br>Miss Shirley Tan Li Hoon<br>Ms Geetha Muthu</td>
-    <td class="tg-tsok">Mr Teh Boon Kiat (Robin)<br><br>Ms Seah Li Ling (Orange)</td>
-    <td class="tg-l2bf"><span style="font-weight:bold">President:</span><br>Lai Yan Yu Shannon (3-6)<br><span style="font-weight:bold">Vice Presidents:</span><br>Jody Anne Tay Hui Wen (3-7)<br>Desiree Tan Le Tong (3-3)</td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn" colspan="3">GESS Modern Dance (also known as Dance Ensemble) is about undertaking a journey to explore various dance genres while at the same time, focusing more on Hip Hop and Street Dance. With great determination, perseverance and teamwork, we believe that no obstacle will be too difficult to overcome. And that is what we hold on to as we grow in size and strength over the years. Through dance, we aspire to express ourselves as we cultivate the appreciation of dance not only among Gessians but also to the community.<br><br>Our dancers participate in the following activities and programmes:<br>●     Drills and conditioning<br>●     Annual dance camps<br>●     Exposure to concerts<br>●     Guest workshops<br>●     Super24 Dance competition<br>●     Singapore Youth Festival Arts Presentation<br><br>We are proud to say that our Modern Dance ensemble has participated, and in achieved the following over the last few years:<br>●     Singapore Youth Festival 2023  - Certificate of Accomplishment<br>●     Super24 Dance Showcase 2022<br>●     National Day Parade 2021<br>●     Singapore Youth Festival 2021 – Certificate of Distinction<br>●     Singapore Youth Festival 2019 – Certificate of Distinction<br>●     Super24 Competition 2018 – Second runner-up in the Divisional rounds; Overall fifth in the Finals<br><br>You can view some of our videos below:<br>Gan Eng Seng School | Super 24 2022 Secondary School Exhibition<br><a href="https://www.youtube.com/watch?v=xuxXTKCOAR0"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">https://www.youtube.com/watch?v=xuxXTKCOAR0</span></a><br>Gan Eng Seng School | Super 24 2018 Secondary School Category White Division Prelims (YouTube)<br><a href="https://www.youtube.com/watch?v=rcw9GWl_JaM"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">https://www.youtube.com/watch?v=rcw9GWl_JaM</span></a><br>Gan Eng Seng School | Super 24 2018 Secondary Category Finals (YouTube)<br><a href="https://www.youtube.com/watch?v=U6wMJChNT9E"><span style="text-decoration:underline;color:#F1AE16;background-color:transparent">https://www.youtube.com/watch?v=U6wMJChNT9E</span></a></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name of CCA:</strong>
+</p>
+</th>
+<th rowspan="1" colspan="2">
+<p><strong>Modern Dance</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers-in-charge:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Instructors:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Leaders:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Days:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Asnur Mursalin
+<br>Miss Wong Jing Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teh Boon Kiat (Robin)
+<br>
+<br>Ms Seah Li Ling (Orange)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>President:</strong>
+<br>Emmi Ang Hui Mei (4-7)
+<br><strong>Vice Presidents:</strong>
+<br>Elise Claire Lim Ming En (4-5)</p>
+<p>Nur Angelina Lim Li Min Binte Muhammad Bob Lim (4-3)J</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday: 3pm-5pm Friday: 2pm-5pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+GESS Modern Dance (also known as Dance Ensemble) is about undertaking
+a journey to explore various dance genres while at the same time, focusing
+more on Hip Hop and Street Dance. With great determination, perseverance
+and teamwork, we believe that no obstacle will be too difficult to overcome.
+And that is what we hold on to as we grow in size and strength over the
+years. Through dance, we aspire to express ourselves as we cultivate the
+appreciation of dance not only among Gessians but also to the community.<br><br>
+Our dancers participate in the following activities and programmes:<br><br>
+● Drills and conditioning<br>
+● Annual dance camps<br>
+● Exposure to concerts<br>
+● Guest workshops<br>
+● Super 24 Dance competition<br>
+● Singapore Youth Festival Arts Presentation<br><br>
+We are proud to say that our Modern Dance ensemble has participated in,
+and achieved the following over the last few years:<br><br>
+● Singapore Youth Festival 2025 - Certificate of Distinction<br>
+● Singapore Youth Festival 2023 - Certificate of Accomplishment<br>
+● Super 24 Dance Showcase 2022<br>
+● National Day Parade 2021<br>
+● Singapore Youth Festival 2021 – Certificate of Distinction<br>
+● Singapore Youth Festival 2019 – Certificate of Distinction<br>
+● Super 24 Competition 2018 – Second runner-up in the Divisional rounds; Overall fifth in the Finals<br><br>
+You can view some of our videos below:<br>
+<br>Gan Eng Seng School | Super 24 2024 Secondary School Category Qualifiers
+(YouTube)
+<a href="https://www.youtube.com/watch?v=BGwyezt7l3Y" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=BGwyezt7l3Y</a>
+<br>
+<br>Gan Eng Seng School | Super 24 2022 Secondary School Exhibition (YouTube)
+<a href="https://www.youtube.com/watch?v=xuxXTKCOAR0" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=xuxXTKCOAR0</a>
+<br>
+<br>Gan Eng Seng School | Super 24 2018 Secondary School Category White Division
+Prelims (YouTube)
+<a href="https://www.youtube.com/watch?v=rcw9GWl_JaM" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=rcw9GWl_JaM</a>
+<br>
+<br>Gan Eng Seng School | Super 24 2018 Secondary Category Finals (YouTube)
+<a href="https://www.youtube.com/watch?v=U6wMJChNT9E" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=U6wMJChNT9E</a>
+
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
 </tbody>
 </table>
