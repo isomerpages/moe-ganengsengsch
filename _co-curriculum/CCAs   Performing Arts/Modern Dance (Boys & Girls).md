@@ -96,13 +96,13 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>GESS Modern Dance (also known as Dance Ensemble) is about undertaking
+GESS Modern Dance (also known as Dance Ensemble) is about undertaking
 a journey to explore various dance genres while at the same time, focusing
 more on Hip Hop and Street Dance. With great determination, perseverance
 and teamwork, we believe that no obstacle will be too difficult to overcome.
 And that is what we hold on to as we grow in size and strength over the
 years. Through dance, we aspire to express ourselves as we cultivate the
-appreciation of dance not only among Gessians but also to the community.</p><br>
+appreciation of dance not only among Gessians but also to the community.<br><br>
 Our dancers participate in the following activities and programmes:<br><br>
 ● Drills and conditioning<br>
 ● Annual dance camps<br>
