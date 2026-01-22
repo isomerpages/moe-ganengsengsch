@@ -46,9 +46,9 @@ variant: markdown
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Mdm Marhaidah Abdul Hamid<br>Mrs Chithra Thanigaivel<br>Mr Jeffrey Sui</td>
+    <td class="tg-tsok">Mdm Marhaidah Abdul Hamid<br>Mr Jeffrey Sui</td>
     <td class="tg-tsok">Ms Ong Kai Wen<br>Mr Alvin Siew</td>
-    <td class="tg-tsok">Male Captain:<br>Muhammad Aqil Bin Mohd Fared<br>Female Captain:<br>Megan Loo Mei En<br>Male Vice Captain:<br>Tan Yi Kai<br>Female Vice Captain:<br>Yap Yi Xuan Shanice</td>
+    <td class="tg-tsok">Male Captain:<br>Zavier Lim Yu Yang<br>Female Captain:<br>Amelia Oh Cheng Xi<br>Male Vice Captain:<br>Chau Cheng Feng<br>Female Vice Captain:<br>Teo Ruo Syin</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="3">The GESS Canoeing team goes to MacRitchie Reservoir for their weekly water trainings to build up water confidence and individual skills in preparation for competitions. Additionally, all members will undergo the One Star Kayaking Course certified by the Singapore Canoe Federation, to equip themselves with the necessary knowledge and ability to handle the sport. Through the regular trainings, competitions, and Values-in-Action experiences, the CCA seeks to foster leadership qualities, team bonding and discipline among the team members.  
