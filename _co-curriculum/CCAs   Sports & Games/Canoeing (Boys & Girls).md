@@ -51,22 +51,17 @@ variant: markdown
     <td class="tg-tsok">Male Captain:<br>Zavier Lim Yu Yang<br>Female Captain:<br>Amelia Oh Cheng Xi<br>Male Vice Captain:<br>Chau Cheng Feng<br>Female Vice Captain:<br>Teo Ruo Syin</td>
   </tr>
   <tr>
-    <td class="tg-h5mn" colspan="3">The GESS Canoeing team goes to MacRitchie Reservoir for their weekly water trainings to build up water confidence and individual skills in preparation for competitions. Additionally, all members will undergo the One Star Kayaking Course certified by the Singapore Canoe Federation, to equip themselves with the necessary knowledge and ability to handle the sport. Through the regular trainings, competitions, and Values-in-Action experiences, the CCA seeks to foster leadership qualities, team bonding and discipline among the team members.  
-<br><br>  
-The GESS Canoeing team has had much success over the years, and are proud to share the achievements in 2023 that include:<br><br><span style="font-weight:bold">2023 National School Games</span><br><br>
-B-Boys K4-500m (5th Position)<br>
-B-Boys K4-1000m (5th Position)<br>  
-B-Girls K1-500m (1st Position)<br>  
-B-Girls K1-1000m (1st Position)<br>
-B-Girls K4-500m (4th Position)<br>
-B-Girls K4-1000m (4th Position)<br>
-C-Girls K1-500m (4th Position)<br>
-C-Girls K1-1000m (4th Position)<br>
-C-Girls K4-500m (4th Position)<br>
-<br>  
-Overall, our ‘C’ Division boys finished in 6th position and our ‘B’ Division girls finished in 3rd position in the 2023 National School Games Canoeing Championship.  
-  
-You can follow us at our official Instagram account @gess.canoeists</td>
+    <td class="tg-h5mn" colspan="3">The GESS Canoeing Team trains regularly at MacRitchie Reservoir, where members hone their paddling techniques, build water confidence, and push their physical limits in preparation for competitions. Through rigorous water and land training sessions, canoeists continuously sharpen their skills and grow in endurance and resilience. All members also undergo the One Star Kayaking Course accredited by the Singapore Canoe Federation, equipping them with essential safety knowledge and technical competencies. Beyond the sport, the CCA emphasises teamwork, discipline, and leadership through competitions and Values-in-Action experiences, fostering well-rounded individuals who strive for excellence on and off the water.
+<br><br>
+The GESS Canoeing team has had much success over the years. <br><br>Our recent achievements in 2025 include:
+<br><br>
+2025 National School Games
+<br>
+B-Girls K4-500m (3rd Position)<br>
+B-Girls K4-1000m (3rd Position)<br>
+C-Boys K4-500m (4th Position)<br>
+<br>
+Do follow us at our official Instagram account @gess.canoeists for the latest updates on our CCA. </td>
   </tr>
 </tbody>
 </table>
