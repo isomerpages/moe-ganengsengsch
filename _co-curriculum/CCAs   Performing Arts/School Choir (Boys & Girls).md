@@ -32,8 +32,8 @@ variant: markdown
     <td class="tg-h5mn">Student Leaders:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Chandrima Roy<br>Reshmi Menon<br>Li Xiran<br></td>
-    <td class="tg-tsok">Manning Music Centre Pvt. Ltd</td>
+    <td class="tg-tsok">Chandrima Roy<br></td>
+    <td class="tg-tsok">La Vie Music</td>
     <td class="tg-tsok">President –<br>Avril Ong Min Xuan (President)<br>Fun Kar Wei Glenda (VP) <br> Lee zi Ning (VP)</td>
   </tr>
   <tr>
