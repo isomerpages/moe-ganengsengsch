@@ -95,9 +95,9 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday:
-<br>3pm-5.30pm
+<br>3pm-5pm
 <br>Friday:
-<br>2pm-5.30pm
+<br>2pm-5pm
 <br>Selected Saturday:*
 <br>
 <br>Venue:
