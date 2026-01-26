@@ -55,20 +55,20 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Farid bin Mohd
-<br>Ms Vong Ser Kei</p>
+<br></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President:
-<br>YUAN WANLUN VANESSA (3-7)
+<br>Yuan Wanlun Vanessa (4-7)
 <br>
 <br>Vice-President
-<br>CHIA MING HAN (3-4)</p>
+<br>Chia Ming Han (4-4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
-3pm-5.30pm
+3pm-5pm
 Friday
-2pm-5.30pm
+2pm-5pm
 </p>
 </td>
 </tr>

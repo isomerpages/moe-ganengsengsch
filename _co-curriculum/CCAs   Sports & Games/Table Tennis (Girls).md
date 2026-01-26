@@ -40,7 +40,7 @@ variant: markdown
     <td class="tg-tsok">Mr Jeffrey Phua<br>Mr Wong Chin Yeow<br>Ms Fion Tan</td>
     <td class="tg-tsok">Goh Tian Lai<br>Tony Nah</td>
     <td class="tg-tsok">Captain:<br>Lim Li Hsuen (3-5)<br><br>Vice Captains:<br>Georgia Lee En Ci (3-5),<br>Amelia Teo Sze Min (3-7)</td>
-		<td class="tg-tsok">Tuesday:<br>3pm-5.30pm<br>Friday<br>2.30pm-5.30pm<br><br>Venue:<br>ISH Upper Deck</td>
+		<td class="tg-tsok">Tuesday:<br>3pm-5pm<br>Friday<br>2pm-5pm<br><br>Venue:<br>ISH Upper Deck</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="4">Our Table Tennis Team was formed to provide girls with an opportunity to experience the sport of table tennis at a competitive level. Since its establishment, our team has competed in many external competitions and in particular, the annual South zone and National Inter-schools Table Tennis Championships.<br><br>Achievements<br><br>
