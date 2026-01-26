@@ -89,9 +89,9 @@ variant: tiptap
 <br>Ms Umamageswari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>President: Aricia Seah Qin Xuan (3-5)
-<br>Vice-President: Siow Wen Jie (3-3)
-<br>Vice-President: Ng Jing Hong (3-4)
+<p>President: Aricia Seah Qin Xuan (4-2)
+<br>Vice-President: Siow Wen Jie (4-3)
+<br>Vice-President: Ng Jing Hong (4-4)
 <br>
 </p>
 </td>
