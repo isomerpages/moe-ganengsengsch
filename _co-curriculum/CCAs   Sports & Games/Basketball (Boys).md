@@ -42,7 +42,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-tsok">Mr Tay Chew Woo<br>Ms Khadijah Mustapah<br>Mrs Lim Limin<br></td>
-    <td class="tg-tsok">Ms Lee Si Yi (2023)<br>Mr Rick Ng (2024)</td>
+    <td class="tg-tsok">Mr Rick Ng</td>
     <td class="tg-tsok">Chee Weng Eng 4-4<br>Soo Zhi Ying 4-7</td>
 		    <td class="tg-tsok">Tuesday 3pm–5pm<br>
 Friday 2pm– 5pm<br><br>Venue: GESS ISH Lower Deck</td>
