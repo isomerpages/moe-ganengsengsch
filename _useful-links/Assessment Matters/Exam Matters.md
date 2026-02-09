@@ -16,4 +16,3 @@ variant: markdown
 <h5 style="color:black">Approved Dictionaries</h5>
 
 [List of Dictionaries for Examination](https://www.seab.gov.sg/)
-
