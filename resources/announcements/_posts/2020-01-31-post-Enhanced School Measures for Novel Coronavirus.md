@@ -4,6 +4,7 @@ permalink: /lp-news/enhanced-school-measures-for-novel-coronavirus/
 date: 2020-01-31
 layout: post
 description: ""
+variant: markdown
 ---
 Dear Parents
 
@@ -16,6 +17,5 @@ To better manage the Coronavirus situation, GESS has implemented the following p
 
 The school has addressed the students on several occasions regarding the measures above, as well as precautionary measures they should take. Please remind your children/ward to be mindful of personal hygiene, and to wash their hands with soap thoroughly and regularly. We also want to inculcate in them the value of social responsibility, and that they should see a doctor if they are unwell, and stay at home if they are given a MC. Meanwhile, lessons and other activities will continue as planned, but rest assured that we will monitor the situation closely and take the necessary measures if the situation calls for it.
 
-You may wish to read up on some FAQs concerning the Coronavirus situation via the following link: [https://www.moe.gov.sg/faqs-wuhan-coronavirus-infection](https://www.moe.gov.sg/faqs-wuhan-coronavirus-infection)
 
 Thank you.
