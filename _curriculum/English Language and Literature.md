@@ -93,18 +93,4 @@ Competition.</p>
 </ul>
 <p><strong>English Language and Literature Teaching Syllabuses</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/eng/sec_exp-na_els-2020_syllabus-(1).pdf" rel="noopener noreferrer nofollow" target="_blank">English Language Ordinary and Normal (Academic) Level</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/eng/felnt_els-2020_syllabus.pdf?la=en&amp;hash=283F97E95137AB1E3D920142CF4580EFBAA63EBF" rel="noopener noreferrer nofollow" target="_blank">English Language Normal (Technical) Level</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/eng/2019literatureinenglishsyllabusloweranduppersecondary.pdf?la=en&amp;hash=C5756A2A2E90E1391931ABD4AD445081A5DBFE5B" rel="noopener noreferrer nofollow" target="_blank">Literature in English Ordinary Level</a>
-</p>
-</li>
-</ul>
 <p></p>
