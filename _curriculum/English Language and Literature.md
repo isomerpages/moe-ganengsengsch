@@ -93,4 +93,14 @@ Competition.</p>
 </ul>
 <p><strong>English Language and Literature Teaching Syllabuses</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/api/media/667e3e0a-38ea-496e-af58-78c4a1ab3474/2020%20G1%20English%20Language%20Syllabus.pdf" rel="noopener nofollow" target="_blank">G1 English Language</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/api/media/5039d1de-488f-4819-b5b9-3bbef1639358/2020%20G2%20and%20G3%20English%20Language%20Syllabus.pdf" rel="noopener nofollow" target="_blank">G2 &amp; G3 English Language</a>
+</p>
+</li>
+</ul>
 <p></p>
