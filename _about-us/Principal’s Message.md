@@ -60,27 +60,26 @@ daily interactions, we continue to cultivate integrity, empathy and resilience
 — qualities that will serve our students well beyond school.</p>
 </li>
 </ul>
-<p></p>
-<p>As educators, transformation begins with us. We will continue to invest
+<br><br>
+As educators, transformation begins with us. We will continue to invest
 in professional learning and collaborative practices so that our teachers
 remain reflective practitioners who innovate with purpose. When teachers
 grow, students flourish. The spirit of “Onward” has been part of Gan Eng
 Seng School since its founding — a reminder that progress is achieved through
 perseverance, courage and collective effort. Today, this spirit calls us
 to embrace change thoughtfully, guided by what matters most: the growth
-and well-being of our students.</p>
-<p></p>
-<p>To our students, I encourage you to make the most of every opportunity
+and well-being of our students.
+<br><br>
+To our students, I encourage you to make the most of every opportunity
 — to be curious, to be brave in learning, and to care for those around
 you. To our parents and partners, thank you for your continued trust and
-support as we work together to nurture our young people.</p>
-<p></p>
-<p>As one GESS community, let us continue to move <strong>Onward</strong> —
+support as we work together to nurture our young people.
+<br><br>
+As one GESS community, let us continue to move <strong>Onward</strong> —
 not just doing things right, but doing the right things — for the future
-of every Gessian.</p>
-<p></p>
-<p><em>Doing the Right Things, Together — Onward as One GESS!</em>
-</p>
-<p>Tan Hwee Pin</p>
-<p>Principal</p>
-<p>Principal</p>
+of every Gessian.
+<br>
+<em>Doing the Right Things, Together — Onward as One GESS!</em>
+<br><br>
+Tan Hwee Pin<br>
+Principal
