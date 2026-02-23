@@ -2,33 +2,85 @@
 title: Principal’s Message
 permalink: /about-us/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
+<p>
 <br>
-<img src="/images/Tan_Hwe_Pin.jpg" style="width:300px">
-<br>
-
-
-
-
-2025 has been a truly remarkable year as we proudly celebrated the 140th anniversary of Gan Eng Seng School, one of Singapore's oldest educational institutions. Founded by the visionary philanthropist Mr Gan Eng Seng, our school has grown from humble beginnings with a clear mission to serve the community into a dynamic and resilient beacon of education that embraces change whilst staying true to our Gessian values.
-
-Our 140th anniversary beautifully coincides with Singapore's diamond jubilee—60 years of nationhood. Our theme, 'Celebrating our legacy and embracing the future', encapsulates this momentous dual celebration, reflecting both our school's enduring heritage and our nation's remarkable journey. This alignment underscores the deep connection between GESS and Singapore's development, as we have grown together as partners in nation-building and educational excellence.
-
-This milestone year would not have been possible without tremendous support from our community partners and stakeholders. I extend heartfelt gratitude to our partners such as APSN Tanglin School and Henderson Dawson Community Club for providing invaluable opportunities for our graduating cohorts to exercise their self-initiated values-in-action projects. Our appreciation also goes to giving.sg for enabling our school community, partners, parents and the public to contribute meaningfully towards the Singapore Disability Sports Association, demonstrating the spirit of giving that defines our Gessian values.
-
-Special recognition goes to GESSOSA for hosting a truly memorable GESS 140th Anniversary dinner that brought together generations of Gessians in celebration of our shared heritage. I am equally grateful to our School Advisory Committee and Parent-Teacher Association for their unwavering support throughout this anniversary year. Their dedication and partnership have been instrumental in making our celebrations meaningful and successful.
-
-I wish to acknowledge our dedicated staff who have worked tirelessly to plan and execute memorable activities throughout this anniversary year, including our record-breaking Singapore Book of Records achievement, the inspiring Creative Wall project, and our meaningful Founder's Day celebrations. Our students have excelled across many areas—we continue to produce value-added academic results, our CCAs have achieved impressive milestones, and our students consistently shine in their endeavours. These initiatives have created lasting memories and strengthened the bonds within our school community.
-
-Moving forward, our school remains steadfast in our commitment to the Future of Learning. We continue to focus on emerging 21st Century Competencies, educational technology and innovative learning spaces to ensure our Gessians are future-ready. Our dedication to preparing students for tomorrow's challenges drives our continuous progression in pedagogical approaches and educational excellence.
-
-Additionally, our Gessians will benefit from an expanded internationalisation programme covering countries such as China, Thailand and Brunei. These experiences will broaden their global perspectives, deepen their cultural understanding, and prepare them to thrive in an interconnected world.
-
-As we reflect on this remarkable 140-year journey, we celebrate not just our achievements, but the collaborative spirit and unwavering support that continues to propel Gan Eng Seng School towards greater heights. Together, we have created a legacy that honours our past whilst embracing the future with confidence and purpose.
-<br><br><br>
-Onward Gessians!
-
-Ms Tan Hwee Pin
-
-Principal
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:300px" height="auto" width="100%" src="/images/Tan_Hwe_Pin.jpg">
+</div>
+<p></p>
+<p><strong>Doing the Right Things — Transforming Learning for Every Gessian</strong>
+</p>
+<p></p>
+<p>At Gan Eng Seng School, our journey has always been guided by a simple
+yet powerful belief — that education must not only prepare our students
+to succeed but also shape them to do what is right. Over the years, we
+have emphasised the importance of doing things well. As we move forward
+together, we are called to go one step further — to ensure that we are
+doing the right things for every Gessian entrusted to our care.</p>
+<p></p>
+<p>Our founder, Mr Gan Eng Seng, believed deeply in the transformative power
+of education. His legacy continues to inspire us to nurture confident learners,
+principled leaders, and compassionate citizens who embody our school values.
+These values — Respect, Responsibility, Resilience, Integrity and Care
+— remain the foundation upon which we build the Gessian experience. &nbsp;In
+2026, our collective focus is on <strong>Transforming Classroom Practices</strong>.
+We believe that the classroom is where school vision becomes lived reality.
+When learning is engaging, meaningful and authentic, students do not simply
+acquire knowledge — they develop curiosity, agency and confidence. Our
+goal is therefore not only to strengthen teaching strategies, but to enrich
+the daily learning experiences of our students so that every lesson becomes
+an opportunity for growth.</p>
+<p></p>
+<p>This transformation is anchored in three key commitments:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>First, deepening student engagement.</strong>
+<br>We seek to encourage more active participation — where students think
+critically, collaborate meaningfully and apply their learning to real-world
+contexts. Engagement is not about entertainment; it is about ownership.
+When students feel invested in their learning, they are more motivated
+to strive and to persevere.</p>
+</li>
+<li>
+<p><strong>Second, strengthening relationships and belonging.</strong>
+<br>Every Gessian should feel known, valued and supported. Positive relationships
+between teachers and students create the psychological safety necessary
+for learning and growth. We want our students to experience school as a
+place where they are encouraged to take risks, learn from mistakes and
+discover their strengths.</p>
+</li>
+<li>
+<p><strong>Third, nurturing character alongside competence.</strong>
+<br>Academic success remains important, but character defines the choices
+our students make when faced with challenges. Through our programmes and
+daily interactions, we continue to cultivate integrity, empathy and resilience
+— qualities that will serve our students well beyond school.</p>
+</li>
+</ul>
+<p></p>
+<p>As educators, transformation begins with us. We will continue to invest
+in professional learning and collaborative practices so that our teachers
+remain reflective practitioners who innovate with purpose. When teachers
+grow, students flourish. The spirit of “Onward” has been part of Gan Eng
+Seng School since its founding — a reminder that progress is achieved through
+perseverance, courage and collective effort. Today, this spirit calls us
+to embrace change thoughtfully, guided by what matters most: the growth
+and well-being of our students.</p>
+<p></p>
+<p>To our students, I encourage you to make the most of every opportunity
+— to be curious, to be brave in learning, and to care for those around
+you. To our parents and partners, thank you for your continued trust and
+support as we work together to nurture our young people.</p>
+<p></p>
+<p>As one GESS community, let us continue to move <strong>Onward</strong> —
+not just doing things right, but doing the right things — for the future
+of every Gessian.</p>
+<p></p>
+<p><em>Doing the Right Things, Together — Onward as One GESS!</em>
+</p>
+<p>Tan Hwee Pin</p>
+<p>Principal</p>
+<p>Principal</p>
