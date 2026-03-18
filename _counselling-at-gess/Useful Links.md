@@ -9,8 +9,6 @@ variant: markdown
 
 [https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support](https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support)
 
-[https://thetapestryproject.sg/get-help-resources/helplines-support-services-in-singapore/](https://thetapestryproject.sg/get-help-resources/helplines-support-services-in-singapore/)
-
 [https://www.opencounseling.com/hotlines-sg](https://www.opencounseling.com/hotlines-sg)
 
 [https://www.passiton.org.sg/vwo-list](https://www.passiton.org.sg/vwo-list)
