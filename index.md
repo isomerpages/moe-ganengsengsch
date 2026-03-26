@@ -35,20 +35,9 @@ sections:
           announcement: Weighted Assessment (WA) Schedules
           link_text: READ MORE
           link_url: /weighted-assessment/
-        - title: 2026 Joint Admissions Exercise (JAE)
-          date: 14 January 2026
-          announcement: Briefing slides and information on 2026 Joint Admissions Exercise
-            (JAE)
+        - title: 2026 Term 2 Letter to Parents
+          date: 26 March 2026
+          announcement: Term 2 Letter to Parents
           link_text: READ MORE
-          link_url: /briefing-slides-and-information-on-2026-joint-admissions-exercise-jae/
-        - title: Sec 1 Meet Parent Session
-          date: 12 January 2026
-          announcement: Briefing slides for Sec 1 Meet Parent Session
-          link_text: READ MORE
-          link_url: /briefing-slides-for-sec-1-meet-parent-session/
-        - title: 2026 Term 1 Letter to Parents
-          date: 30 December 2025
-          announcement: Term 1 Letter to Parents
-          link_text: READ MORE
-          link_url: /2026-term-1-letter-to-parents/
+          link_url: /2026-term-2-letter-to-parents/
 ---
