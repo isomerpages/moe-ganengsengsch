@@ -4,7 +4,7 @@ permalink: /events/event-calendar/
 description: ""
 variant: tiptap
 ---
-<h3>Key Events for Term 2 (2026) </h3>
+<h3>Key Events for Term 2 (2026)</h3>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -152,8 +152,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>NAPFA 5 Stations conducted during CCA time for Sec 4/5 on 14 Apr, Sec
 2 on 5 May</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>NAPFA 2.4 km Run for Sec 4/5 on 18 Apr, Sec 2 on 9 May</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,11 +211,6 @@ reporting time.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -380,8 +374,7 @@ Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Meet-Parent-Session for selected students in the morning</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>Eat With Your Family Day (No CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -408,8 +401,7 @@ Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General Office is open from 8 am to 5 pm on weekdays.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>Protected Vacation Time from 6 to 21 Jun.</p>
 </td>
 </tr>
