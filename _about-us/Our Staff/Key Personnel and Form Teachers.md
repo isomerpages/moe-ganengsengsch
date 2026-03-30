@@ -374,6 +374,18 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Sheau Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sheau_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_sheau_shan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Zubaidah Binte Lah (ZUL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -561,7 +573,7 @@ variant: tiptap
 <p>Ms Felicia Lee Jia Jie (LJJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jia_jie_f@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jia_jie_f@moe.edu.sg</a>
+<p><a href="mailto:lee_jia_jie_f@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jia_jie_f@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -627,7 +639,7 @@ variant: tiptap
 <p>Ms Thin Lae Yi Zaw (LYZ)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:thin_lae_yi_zaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thin_lae_yi_zaw@moe.edu.sg</a>
+<p><a href="mailto:thin_lae_yi_zaw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thin_lae_yi_zaw@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -649,7 +661,7 @@ variant: tiptap
 <p>Mr Khoo Ding Yuan (KDY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khoo_ding_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ding_yuan@moe.edu.sg</a>
+<p><a href="mailto:Khoo_Ding_Yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ding_yuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -712,7 +724,7 @@ variant: tiptap
 <p>Mr Hao Yi (HY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hao_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hao_yi@moe.edu.sg</a>
+<p><a href="mailto:hao_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hao_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -904,7 +916,7 @@ variant: tiptap
 <p>Mr Tan Hong Yu (THY)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:tan_hong_yu_u@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_yu_u@moe.edu.sg</a>
+<p><a href="mailto:tan_hong_yu_u@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_yu_u@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -926,7 +938,7 @@ variant: tiptap
 <p>Mr Reno Sam Wei Jie (SWJ)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:reno_sam_wei_jie_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">reno_sam_wei_jie_a@moe.edu.sg</a>
+<p><a href="mailto:reno_sam_wei_jie_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">reno_sam_wei_jie_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1035,7 +1047,7 @@ variant: tiptap
 <p>Ms Meena Annamalai (MA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:meena_annamalai@moe.edu.sg" rel="noopener nofollow" target="_blank">meena_annamalai@moe.edu.sg</a>
+<p><a href="mailto:meena_annamalai@schools.gov.sg" rel="noopener nofollow" target="_blank">meena_annamalai@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1056,7 +1068,7 @@ variant: tiptap
 <p>Mr Samuel Leong Yong Jie (LYJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samuel_leong_yong_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_leong_yong_jie@moe.edu.sg</a>
+<p><a href="mailto:Samuel_Leong_Yong_Jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_leong_yong_jie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
