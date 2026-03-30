@@ -724,7 +724,7 @@ variant: tiptap
 <p>Mr Hao Yi (HY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hao_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hao_yi@moe.edu.sg</a>
+<p><a href="mailto:hao_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hao_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -916,7 +916,7 @@ variant: tiptap
 <p>Mr Tan Hong Yu (THY)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:tan_hong_yu_u@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_yu_u@moe.edu.sg</a>
+<p><a href="mailto:tan_hong_yu_u@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_yu_u@schools.gov.sg</a>
 </p>
 </td>
 </tr>
