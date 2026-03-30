@@ -573,7 +573,7 @@ variant: tiptap
 <p>Ms Felicia Lee Jia Jie (LJJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jia_jie_f@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jia_jie_f@moe.edu.sg</a>
+<p><a href="mailto:lee_jia_jie_f@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jia_jie_f@schools.gov.sg</a>
 </p>
 </td>
 </tr>
