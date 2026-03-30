@@ -938,7 +938,7 @@ variant: tiptap
 <p>Mr Reno Sam Wei Jie (SWJ)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:reno_sam_wei_jie_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">reno_sam_wei_jie_a@moe.edu.sg</a>
+<p><a href="mailto:reno_sam_wei_jie_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">reno_sam_wei_jie_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
