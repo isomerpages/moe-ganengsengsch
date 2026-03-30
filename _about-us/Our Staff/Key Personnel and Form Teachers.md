@@ -661,7 +661,7 @@ variant: tiptap
 <p>Mr Khoo Ding Yuan (KDY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khoo_ding_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ding_yuan@moe.edu.sg</a>
+<p><a href="mailto:Khoo_Ding_Yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ding_yuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
