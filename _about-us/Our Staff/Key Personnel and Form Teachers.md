@@ -374,6 +374,18 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Sheau Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sheau_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_sheau_shan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Zubaidah Binte Lah (ZUL)</p>
 </td>
 <td rowspan="1" colspan="1">
