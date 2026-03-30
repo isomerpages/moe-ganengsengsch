@@ -1047,7 +1047,7 @@ variant: tiptap
 <p>Ms Meena Annamalai (MA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:meena_annamalai@moe.edu.sg" rel="noopener nofollow" target="_blank">meena_annamalai@moe.edu.sg</a>
+<p><a href="mailto:meena_annamalai@schools.gov.sg" rel="noopener nofollow" target="_blank">meena_annamalai@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1068,7 +1068,7 @@ variant: tiptap
 <p>Mr Samuel Leong Yong Jie (LYJ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samuel_leong_yong_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_leong_yong_jie@moe.edu.sg</a>
+<p><a href="mailto:Samuel_Leong_Yong_Jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_leong_yong_jie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
