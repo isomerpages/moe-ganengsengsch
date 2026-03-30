@@ -639,7 +639,7 @@ variant: tiptap
 <p>Ms Thin Lae Yi Zaw (LYZ)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:thin_lae_yi_zaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thin_lae_yi_zaw@moe.edu.sg</a>
+<p><a href="mailto:thin_lae_yi_zaw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thin_lae_yi_zaw@schools.gov.sg</a>
 </p>
 </td>
 </tr>
