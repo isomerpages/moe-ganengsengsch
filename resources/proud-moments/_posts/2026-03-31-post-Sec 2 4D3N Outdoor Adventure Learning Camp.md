@@ -21,6 +21,22 @@ zip lining, rock climbing, kayaking, and outdoor cooking. It was another
 meaningful day filled with discovery, teamwork, and learning beyond the
 classroom.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sec_2_LJ_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sec_2_LJ_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sec_2_LJ_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sec_2_LJ_4.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
