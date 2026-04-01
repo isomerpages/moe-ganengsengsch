@@ -148,7 +148,7 @@ is, and recognise that the readiness and interest in dating vary among
 individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ and psychological abuse from others, especially those we know and trust,
 can have strong negative effects on a person’s self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -202,7 +202,7 @@ access and acting irresponsibly or maliciously when online (e.g. spreading
 of online falsehoods, flouting copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -276,7 +276,7 @@ of one’s own unique qualities and characteristics as a male or female</p>
 orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -302,7 +302,7 @@ situations and the importance of exercising discretion to reduce risks
 and avoid negative consequences, both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -328,7 +328,7 @@ risky situations and the importance of exercising discretion to reduce
 risks and avoid negative consequences, both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -402,7 +402,7 @@ when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -435,7 +435,7 @@ are healthy ways of coping with broken relationships, and family and friends
 are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -466,7 +466,7 @@ viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -536,7 +536,9 @@ to the self-esteem of oneself and others and should be avoided</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 1 Week 4</p>
+<p></p>
+<p>Term 2 Week 3 (for Class 4-1)</p>
 </td>
 </tr>
 <tr>
@@ -572,7 +574,9 @@ of ensuring that non-verbal messages match with verbal ones, when communicating
 personal and emotional boundaries in a relationship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 3</p>
+<p></p>
+<p>Term 2 Week 8 (for Clss 4-1)</p>
 </td>
 </tr>
 <tr>
@@ -604,7 +608,9 @@ a couple handles conflict is critical to the success of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 8</p>
+<p></p>
+<p>Term 2 Week 9 (for Class 4-1)</p>
 </td>
 </tr>
 <tr>
@@ -631,7 +637,9 @@ that we strengthen our character when we commit to sound values-based viewpoints
 our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 9</p>
+<p></p>
+<p>Term 3 Week 8 (for Class 4-1)</p>
 </td>
 </tr>
 </tbody>
@@ -696,7 +704,7 @@ our character when we commit to sound values-based viewpoints (e.g. respect
 for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be conducted during CCE lessons</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 </tbody>
