@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Sec 4 and 5 Meet Parent Session
+          date: 06 April 2026
+          announcement: Briefing slides for Sec 4 and 5 Meet Parent Session
+          link_text: READ MORE
+          link_url: /briefing-slides-for-sec-4-and-5-meet-parent-session/
         - title: 2026 Term 2 Letter to Parents
           date: 26 March 2026
           announcement: Term 2 Letter to Parents
