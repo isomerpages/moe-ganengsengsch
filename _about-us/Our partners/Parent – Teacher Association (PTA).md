@@ -65,7 +65,7 @@ and</p>
 <p>Vice President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stefanie Chye Yen Leng</p>
+<p>How Teck Chye</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,8 @@ and</p>
 <p>Assistant Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>How Teck Chye</p>
+<p>Rajaram</p>
+<p>Thulairam</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +127,6 @@ and</p>
 <p>EXCO members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rajaram Thulasiraman</p>
 <p>Florence Lau Yuok See</p>
 <p>Fong Ching Hwa</p>
 <p>Poh Cheng Boon</p>
