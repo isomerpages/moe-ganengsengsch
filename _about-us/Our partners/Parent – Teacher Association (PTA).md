@@ -3,7 +3,7 @@ title: Parent – Teacher Association (PTA)
 permalink: /partners/parent-teacher-association/
 description: ""
 third_nav_title: Our partners
-variant: markdown
+variant: tiptap
 ---
 <h3>Our Mission</h3>
 <p>The PTA is committed towards promoting close co-operation and understanding
@@ -18,17 +18,12 @@ school and parents in matters relating to the education of the student</p>
 <p>(c) to promote social interaction and fellowship among parents and teachers;
 and</p>
 <p>(d) to provide financial assistance to needy students.</p>
-<p>
-<br>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTA_Exco_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTA_2026_Team______Compatibility_Mode.jpg">
 </div>
 <p>
-<br>
-</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -70,7 +65,7 @@ and</p>
 <p>Vice President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stefanie Chye Yen Leng</p>
+<p>How Teck Chye</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +89,8 @@ and</p>
 <p>Assistant Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>How Teck Chye</p>
+<p>Rajaram</p>
+<p>Thulairam</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +127,6 @@ and</p>
 <p>EXCO members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rajaram Thulasiraman</p>
 <p>Florence Lau Yuok See</p>
 <p>Fong Ching Hwa</p>
 <p>Poh Cheng Boon</p>
@@ -191,10 +186,10 @@ and</p>
 <p>EXCO-School Rep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Chuan Hwee</p>
+<p>Ms Esther Wong Teck Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / PE &amp; CCA</p>
+<p>HOD / Humanities</p>
 </td>
 </tr>
 <tr>
@@ -206,10 +201,10 @@ and</p>
 <p>EXCO-School Rep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Laura Lim Hwee Mean</p>
+<p>Mr Goh Chuan Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue</p>
+<p>HOD / PE &amp; CCA</p>
 </td>
 </tr>
 </tbody>
