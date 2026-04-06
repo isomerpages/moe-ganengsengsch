@@ -186,10 +186,10 @@ and</p>
 <p>EXCO-School Rep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Chuan Hwee</p>
+<p>Ms Esther Wong Teck Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / PE &amp; CCA</p>
+<p>HOD / Humanities</p>
 </td>
 </tr>
 <tr>
