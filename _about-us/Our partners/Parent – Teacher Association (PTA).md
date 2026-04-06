@@ -23,7 +23,7 @@ and</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTA_2026_Team______Compatibility_Mode.jpg">
 </div>
 <p>
-<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
