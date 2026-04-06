@@ -21,7 +21,7 @@ doing the right things for every Gessian entrusted to our care.
 Our founder, Mr Gan Eng Seng, believed deeply in the transformative power
 of education. His legacy continues to inspire us to nurture confident learners,
 principled leaders, and compassionate citizens who embody our school values.
-These values — Respect, Responsibility, Resilience, Integrity and Care
+These values — Integrity, Compassion, Resilience, Discipline and Respect
 — remain the foundation upon which we build the Gessian experience. &nbsp;<br><br>In
 2026, our collective focus is on <strong>Transforming Classroom Practices</strong>.
 We believe that the classroom is where school vision becomes lived reality.
