@@ -201,10 +201,10 @@ and</p>
 <p>EXCO-School Rep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Laura Lim Hwee Mean</p>
+<p>Mr Goh Chuan Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue</p>
+<p>HOD / PE &amp; CCA</p>
 </td>
 </tr>
 </tbody>
