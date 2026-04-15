@@ -7,42 +7,42 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p>Our paddlers gave it their all at the National School Games (NSG) held
+Our paddlers gave it their all at the National School Games (NSG) held
 at MacRitchie Reservoir from 6th to 9th April, and we are proud to celebrate
-their achievements on the water!</p>
-<p>Here are our medal finishes:</p>
-<p>B-Girls K4-500m</p>
-<p>3rd Position</p>
-<p>Tan Shi Ya Giselle</p>
-<p>Teo Ruo Syin</p>
-<p>Chong Wan Er</p>
-<p>Amelia Oh Cheng Xi</p>
-<p>C-Girls K4-500m</p>
-<p>4th Position</p>
-<p>Natrisha Jefri Abraham</p>
-<p>Shapple Joy Toc</p>
-<p>Emma Toh Kit Mun</p>
-<p>Sharmaine Pan Hwee Sin</p>
-<p>B-Girls K4-1000m</p>
-<p>3rd Position</p>
-<p>Nur Zakiah Binte Mohd Fared</p>
-<p>Teo Ruo Syin</p>
-<p>Chong Wan Er</p>
-<p>Amelia Oh Cheng Xi</p>
-<p>C-Girls K1-1000m</p>
-<p>2nd Position</p>
-<p>Zhang Yubo</p>
-<p>C-Girls K1-500m</p>
-<p>3rd Position</p>
-<p>Zhang Yubo</p>
-<p>C-Girls JK2-500m</p>
-<p>4th Position</p>
-<p>Natrisha Jefri Abraham</p>
-<p>Shapple Joy Toc</p>
-<p>From weekly trainings to race-day grit, our athletes showed resilience,
+their achievements on the water!<br><br>
+Here are our medal finishes:<br><br>
+B-Girls K4-500m<br>
+3rd Position<br>
+Tan Shi Ya Giselle<br>
+Teo Ruo Syin<br>
+Chong Wan Er<br>
+Amelia Oh Cheng Xi<br><br>
+C-Girls K4-500m<br>
+4th Position<br>
+Natrisha Jefri Abraham<br>
+Shapple Joy Toc<br>
+Emma Toh Kit Mun<br>
+Sharmaine Pan Hwee Sin<br><br>
+B-Girls K4-1000m<br>
+3rd Position<br>
+Nur Zakiah Binte Mohd Fared<br>
+Teo Ruo Syin<br>
+Chong Wan Er<br>
+Amelia Oh Cheng Xi<br><br>
+C-Girls K1-1000m<br>
+2nd Position<br>
+Zhang Yubo<br><br>
+C-Girls K1-500m<br>
+3rd Position<br>
+Zhang Yubo<br><br>
+C-Girls JK2-500m<br>
+4th Position<br>
+Natrisha Jefri Abraham<br>
+Shapple Joy Toc<br><br>
+From weekly trainings to race-day grit, our athletes showed resilience,
 teamwork, and determination throughout the competition. We are incredibly
 proud of every paddler who represented the school so courageously! Onward,
-Gessians!</p>
+Gessians!<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Canoe_1_.jpg">
