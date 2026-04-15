@@ -60,7 +60,7 @@ and mindsets essential for success in school and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Global literacy through Geograph Lesson</p>
+<p>Global literacy through Geography Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Inquiry-based Physics lesson</p>
