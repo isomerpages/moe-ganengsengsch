@@ -11,31 +11,31 @@ Our paddlers gave it their all at the National School Games (NSG) held
 at MacRitchie Reservoir from 6th to 9th April, and we are proud to celebrate
 their achievements on the water!<br><br>
 Here are our medal finishes:<br><br>
-B-Girls K4-500m<br>
+**B-Girls K4-500m**<br>
 3rd Position<br>
 Tan Shi Ya Giselle<br>
 Teo Ruo Syin<br>
 Chong Wan Er<br>
 Amelia Oh Cheng Xi<br><br>
-C-Girls K4-500m<br>
+**C-Girls K4-500m**<br>
 4th Position<br>
 Natrisha Jefri Abraham<br>
 Shapple Joy Toc<br>
 Emma Toh Kit Mun<br>
 Sharmaine Pan Hwee Sin<br><br>
-B-Girls K4-1000m<br>
+**B-Girls K4-1000m**<br>
 3rd Position<br>
 Nur Zakiah Binte Mohd Fared<br>
 Teo Ruo Syin<br>
 Chong Wan Er<br>
 Amelia Oh Cheng Xi<br><br>
-C-Girls K1-1000m<br>
+**C-Girls K1-1000m**<br>
 2nd Position<br>
 Zhang Yubo<br><br>
-C-Girls K1-500m<br>
+**C-Girls K1-500m**<br>
 3rd Position<br>
 Zhang Yubo<br><br>
-C-Girls JK2-500m<br>
+**C-Girls JK2-500m**<br>
 4th Position<br>
 Natrisha Jefri Abraham<br>
 Shapple Joy Toc<br><br>
