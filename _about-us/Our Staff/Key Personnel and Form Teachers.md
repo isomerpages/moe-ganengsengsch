@@ -1089,7 +1089,7 @@ variant: tiptap
 <p>Ms Claire Wong (WKI)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Claire_Wong_Kaii@schools.gov.sg" rel="noopener noreferrer" target="_blank">claire_wong_kail@schools.gov.sg</a>
+<p><a href="mailto:claire_wong_kaii@schools.gov.sg" rel="noopener nofollow" target="_blank">claire_wong_kaii@schools.gov.sg</a>
 </p>
 </td>
 </tr>
