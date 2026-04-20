@@ -368,6 +368,9 @@ admissions.</p>
 <p>The grade mapping table to aggregate scores across subjects offered at
 different subject levels for post-secondary progression is below.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Grade_Mapping_Table.png">
+</div>
 <p>For more information on the secondary school experience under Full SBB,
 please refer to the following website.</p>
 <p><a href="https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/secondary-school-experience?pt=For%20S1%20cohorts%20in%202024%20and%20beyond" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/secondary-school-experience?pt=For%20S1%20cohorts%20in%202024%20and%20beyond</a>
