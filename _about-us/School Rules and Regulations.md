@@ -401,8 +401,8 @@ if they are found to be in inappropriate attire.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must not wear any jewellery, coloured contact lenses or religious
-ornaments to school. In addition, students must keep their fingenails short
-and clean and there must be no tattoos on any part of the body.</p>
+ornaments to school. In addition, students must keep their fingernails
+short and clean and there must be no tattoos on any part of the body.</p>
 </td>
 </tr>
 <tr>
