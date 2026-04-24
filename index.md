@@ -30,6 +30,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2026 Direct School Admission Exercise
+          date: 24 April 2026
+          announcement: 2026 Direct School Admission (DSA-Sec) Exercise for Admission to
+            Secondary 1 in 2027
+          link_text: READ MORE
+          link_url: /school-information/school-admission/
         - title: Sec 2 Meet Parent Session
           date: 22 April 2026
           announcement: Briefing slides for Sec 2 Meet Parent Session
