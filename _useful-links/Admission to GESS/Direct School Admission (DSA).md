@@ -3,11 +3,12 @@ title: Direct School Admission (DSA)
 permalink: /school-information/school-admission/
 description: ""
 third_nav_title: Admission to GESS
-variant: markdown
+variant: tiptap
 ---
-<h4><strong>2025 Direct School Admission (DSA-Sec) Exercise<br>for Admission to Secondary 1 in 2026</strong></h4>
-<p>Welcome to Gan Eng Seng School 2025 DSA-Sec Exercise.</p>
-<p>The following categories are open for DSA application for the 2026 intake:</p>
+<p><strong><br>2026 Direct School Admission (DSA-Sec) Exercise<br>for Admission to Secondary 1 in 2027</strong>
+</p>
+<p>Welcome to Gan Eng Seng School 2026 DSA-Sec Exercise.</p>
+<p>The following categories are open for DSA application for the 2027 intake:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>STEM (Boys and Girls)</p>
@@ -38,7 +39,7 @@ variant: markdown
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>Please refer to <a href="/files/DSA_GESS_2025_Portal_Upload_Final_V3.pdf" rel="noopener nofollow" target="_blank">Gan Eng Seng School Direct School Admission (DSA) Exercise 2025</a>
+<p>Please refer to <a href="/files/DSA_GESS_2026_For_School_Portal_Final.pdf" rel="noopener nofollow" target="_blank">Gan Eng Seng School Direct School Admission (DSA) Exercise 2026</a>
 </p>
 <p>&nbsp;Applicants who do not have prior experience may also apply. The
 school will assess applicants based on the selection criteria, which may
@@ -46,7 +47,7 @@ include assessing the potential of the applicants</p>
 <p>For more information on DSA-Sec, please refer to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MOE DSA-Sec webpage:&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p>MOE DSA-Sec webpage:&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 </li>
 <li>
@@ -54,6 +55,9 @@ include assessing the potential of the applicants</p>
 </p>
 </li>
 </ul>
-<p>We thank you for your interest in Gan Eng Seng School</p>
+<p>We thank you for your interest in Gan Eng Seng School.</p>
 <p>Onward</p>
-
+<p></p>
+<p></p>
+<p>&nbsp;</p>
+<p></p>
