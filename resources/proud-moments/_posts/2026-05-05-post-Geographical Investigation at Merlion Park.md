@@ -43,6 +43,9 @@ the classroom.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Geog_5.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Geog_6.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
