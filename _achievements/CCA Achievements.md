@@ -5,6 +5,122 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<h2>2026</h2>
+<p><strong>Uniformed Groups</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Results</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC (Land)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys’ Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>J M Fraser Award Excellence Honour Roll Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls’ Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Girls’ Brigade Company Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dragon Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SJB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corps Achievement Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h2>2025</h2>
 <p><strong>Physical Sports</strong>
 </p>
