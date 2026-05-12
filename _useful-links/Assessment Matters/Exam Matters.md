@@ -9,6 +9,13 @@ variant: markdown
 
 [Examination Rules And Regulations](/files/examination%20rules%20and%20regulations%202023.pdf)
 
+<h5 style="color:black">Sec 4 &amp; 5 Preliminary Examination 2026</h5>
+Exam schedules
+
+
+Exam format and topics
+
+
 <h5 style="color:black">Approved Calculator List</h5>
 
 [Guidelines for Calculators](https://www.seab.gov.sg/)
