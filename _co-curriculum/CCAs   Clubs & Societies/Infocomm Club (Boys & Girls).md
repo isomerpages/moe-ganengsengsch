@@ -131,7 +131,7 @@ through hands-on learning.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>**Lights, Sound, Camera, Action!** </strong>
 <br>
 <br>Infocomm Club @ GESS develops students’ skills and confidence in audio-visual
@@ -154,9 +154,6 @@ through their own lenses.
 <p>
 <br>Join Infocomm Club @ GESS and turn your interest in media production into
 meaningful service to the school!</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
