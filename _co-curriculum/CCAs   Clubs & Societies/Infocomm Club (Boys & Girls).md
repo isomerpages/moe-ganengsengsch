@@ -86,12 +86,11 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Jansen Tan
-<br>Ms Umamageswari</p>
+<br>Mr Brandon Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>President: Aricia Seah Qin Xuan (4-2)
-<br>Vice-President: Siow Wen Jie (4-3)
-<br>Vice-President: Ng Jing Hong (4-4)
+<p>President: Lai Xiang Lin Andrea (3-5)
+<br>Vice-President: Isabel Wee Shi Yan (3-5)
 <br>
 </p>
 </td>
