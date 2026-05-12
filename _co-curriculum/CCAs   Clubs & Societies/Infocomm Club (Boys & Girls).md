@@ -7,48 +7,203 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_2.jpg">
 </div>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_3.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student leaders attend the annual IMDA LEAD Conference, where they learn
+from industry experts and gain insights into media, technology and leadership.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students represent the school in MOE’s Our Schools, Our Stories, a contest
+and exhibition that celebrates the vibrant and diverse experiences of school
+life.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_5.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_6.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students completed the Apple New Media Programme, supported by the IMDA
+LEARN Roadmap, where they develop creative and digital communication skills
+through hands-on learning.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_7.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_8.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students set up microphones, mixers and speakers for live events, learning
+to stay focused and responsive while working under time pressure.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_9.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_10.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students apply videography skills and handle video switchers to manage
+livestreams for school events.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_11.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_12.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students explore composition, lighting and storytelling techniques to
+express ideas and emotions through images.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_13.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_14.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students plan and run interactive sessions at Henderson Crescent RC, building
+intergenerational connections through games and performances.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_15.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_16.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_10.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_11.jpg">
-</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students take part in team-building activities and reflect on their growth
+and learning.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
@@ -86,12 +241,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Jansen Tan
-<br>Ms Umamageswari</p>
+<br>Mr Brandon Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>President: Aricia Seah Qin Xuan (4-2)
-<br>Vice-President: Siow Wen Jie (4-3)
-<br>Vice-President: Ng Jing Hong (4-4)
+<p>President: Lai Xiang Lin Andrea (3-5)
+<br>Vice-President: Isabel Wee Shi Yan (3-5)
 <br>
 </p>
 </td>
@@ -106,29 +260,28 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>**Lights, Sound, Camera, Action!** </strong>
 <br>
-<br>The Infocomm Club @ GESS aims to fuel students’ passion for audio-visual
-production and develop them to be responsible members with the ability
-to adapt to change and think on their feet to provide smooth AV support
-for live events.
+<br>Infocomm Club @ GESS develops students’ skills and confidence in audio-visual
+production, while nurturing responsible members who can adapt, think on
+their feet and stay calm under pressure during live events.
+<br>Students will learn technical skills in photography, live sound, livestreaming
+and video production. Through hands-on training and real event support,
+they will learn how to operate cameras, microphones, mixers, speakers and
+video switchers with care and confidence.
+<br>Beyond technical skills, students will also explore the creative side
+of media production. They will learn to use composition, lighting, sound
+and storytelling techniques to capture school life and communicate ideas
+through their own lenses.
 <br>
-<br>Students will be equipped with technical expertise in areas such as photography,
-live sound, live streaming and video production. Coupled with the artistic
-and creative aspects of audio-visual production, students will have opportunities
-to present their captivating narratives through their own lenses.
-<br>
-<br>Students will pick up skills in event management and coordination as they
-work together as a team on projects and support morning assemblies and
-school events throughout the year. Strong friendships and a sense of camaraderie
-among members are forged in the collaborative process of serving the school
-together.
-<br>
-<br>Join Infocomm Club @ GESS and turn your passion for audio-visual production
-into a valuable contribution to the school community!</p>
-</td>
-<td rowspan="1" colspan="1">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_1.jpg">
+</div>
+<p>
+<br>Join Infocomm Club @ GESS and turn your interest in media production into
+meaningful service to the school!</p>
 <p></p>
 </td>
 </tr>
