@@ -30,22 +30,17 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Sec 4 & 5 Preliminary Examination 2026
+          date: 12 May 2026
+          announcement: Exam schedules & Exam format and topics
+          link_text: READ MORE
+          link_url: /school-information/exam-matters/
         - title: 2026 Direct School Admission Exercise
           date: 24 April 2026
           announcement: 2026 Direct School Admission (DSA-Sec) Exercise for Admission to
             Secondary 1 in 2027
           link_text: READ MORE
           link_url: /school-information/school-admission/
-        - title: Sec 2 Meet Parent Session
-          date: 22 April 2026
-          announcement: Briefing slides for Sec 2 Meet Parent Session
-          link_text: READ MORE
-          link_url: /briefing-slides-for-sec-2-meet-parent-session/
-        - title: Sec 4 and 5 Meet Parent Session
-          date: 06 April 2026
-          announcement: Briefing slides for Sec 4 and 5 Meet Parent Session
-          link_text: READ MORE
-          link_url: /briefing-slides-for-sec-4-and-5-meet-parent-session/
         - title: 2026 Term 2 Letter to Parents
           date: 26 March 2026
           announcement: Term 2 Letter to Parents
