@@ -147,7 +147,6 @@ and storytelling techniques to capture school life and communicate ideas
 through their own lenses.
 <br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_1.jpg">
 </div>
