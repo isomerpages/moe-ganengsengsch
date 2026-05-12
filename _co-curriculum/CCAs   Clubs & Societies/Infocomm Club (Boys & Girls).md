@@ -108,24 +108,17 @@ variant: markdown
 <td rowspan="1" colspan="2">
 <p><strong>**Lights, Sound, Camera, Action!** </strong>
 <br>
-<br>The Infocomm Club @ GESS aims to fuel students’ passion for audio-visual
-production and develop them to be responsible members with the ability
-to adapt to change and think on their feet to provide smooth AV support
-for live events.
+<br>Infocomm Club @ GESS develops students’ skills and confidence in audio-visual production, while nurturing responsible members who can adapt, think on their feet and stay calm under pressure during live events.
 <br>
-<br>Students will be equipped with technical expertise in areas such as photography,
-live sound, live streaming and video production. Coupled with the artistic
-and creative aspects of audio-visual production, students will have opportunities
-to present their captivating narratives through their own lenses.
+Students will learn technical skills in photography, live sound, livestreaming and video production. Through hands-on training and real event support, they will learn how to operate cameras, microphones, mixers, speakers and video switchers with care and confidence.
 <br>
-<br>Students will pick up skills in event management and coordination as they
-work together as a team on projects and support morning assemblies and
-school events throughout the year. Strong friendships and a sense of camaraderie
-among members are forged in the collaborative process of serving the school
-together.
+Beyond technical skills, students will also explore the creative side of media production. They will learn to use composition, lighting, sound and storytelling techniques to capture school life and communicate ideas through their own lenses.
 <br>
-<br>Join Infocomm Club @ GESS and turn your passion for audio-visual production
-into a valuable contribution to the school community!</p>
+</p><p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_1.jpg">
+</div>	
+<br>Join Infocomm Club @ GESS and turn your interest in media production into meaningful service to the school!<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
