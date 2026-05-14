@@ -76,19 +76,18 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Asnur Mursalin
-<br>Miss Wong Jing Ning</p>
+<br>Ms Meena Annamalai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teh Boon Kiat (Robin)
+<p>Ms Seah Li Ling (Orange)
 <br>
-<br>Ms Seah Li Ling (Orange)</p>
+<br>Mr Teh Boon Kiat (Robin)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>President:</strong>
-<br>Emmi Ang Hui Mei (4-7)
+<br>Makayla Kate Tan May Yin (3-4)
 <br><strong>Vice Presidents:</strong>
-<br>Elise Claire Lim Ming En (4-5)</p>
-<p>Nur Angelina Lim Li Min Binte Muhammad Bob Lim (4-3)J</p>
+<br>Avril Isabelle Ang (3-6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday: 3pm-5pm Friday: 2pm-5pm</p>
