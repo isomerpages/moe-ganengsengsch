@@ -51,12 +51,9 @@ variant: tiptap
 <p><strong>Name of CCA:</strong>
 </p>
 </th>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <p><strong>Modern Dance</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -93,7 +90,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="4">
 <p>GESS Modern Dance (also known as Dance Ensemble) is about undertaking
 a journey to explore various dance genres while at the same time, focusing
 more on Hip Hop and Street Dance. With great determination, perseverance
@@ -137,9 +134,6 @@ Prelims (YouTube) <a href="https://www.youtube.com/watch?v=rcw9GWl_JaM" rel="noo
 <br>Gan Eng Seng School | Super 24 2018 Secondary Category Finals (YouTube)
 <a href="https://www.youtube.com/watch?v=U6wMJChNT9E" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=U6wMJChNT9E</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
