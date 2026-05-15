@@ -60,14 +60,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr. Lim Yu Tian Keith (1st Teacher IC)
 <br>Mr Marcus Quek Zhi Whui
-<br>Mr Tan Kay Chuan
+<br>Mr. Hao Yi, David
+<br>Mr. Tan Kay Chuan
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Kevin Soon (Captain, VAL)
 <br>Mr. Roger Teo (Officer-OC, VAL)
-<br>Mr. Joshua Loke (Officer, VAL)
 <br>Mr. Han Ghim Seu (Officer, VAL)
 <br>
 <br>Cyrus Tan (Primer, yr3)
@@ -81,11 +81,16 @@ variant: tiptap
 <br>Li Yin Tak (Primer, yr 2)
 <br>Yong Bin Zhi (Primer, yr 2)
 <br>Clarence Yap (Primer, yr 2)
-<br>Azriel Sim (Primer, yr 2)</p>
+<br>Azriel Sim (Primer, yr 2)
+<br>
+<br>Balasubramaniam Sriram (Primer, yr 1)
+<br>Hector Lee Yong Fong (Primer, yr 1)
+<br>Winston Mohan-He (Primer, yr 1)
+<br>Yap Rong-Yan (Primer, yr 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oh Li Herng (CSM)
-<br>Jonas Wong Xiu Hao (Dy-CSM)
+<p>Leong Yee Hern (CSM)
+<br>Tang Le-En, Ian (Dy-CSM)
 <br>
 </p>
 </td>
@@ -147,58 +152,69 @@ courses and financial literacy courses.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Our Achievements (of past 3 years)</strong>
+<p><strong>Our Achievements (of recent 3 years)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sustained J M Fraser Unit Gold / High Distinction Award since 2013 (assessment
 year of 2012)</p>
 <p></p>
+<p><strong><u>2026</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Founder’s Award 2026 (Jaden Sin Jun Fon; Oh Li Herng; Shi Jiajun Ashton)</p>
+</li>
+<li>
+<p>J M Fraser Award for Excellence Honour Roll (Assessment Year 2025)&nbsp;–
+Unit High Distinction Award</p>
+</li>
+<li>
+<p>BB Blaze 2026 - Silver Honour Roll</p>
+</li>
+</ul>
+<p></p>
 <p><strong><u>2025</u></strong>
 </p>
-<p>o &nbsp; Founder’s Award 2025</p>
-<p>o&nbsp;&nbsp; Balasubramaniam Sriram</p>
-<p>o&nbsp;&nbsp; Goh Kai Xuan Ryan</p>
-<p>o&nbsp;&nbsp; Ho Yao Wen Alfred</p>
-<p>o&nbsp;&nbsp; Winston Mohan-He</p>
-<p>o&nbsp;&nbsp; Yap Rong-Yan</p>
-<p>o&nbsp;&nbsp; Zhang Jie Xiang</p>
-<p>o&nbsp; J M Fraser Award for Excellence Honour Roll (Assessment Year 2024)&nbsp;–
+<ul data-tight="true" class="tight">
+<li>
+<p>Founder’s Award 2025 (Balasubramaniam Sriram; Goh Kai Xuan Ryan; Ho Yao
+Wen Alfred; Winston Mohan-He; Yap Rong-Yan; Zhang Jie Xiang)</p>
+</li>
+<li>
+<p>J M Fraser Award for Excellence Honour Roll (Assessment Year 2024)&nbsp;–
 Unit High Distinction Award</p>
-<p>o&nbsp; BB Blaze 2025 - Silver Honour Roll</p>
-<p>o&nbsp; SP Chua Medal (a.k.a. Best Boy Award) 2024: Yap Rong-Yan</p>
+</li>
+<li>
+<p>BB Blaze 2025 - Silver Honour Roll</p>
+</li>
+<li>
+<p>SP Chua Medal (a.k.a. Best Boy Award) 2025: Yap Rong-Yan</p>
+</li>
+</ul>
 <p></p>
 <p><strong><u>2024</u></strong>
 </p>
-<p>o&nbsp; BB Character Quest 2024: Silver Honour Roll</p>
-<p>o&nbsp; Founder’s Award 2024</p>
-<p>o&nbsp;&nbsp; Clarence Yap</p>
-<p>o&nbsp;&nbsp; Federico Jeremiah Umadac</p>
-<p>o&nbsp;&nbsp; Hidalgo Vince Dwayne Nequinto</p>
-<p>o&nbsp;&nbsp; Htoo Myat Win</p>
-<p>o&nbsp;&nbsp; Isaac Luke Ng Le Yu</p>
-<p>o&nbsp;&nbsp; Jerome Loke</p>
-<p>o&nbsp;&nbsp; Li Yin Tak</p>
-<p>o&nbsp; J M Fraser Award for Excellence Honour Roll (Assessment Year 2023)&nbsp;–
+<ul data-tight="true" class="tight">
+<li>
+<p>BB Character Quest 2024: Silver Honour Roll</p>
+</li>
+<li>
+<p>Founder’s Award 2024 (Clarence Yap; Federico Jeremiah Umadac; Hidalgo
+Vince Dwayne Nequinto; Htoo Myat Win; Isaac Luke Ng Le Yu; Jerome Loke;
+Li Yin Tak)</p>
+</li>
+<li>
+<p>J M Fraser Award for Excellence Honour Roll (Assessment Year 2023)&nbsp;–
 Unit High Distinction Award</p>
-<p>o&nbsp; BB Blaze 2024 - Gold Honour Roll</p>
-<p>o&nbsp; SP Chua Medal (a.k.a. Best Boy Award) 2024: Clarence Yap</p>
-<p></p>
-<p><strong><u>2023</u></strong>
+</li>
+<li>
+<p>BB Blaze 2024 - Gold Honour Roll</p>
+<p>SP Chua Medal (a.k.a. Best Boy Award) 2024: Clarence Yap</p>
+</li>
+</ul>
+<p><strong><u>&nbsp;</u></strong>
 </p>
-<p>o&nbsp; BB Character Quest 2023: Silver Honour Roll</p>
-<p>o&nbsp; Founder’s Award 2023</p>
-<p>o&nbsp;&nbsp; Cyrus Tan</p>
-<p>o&nbsp;&nbsp; Ethan Coong Wen-Yi</p>
-<p>o&nbsp;&nbsp; Kuang Sett Myint San</p>
-<p>o&nbsp;&nbsp; Loh Deron</p>
-<p>o&nbsp;&nbsp; Mohamed Sirajudeen Bin Mohamed Rabik</p>
-<p>o&nbsp;&nbsp; Mohamed Suhail</p>
-<p>o&nbsp;&nbsp; Yap Jia Ying Jordan</p>
-<p>o&nbsp; J M Fraser Award for Excellence Honour Roll (Assessment Year 2022)&nbsp;–
-Unit High Distinction Award</p>
-<p>o&nbsp; BB Blaze 2023 - Gold Honour Roll</p>
-<p>o&nbsp; SP Chua Medal (a.k.a. Best Boy Award) 2023: Yap Jia Yong Jordan</p>
 </td>
 </tr>
 <tr>
