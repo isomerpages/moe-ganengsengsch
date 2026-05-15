@@ -58,9 +58,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Lim Yu Tian Keith (1st Teacher IC)
-<br>Mr Marcus Quek Zhi Whui
-<br>Mr Tan Kay Chuan
+<p>Mr. Lim Yu Tian Keith (1st Teacher IC)</p>
+<p>Mr Marcus Quek Zhi Whui</p>
+<p>Mr. Hao Yi, David</p>
+<p>Mr. Tan Kay Chuan
 <br>
 </p>
 </td>
