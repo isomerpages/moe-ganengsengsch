@@ -58,17 +58,16 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Lim Yu Tian Keith (1st Teacher IC)</p>
-<p>Mr Marcus Quek Zhi Whui</p>
-<p>Mr. Hao Yi, David</p>
-<p>Mr. Tan Kay Chuan
+<p>Mr. Lim Yu Tian Keith (1st Teacher IC)<br>
+Mr Marcus Quek Zhi Whui<br>
+Mr. Hao Yi, David<br>
+Mr. Tan Kay Chuan
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Kevin Soon (Captain, VAL)
 <br>Mr. Roger Teo (Officer-OC, VAL)
-<br>Mr. Joshua Loke (Officer, VAL)
 <br>Mr. Han Ghim Seu (Officer, VAL)
 <br>
 <br>Cyrus Tan (Primer, yr3)
@@ -82,11 +81,15 @@ variant: markdown
 <br>Li Yin Tak (Primer, yr 2)
 <br>Yong Bin Zhi (Primer, yr 2)
 <br>Clarence Yap (Primer, yr 2)
-<br>Azriel Sim (Primer, yr 2)</p>
+<br>Azriel Sim (Primer, yr 2)<br>
+<br>Balasubramaniam Sriram (Primer, yr 1)
+<br>Hector Lee Yong Fong (Primer, yr 1)
+<br>Winston Mohan-He (Primer, yr 1)
+<br>Yap Rong-Yan (Primer, yr 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oh Li Herng (CSM)
-<br>Jonas Wong Xiu Hao (Dy-CSM)
+<p>Leong Yee Hern (CSM)
+<br>Tang Le-En, Ian (Dy-CSM)
 <br>
 </p>
 </td>
@@ -148,7 +151,7 @@ courses and financial literacy courses.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Our Achievements (of past 3 years)</strong>
+<p><strong>Our Achievements (of recent 3 years)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
