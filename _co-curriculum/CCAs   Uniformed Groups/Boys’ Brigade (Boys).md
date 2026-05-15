@@ -213,8 +213,7 @@ Unit High Distinction Award</p>
 <p>SP Chua Medal (a.k.a. Best Boy Award) 2024: Clarence Yap</p>
 </li>
 </ul>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
