@@ -7,7 +7,7 @@ variant: markdown
 ---
 <h5 style="color:black">Exam Rules and Regulations</h5>
 
-[Examination Rules And Regulations](/files/examination%20rules%20and%20regulations%202023.pdf)
+[Examination Rules And Regulations](/files/Exam_rules_regulations_2026_student_handbook_Pg_31_32.pdf)
 
 <h5 style="color:black">Sec 4 &amp; 5 Preliminary Examination 2026</h5>
 
