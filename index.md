@@ -31,7 +31,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Sec 4 & 5 Preliminary Examination 2026
-          date: 12 May 2026
+          date: 18 May 2026
           announcement: Exam schedules & Exam format and topics
           link_text: READ MORE
           link_url: /school-information/exam-matters/
