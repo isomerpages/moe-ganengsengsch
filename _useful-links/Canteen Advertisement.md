@@ -2,7 +2,7 @@
 title: Canteen Advertisement
 permalink: /useful-links/permalink/canteenadvertisement/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong>School Canteen Advertisement</strong>
 </p>
@@ -82,10 +82,23 @@ via email OR to the School’s General Office.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: Redhill MRT or Tiong Bahru MRT</p>
+Nearest MRT: Tiong Bahru Station, Redhill Station (approximately 11-minute
+walk)<br>
 </li>
 <li>
-<p>Bus number: 16, 32, 33, 51, 63, 64, 120, 122, 139, 186, 851, 970</p>
+By Bus<br>
+51, 122, 132, 139 and 186<br>
+Bus Stop 10241 (Gan Eng Seng School, Alexandra Road)<br>
+Bus Stop 10249 (Opposite Gan Eng Seng School, Alexandra Road]<br><br>
+14, 32, 64, 65, and 121<br>
+Bus stop 10389 (Blk 48, Lower Delta Road)<br>
+Bus stop 10381 (Opposite Blk 48, Lower Delta Road)<br>
+From either stop, walk toward the junction of Henderson Road and
+Alexandra
+The school is located at 1 Henderson Road, about an 8-minute walk (550m) from the Lower Delta Road bus stops. 
+<br><br>16, 33, 63 and 851<br>
+Stop 10179 (Tiong Bahru Park toward Bukit Merah Interchange
+<br>Stop 10171 (Opp Tiong Bahru Park heading toward Yishun Interchange<br>
 </li>
 </ul>
 <p><strong>Interest applicants must meet the following criteria:</strong>
