@@ -2,6 +2,169 @@
 title: Contact Information
 permalink: /about-us/contact-us/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<p><strong>Address:</strong>&nbsp;1 Henderson Road, Singapore 159561<br><strong>Tel:</strong>&nbsp;6474 5594<br><strong>Fax:</strong>&nbsp;6473 2479<br><strong>E-mail:</strong>&nbsp;<a href="mailto:gess@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gess@moe.edu.sg</a></p><p><strong>Office Hour:</strong>&nbsp;Monday – Friday, 8.00 AM – 5.30 PM</p><table><tbody><tr><td rowspan="1" colspan="1"><p>The operation hours for the turnstile gate at the rear and the side (bus-stop) of the school are as followed:</p><p><strong><u>REAR GATE</u></strong></p><p><strong><u>OPERATING HOURS</u></strong></p><p><strong>MONDAY</strong></p><p>Entry : 7.40 AM-8.41 AM</p><p>EXIT&nbsp;&nbsp; : 3.00 PM-6.30PM</p><p><strong>TUESDAY and FRIDAY :</strong></p><p>Entry : 6.30 AM-7.41 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 5.30 PM-6.30 PM</p><p><strong>WEDNESDAY</strong></p><p>Entry : 6.30 AM-7.41 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 1.20 PM-6.30 PM</p><p><strong>THURSDAY</strong></p><p>Entry : 6.30 AM-7.41 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 3.00 PM-6.30PM</p><p><strong><u>BUS-STOP GATE</u></strong></p><p><strong><u>OPERATING HOURS</u></strong></p><p><strong>MONDAY</strong></p><p>Entry : 7.40 AM-8.46 AM</p><p>EXIT&nbsp; : 3.00 PM-6.30 PM</p><p><strong>TUESDAY and FRIDAY :</strong></p><p>Entry : 6.30 AM-7.46 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 5.30 PM-6.30 PM</p><p><strong>WEDNESDAY</strong></p><p>Entry : 6.30 AM-7.46 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 1.20 PM-6.30 PM</p><p><strong>THURSDAY</strong></p><p>Entry : 6.30 AM-7.46 AM</p><p>Exit&nbsp;&nbsp;&nbsp; : 3.00 PM-6.30 PM</p></td></tr></tbody></table><p>Muslims, who need to go for prayer meeting on Friday, will need to exit from the main gate on Friday.</p><p><strong>Getting here:</strong><br>MRT : Tiong Bahru Station, Redhill Station<br>Buses : 14, 16, 32, 33, 51, 63, 64, 65, 120, 122, 132, 139, 145, 186, 851, 970</p><p><strong>Location map:</strong></p><div class="iframe-wrapper"><iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31328.760888359164!2d103.823753!3d1.289594!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa67e1a87cf576f43!2sGan%20Eng%20Seng%20School!5e1!3m2!1sen!2sus!4v1661060922680!5m2!1sen!2sus"></iframe></div><p></p>
+<p><strong>Address:</strong>&nbsp;1 Henderson Road, Singapore 159561
+<br><strong>Tel:</strong>&nbsp;6474 5594
+<br><strong>Fax:</strong>&nbsp;6473 2479
+<br><strong>E-mail:</strong>&nbsp;<a href="mailto:gess@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gess@moe.edu.sg</a>
+</p>
+<p><strong>Office Hour:</strong><br>
+Monday – Friday<br>
+8.00 AM – 5.30 PM</p>
+
+<p>🚪 <strong>Turnstile Gate Operating Hours</strong><br>
+Rear &amp; Side (Bus Stop) Gates<br>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>DAY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>ENTRY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>EXIT</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>From</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>To</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>From</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>To</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:30 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:25 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:40 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:00 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:30 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7:50 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5:00 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:00 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:30 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7:50 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:40 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:00 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:30 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7:50 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:40 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:00 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:30 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7:50 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5:00 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:00 PM</p>
+</td>
+</tr>
+</tbody>
+</table>
+</p><p>⚠️ <strong>Note: </strong>Muslim students attending Friday prayers must exit via the <strong>main gate</strong>.</p>
+<p><strong>🚍 Getting here:</strong><br>
+<br><strong>MRT Stations:</strong><br>
+</p><ul data-tight="true" class="tight">
+<li>
+Tiong Bahru Station
+</li>
+<li>
+Redhill Station<p></p>
+</li>
+</ul>
+<p><strong>Bus Services:</strong><br><br>
+51, 122, 132, 139 and 186<br>
+Bus Stop 10241 (Gan Eng Seng School, Alexandra Road)<br>
+Bus Stop 10249 (Opposite Gan Eng Seng School, Alexandra Road]<br><br>
+14, 32, 64, 65, and 121
+<br>Bus stop 10389 (Blk 48, Lower Delta Road)
+<br>Bus stop 10381 (Opposite Blk 48, Lower Delta Road)</p>
+<br>
+<p><strong>Location map:</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31328.760888359164!2d103.823753!3d1.289594!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa67e1a87cf576f43!2sGan%20Eng%20Seng%20School!5e1!3m2!1sen!2sus!4v1661060922680!5m2!1sen!2sus"></iframe>
+</div>
+<p></p>
