@@ -9,14 +9,12 @@ variant: markdown
 <br><strong>Fax:</strong>&nbsp;6473 2479
 <br><strong>E-mail:</strong>&nbsp;<a href="mailto:gess@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gess@moe.edu.sg</a>
 </p>
-<p><strong>Office Hour:</strong>&nbsp;</p>
-<p>Monday – Friday</p>
-<p>8.00 AM – 5.30 PM</p>
-<p></p>
-<p>🚪 <strong>Turnstile Gate Operating Hours</strong>
-</p>
-<p>Rear &amp; Side (Bus Stop) Gates</p>
-<p></p>
+<p><strong>Office Hour:</strong><br>
+Monday – Friday<br>
+8.00 AM – 5.30 PM</p>
+
+<p>🚪 <strong>Turnstile Gate Operating Hours</strong><br>
+Rear &amp; Side (Bus Stop) Gates<br>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -145,34 +143,25 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>⚠️ <strong>Note: </strong>Muslim students attending Friday prayers must
-exit via the <strong>main gate</strong>.</p>
-<p></p>
-<p><strong>🚍 Getting here:</strong>
-</p>
-<p>
-<br><strong>MRT Stations:</strong>
-</p>
-<ul data-tight="true" class="tight">
+</p><p>⚠️ <strong>Note: </strong>Muslim students attending Friday prayers must exit via the <strong>main gate</strong>.</p>
+<p><strong>🚍 Getting here:</strong><br>
+<br><strong>MRT Stations:</strong><br>
+</p><ul data-tight="true" class="tight">
 <li>
-<p>Tiong Bahru Station</p>
+Tiong Bahru Station
 </li>
 <li>
-<p>Redhill Station</p>
+Redhill Station<p></p>
 </li>
 </ul>
-<p></p>
-<p><strong>Bus Services:</strong>
-</p>
-<p>51, 122, 132, 139 and 186</p>
-<p>Bus Stop 10241 (Gan Eng Seng School, Alexandra Road)</p>
-<p>Bus Stop 10249 (Opposite Gan Eng Seng School, Alexandra Road]</p>
-<p>14, 32, 64, 65, and 121
+<p><strong>Bus Services:</strong><br><br>
+51, 122, 132, 139 and 186<br>
+Bus Stop 10241 (Gan Eng Seng School, Alexandra Road)<br>
+Bus Stop 10249 (Opposite Gan Eng Seng School, Alexandra Road]<br><br>
+14, 32, 64, 65, and 121
 <br>Bus stop 10389 (Blk 48, Lower Delta Road)
 <br>Bus stop 10381 (Opposite Blk 48, Lower Delta Road)</p>
-<p>
 <br>
-</p>
 <p><strong>Location map:</strong>
 </p>
 <div class="iframe-wrapper">
