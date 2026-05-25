@@ -2,7 +2,7 @@
 title: GESSOSA
 permalink: /partners/gessosa/
 description: ""
-third_nav_title: Our partners
+third_nav_title: Our Partners
 variant: markdown
 ---
 GESSOSA EXCO for 2023 – 2025

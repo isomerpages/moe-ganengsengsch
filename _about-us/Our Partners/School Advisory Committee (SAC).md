@@ -2,7 +2,7 @@
 title: School Advisory Committee (SAC)
 permalink: /partners/school-advisory-committee/
 description: ""
-third_nav_title: Our partners
+third_nav_title: Our Partners
 variant: tiptap
 ---
 <h4>Chairman</h4>

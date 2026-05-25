@@ -2,7 +2,7 @@
 title: Parent – Teacher Association (PTA)
 permalink: /partners/parent-teacher-association/
 description: ""
-third_nav_title: Our partners
+third_nav_title: Our Partners
 variant: tiptap
 ---
 <h3>Our Mission</h3>
