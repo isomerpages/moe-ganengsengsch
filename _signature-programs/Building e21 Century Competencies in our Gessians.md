@@ -147,10 +147,16 @@ demonstrating active citizenship through service</p>
 <p><strong>3. Global Connections: Expanding Horizons</strong>
 </p>
 <p>Our internationalisation programme broadens students’ perspectives and
-builds cross-cultural awareness. Through partnerships and exchanges with
-schools in Thailand, Brunei, Guangzhou and other global cities, students
-learn to appreciate diverse cultures, understand global issues, and build
-friendships across borders</p>
+nurtures global-minded Gessians through meaningful overseas learning journeys,
+partnerships and exchange opportunities with regional and international
+partner schools partner schools. Beyond learning across borders, GESS also
+welcomes international visitors and partner schools, including students
+and educators in Asia, creating authentic opportunities for cultural exchange
+and friendship-building. Through these experiences, students deepen their
+understanding of diverse cultures, appreciate global interconnectedness,
+and develop the confidence and competencies to thrive in an increasingly
+interconnected world. This year, the school will be visiting partner schools
+in cities like Bangkok, Chiangmai, Beijing, Guangzhou and Hong Kong.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
