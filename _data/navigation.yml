@@ -2,13 +2,13 @@ logo: /images/GESS_Crest_Transparent_V2.png
 links:
   - title: About Us
     collection: about-us
-  - title: Achievements
-    url: /achievements/academic/
+  - title: Join Us!
+    url: /school-information/school-admission-2/
     sublinks:
-      - title: Academic Achievements
-        url: /achievements/academic/
-      - title: CCA Achievements
-        url: /achievements/cca/
+      - title: Transferring to GESS
+        url: /school-information/school-admission-2/
+      - title: Direct School Admission (DSA)
+        url: /school-information/school-admission/
       - title: Proud moments
         url: /resources/proud-moments/
   - title: Curriculum
