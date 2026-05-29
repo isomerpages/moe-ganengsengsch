@@ -1,8 +1,9 @@
 ---
 title: CCA Achievements
-permalink: /achievements/cca/
-description: ""
+permalink: /cca-achievements/
 variant: markdown
+description: ""
+third_nav_title: Achievements
 ---
 <p></p>
 <h2>2026</h2>
