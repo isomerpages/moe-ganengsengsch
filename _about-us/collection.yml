@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements/Academic Achievements.md
-      - Achievements/.keep
       - Principal’s Message.md
       - History of GESS.md
       - Vision, Mission and Values.md
@@ -17,4 +15,6 @@ collections:
       - Our Partners/School Advisory Committee (SAC).md
       - Our Partners/GESSOSA.md
       - Our Partners/Parent – Teacher Association (PTA).md
+      - Achievements/.keep
+      - Achievements/Academic Achievements.md
       - Contact Information.md
