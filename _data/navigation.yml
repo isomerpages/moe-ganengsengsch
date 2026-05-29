@@ -2,8 +2,8 @@ logo: /images/GESS_Crest_Transparent_V2.png
 links:
   - title: About Us
     collection: about-us
-  - title: Achievements
-    url: /achievements/academic/
+  - title: Admission to GESS
+    url: /school-information/school-admission-2/
     sublinks:
       - title: Academic Achievements
         url: /achievements/academic/
