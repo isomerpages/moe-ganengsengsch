@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Principal’s Message.md
+      - History of GESS.md
       - Vision, Mission and Values.md
       - School Anthem & School Creed.md
       - The Gessian Portrait.md
@@ -10,7 +11,6 @@ collections:
       - Our Staff/.keep
       - Our Staff/Key Personnel and Form Teachers.md
       - Our Staff/Executive and Admin Staff (EAS).md
-      - History of GESS.md
       - Our Partners/.keep
       - Our Partners/School Advisory Committee (SAC).md
       - Our Partners/GESSOSA.md
