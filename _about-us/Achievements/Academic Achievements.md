@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Achievements
 ---
-
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>2025</strong></p>
