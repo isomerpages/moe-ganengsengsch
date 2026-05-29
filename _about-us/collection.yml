@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements.md
       - Principal’s Message.md
       - History of GESS.md
       - Vision, Mission and Values.md
