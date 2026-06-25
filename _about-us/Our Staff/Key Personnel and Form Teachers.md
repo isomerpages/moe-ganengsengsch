@@ -646,11 +646,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Khoo Ding Yuan (KDY)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Khoo_Ding_Yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ding_yuan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
