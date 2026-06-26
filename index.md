@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2026 Term 3 Letter to Parents
+          date: 26 June 2026
+          announcement: Term 3 Letter to Parents
+          link_text: READ MORE
+          link_url: /term-3-letter-to-parents-2026/
         - title: Sec 4 & 5 Preliminary Examination 2026
           date: 18 May 2026
           announcement: Exam schedules & Exam format and topics
@@ -41,11 +46,6 @@ sections:
             Secondary 1 in 2027
           link_text: READ MORE
           link_url: /school-information/school-admission/
-        - title: 2026 Term 2 Letter to Parents
-          date: 26 March 2026
-          announcement: Term 2 Letter to Parents
-          link_text: READ MORE
-          link_url: /2026-term-2-letter-to-parents/
         - title: 2026 Weighted Assessment (WA) Schedules
           date: 19 January 2026
           announcement: Weighted Assessment (WA) Schedules
