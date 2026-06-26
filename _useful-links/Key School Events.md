@@ -4,7 +4,7 @@ permalink: /events/event-calendar/
 description: ""
 variant: tiptap
 ---
-<h3>Key Events for Term 2 (2026)</h3>
+<h3>Key Events for Term 3 (2026)</h3>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dates</strong>
+<p><strong>Date</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -23,78 +23,79 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Remarks (if any)</strong>
+<p><strong>Remarks</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 to 27 Mar</p>
+<p>30 June – 10 Jul (Tues to Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 MOE-Outward Bound Singapore Challenge (MOC)</p>
+<p>Sec 4 &amp; 5 - EL and MTL Oral Intensive for selected students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Residential at either OBS Pulau Ubin or</p>
-<p>OBS East Coast campus</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25 to 27 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1, 4, 5 Gessian Experience Week</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Non-residential</p>
+<p>7.30am – 8.00am</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 to 28 Mar</p>
+<p>1 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Gessian Experience Week</p>
-<p>MOE Changi Coast Outdoor Adventure Learning Center</p>
+<p>Sec 2 AI for Fun #2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Residential at MOE Changi Coast Outdoor Adventure Learning Centre (OALC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 Mar</p>
-<p>(7 to 8.30 pm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parent-Teacher Association (PTA) Annual General Meeting (AGM) Online</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 Mar</p>
-<p>(6 to 7.30 pm)</p>
+<p>3 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 Meet-Parent-Session</p>
+<p>Sports Fiesta</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In-person at the School Hall</p>
+<p>AM</p>
+<p>No CCA in afternoon</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Apr, 15 Apr, 29 Apr,</p>
-<p>13 May</p>
+<p>6 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Home-Based Learning (HBL)</p>
-<p><em>Typically on Wednesday of even week</em>
+<p>Youth Day School Holiday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General Office is closed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
 </p>
+<p>7 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+<p>GCE O-Level Mother Tongue Listening Comprehension Examination</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PM</p>
+<p><em>(Dismissal at 12.55pm –Sec 1-3 and for Sec 4&amp;5 students not taking the exam)</em>
+</p>
+<p>No CCA in afternoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports Wednesday #5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -102,22 +103,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Apr</p>
-<p>(8 am to 12.30pm)</p>
+<p>10 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4E5N Mother Tongue Timed Practice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preparation for National Examinations in Jun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Good Friday Holiday</p>
+<p>Sec 2 Breakfast with Parents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -125,21 +114,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 Apr &amp; 20 May</p>
+<p>11 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sports Wednesdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students are encouraged to participate in sports after curriculum hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>International Friendship Day</p>
+<p>SYF Dance Extravaganza</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -147,13 +125,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14, 18 Apr, 5, 9 May</p>
+<p>13 - 17 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAPFA 5 Stations conducted during CCA time for Sec 4/5 on 14 Apr, Sec
-2 on 5 May</p>
-<p></p>
-<p>NAPFA 2.4 km Run for Sec 4/5 on 18 Apr, Sec 2 on 9 May</p>
+<p>GCE Oral Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No CCA on 14/7 &amp; 17/7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 - 16 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning (Sec 1 - 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -161,26 +147,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 Apr</p>
-<p>(10 am to 4 pm)</p>
+<p>20 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Mother Tongue Languages Oral Examination Sec 3 English Language
-Oral Examination</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HBL Day</p>
-<p>Sec 2 and 3 students will be informed by their subject teachers on the
-reporting time.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 Apr</p>
-<p>(8.30 to 9.30 am)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Breakfast with Parents</p>
+<p>Mother Tongue Learning Fortnight (Part 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -188,66 +158,10 @@ reporting time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Apr</p>
+<p>21 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Meet-Parent-Session (In-person) Sec 3 Meet-Parent-Session (Online)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22 to 23 Apr, 27 to 30 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 &amp; 2 Health Screening</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vaccination for Sec 1 &amp; 2</p>
-<p>Girls on 29 &amp; 30 Apr</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22 Apr</p>
-<p>(3 to 5 pm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 Museum-based Learning: Artefactually Speaking @ National Museum
-Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Classes 2-2, 2-7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cross Country Race</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will be dismissed at 11.40am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4/5 Last Day of CCA &amp; Student Leaders Appointment Ceremony</p>
+<p>Racial Harmony Day 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -255,21 +169,13 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Apr</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>29 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 G3 Geography Field Trip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For students offering pure geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Labour Day Holiday</p>
+<p>White Space for Student Leaders</p>
+<p>(Mental Well-being &amp; Cyber Wellness Training)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -277,23 +183,10 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 May</p>
-<p>(8.30 to 9.30 am)</p>
+<p>3 - 14 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Breakfast with Parents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 May</p>
-<p>(2 to 5.30 pm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4/5 English Language &amp; Mother Tongue Languages Oral Examination</p>
+<p>4NA/NT Preliminary Examinations</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -301,11 +194,21 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 May</p>
-<p>(3 to 5.30 pm)</p>
+<p>7 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 Mother Tongue Languages Oral Examination</p>
+<p>National Day Celebrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dismissal at 10.30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day School Holiday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -313,11 +216,21 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 May</p>
-<p>(2 to 5.30 pm)</p>
+<p>11 - 21 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 English Language &amp; Sec 4N Mother Tongue Languages Oral Examination</p>
+<p>Oral Examinations &amp; Practical Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Various Levels No CCA on 11/8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11,13,18,20 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E5N Preliminary Examinations (Science Practical)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -325,22 +238,13 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19, 22, 25, 26, 28, 29</p>
-<p>May</p>
+<p>24 Aug - 2 Sep</p>
+<p>&amp; 14 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 Mother Tongue Language Intensive (afternoon programme)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preparation for National Examinations in Jun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 NRIC Registration</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>4E5N Preliminary Examinations (written)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -348,21 +252,10 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 May</p>
+<p>26 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Haji Holiday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 to 3 Indoor Rowing Challenge</p>
+<p>FT &amp; Class Committee Meeting #3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -370,23 +263,32 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 May</p>
+<p>28 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Meet-Parent-Session for selected students in the morning</p>
-<p></p>
-<p>Eat With Your Family Day (No CCA)</p>
+<p>South Area Cub Scouts Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>General Office will close at 5 pm.</p>
+<p>No CCA on 28/8</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 May to 6 Jun</p>
+<p>2 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Overseas Learning Journeys</p>
+<p>Teachers' Day Rehearsal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No CCA on 1/9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers and Support Staff Day Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -394,34 +296,32 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 May to 28 Jun</p>
+<p>4 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June School Holiday</p>
+<p>Teachers' Day School Holiday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>General Office is open from 8 am to 5 pm on weekdays.</p>
-<p></p>
-<p>Protected Vacation Time from 6 to 21 Jun.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 to 23 Jun</p>
+<p>5–13 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 to 3 Student Leaders Camp</p>
+<p>September Holidays / Protected Vacation Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Non-residential</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Jun</p>
+<p>14 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Day of Term 3</p>
+<p>First Day of Term 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
