@@ -45,10 +45,12 @@ life-long learner.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Daily flag-raising ceremony will take place at the following timings:</p>
-<p>Mon – Fri : 0800</p>
-<p>Wed : 0820 (odd week)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>The venue will be at the school arena, otherwise in their respective classrooms
-on wet weather day.</p>
+<p>- Mon - 8.25am</p>
+<p>- Tue – Fri - 7.50am</p>
+<p>Assembly will be held at the Arena on Mondays and Fridays. From Tuesday
+to Thursday, students will assemble in their respective classrooms. In
+the event of wet weather, assembly will be conducted in students' respective
+classrooms.</p>
 </td>
 </tr>
 <tr>
