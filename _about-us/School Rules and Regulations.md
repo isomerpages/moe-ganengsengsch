@@ -25,17 +25,13 @@ variant: tiptap
 <p>1.1</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>The Silent Reading Programme will commence before the daily flag-raising
-ceremony at 7:50 a.m. from Monday to Friday, except on odd-week Wednesdays,
-when it starts at 8:10 a.m. Students should bring along a book or read
-an e-book on their iPads based on the following guideline:</p>
-<p>Mon — Thu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English Language</p>
-<p>Fri&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Mother Tongue Language</p>
+<p>Student will reach 5 mins before the daily flag-raising ceremony from
+Monday to Friday. Students should bring along a book or read an e-book
+on their iPads.</p>
+<p>&nbsp;</p>
 <p>The use of mobile phones for reading is prohibited. Students are encouraged
 to report early and start reading to develop a good reading habit as a
-life-long learner.</p>
+life-long learner</p>
 </td>
 </tr>
 <tr>
