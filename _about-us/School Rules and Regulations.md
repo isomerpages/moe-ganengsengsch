@@ -28,7 +28,6 @@ variant: tiptap
 <p>Student will reach 5 mins before the daily flag-raising ceremony from
 Monday to Friday. Students should bring along a book or read an e-book
 on their iPads.</p>
-<p>&nbsp;</p>
 <p>The use of mobile phones for reading is prohibited. Students are encouraged
 to report early and start reading to develop a good reading habit as a
 life-long learner</p>
