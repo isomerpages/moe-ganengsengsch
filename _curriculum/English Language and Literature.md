@@ -51,11 +51,11 @@ Competition.</p>
 </p>
 <ul>
 <li>
-<p><strong>English Language Ordinary Level</strong>
+<p><strong>English Language Normal (Technical) Level</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1184_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2025 (1184)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/2329ceab-e8e7-4de5-9d75-9a479e43e47c/K100_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 EL Assessment Syllabus (K100)</a>
 </p>
 </li>
 </ul>
@@ -65,27 +65,27 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2025/1190_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2025 (1190)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/c67971a9-bab8-411c-a755-d19394e6bb3d/K200_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 EL Assessment Syllabus (K200)</a>
 </p>
 </li>
 </ul>
 </li>
 <li>
-<p><strong>English Language Normal (Technical)</strong>
+<p><strong>English Language Express Level</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1195_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2025 (1195)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/a01b15d0-a7cf-4d8d-9283-ea0de084fa65/K300_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 EL Assessment Syllabus (K300)</a>
 </p>
 </li>
 </ul>
 </li>
 <li>
-<p><strong>Literature in English Ordinary Level</strong>
+<p><strong>Literature in English Express Level</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/2065_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2025 (2065)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/3b24c26b-9f17-484d-8129-463d878178ce/K331_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 Literature-in-English Assessment Syllabus (K331)</a>
 </p>
 </li>
 </ul>
@@ -95,11 +95,11 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/api/media/667e3e0a-38ea-496e-af58-78c4a1ab3474/2020%20G1%20English%20Language%20Syllabus.pdf" rel="noopener nofollow" target="_blank">G1 English Language</a>
+<p><a href="https://www.moe.gov.sg/media/files/secondary/fsbb/syllabus/english/2020%20G1%20English%20Language%20Syllabus.pdf" rel="noopener nofollow" target="_blank">G1 EL Teaching Syllabus</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/api/media/5039d1de-488f-4819-b5b9-3bbef1639358/2020%20G2%20and%20G3%20English%20Language%20Syllabus.pdf" rel="noopener nofollow" target="_blank">G2 &amp; G3 English Language</a>
+<p><a href="https://www.moe.gov.sg/media/files/secondary/fsbb/syllabus/english/2020%20G2%20and%20G3%20English%20Language%20Syllabus.pdf" rel="noopener nofollow" target="_blank">G2/G3 EL Teaching Syllabus</a>
 </p>
 </li>
 </ul>
