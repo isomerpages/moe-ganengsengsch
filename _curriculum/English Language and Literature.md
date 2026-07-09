@@ -55,7 +55,7 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1184_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2025 (1184)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/2329ceab-e8e7-4de5-9d75-9a479e43e47c/K100_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 EL Assessment Syllabus (K100)</a>
 </p>
 </li>
 </ul>
@@ -65,7 +65,7 @@ Competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2025/1190_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">For examinations from 2025 (1190)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/c67971a9-bab8-411c-a755-d19394e6bb3d/K200_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 EL Assessment Syllabus (K200)</a>
 </p>
 </li>
 </ul>
