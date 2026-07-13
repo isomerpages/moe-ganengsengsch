@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2026 Weighted Assessment (WA) Schedules
+          date: 13 July 2026
+          announcement: Weighted Assessment (WA) Schedules
+          link_text: READ MORE
+          link_url: /weighted-assessment/
         - title: 2026 Term 3 Letter to Parents
           date: 26 June 2026
           announcement: Term 3 Letter to Parents
@@ -46,9 +51,4 @@ sections:
             Secondary 1 in 2027
           link_text: READ MORE
           link_url: /school-information/school-admission/
-        - title: 2026 Weighted Assessment (WA) Schedules
-          date: 19 January 2026
-          announcement: Weighted Assessment (WA) Schedules
-          link_text: READ MORE
-          link_url: /weighted-assessment/
 ---
