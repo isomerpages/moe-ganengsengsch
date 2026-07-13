@@ -130,15 +130,15 @@ variant: tiptap
 </p>
 <p><a href="/files/Sec2G1_WA.pdf" rel="noopener nofollow" target="_blank">Sec2G1_WA</a>
 </p>
-<p><a href="/files/Sec2G2_WA.pdf" rel="noopener nofollow" target="_blank">Sec2G2_WA</a>
+<p><a href="/files/Sec2G2_WA_V2.pdf" rel="noopener nofollow" target="_blank">Sec2G2_WA</a>
 </p>
-<p><a href="/files/Sec2G3_WA.pdf" rel="noopener nofollow" target="_blank">Sec2G3_WA</a>
+<p><a href="/files/Sec2G3_WA_V2.pdf" rel="noopener nofollow" target="_blank">Sec2G3_WA</a>
 </p>
-<p><a href="/files/Sec3G1_WA.pdf" rel="noopener nofollow" target="_blank">Sec3G1_WA</a>
+<p><a href="/files/Sec3G1_WA_V2.pdf" rel="noopener nofollow" target="_blank">Sec3G1_WA</a>
 </p>
-<p><a href="/files/Sec3G2_WA.pdf" rel="noopener nofollow" target="_blank">Sec3G2_WA</a>
+<p><a href="/files/Sec3G2_WA_V2.pdf" rel="noopener nofollow" target="_blank">Sec3G2_WA</a>
 </p>
-<p><a href="/files/Sec3G3_WA.pdf" rel="noopener nofollow" target="_blank">Sec3G3_WA</a>
+<p><a href="/files/Sec3G3_WA_V2.pdf" rel="noopener nofollow" target="_blank">Sec3G3_WA</a>
 </p>
 <p><a href="/files/Sec4EXP_WA.pdf" rel="noopener nofollow" target="_blank">Sec4EXP_WA</a>
 </p>
