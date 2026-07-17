@@ -22,28 +22,25 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Nalyn Chan</p>
-<p>Mr Alvin How</p>
-<p>Mr Marcus Quek</p>
-<p>Mr Sathis
+Mrs Nalyn Chan<br>
+Mr Alvin How<br>
+Mr Marcus Quek<br>
+Mr Sathis<br>
 <br>
 <br>
 <br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head Prefect: Ted Lim Jie Le (4-5)
+Head Prefect: Ted Lim Jie Le (4-5)
 <br>Vice Head Prefect:
 <br>- Shannon Loh Wenxi (4-5)
 <br>- Sui Kang Le Theophilus (4-4)
-<br>Exco: Chen Zhi Rui (4-5)</p>
+<br>Exco: Chen Zhi Rui (4-5)<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Election_of_Head_Prefect.jpg">
 </div>
