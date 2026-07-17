@@ -32,11 +32,10 @@ Mr Sathis<br>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-Head Prefect: Ted Lim Jie Le (4-5)
-<br>Vice Head Prefect:
-<br>- Shannon Loh Wenxi (4-5)
-<br>- Sui Kang Le Theophilus (4-4)
-<br>Exco: Chen Zhi Rui (4-5)<p></p>
+Head prefect: Lim Yee Xian Gabriel 3-4
+<br>Vice Head Prefect: eet Kai Rui Shane 3-5
+<br>Exco: Lim Han Xuan Ryan 3-6
+<br>Mohammed Farhan Bin Sikandar Shah 3-5
 </td>
 </tr>
 </tbody>
