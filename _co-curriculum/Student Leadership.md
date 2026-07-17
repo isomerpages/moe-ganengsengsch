@@ -22,8 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Nalyn Chua
-<br>Ms Jamie Ong
+<p>Mrs Nalyn Chan</p>
+<p>Mr Alvin How</p>
+<p>Mr Marcus Quek</p>
+<p>Mr Sathis
 <br>
 <br>
 <br>
