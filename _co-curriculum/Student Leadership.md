@@ -33,7 +33,7 @@ Mr Sathis<br>
 </td>
 <td rowspan="1" colspan="1">
 Head prefect: Lim Yee Xian Gabriel 3-4
-<br>Vice Head Prefect: eet Kai Rui Shane 3-5
+<br>Vice Head Prefect: Seet Kai Rui Shane 3-5
 <br>Exco: Lim Han Xuan Ryan 3-6
 <br>Mohammed Farhan Bin Sikandar Shah 3-5
 </td>
