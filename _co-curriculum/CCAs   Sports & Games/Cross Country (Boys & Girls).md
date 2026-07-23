@@ -24,17 +24,15 @@ variant: markdown
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Name of CCA:</strong>
-</p>
+<strong>Name of CCA:</strong>
 </th>
 <th rowspan="1" colspan="2">
-<p><strong>Cross Country</strong>
-</p>
+<strong>Cross Country</strong>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers-in-charge:</p>
+Teachers-in-charge:
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Leaders:</p>
@@ -45,22 +43,21 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yong Geng
+Mr Tan Yong Geng
 <br>Mr Lim Bun
 <br>Mrs Nalyn Chan
 <br>Ms Chong Chee
-<br>Mr Seah Cheng</p>
+<br>Mr Seah Cheng
 </td>
 <td rowspan="1" colspan="1">
-<p>Captain:</p>
-<p>Knight Tan Le Hao (3-7)</p>
-<p>Vice-captains:</p>
-<p>Aurelia Lee Yong En (3-1)</p>
-<p>Aaron Lee Zheng Yuan (3-6)</p>
-<p></p>
+Captain:
+Knight Tan Le Hao (3-7)<br>
+Vice-captains:
+Aurelia Lee Yong En (3-1)<br>
+Aaron Lee Zheng Yuan (3-6)<br>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday:
+Tuesday:
 <br>3.15pm-5.30pm
 <br>Friday:
 <br>3pm-5.30pm
@@ -70,12 +67,12 @@ variant: markdown
 <br>2. Kallang Practice Track
 <br>3. Queenstown Stadium
 <br>4. Mount Faber
-<br>5. Evan Road Stadium</p>
+<br>5. Evan Road Stadium
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>‘The will to win means nothing if you do not have the will to train hard’</strong>
+<strong>‘The will to win means nothing if you do not have the will to train hard’</strong>
 <br>
 <br>We prepare students to be physically fit and to acquire technical skills
 in track &amp; field events. We hope that students will develop the love
@@ -98,7 +95,7 @@ CCA.
 well in the National School Games (NSG) Cross Country Championship. In
 2023, the Boys ‘C’ Division Team attained 2nd and the Boys ‘B’ Division
 Team attained 8th position overall. In 2023, the Girls ‘C’ and ‘B’ Division
-team achieved 19th and 18th position overall’</p>
+team achieved 19th and 18th position overall’
 </td>
 </tr>
 </tbody>
