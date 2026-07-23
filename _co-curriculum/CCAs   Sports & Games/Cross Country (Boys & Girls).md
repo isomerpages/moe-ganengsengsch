@@ -3,16 +3,17 @@ title: Cross Country (Boys & Girls)
 permalink: /cca/sports/cross-country/
 description: ""
 third_nav_title: CCAs   Sports & Games
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_School_Games_Cross_Country_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_CCA_Cross_Country_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pocari_Sweat_2_4km_Challenge_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_CCA_Cross_Country_1.jpg">
 </div>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -23,17 +24,15 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Name of CCA:</strong>
-</p>
+<strong>Name of CCA:</strong>
 </th>
 <th rowspan="1" colspan="2">
-<p><strong>Cross Country</strong>
-</p>
+<strong>Cross Country</strong>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers-in-charge:</p>
+Teachers-in-charge:
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Leaders:</p>
@@ -44,21 +43,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yong Geng
+Mr Tan Yong Geng
 <br>Mr Lim Bun
 <br>Mrs Nalyn Chan
 <br>Ms Chong Chee
-<br>Mr Seah Cheng</p>
+<br>Mr Seah Cheng
 </td>
 <td rowspan="1" colspan="1">
-<p>Captain:
-<br>Yeo Zi Ning (3-4)
-<br>Vice-captains:
-<br>Choo Zhi Lin (3-4)
-<br>Lim Yi Xuan (3-4)</p>
+Captain:
+Knight Tan Le Hao (3-7)<br>
+Vice-captains:
+Aurelia Lee Yong En (3-1)<br>
+Aaron Lee Zheng Yuan (3-6)<br>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday:
+Tuesday:
 <br>3.15pm-5.30pm
 <br>Friday:
 <br>3pm-5.30pm
@@ -68,12 +67,12 @@ variant: tiptap
 <br>2. Kallang Practice Track
 <br>3. Queenstown Stadium
 <br>4. Mount Faber
-<br>5. Evan Road Stadium</p>
+<br>5. Evan Road Stadium
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>‘The will to win means nothing if you do not have the will to train hard’</strong>
+<strong>‘The will to win means nothing if you do not have the will to train hard’</strong>
 <br>
 <br>We prepare students to be physically fit and to acquire technical skills
 in track &amp; field events. We hope that students will develop the love
@@ -96,7 +95,7 @@ CCA.
 well in the National School Games (NSG) Cross Country Championship. In
 2023, the Boys ‘C’ Division Team attained 2nd and the Boys ‘B’ Division
 Team attained 8th position overall. In 2023, the Girls ‘C’ and ‘B’ Division
-team achieved 19th and 18th position overall’</p>
+team achieved 19th and 18th position overall’
 </td>
 </tr>
 </tbody>
