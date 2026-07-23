@@ -7,12 +7,13 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_School_Games_Cross_Country_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_CCA_Cross_Country_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pocari_Sweat_2_4km_Challenge_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_CCA_Cross_Country_1.jpg">
 </div>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
