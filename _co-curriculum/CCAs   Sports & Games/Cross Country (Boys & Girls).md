@@ -52,11 +52,12 @@ variant: tiptap
 <br>Mr Seah Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Captain:
-<br>Yeo Zi Ning (3-4)
-<br>Vice-captains:
-<br>Choo Zhi Lin (3-4)
-<br>Lim Yi Xuan (3-4)</p>
+<p>Captain:</p>
+<p>Knight Tan Le Hao (3-7)</p>
+<p>Vice-captains:</p>
+<p>Aurelia Lee Yong En (3-1)</p>
+<p>Aaron Lee Zheng Yuan (3-6)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday:
