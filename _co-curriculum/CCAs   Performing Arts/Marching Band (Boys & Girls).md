@@ -39,7 +39,7 @@ variant: markdown
     <td class="tg-h5mn">CCA Days:</td>
   </tr>
   <tr>
-    <td class="tg-tsok">Ms Herianti Samsudin<br>Ms Deborah Tan<br>Mdm Siti Zuraidah Bt Kamis<br></td>
+    <td class="tg-tsok">Ms Herianti Samsudin<br>Mr Lee Fook Yew<br>Mdm Siti Zuraidah Bt Kamis<br></td>
     <td class="tg-tsok">Mr Vincent Lee Rui Xiong<br>Mr Toh Yang Yang<br>Mr Huang Xihui Paul<br>Mr Low Yik Hang</td>
     <td class="tg-tsok">Band Major: Joshua Chew Jin Min (S4-4)<br>Assistant Band Major: Charmaine Sai Anito Shankar (S4-1)<br>Drum Major: Ferrell Lee Jun Yi (S4-4)</td>
     <td class="tg-tsok">Tuesday:<br>3pm-5pm<br>Friday:<br>2pm-5pm<br><br>Venue:<br>Music Room</td>
