@@ -41,7 +41,7 @@ variant: markdown
   <tr>
     <td class="tg-tsok">Ms Herianti Samsudin<br>Mr Lee Fook Yew<br>Ms Chua Arielle Elise<br></td>
     <td class="tg-tsok">Mr Vincent Lee Rui Xiong<br>Mr Toh Yang Yang<br>Mr Huang Xihui Paul<br>Mr Low Yik Hang</td>
-    <td class="tg-tsok">Band Major: Joshua Chew Jin Min (S4-4)<br>Assistant Band Major: Lau Yan Chen (S3-4)<br>Drum Major: Ferrell Lee Jun Yi (S4-4)</td>
+    <td class="tg-tsok">Band Major: Lau Yan Chen (S3-4)<br>Assistant Band Major: Javen Tan Jia Rong (S3-4)<br>Drum Major: Ferrell Lee Jun Yi (S4-4)</td>
     <td class="tg-tsok">Tuesday:<br>3pm-5pm<br>Friday:<br>2pm-5pm<br><br>Venue:<br>Music Room</td>
   </tr>
   <tr>
