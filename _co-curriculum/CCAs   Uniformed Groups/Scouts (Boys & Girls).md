@@ -89,13 +89,13 @@ Mr Chan Hoong Leong
 <br>Mr Lim Say Chionh
 </td>
 <td rowspan="1" colspan="1">
-<p>Law Teck Chong
+Law Teck Chong
 <br>Alexandra Lee
 <br>Daryl Ke
 <br>Carissa Wong
 <br>Colette Chan
 <br>Andres Chow
-<br>Timothy Lee</p>
+<br>Timothy Lee
 </td>
 <td rowspan="1" colspan="1">
 <strong>SENIOR PATROL LEADER</strong>
@@ -110,13 +110,13 @@ Mr Chan Hoong Leong
 <br>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday:
+Tuesday:
 <br>3pm-5pm
 <br>Friday:
 <br>2pm-5pm
 <br>
 <br>Venue:
-<br>School</p>
+<br>School
 </td>
 </tr>
 <tr>
