@@ -7,39 +7,18 @@ variant: tiptap
 ---
 <h4><strong>Dragon Scouts (est since 1922)</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG1.jpg">
-</div>
-<p>Having fun @ 1 star Kayaking</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG2.jpg">
-</div>
-<p>Campfire</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG3.jpg">
-</div>
-<p>Unit Group photo</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG4.jpg">
-</div>
-<p>Backswoodman cooking</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG5.jpg">
-</div>
-<p>Creating a drawbridge for pioneering</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG6.jpg">
-</div>
-<p>Hiking around the neighbourhood</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG7.jpg">
-</div>
-<p>Great fun with slides!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
