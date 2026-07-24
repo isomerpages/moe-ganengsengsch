@@ -3,7 +3,7 @@ title: Scouts (Boys & Girls)
 permalink: /cca/uniformed-group/dragon-scouts/
 description: ""
 third_nav_title: CCAs   Uniformed Groups
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>Dragon Scouts (est since 1922)</strong></h4>
 <p></p>
@@ -82,44 +82,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Hoong Leong
+Mr Chan Hoong Leong
 <br>Ms Lee Pei Ying
 <br>Mr Kevin Kung Sion Onn
-<br>Ms Wong Jing Ning</p>
+<br>Ms Felicia Lee
+<br>Mr Lim Say Chionh
 </td>
 <td rowspan="1" colspan="1">
-<p>Law Teck Chong
+Law Teck Chong
 <br>Alexandra Lee
 <br>Daryl Ke
 <br>Carissa Wong
 <br>Colette Chan
 <br>Andres Chow
-<br>Timothy Lee</p>
+<br>Timothy Lee
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SENIOR PATROL LEADER</strong>
-<br>Heng Ren Hao (3-4)
-<br>Elvee Lim Xin Yi (3-3)
-<br><strong>ASSISTANT SENIOR PATROL LEADER</strong>
-<br>Lew Cheng You (3-7)
-<br>Tan Jun Yi, Natasha (3-4)
+<strong>SENIOR PATROL LEADER</strong>
+<br>Ryon Siow Yi Zhe (3-3)
+<br>Quek Sze Chen Darren (3-6)<br>
 <br><strong>PATROL LEADERS</strong>
-<br>Nichole Kwang Yi Xin (3-6)
-<br>Chionh Kai Aik (3-4)
-<br>Sui Kang Le Theophilus (3-4)
-<br>Jian Yutong (3-5)
-<br>Wong Zhi Le (3-4)
+<br>Sarisha Kaur Sidhu (3-7)
+<br>Lim Yin Tong Ingrid (3-2)
+<br>Muhd Amir Bin Baharudeen Ali (3-3)
+<br>Sherman Teo Kai Feng (3-5)
+<br>Lim Khye Teng, Damian (3-5)
 <br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday:
+Tuesday:
 <br>3pm-5pm
 <br>Friday:
 <br>2pm-5pm
 <br>
 <br>Venue:
-<br>School</p>
+<br>School
 </td>
 </tr>
 <tr>
