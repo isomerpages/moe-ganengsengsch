@@ -8,38 +8,39 @@ variant: tiptap
 <h4><strong>Dragon Scouts (est since 1922)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Outdoor Cooking" src="/images/Outdoor_Cooking_1.png">
 </div>
-<p>Having fun @ 1 star Kayaking</p>
+<p>Outdoor Cooking</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hike at Rail Corridor" src="/images/Hike_at_Rail_Corridor.png">
+</div>
+<p>Hike at Rail Corridor</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hike at Bukit Timah" src="/images/3_Hike_at_Bukit_Timah.jpg">
+</div>
+<p>Hike at Bukit Timah</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Celebrating DSG104 with campfire" src="/images/4_Celebrating_DSG104_with_campfire__1_.jpg">
+</div>
+<p>Celebrating DSG104 with campfire</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Great fun with slide" src="/images/Great_Fun_with_Slide.png">
+</div>
+<p>Great fun with slide</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Star Kayaking" src="/images/6_1_star_kayaking.jpg">
+</div>
+<p>Star Kayaking</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Celebrating DSG104" src="/images/7_Celebrating_DSG104.jpg">
 </div>
-<p>Campfire</p>
+<p>Celebrating DSG104</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG3.jpg">
-</div>
-<p>Unit Group photo</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG4.jpg">
-</div>
-<p>Backswoodman cooking</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG5.jpg">
-</div>
-<p>Creating a drawbridge for pioneering</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG6.jpg">
-</div>
-<p>Hiking around the neighbourhood</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSG7.jpg">
-</div>
-<p>Great fun with slides!</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -187,4 +188,5 @@ Section) at the Singapore Scout Association.
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
