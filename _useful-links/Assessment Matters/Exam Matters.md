@@ -9,7 +9,7 @@ variant: markdown
 
 [Examination Rules And Regulations](/files/Exam_rules_regulations_2026_student_handbook_Pg_31_32.pdf)
 
-<h5 style="color:black">Sec 4 &amp; 5 Preliminary Examination 2026</h5>
+<h5 style="color:black">2026 Examination Schedules</h5>
 
 **Exam schedules**<br>
 * [Sec 1](/files/Sec_1_EOY_Exam_Schedule_2026.pdf)<br>
