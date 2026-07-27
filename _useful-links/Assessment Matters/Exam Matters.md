@@ -20,6 +20,15 @@ variant: markdown
 
 
 **Exam format and topics**<br>
+* [Sec 1G1](/files/1G1_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 1G2](/files/1G2_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 1G3](/files/1G3_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 2G1](/files/2G1_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 2G2](/files/2G2_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 2G3](/files/2G3_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 3G1](/files/3G1_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 3G2](/files/3G2_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 3G3](/files/3G3_EOY_Format___Topics_2026.pdf)<br>
 * [Sec 4NT](/files/Prelim_Format___Topics_2026___4NT.pdf)<br>
 * [Sec 4NA](/files/Prelim_Format___Topics_2026___4NA_15052026.pdf)<br>
 * [Sec 4E](/files/Prelim_Format___Topics_2026___4EXP.pdf)<br>
