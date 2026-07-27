@@ -18,7 +18,6 @@ variant: markdown
 * [Sec 4NA/NT](/files/Sec_4NANT_Prelim_Exam_Schedule_2026.pdf)<br>
 * [Sec 4E/5N](/files/Sec_4E5N_Prelim_Exam_Schedule_2026.pdf)<br>
 
-[Sec 3](/files/Sec_3_EOY_Exam_Schedule_2026.pdf)
 
 **Exam format and topics**<br>
 * [Sec 4NT](/files/Prelim_Format___Topics_2026___4NT.pdf)<br>
