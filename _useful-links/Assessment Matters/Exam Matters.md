@@ -12,10 +12,23 @@ variant: markdown
 <h5 style="color:black">Sec 4 &amp; 5 Preliminary Examination 2026</h5>
 
 **Exam schedules**<br>
+* [Sec 1](/files/Sec_1_EOY_Exam_Schedule_2026.pdf)<br>
+* [Sec 2](/files/Sec_2_EOY_Exam_Schedule_2026.pdf)<br>
+* [Sec 3](/files/Sec_3_EOY_Exam_Schedule_2026.pdf)<br>
 * [Sec 4NA/NT](/files/Sec_4NANT_Prelim_Exam_Schedule_2026.pdf)<br>
 * [Sec 4E/5N](/files/Sec_4E5N_Prelim_Exam_Schedule_2026.pdf)<br>
 
+
 **Exam format and topics**<br>
+* [Sec 1G1](/files/1G1_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 1G2](/files/1G2_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 1G3](/files/1G3_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 2G1](/files/2G1_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 2G2](/files/2G2_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 2G3](/files/2G3_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 3G1](/files/3G1_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 3G2](/files/3G2_EOY_Format___Topics_2026.pdf)<br>
+* [Sec 3G3](/files/3G3_EOY_Format___Topics_2026.pdf)<br>
 * [Sec 4NT](/files/Prelim_Format___Topics_2026___4NT.pdf)<br>
 * [Sec 4NA](/files/Prelim_Format___Topics_2026___4NA_15052026.pdf)<br>
 * [Sec 4E](/files/Prelim_Format___Topics_2026___4EXP.pdf)<br>

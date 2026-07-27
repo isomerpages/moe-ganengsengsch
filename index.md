@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Exam Matters
+          date: 27 July 2026
+          announcement: Exam Schedules, Format and Topics
+          link_text: READ MORE
+          link_url: /school-information/exam-matters/
         - title: 2026 Weighted Assessment (WA) Schedules
           date: 13 July 2026
           announcement: Weighted Assessment (WA) Schedules
