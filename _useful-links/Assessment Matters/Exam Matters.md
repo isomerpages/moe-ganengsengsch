@@ -12,12 +12,11 @@ variant: markdown
 <h5 style="color:black">Examination Schedules 2026</h5>
 
 **Exam schedules**<br>
-* [Sec 1](/files/Sec_1_EOY_Exam_Schedule_2026.pdf)<br>
+* [Sec 1](/files/Sec_1_EOY_Exam_Schedule_2026_28072026.pdf)<br>
 * [Sec 2](/files/Sec_2_EOY_Exam_Schedule_2026.pdf)<br>
 * [Sec 3](/files/Sec_3_EOY_Exam_Schedule_2026.pdf)<br>
 * [Sec 4NA/NT](/files/Sec_4NANT_Prelim_Exam_Schedule_2026.pdf)<br>
 * [Sec 4E/5N](/files/Sec_4E5N_Prelim_Exam_Schedule_2026.pdf)<br>
-
 
 **Exam format and topics**<br>
 * [Sec 1G1](/files/1G1_EOY_Format___Topics_2026.pdf)<br>
