@@ -50,7 +50,7 @@ Sec 1 to Sec 4 of 2026<br><br>
 <br><br>
 			2026: South Zone inter-school championships ‘B’ Division girl(team) – Fourth
 <br><br>
-			2025: ‘C’ Division girl team – NSG Tier 1 at National Level
+			2025: ‘C’ Division girl team – NSG Tier 1 at National Level (Top 16)
 <br><br>
 2024: South Zone inter-school championships ‘B’ Division girl(team) - Bronze
 <br><br>
