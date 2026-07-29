@@ -5,12 +5,16 @@ description: ""
 third_nav_title: CCAs   Sports & Games
 variant: markdown
 ---
-![](/images/tabletennis1.jpg)
-<br>
+
+![](/images/2026_CCA_Table_Tennis_1.jpg)
+Our C Div Players (Left) at the OCBC Arena for NSG League 1
+<br><br>
 ![](/images/tabletennis2.jpg)
 <br>
 ![](/images/tabletennis3.jpg)
 <br>
+
+![![Our C Div Players (Left) at the OCBC Arena for NSG League 1]](/images/2026_CCA_Table_Tennis_1.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
