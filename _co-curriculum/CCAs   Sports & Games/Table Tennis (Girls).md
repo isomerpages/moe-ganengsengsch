@@ -5,12 +5,14 @@ description: ""
 third_nav_title: CCAs   Sports & Games
 variant: markdown
 ---
-![](/images/tabletennis1.jpg)
-<br>
-![](/images/tabletennis2.jpg)
-<br>
-![](/images/tabletennis3.jpg)
-<br>
+![](/images/2026_CCA_Table_Tennis_1.jpg)
+Our C Div Players (Left) at the OCBC Arena for NSG League 1
+<br><br>
+![B Div Girls Are Fourth in South Zone for the NSG](/images/2026_CCA_Table_Tennis_2.jpg)
+B Div Girls Are Fourth in South Zone for the NSG<br><br>
+![Sec 1 to Sec 4 of 2026](/images/2026_CCA_Table_Tennis_3.jpg)
+Sec 1 to Sec 4 of 2026<br><br>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -39,12 +41,16 @@ variant: markdown
   <tr>
     <td class="tg-tsok">Mr Jeffrey Phua<br>Mr Wong Chin Yeow<br>Ms Fion Tan</td>
     <td class="tg-tsok">Goh Tian Lai<br>Tony Nah</td>
-    <td class="tg-tsok">Captain:<br>Lim Li Hsuen (3-5)<br><br>Vice Captains:<br>Georgia Lee En Ci (3-5),<br>Amelia Teo Sze Min (3-7)</td>
+    <td class="tg-tsok">Captain:<br>Chua Lue Qi (3-5)<br><br>Vice Captains:<br>Amber Lim Zi Yu (3-2),<br>Mikaela Joy Soenoto (3-5)</td>
 		<td class="tg-tsok">Tuesday:<br>3pm-5pm<br>Friday<br>2pm-5pm<br><br>Venue:<br>ISH Upper Deck</td>
   </tr>
   <tr>
     <td class="tg-h5mn" colspan="4">Our Table Tennis Team was formed to provide girls with an opportunity to experience the sport of table tennis at a competitive level. Since its establishment, our team has competed in many external competitions and in particular, the annual South zone and National Inter-schools Table Tennis Championships.<br><br>Achievements<br><br>
-2025: ‘C’ Division girl team – NSG Tier 1 at National Level
+2026: ‘C’ Division girl team – NSG Tier 1 at National Level (Top 16)
+<br><br>
+			2026: South Zone inter-school championships ‘B’ Division girl(team) – Fourth
+<br><br>
+			2025: ‘C’ Division girl team – NSG Tier 1 at National Level (Top 16)
 <br><br>
 2024: South Zone inter-school championships ‘B’ Division girl(team) - Bronze
 <br><br>
